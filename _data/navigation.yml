@@ -17,3 +17,33 @@ links:
         url: /our-heritage/
       - title: Contact Us
         url: /contact-us/
+  - title: Total Curriculum
+    url: /total-curriculum-framework/
+    sublinks:
+      - title: Total Curriculum Framework
+        url: /total-curriculum-framework/
+      - title: Character & Citizenship Edu
+        url: /cce/
+      - title: English Language
+        url: /english-language/
+      - title: Information & Comm Technology
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
+      - title: Mother Tongue Languages
+        url: /permalink
+      - title: P.E. & Aesthetics
+        url: /permalink
+      - title: Science
+        url: /permalink
+  - title: Co-Curricular Activities
+    url: /cca/
+    sublinks:
+      - title: Clubs
+        url: /cca/
+      - title: Performing Arts
+        url: /permalink
+      - title: Sports
+        url: /permalink
+      - title: Uniformed Group
+        url: /permalink
