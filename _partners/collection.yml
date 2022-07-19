@@ -2,6 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Example Title.md
+      - School Advisory Committee.md
       - Parent Support Group/.keep
       - Information for Parents/.keep
