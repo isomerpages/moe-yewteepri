@@ -1,6 +1,19 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About YTPS
+    url: /about/
+    sublinks:
+      - title: Vision,Mission,Values & Motto
+        url: /about/
+      - title: School Crest/Song
+        url: /crest-song/
+      - title: School Information
+        url: /school-information/
+      - title: School Rules & Regulations
+        url: /school-rules-and-regulations/
+      - title: Synergistic Staff
+        url: /staff/
+      - title: Our Heritage
+        url: /our-heritage/
+      - title: Contact Us
+        url: /contact-us/
