@@ -2,5 +2,6 @@ collections:
   quicklinks:
     output: true
     order:
+      - HBL@YTPS.md
       - Resources for staff.md
       - MOE Sexuality Education @ YTPS.md
