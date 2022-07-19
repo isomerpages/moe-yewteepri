@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/.keep
       - Information for Parents/.keep
