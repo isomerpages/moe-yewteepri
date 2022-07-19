@@ -2,6 +2,7 @@ collections:
   quicklinks:
     output: true
     order:
+      - Student iCON.md
       - Student Zoom.md
       - HBL@YTPS.md
       - Resources for staff.md
