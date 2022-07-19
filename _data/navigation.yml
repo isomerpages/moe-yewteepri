@@ -47,3 +47,12 @@ links:
         url: /permalink
       - title: Uniformed Group
         url: /permalink
+  - title: Distinctive Programmes
+    url: /distinctive-programmes/
+    sublinks:
+      - title: ALP - DREAM @ YTPS
+        url: /distinctive-programmes/
+      - title: LLP - HEROES @ YTPS
+        url: /llp-heroes/
+      - title: Student Development Programme
+        url: /student-development/
