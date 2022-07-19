@@ -56,3 +56,25 @@ links:
         url: /llp-heroes/
       - title: Student Development Programme
         url: /student-development/
+  - title: Accolades
+    url: /accolades/
+    sublinks:
+      - title: Academic Excellence
+        url: /accolades/
+      - title: CCA Achievements
+        url: /cca-achievements/
+      - title: School-Based Achievements
+        url: /school-based-achievements/
+      - title: Photo and Video Gallery
+        url: /gallery/
+      - title: Art Musée
+        url: /art-musee/
+  - title: Partners
+    url: /partners/
+    sublinks:
+      - title: School Advisory Committee
+        url: /school-advisory-committee/
+      - title: Parent Support Group
+        url: /psg/
+      - title: Information for Parents
+        url: /info-for-parents/
