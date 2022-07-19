@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - School Advisory Committee.md
+      - Parent Support Group/Parent Support Group Events.md
       - Parent Support Group/.keep
       - Information for Parents/.keep
