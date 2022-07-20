@@ -2,5 +2,6 @@ collections:
   about-ytps:
     output: true
     order:
+      - Our Heritage/Past & Current School Leaders.md
       - Our Heritage/.keep
       - Contact Us.md
