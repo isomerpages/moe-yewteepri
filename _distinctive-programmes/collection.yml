@@ -2,4 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Learning for Life Programme (LLP) Heroes @ YTPS.md
       - Student Development Programme.md
