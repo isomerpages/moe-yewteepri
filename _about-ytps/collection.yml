@@ -1,0 +1,4 @@
+collections:
+  about-ytps:
+    output: true
+    order: []
