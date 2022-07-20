@@ -1,10 +1,10 @@
 logo: /images/logo.png
 links:
   - title: About YTPS
-    url: /about/
+    url: /about-ytps/
     sublinks:
       - title: Vision,Mission,Values & Motto
-        url: /about/
+        url: /about-ytps/
       - title: School Crest/Song
         url: /about-ytps/crest-song/
       - title: School Information
