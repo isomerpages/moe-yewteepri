@@ -1,0 +1,4 @@
+collections:
+  total-curriculum:
+    output: true
+    order: []
