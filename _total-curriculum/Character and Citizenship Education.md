@@ -35,18 +35,22 @@ In the school, ‘Making Character Visible’ is a continuous aspiration made po
      style="width:75%">
 
 ##### Leave A Legacy
+
 <img src="images/leave%20a%20legacy.gif" 
      style="width:75%">
 
 ##### Peace Poster Competition
+
 <img src="images/peace%20poster.gif" 
      style="width:75%">
 
 ##### Stara Values Art Competition
+
 <img src="images/star%20student.gif" 
      style="width:75%">
 
 ##### Art Lessons
+
 <img src="images/art%20lesson.gif" 
      style="width:55%">
 
@@ -55,14 +59,17 @@ In the school, ‘Making Character Visible’ is a continuous aspiration made po
 Rootedness and a sense of belonging are key to Citizenship experiences within the school and its importance is highlighted by its place as the first domain of CCLAS and articulated as _Gracious Citizens_ in the school vision. In addition, students learn about the _Singapore Spirit_ through the Yew Tee Primary Heritage Trail, which traces the humble beginnings of the community and nation to its modern transformation. By leveraging on the _Joy of Learning_ through the various NE commemorative events and learning journeys as well as school based learning packages, students make the connection that they too can have a promising future if they adopt and develop the Singapore Spirit.
 
 ##### CCE Bytes
+
 <img src="images/cce%20byte.gif" 
      style="width:75%">
 
 ##### NE Commemorative Events (TD/IFD/RHD/ND)
+
 <img src="images/NE%20events.jpg" 
      style="width:75%">
 
 ##### NE Learning Journeys
+
 <img src="images/NE%20learning%20journey.gif" 
      style="width:75%">
 
@@ -73,20 +80,25 @@ Rootedness and a sense of belonging are key to Citizenship experiences within th
 The school believes that every student can become a leader and takes an evidence-based, values-driven approach to leadership development that is adapted from _The Five Practices of Exemplary Leadership_ by Kouzes and Posner. Referred to as The YTPS Student Leadership model, it guides the provision of training, opportunities, knowledge and skills development of students so that they can lead themselves, try to lead others and aspire to lead the school.
 
 ##### YTPS Student Leadership Model & Structure
+
 <img src="images/YTPS%20Student%20Leadership%20Model.png" 
      style="width:85%">
+		 
 <img src="images/YTPS%20Student%20Leadership%20Structure.png" 
      style="width:85%">
 
 ##### Student Leaders’ Investiture
+
 <img src="images/student%20leader%20investiture.gif" 
      style="width:75%">
 
 ##### Student Leaders’ Assemblee
+
 <img src="images/student%20leader%20assemblee.gif" 
      style="width:75%">
 
 ##### Student Leaders’ Termly Training Sessions / Student Led Projects
+
 <img src="images/student%20leader%20training%20session.gif" 
      style="width:75%">
 
@@ -95,15 +107,18 @@ The school believes that every student can become a leader and takes an evidence
 Values-in-Action within the school is progressive in nature, and starts with student awareness of service opportunities at home, then school and followed by community needs. It is also focused on two core domains, best encapsulated using the school value of Care as an acronym – **C**aring for The **A**ged & **R**especting the **E**nvironment, to address the future challenges of sustainable development and an aging population. This approach is also grounded in authentic learning experiences by its integration with project work as part of the Applied Learning Programme; with its outcomes serving as platforms for the learning and demonstration of values.
 
 ##### Environment Week
+
 <img src="images/environment%20week.gif" 
      style="width:75%">
 
 ##### Daily Classroom Cleaning / Recycling Practices / Use Your Hands Campaign
+
 <img src="images/classroom%20cleaning.gif" 
      style="width:75%">
 
 ##### CCE MT
 (Friend Of Singa / Sharity – Kindsville Magazine Activities / P1&P2 CCE-VIA Care For Home Activity)
+
 <img src="images/cce%20mt.gif" 
      style="width:75%">
 
