@@ -2,6 +2,7 @@ collections:
   total-curriculum:
     output: true
     order:
+      - Total Curriculum Framework.md
       - Character and Citizenship Education.md
       - English Language.md
       - Information and Communications Technology.md
