@@ -2,4 +2,5 @@ collections:
   about-ytps:
     output: true
     order:
+      - Our Heritage/.keep
       - Contact Us.md
