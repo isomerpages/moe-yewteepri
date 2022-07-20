@@ -2,4 +2,5 @@ collections:
   photo-and-video-gallery:
     output: true
     order:
+      - Photo Gallery/2019 Photo Gallery.md
       - Photo Gallery/.keep
