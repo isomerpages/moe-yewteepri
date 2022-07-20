@@ -2,5 +2,6 @@ collections:
   total-curriculum:
     output: true
     order:
+      - Mother Tongue Languages.md
       - Physical Education and Aesthetics.md
       - Science.md
