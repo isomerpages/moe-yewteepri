@@ -35,23 +35,19 @@ In the school, ‘Making Character Visible’ is a continuous aspiration made po
 
 ##### Leave A Legacy
 
-<img src="images/leave%20a%20legacy.gif" 
-     style="width:75%">
+![](/images/leave%20a%20legacy.gif)
 
 ##### Peace Poster Competition
 
-<img src="images/peace%20poster.gif" 
-     style="width:75%">
+![](/images/peace%20poster.gif)
 
 ##### Stara Values Art Competition
 
-<img src="images/star%20student.gif" 
-     style="width:75%">
+![](/images/star%20student.gif)
 
 ##### Art Lessons
 
-<img src="images/art%20lesson.gif" 
-     style="width:55%">
+![](/images/art%20lesson.gif)
 
 ##### Citizenship
 
@@ -59,18 +55,15 @@ Rootedness and a sense of belonging are key to Citizenship experiences within th
 
 ##### CCE Bytes
 
-<img src="images/cce%20byte.gif" 
-     style="width:75%">
+![](/images/cce%20byte.gif)
 
 ##### NE Commemorative Events (TD/IFD/RHD/ND)
 
-<img src="images/NE%20events.jpg" 
-     style="width:75%">
+![](/images/NE%20events.jpg)
 
 ##### NE Learning Journeys
 
-<img src="images/NE%20learning%20journey.gif" 
-     style="width:75%">
+![](/images/NE%20learning%20journey.gif)
 
 #### NHB Heritage Explorer Tasks (Social Studies)
 
@@ -80,26 +73,23 @@ The school believes that every student can become a leader and takes an evidence
 
 ##### YTPS Student Leadership Model & Structure
 
-<img src="images/YTPS%20Student%20Leadership%20Model.png" 
+<img src="/images/YTPS%20Student%20Leadership%20Model.png" 
      style="width:85%">
-		 
-<img src="images/YTPS%20Student%20Leadership%20Structure.png" 
+
+<img src="/images/YTPS%20Student%20Leadership%20Structure.png" 
      style="width:85%">
 
 ##### Student Leaders’ Investiture
 
-<img src="images/student%20leader%20investiture.gif" 
-     style="width:75%">
+![](/images/student%20leader%20investiture.gif)
 
 ##### Student Leaders’ Assemblee
 
-<img src="images/student%20leader%20assemblee.gif" 
-     style="width:75%">
+![](/images/student%20leader%20assemblee.gif)
 
 ##### Student Leaders’ Termly Training Sessions / Student Led Projects
 
-<img src="images/student%20leader%20training%20session.gif" 
-     style="width:75%">
+![](/images/student%20leader%20training%20session.gif)
 
 ##### Service
 
@@ -107,18 +97,15 @@ Values-in-Action within the school is progressive in nature, and starts with stu
 
 ##### Environment Week
 
-<img src="images/environment%20week.gif" 
-     style="width:75%">
+![](/images/environment%20week.gif)
 
 ##### Daily Classroom Cleaning / Recycling Practices / Use Your Hands Campaign
 
-<img src="images/classroom%20cleaning.gif" 
-     style="width:75%">
+![](/images/classroom%20cleaning.gif)
 
 ##### CCE MT
 (Friend Of Singa / Sharity – Kindsville Magazine Activities / P1&P2 CCE-VIA Care For Home Activity)
 
-<img src="images/cce%20mt.gif" 
-     style="width:75%">
+![](/images/cce%20mt.gif)
 
 ##### YTPS Little Big Community Outreach Project
