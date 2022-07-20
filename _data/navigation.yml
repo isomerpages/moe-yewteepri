@@ -40,13 +40,13 @@ links:
     url: /cca/
     sublinks:
       - title: Clubs
-        url: /cca/
+        url: /cca/art-club/
       - title: Performing Arts
-        url: /permalink
+        url: /cca/
       - title: Sports
-        url: /permalink
+        url: /cca/
       - title: Uniformed Group
-        url: /permalink
+        url: /cca/
   - title: Distinctive Programmes
     url: /distinctive-programmes/
     sublinks:
