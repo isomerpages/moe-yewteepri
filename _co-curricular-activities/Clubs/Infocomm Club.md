@@ -12,6 +12,9 @@ The Infocomm Club is made up of students with a strong passion for photography, 
 
 #### CCA Photos
 
-![](/images/infocomm%201.jpg)
-![](/images/infocomm%202.jpg)
-![](/images/infocomm%203.jpg)
+<img src="/images/infocomm%201.jpg" 
+     style="width:85%">
+<img src="/images/infocomm%202.jpg" 
+     style="width:75%">
+<img src="/images/infocomm%203.jpg" 
+     style="width:80%">
