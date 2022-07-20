@@ -22,4 +22,8 @@ sections:
       title: Quicklinks
       button: Click here
       url: /quicklinks/
+  - infobar:
+      title: Contact Us
+      button: Click here for more info
+      url: /contact-us/more-info/
 ---
