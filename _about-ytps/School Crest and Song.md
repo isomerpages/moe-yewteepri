@@ -10,7 +10,7 @@ description: ""
 <img src="/images/Yew%20Tee%20Pri%20Sch%20logo.jpg" 
      style="width:35%">
 		 
-##### NAME OF SCHOOL
+**NAME OF SCHOOL** <br>
 The Chinese characters “Yu Zhi” mean the nurturing of young minds
 
 **SHIELD** <br>
