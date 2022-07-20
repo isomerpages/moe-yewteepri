@@ -2,6 +2,7 @@ collections:
   accolades:
     output: true
     order:
+      - Academic Excellence/KNL Awards 2018.md
       - Academic Excellence/.keep
       - CCA Achievements/.keep
       - School Based Achievements/.keep
