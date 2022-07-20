@@ -8,7 +8,7 @@ description: ""
 #### School Crest
 
 <img src="/images/Yew%20Tee%20Pri%20Sch%20logo.jpg" 
-     style="width:45%">
+     style="width:35%">
 		 
 ##### NAME OF SCHOOL
 The Chinese characters “Yu Zhi” mean the nurturing of young minds
