@@ -2,6 +2,7 @@ collections:
   about-ytps:
     output: true
     order:
+      - Vision, Mission, Values and Motto.md
       - School Crest and Song.md
       - School Information/.keep
       - School Information/School Hours and Timings.md
