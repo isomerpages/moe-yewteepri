@@ -19,4 +19,4 @@ To cultivate the awareness of current affairs and encourage critical thinking am
 <img src="/images/library.jpg" 
      style="width:85%">
 <img src="/images/library%202.jpg" 
-     style="width:80%">
+     style="width:70%">
