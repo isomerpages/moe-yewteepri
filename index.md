@@ -23,7 +23,9 @@ sections:
       button: Click here
       url: /quicklinks/
   - infobar:
-      title: Contact Us
-      button: Click here for more info
+      title: YTPS Social Media
+      button: Click here
       url: /contact-us/more-info/
+      description: Facebook & Instagram
+      subtitle: Check out YTPS
 ---
