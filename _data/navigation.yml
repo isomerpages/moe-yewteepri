@@ -18,24 +18,24 @@ links:
       - title: Contact Us
         url: /about-ytps/contact-us/
   - title: Total Curriculum
-    url: /total-curriculum-framework/
+    url: /total-curriculum/
     sublinks:
       - title: Total Curriculum Framework
-        url: /total-curriculum-framework/
+        url: /total-curriculum/
       - title: Character & Citizenship Edu
-        url: /cce/
+        url: /total-curriculum/cce/
       - title: English Language
-        url: /english-language/
+        url: /total-curriculum/english/
       - title: Information & Comm Technology
-        url: /permalink
+        url: /total-curriculum/ict/
       - title: Mathematics
-        url: /permalink
+        url: /total-curriculum/math/
       - title: Mother Tongue Languages
-        url: /permalink
+        url: /total-curriculum/mother-tongue/
       - title: P.E. & Aesthetics
-        url: /permalink
+        url: /total-curriculum/pe/
       - title: Science
-        url: /permalink
+        url: /total-curriculum/science/
   - title: Co-Curricular Activities
     url: /cca/
     sublinks:
