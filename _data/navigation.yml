@@ -37,16 +37,16 @@ links:
       - title: Science
         url: /total-curriculum/science/
   - title: Co-Curricular Activities
-    url: /cca/
+    url: /co-curricular-activities/Clubs/art/
     sublinks:
       - title: Clubs
-        url: /cca/art-club/
+        url: /co-curricular-activities/Clubs/art/
       - title: Performing Arts
-        url: /cca/
+        url: /co-curricular-activities/
       - title: Sports
-        url: /cca/
+        url: /co-curricular-activities/
       - title: Uniformed Group
-        url: /cca/
+        url: /co-curricular-activities/
   - title: Distinctive Programmes
     url: /distinctive-programmes/
     sublinks:
