@@ -2,6 +2,7 @@ collections:
   accolades:
     output: true
     order:
+      - Academic Excellence/.keep
       - CCA Achievements/.keep
       - School Based Achievements/.keep
       - Photo and Video Gallery/.keep
