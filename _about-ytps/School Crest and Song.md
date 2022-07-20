@@ -8,4 +8,4 @@ description: ""
 #### School Crest
 
 <img src="/images/Yew%20Tee%20Pri%20Sch%20logo.jpg" 
-     style="width:65%">
+     style="width:45%">
