@@ -2,6 +2,7 @@ collections:
   total-curriculum:
     output: true
     order:
+      - Character and Citizenship Education.md
       - English Language.md
       - Information and Communications Technology.md
       - Mathematics.md
