@@ -2,6 +2,7 @@ collections:
   about-ytps:
     output: true
     order:
+      - School Information/School Terms & Holidays.md
       - School Information/School Hours and Timings.md
       - School Information/.keep
       - School Rules & Regulations.md
