@@ -28,4 +28,7 @@ sections:
       url: /contact-us/more-info/
       description: Facebook & Instagram
       subtitle: Check out YTPS
+  - resources:
+      title: Recently viewed
+      button: Click here
 ---
