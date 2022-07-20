@@ -19,16 +19,16 @@ Symbolises the integrity and moral ethical values of the bearers
 **BANNER AND THREE ARROWS** <br>
 Symbolise success and achievements beyond academic accomplishments
 
-**BOOK**
+**BOOK** <br>
 Represents knowledge and wisdom
 
-**FLAMING TORCH**
+**FLAMING TORCH** <br>
 Symbolises achievements in sports and co-curricular activities
 
-**ENTWINED ARROWS**
+**ENTWINED ARROWS** <br>
 Symbolise creativity
 
-**HANDSHAKE AND HEART**
+**HANDSHAKE AND HEART** <br>
 Symbolise racial harmony and caring for others
 
 #### School Song
@@ -52,4 +52,4 @@ For a bright tomorrow <br>
 Yew Tee Primary School <br>
 Loyal to you we shall be <br>
 Living out our motto <br>
-EXCELLENCE WITH INTEGRITY 
+EXCELLENCE WITH INTEGRITY
