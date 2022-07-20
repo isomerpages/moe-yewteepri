@@ -2,5 +2,6 @@ collections:
   accolades:
     output: true
     order:
+      - School Based Achievements/.keep
       - Photo and Video Gallery/.keep
       - Art Musée/.keep
