@@ -16,5 +16,7 @@ Art Club invites students who are interested in exploring the world of art to st
 
 Art Club members from Primary 3 to 6 took part in the biennial SYF Art Exhibition 2021.
 
-![](/images/art%20club%201.jpg)
-![](/images/art%20club%202.jpg)
+<img src="/images/art%20club%201.jpg" 
+     style="width:85%">
+<img src="/images/art%20club%202.jpg" 
+     style="width:85%">
