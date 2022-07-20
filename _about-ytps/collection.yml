@@ -2,6 +2,7 @@ collections:
   about-ytps:
     output: true
     order:
+      - Synergistic Staff/Teaching Staff & Allied Educators.md
       - Synergistic Staff/.keep
       - Our Heritage/Our Heritage.md
       - Our Heritage/Past & Current School Leaders.md
