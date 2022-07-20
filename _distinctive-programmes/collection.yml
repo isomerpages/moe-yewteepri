@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Applied Learning Programme (ALP) DREAM @ YTPS.md
       - Learning for Life Programme (LLP) Heroes @ YTPS.md
       - Student Development Programme.md
