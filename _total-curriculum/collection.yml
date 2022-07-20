@@ -2,4 +2,5 @@ collections:
   total-curriculum:
     output: true
     order:
+      - Physical Education and Aesthetics.md
       - Science.md
