@@ -27,7 +27,7 @@ description: ""
 *   **H**airstyle - Students must keep their hairstyle simple and neat.
 *   **ION** (Iron-on Name Tag) - The student’s name tag should be worn above the school badge.
 
-#####Desirable behavior in School
+##### Desirable behavior in School
 Students are expected to:
 *   be punctual, respectful and helpful
 *   exercise self-discipline at all times
