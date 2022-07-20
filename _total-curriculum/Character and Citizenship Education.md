@@ -79,26 +79,32 @@ The school believes that every student can become a leader and takes an evidence
      style="width:85%">
 
 ##### Student Leaders’ Investiture
-![](/images/student%20leader%20investiture.gif)
+<img src="images/student%20leader%20investiture.gif" 
+     style="width:75%">
 
 ##### Student Leaders’ Assemblee
-![](/images/student%20leader%20assemblee.gif)
+<img src="images/student%20leader%20assemblee.gif" 
+     style="width:75%">
 
 ##### Student Leaders’ Termly Training Sessions / Student Led Projects
-![](/images/student%20leader%20training%20session.gif)
+<img src="images/student%20leader%20training%20session.gif" 
+     style="width:75%">
 
 ##### Service
 
 Values-in-Action within the school is progressive in nature, and starts with student awareness of service opportunities at home, then school and followed by community needs. It is also focused on two core domains, best encapsulated using the school value of Care as an acronym – **C**aring for The **A**ged & **R**especting the **E**nvironment, to address the future challenges of sustainable development and an aging population. This approach is also grounded in authentic learning experiences by its integration with project work as part of the Applied Learning Programme; with its outcomes serving as platforms for the learning and demonstration of values.
 
 ##### Environment Week
-![](/images/environment%20week.gif)
+<img src="images/environment%20week.gif" 
+     style="width:75%">
 
 ##### Daily Classroom Cleaning / Recycling Practices / Use Your Hands Campaign
-![](/images/classroom%20cleaning.gif)
+<img src="images/classroom%20cleaning.gif" 
+     style="width:75%">
 
 ##### CCE MT
 (Friend Of Singa / Sharity – Kindsville Magazine Activities / P1&P2 CCE-VIA Care For Home Activity)
-![](/images/cce%20mt.gif)
+<img src="images/cce%20mt.gif" 
+     style="width:75%">
 
 ##### YTPS Little Big Community Outreach Project
