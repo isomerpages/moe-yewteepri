@@ -19,22 +19,23 @@ Key to this is an emphasis on the core skills of listening, speaking, reading an
 ##### Reading Programmes
 A love for reading accelerates language development and to nurture this, students read extensively through a structured programme from Primary One to Six. At the same time, students also learn character development and sound moral values through the experience and power of stories.
 
-![](/images/reading%20programme.gif)
-
 <img src="/images/reading%20programme.gif" 
-     style="width:75%">
+     style="width:70%">
 		 
 ##### Mother Tongue (MTL) / e-MTL Fortnight		 
 A platform to enhance the authentic learning of language, the MTL Fortnight activities leverage cultural experiences that allow students to understand and learn MTL in context and as living languages.
 
-![](/images/mother%20tongue%20fortnight.gif)
+<img src="/images/mother%20tongue%20fortnight.gif" 
+     style="width:70%">
 
 ##### Public Speaking (Best Speaker Challenge)
 To develop confidence in communication, students are trained and given opportunities to experience public speaking at various platforms such as school concerts, celebrations and during recess throughout the year. The _Best Speaker Challenge_ acknowledges those who have put in effort and performed well as a confident speaker.
 
-![](/images/public%20speaking.gif)
+<img src="/images/public%20speaking.gif" 
+     style="width:70%">
 
 ##### Festive Celebrations
 The communal celebration of different festivals are leveraged to help students learn and appreciate Singapore’s diverse cultural heritage. By participating in one another’s cultural traditions, students gain insights about people who may be different from themselves, and this fosters acceptance and responsibility towards others. It also creates common experiences and shared memories to help strengthen a sense of belonging to the nation.
 
-![](/images/festive%20celebration.jpg)
+<img src="/images/festive%20celebrations.gif" 
+     style="width:70%">
