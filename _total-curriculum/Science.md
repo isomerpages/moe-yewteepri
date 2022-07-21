@@ -26,14 +26,17 @@ Learning of Science is not limited to only inside the classrooms or Science labs
 *   Playpond
 *   Mini Eco Forest
 
-![](/images/elp%20science.gif)
+<img src="/images/elp%20science.gif" 
+     style="width:70%">
 
 ##### STEM Learning Programme (STEM)
 This programme incorporates various hands-on activities of STEM learning. It aims to spark students’ interest and curiosity when they apply their knowledge in Science, Technology and Mathematics in the activities. This programme will also enhance their problem-solving and communication skills.
 
-![](/images/science%20STEM.gif)
+<img src="/images/science%20STEM.gif" 
+     style="width:70%">
 
 ##### Sony Creative Science Award (SCSA)
 This event is Singapore’s largest toy-making competition. It provides students with opportunities to develop their creativity and thinking skills. Students will design and create toys that function based on scientific principles.
 
-![](/images/sony%20science%20award.gif)
+<img src="/images/sony%20science%20award.gif" 
+     style="width:70%">
