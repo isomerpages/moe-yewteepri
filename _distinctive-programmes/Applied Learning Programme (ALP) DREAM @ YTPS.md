@@ -47,7 +47,8 @@ The key questions for our students are:
 *   What school value do we show when we take care of our pet?
 *   What can we do help the animals?
 
-![](/images/dream%20primary%201.gif)
+<img src="/images/dream%20primary%201.gif" 
+     style="width:70%">
 
 ##### Primary Two
 
@@ -65,7 +66,8 @@ The key questions for our students are:
 *   What can we do in the 3Rs to save the ocean?
 *   What message do you want to inform your family and friends?
 
-![](/images/dream%20primary%202.gif)
+<img src="/images/dream%20primary%202.gif" 
+     style="width:70%">
 
 ##### Primary Three
 
@@ -88,7 +90,8 @@ The key questions for our students are:
 *   What are other countries doing?
 *   What innovative ways are there to help in waste management?
 
-![](/images/dream%20primary%203.gif)
+<img src="/images/dream%20primary%203.gif" 
+     style="width:70%">
 
 ##### Primary Four
 
@@ -108,7 +111,8 @@ The key questions for our students are:
 *   How much time do they take?
 *   What can help them?
 
-![](/images/dream%20primary%204.gif)
+<img src="/images/dream%20primary%204.gif" 
+     style="width:70%">
 
 ##### Primary Five
 
@@ -127,7 +131,8 @@ The key questions for our students are:
 *   What can help them? (in this digital age)
 *   What can we learn from them?
 
-![](/images/dream%20primary%205.gif)
+<img src="/images/dream%20primary%205.gif" 
+     style="width:70%">
 
 ##### Primary Six
 
