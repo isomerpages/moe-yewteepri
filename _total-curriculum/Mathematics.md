@@ -44,4 +44,4 @@ E2K Mathematics Programme is an enrichment programme developed by the Israel Cen
 The LSM helps to build up pupils' confidence through encouragement and success experiences. Our Primary 1 and 2 LSM pupils learn through hands-on experiences and have more opportunities to play Math games to reinforce understanding during lessons.
 
 <img src="/images/math%20learning%20support.gif" 
-     style="width:70%">
+     style="width:60%">
