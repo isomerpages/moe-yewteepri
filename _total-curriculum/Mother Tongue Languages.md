@@ -23,3 +23,18 @@ A love for reading accelerates language development and to nurture this, student
 
 <img src="/images/reading%20programme.gif" 
      style="width:75%">
+		 
+##### Mother Tongue (MTL) / e-MTL Fortnight		 
+A platform to enhance the authentic learning of language, the MTL Fortnight activities leverage cultural experiences that allow students to understand and learn MTL in context and as living languages.
+
+![](/images/mother%20tongue%20fortnight.gif)
+
+##### Public Speaking (Best Speaker Challenge)
+To develop confidence in communication, students are trained and given opportunities to experience public speaking at various platforms such as school concerts, celebrations and during recess throughout the year. The _Best Speaker Challenge_ acknowledges those who have put in effort and performed well as a confident speaker.
+
+![](/images/public%20speaking.gif)
+
+##### Festive Celebrations
+The communal celebration of different festivals are leveraged to help students learn and appreciate Singapore’s diverse cultural heritage. By participating in one another’s cultural traditions, students gain insights about people who may be different from themselves, and this fosters acceptance and responsibility towards others. It also creates common experiences and shared memories to help strengthen a sense of belonging to the nation.
+
+![](/images/festive%20celebration.jpg)
