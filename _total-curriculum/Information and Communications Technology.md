@@ -29,26 +29,29 @@ The school acknowledges Blended Learning as a regular feature of the schooling e
 
 This form of learning helps students in developing 21st century competencies such as critical thinking skills and to apply self-directedness and self-management.
 
-![](/images/harnessing%20technology.gif)
+<img src="/images/harnessing%20technology.gif" 
+     style="width:70%">
 
 #### Enhancing Digital Literacies In Our Learners
 The ICT department aims to provide learning opportunities to develop student’s future readiness. Through a structured digital literacy programme, students are exposed to coding, computational thinking and new technologies progressively. This is important as computing technology plays an increasingly important part in our society.
 
 Combining elements of fun, collaboration and creativity, students apply their knowledge in coding and computational skills to explore and solve problems in an authentic context.
 
-![](/images/enhancing%20digital%20life.gif)
+<img src="/images/enhancing%20digital%20life.gif" 
+     style="width:70%">
 
 #### Nurturing Responsible Digital Citizens
 Students are equipped with the knowledge and awareness of topics related to Cyberwellness so that they know how to be safe and use technology responsibly. They learn to be responsible digital citizens through explicit teaching during Form Teacher Guidance Periods (FTGP) and Character and Citizenship Education (CCE) lessons, as well as from short bite-sized presentations during morning assembly.
 
 In addition, students engaged in experiential learning activities during Cyberwellness Awareness Week. Through these activities, students are more aware of issues such as cyberbullying, excessive screen time and navigating the internet safely and responsibly.
 
-![](/images/cyberwellness%20awareness.gif)
+<img src="/images/cyberwellness%20awareness.gif" 
+     style="width:70%">
 
 #### Developing Teacher’s Capacity for Teaching with Technology
 The school adopts a 3 prong approach (school wide, level base and just-in-time) for the professional development of teachers in e-pedagogy. These approaches aim to develop our teachers to be competent in harnessing technology for lesson delivery in class and virtually.
 
 A key focus of the teacher’s professional development programme is to develop teachers' ability to analyse and interpret students’ learning and assessment data to develop interventions, and to continually improve the design of learning experiences.
 
-![](/images/developing%20teachers.gif)
-
+<img src="/images/developing%20teachers.gif" 
+     style="width:70%">
