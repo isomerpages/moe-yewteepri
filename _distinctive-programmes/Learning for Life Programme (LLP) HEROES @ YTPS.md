@@ -25,3 +25,12 @@ CCA Leaders are developed to champion Sports and OE, school programmes and stude
 
 Students who demonstrate the ability to turn challenges into opportunities, show resilience and perseverance in most activities and who are able to work with classmates and schoolmates of different gender and race are formally recognised.
 
+![](/images/heroes%201.jpg)
+![](/images/heroes%202.jpg)
+![](/images/heroes%203.jpg)
+<img src="/images/heroes%204.jpg" 
+     style="width:45%">
+![](/images/heroes%205.jpg)
+![](/images/heroes%206.jpg)
+![](/images/heroes%207.jpg)
+![](/images/heroes%208.jpg)
