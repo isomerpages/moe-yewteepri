@@ -12,7 +12,7 @@ DREAM@YTPS aims to equip students with **Design Thinking tools** and **a desi
 Programme design facilitate students working in teams, whilst activating their problem-solving skills, empathetic thinking and creative and critical thinking in coming up with plausible solutions to problems. These engineered experiences enhance students’ social-emotional learning, as well as, help them see the relevance and inter-connectedness of the different subject disciplines.
 
 <img src="/images/Design%20Thinking%20%20YTPS.jpg" 
-     style="width:80%">
+     style="width:85%">
 
 #### Department Members
 
