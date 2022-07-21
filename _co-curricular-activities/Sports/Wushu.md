@@ -25,8 +25,11 @@ Through YTPS Wushu CCA, we aimed to develop nurture our students in terms of ski
 
 **Competition**
 ![](/images/wushu%203a.jpg)
-![](/images/wushu%203b.jpg)
-![](/images/wushu%203c.jpg)
+
+<img src="/images/wushu%203b.jpg" 
+     style="width:55%">
+<img src="/images/wushu%203c.jpg" 
+     style="width:55%">
 
 ##### 2020
 **Ongoing Training**
