@@ -19,24 +19,29 @@ This is why ensuring that all students achieve a competent level of mathematics 
 ##### Making Math Fun through Technology
 Technology is used to enhance student engagement in Math classrooms. For example, word problems are embedded in digital Escape Rooms for students to solve and “breakout”, without them realizing that they are actually practising their math problem solving skills. Kahoot and Quizziz are also used to assess students learning in a fun and engaging manner. Technology is also used to make students thinking visible so that teachers can address their misconceptions during lessons.
 
-![](/images/making%20math%20fun%20through%20technology.gif)
+<img src="/images/making%20math%20fun%20through%20technology.gif" 
+     style="width:70%">
 
 ##### Mathematics Trails in School
 Mathematics Trails provide opportunities for students to apply mathematical skills to solve real-life problems. Students develop an appreciation and enjoyment of Mathematics in everyday situations by completing different tasks around the school. These trails which are aligned to the curriculum and are specially designed for our Primary 2 to Primary 4 students. The students work in teams and collaborate to solve the various tasks.
 
-![](/images/math%20trail.gif)
+<img src="/images/math%20trail.gif" 
+     style="width:70%">
 
 ##### Math Shopping Day
 The Math Shopping Day allows students to apply the concepts they have learnt in Math lessons in an authentic situation. The Primary 1 and Primary 2 students plan and buy shopping items within a given budget. Besides creating an opportunity for students to apply the concept of money in a real-life situation, the activity also helps to develop their financial literacy skills.
 
-![](/images/math%20shopping%20day.gif)
+<img src="/images/math%20shopping%20day.gif" 
+     style="width:70%">
 
 ##### E2K
 E2K Mathematics Programme is an enrichment programme developed by the Israel Centre for Excellence through Education (ICEE) for upper primary pupils who demonstrate interest and ability in Mathematics. This programme aims to develop mathematical thinking using constructivist concepts, in which the pupils create links between prior knowledge and new knowledge.
 
-![](/images/e2k%20math%20programme.gif)
+<img src="/images/e2k%20math%20programme.gif" 
+     style="width:70%">
 
 ##### Learning Support for Mathematics
 The LSM helps to build up pupils' confidence through encouragement and success experiences. Our Primary 1 and 2 LSM pupils learn through hands-on experiences and have more opportunities to play Math games to reinforce understanding during lessons.
 
-![](/images/math%20learning%20support.gif)
+<img src="/images/math%20learning%20support.gif" 
+     style="width:70%">
