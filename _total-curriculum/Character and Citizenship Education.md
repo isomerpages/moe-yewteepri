@@ -31,26 +31,28 @@ The Mother Tongue department collaborates with the CCE Department with the commo
 
 In the school, ‘Making Character Visible’ is a continuous aspiration made possible with the opportunities through Art as a subject. Students are able to use Art as a powerful form of expression of their thoughts, values and aspirations. This strongly supports the delivery of CCE outcomes in the school and makes reinforcement of values and making character visible a fun and colourful process.
 
-![](/images/community%20centre.gif)
-
 <img src="/images/community%20centre.gif" 
      style="width:70%">
 
 ##### Leave A Legacy
 
-![](/images/leave%20a%20legacy.gif)
+<img src="/images/leave%20a%20legacy.gif" 
+     style="width:70%">
 
 ##### Peace Poster Competition
 
-![](/images/peace%20poster.gif)
+<img src="/images/peace%20poster.gif" 
+     style="width:70%">
 
 ##### Stara Values Art Competition
 
-![](/images/star%20student.gif)
+<img src="/images/star%20student.gif" 
+     style="width:70%">
 
 ##### Art Lessons
 
-![](/images/art%20lesson.gif)
+<img src="/images/art%20lesson.gif" 
+     style="width:70%">
 
 ##### Citizenship
 
@@ -58,15 +60,18 @@ Rootedness and a sense of belonging are key to Citizenship experiences within th
 
 ##### CCE Bytes
 
-![](/images/cce%20byte.gif)
+<img src="/images/cce%20byte.gif" 
+     style="width:70%">
 
 ##### NE Commemorative Events (TD/IFD/RHD/ND)
 
-![](/images/NE%20events.jpg)
+<img src="/images/NE%20events.jpg" 
+     style="width:70%">
 
 ##### NE Learning Journeys
 
-![](/images/NE%20learning%20journey.gif)
+<img src="/images/NE%20learning%20journey.gif" 
+     style="width:70%">
 
 #### NHB Heritage Explorer Tasks (Social Studies)
 
@@ -84,15 +89,18 @@ The school believes that every student can become a leader and takes an evidence
 
 ##### Student Leaders’ Investiture
 
-![](/images/student%20leader%20investiture.gif)
+<img src="/images/student%20leader%20investiture.gif" 
+     style="width:70%">
 
 ##### Student Leaders’ Assemblee
 
-![](/images/student%20leader%20assemblee.gif)
+<img src="/images/student%20leader%20assemblee.gif" 
+     style="width:70%">
 
 ##### Student Leaders’ Termly Training Sessions / Student Led Projects
 
-![](/images/student%20leader%20training%20session.gif)
+<img src="/images/student%20leader%20training%20session.gif" 
+     style="width:70%">
 
 ##### Service
 
@@ -100,15 +108,18 @@ Values-in-Action within the school is progressive in nature, and starts with stu
 
 ##### Environment Week
 
-![](/images/environment%20week.gif)
+<img src="/images/environment%20week.gif" 
+     style="width:70%">
 
 ##### Daily Classroom Cleaning / Recycling Practices / Use Your Hands Campaign
 
-![](/images/classroom%20cleaning.gif)
+<img src="/images/classroom%20cleaning.gif" 
+     style="width:70%">
 
 ##### CCE MT
 (Friend Of Singa / Sharity – Kindsville Magazine Activities / P1&P2 CCE-VIA Care For Home Activity)
 
-![](/images/cce%20mt.gif)
+<img src="/images/cce%20mt.gif" 
+     style="width:70%">
 
 ##### YTPS Little Big Community Outreach Project
