@@ -18,4 +18,8 @@ Key to this is an emphasis on the core skills of listening, speaking, reading an
 
 ##### Reading Programmes
 A love for reading accelerates language development and to nurture this, students read extensively through a structured programme from Primary One to Six. At the same time, students also learn character development and sound moral values through the experience and power of stories.
-	
+
+![](/images/reading%20programme.gif)
+
+<img src="/images/reading%20programme.gif" 
+     style="width:75%">
