@@ -32,6 +32,7 @@ The Mother Tongue department collaborates with the CCE Department with the commo
 In the school, ‘Making Character Visible’ is a continuous aspiration made possible with the opportunities through Art as a subject. Students are able to use Art as a powerful form of expression of their thoughts, values and aspirations. This strongly supports the delivery of CCE outcomes in the school and makes reinforcement of values and making character visible a fun and colourful process.
 
 ![](/images/community%20centre.gif)
+
 <img src="/images/community%20centre.gif" 
      style="width:70%">
 
