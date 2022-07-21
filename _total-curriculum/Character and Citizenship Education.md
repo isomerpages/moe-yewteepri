@@ -42,17 +42,17 @@ In the school, ‘Making Character Visible’ is a continuous aspiration made po
 ##### Peace Poster Competition
 
 <img src="/images/peace%20poster.gif" 
-     style="width:70%">
+     style="width:60%">
 
 ##### Stara Values Art Competition
 
 <img src="/images/star%20student.gif" 
-     style="width:70%">
+     style="width:60%">
 
 ##### Art Lessons
 
 <img src="/images/art%20lesson.gif" 
-     style="width:70%">
+     style="width:50%">
 
 ##### Citizenship
 
@@ -61,12 +61,12 @@ Rootedness and a sense of belonging are key to Citizenship experiences within th
 ##### CCE Bytes
 
 <img src="/images/cce%20byte.gif" 
-     style="width:70%">
+     style="width:60%">
 
 ##### NE Commemorative Events (TD/IFD/RHD/ND)
 
 <img src="/images/NE%20events.jpg" 
-     style="width:70%">
+     style="width:65%">
 
 ##### NE Learning Journeys
 
@@ -90,17 +90,17 @@ The school believes that every student can become a leader and takes an evidence
 ##### Student Leaders’ Investiture
 
 <img src="/images/student%20leader%20investiture.gif" 
-     style="width:70%">
+     style="width:65%">
 
 ##### Student Leaders’ Assemblee
 
 <img src="/images/student%20leader%20assemblee.gif" 
-     style="width:70%">
+     style="width:65%">
 
 ##### Student Leaders’ Termly Training Sessions / Student Led Projects
 
 <img src="/images/student%20leader%20training%20session.gif" 
-     style="width:70%">
+     style="width:60%">
 
 ##### Service
 
@@ -109,17 +109,17 @@ Values-in-Action within the school is progressive in nature, and starts with stu
 ##### Environment Week
 
 <img src="/images/environment%20week.gif" 
-     style="width:70%">
+     style="width:65%">
 
 ##### Daily Classroom Cleaning / Recycling Practices / Use Your Hands Campaign
 
 <img src="/images/classroom%20cleaning.gif" 
-     style="width:70%">
+     style="width:60%">
 
 ##### CCE MT
 (Friend Of Singa / Sharity – Kindsville Magazine Activities / P1&P2 CCE-VIA Care For Home Activity)
 
 <img src="/images/cce%20mt.gif" 
-     style="width:70%">
+     style="width:60%">
 
 ##### YTPS Little Big Community Outreach Project
