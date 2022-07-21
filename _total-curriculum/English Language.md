@@ -22,19 +22,26 @@ Teachers also model and scaffold the development of knowledge and skills, taking
 ##### Read With Me
 A special event organized for Primary 1 students and their parents, Read With Me encourages our little ones as well as parents to indulge in pure reading pleasure. It aims to pique students’ interest in reading and to encourage parental involvement in cultivating good reading habits in their children.
 
-![](/images/read%20with%20me.gif)
+<img src="/images/read%20with%20me.gif" 
+     style="width:70%">
 
 ##### Spelling Bee
 In encouraging our young learners to build their spelling skills, the Primary 2 students participate in a Spelling Bee competition. They will pit their wits against one another, applying their word recognition and decoding skills, in what has become an extremely well-liked and enjoyable experience for the students.
 
 ![](/images/spelling%20bee.gif)
+<img src="/images/read%20with%20me.gif" 
+     style="width:70%">
 
 ##### Recess Programmes
 This is a platform to showcase talent and hone public speaking skills, our students present what they have learnt about effective presentation with their peers, in a casual setting. Students are able to recite poetry, present a big book story, complete with song and actions or even tell their peers an interesting story!
 
 ![](/images/recess.gif)
+<img src="/images/read%20with%20me.gif" 
+     style="width:70%">
 
 ##### Oracy Programmes
 The school aims to develop students to become confident and articulate users of the English Language. Students should be able to engage in conversation effectively and develop their oral communication skills in a meaningful and enjoyable manner. Students are introduced to speech and drama, debating programmes as well as Reader’s Theatre in order to hone their oratorical competencies.
 
 ![](/images/ocracy.gif)
+<img src="/images/read%20with%20me.gif" 
+     style="width:70%">
