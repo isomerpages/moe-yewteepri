@@ -20,4 +20,3 @@ Art Club members from Primary 3 to 6 took part in the biennial SYF Art Exhibitio
      style="width:85%">
 <img src="/images/art%20club%202.jpg" 
      style="width:85%">
-		 
