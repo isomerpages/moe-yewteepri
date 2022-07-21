@@ -47,5 +47,108 @@ The key questions for our students are:
 *   What school value do we show when we take care of our pet?
 *   What can we do help the animals?
 
+![](/images/dream%20primary%201.gif)
 
+##### Primary Two
 
+P2 students work on **Ocean Care**. The key components leading to the final product include:
+*   Design Thinking Process Skills
+*   Collaborative Learning
+*   Communication Skills
+*   ICT Skills
+*   Virtual Learning Journey to Singapore Zoo
+*   P2 Encore
+
+The key questions for our students are:
+*   How should we show care for the sea creatures?
+*   What are we doing now that are harmful to the sea creatures?
+*   What can we do in the 3Rs to save the ocean?
+*   What message do you want to inform your family and friends?
+
+![](/images/dream%20primary%202.gif)
+
+##### Primary Three
+
+The theme for P3 Project Work is on **Upcycling**. The key programmes for the levels include:
+*   On-line Design Thinking Workshop
+*   Collaborative Learning
+*   Communication Skills
+*   In-class Instruction
+*   Research Skills
+*   Upcycling Workshop by National Environment Agency (NEA)
+
+The key questions for our students are:
+*   What are the waste generated in Singapore?
+*   How much waste is generated over the years?
+*   What happened to the waste?
+*   Why is there so much waste?
+*   Who manages the waste?
+*   What effects do waste have on the environment?
+*   What is Singapore’s current and future practices in waste management?
+*   What are other countries doing?
+*   What innovative ways are there to help in waste management?
+
+![](/images/dream%20primary%203.gif)
+
+##### Primary Four
+
+The theme for P4 Project Work is on **improvisation on a cleaning tool**. The key programmes for the levels include:
+*   On-line Design Thinking Workshop
+*   Collaborative Learning
+*   Communication Skills
+*   In-class Instruction
+*   Research Skills
+*   Upcycling Workshop by National Environment Agency (NEA)
+
+The key questions for our students are:
+*   What physical difficulty do elderly face?
+*   How do they feel about their work?
+*   What do you observe when they clean the various areas?
+*   What cleaning tools do they use in their work?
+*   How much time do they take?
+*   What can help them?
+
+![](/images/dream%20primary%204.gif)
+
+##### Primary Five
+
+The P5 students work on **Elderly Care**. Key components for the level include:
+*   In-class Instruction
+*   Design Thinking Process Skills
+*   Collaborative Skills
+*   Communication Skills
+*   Research and Interview Skills
+*   Dialogue-in-the-Dark Virtual Learning Programme
+
+The key questions for our students are:
+*   What physical difficulty do elderly face?
+*   What do they enjoy doing?
+*   What do they wish to do?
+*   What can help them? (in this digital age)
+*   What can we learn from them?
+
+![](/images/dream%20primary%205.gif)
+
+##### Primary Six
+
+The Project Work theme for P6 is on **Town / Community Planning**. <br>
+Key components for the level include:
+*   In-class Instruction
+*   Design Thinking Process Skills
+*   Collaborative Skills
+*   Communication Skills
+*   Virtual Learning Programme with Urban Redevelopment Authority (URA)
+
+The key questions for our students are:
+*   How has the population of elderly changed over the years?
+*   Who are the elderly?
+*   Where do they live?
+*   Who provides for them?
+*   Who takes care of their daily needs?
+*   What do they need?
+*   What physical difficulty do elderly face?
+*   What do they enjoy doing?
+*   What do they wish to do?
+*   What can help them?
+*   What has Singapore done in terms of town planning to meet their needs?
+*   What else can be improved?
