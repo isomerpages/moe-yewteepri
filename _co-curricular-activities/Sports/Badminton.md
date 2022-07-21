@@ -13,10 +13,7 @@ YTPS Badminton CCA provides students with the opportunity to participate in a sp
 #### CCA Photos
 
 ![](/images/badminton%201.jpg)
-
 ![](/images/badminton%202.jpg)
-
 ![](/images/badminton%203.jpg)
-
 <img src="/images/badminton%204.jpg" 
      style="width:55%">
