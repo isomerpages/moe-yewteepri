@@ -39,4 +39,4 @@ This programme incorporates various hands-on activities of STEM learning. It aim
 This event is Singapore’s largest toy-making competition. It provides students with opportunities to develop their creativity and thinking skills. Students will design and create toys that function based on scientific principles.
 
 <img src="/images/sony%20science%20award.gif" 
-     style="width:70%">
+     style="width:65%">
