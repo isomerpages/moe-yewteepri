@@ -37,7 +37,7 @@ To develop confidence in communication, students are trained and given opportuni
 ##### Festive Celebrations
 The communal celebration of different festivals are leveraged to help students learn and appreciate Singapore’s diverse cultural heritage. By participating in one another’s cultural traditions, students gain insights about people who may be different from themselves, and this fosters acceptance and responsibility towards others. It also creates common experiences and shared memories to help strengthen a sense of belonging to the nation.
 
-<img src="/images/festive%20celebrations.gif" 
+<img src="/images/festive%20celebration%20new.gif" 
      style="width:70%">
 		 
 ##### Little Ambassadors Programme
