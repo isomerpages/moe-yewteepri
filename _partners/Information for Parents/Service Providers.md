@@ -7,17 +7,17 @@ third_nav_title: Information for Parents
 ### Service Providers
 
 #### Bookshop
-**Ricky Book Centre**
+**Ricky Book Centre** <br>
 Address : Yew Tee Primary School, Bookshop <br>
 Telephone : 81138887 (Robin Chin) <br>
 Operating hours : Monday – Friday 8.30 a.m. to 2.30 p.m. 
 
 #### Bus Operator
-**Leeng Transport Service**
+**Leeng Transport Service** <br>
 Telephone : 96329603 (Ms Sharon)
 
 #### School Uniform & PE Attire
-**Shanghai Uniforms Pte Ltd**
+**Shanghai Uniforms Pte Ltd** <br>
 Email General : contact@shanghai-uniforms.com <br>
 Email Sales : sales@shanghai-uniforms.com <br>
 Online Sales : [https://shop.shanghai-uniforms.com/product-category/yew-tee-primary/](https://shop.shanghai-uniforms.com/product-category/yew-tee-primary/)
@@ -36,7 +36,7 @@ Information to provide on the message :  
  \*Appointment is to be made directly with the dental therapist.
  
 #### Student Care Centre
-**Pro-Teach Student Care**
+**Pro-Teach Student Care** <br>
 School Terms: <br>
 Monday, Tuesday, Thursday & Friday 1.40 p.m. to 7.00 p.m. <br>
 Wednesday 12.40 p.m. - 7.00 p.m. <br>
