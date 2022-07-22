@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2021 List of Approved Dictionaries for Exam Use.md
       - NIE Caring Teacher Award 2022.md
       - Our Schools, Our Stories 2021.md
       - President's Award for Teachers (PAT) 2022.md
