@@ -26,7 +26,7 @@ Click [here](https://www.syf.gov.sg/art-exhibition/about-the-2019-exhibition) *
 * [Cat Paintings](/files/cats.pdf)
 * [Cat Sculpture](/files/cat%20sculpture.pdf)
 * [Chinese Ink Paintings](/files/chinese%20ink%20sculpture.pdf)
-* [EZCOECA Young Illustrator Competition
-* [Grid Drawings
-* [Kadinsky Paintings
-* [My Favourite Space in School
+* [EZCOECA Young Illustrator Competition](/files/Young%20Illustrator%20Competition.pdf)
+* [Grid Drawings](/files/grid%20drawings.pdf)
+* [Kadinsky Paintings](/files/Kadinsky%20Paintings.pdf)
+* [My Favourite Space in School](/files/favorite%20space%20in%20school.pdf)
