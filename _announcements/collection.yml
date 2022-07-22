@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Parents Gateway.md
       - Choosing a Primary School.md
       - 2021 List of Approved Dictionaries for Exam Use.md
       - NIE Caring Teacher Award 2022.md
