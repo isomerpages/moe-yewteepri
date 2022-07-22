@@ -14,10 +14,10 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: ""
+          url: /highlights/
         - title: Announcements
           description: ""
-          url: ""
+          url: /announcements/
   - infobar:
       title: Quicklinks
       button: Click here
