@@ -6,6 +6,7 @@ third_nav_title: Photo Gallery
 ---
 ### 2020 Photo Gallery
 
-##### Chinese New Year Celebration
+#### Art Gallery
 
-##### Hong Kong Immersion
+* [Chinese New Year](/files/chinese%20new%20year.pdf)
+* [Hong Kong Immersion](/files/Hong%20Kong%20Immersion.pdf)
