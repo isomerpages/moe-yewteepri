@@ -15,3 +15,4 @@ Based on individual classes’ learning profile, the nature of HBL may include t
 
 Students will receive the day’s HBL learning guide via the school’s HBL microsite. By referring to the HBL learning guide, students will be informed of the day’s HBL activities.
 
+Click [here](https://sites.google.com/moe.edu.sg/hblytps/home) to access the HBL microsite.
