@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - Outstanding Youth in Education Award (OYEA) 2022.md
