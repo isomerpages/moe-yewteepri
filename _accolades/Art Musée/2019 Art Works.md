@@ -18,3 +18,11 @@ Click [here](https://www.syf.gov.sg/art-exhibition/about-the-2019-exhibition) *
      style="width:90%">
 <img src="/images/SYF19-CatC.png" 
      style="width:90%">
+		 
+#### Art Gallery
+
+* ["Let's Care for Our Environment" Art Competition](/files/Lets%20care%20for%20our%20environment.pdf)
+* [2019 Peace Posters Competition](/files/peace%20poster.pdf)
+* [Cat Paintings](/files/cats.pdf)
+* [Cat Sculpture](/files/cat%20sculpture.pdf)
+* [Chinese Ink Paintings](/files/chinese%20ink%20sculpture.pdf)
