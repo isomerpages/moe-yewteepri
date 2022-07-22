@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - 2022 E Parent Briefing Slides.md
       - 2021 List of Approved Dictionaries for Exam Use.md
+      - 2022 E Parent Briefing Slides.md
       - Choosing a Primary School.md
       - Cyber Bullying Tip Sheet.md
       - Inspiring Teacher Award Nomination 2022.md
