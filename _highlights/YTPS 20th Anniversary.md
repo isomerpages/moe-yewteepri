@@ -5,4 +5,4 @@ description: ""
 ---
 ### YTPS 20th Anniversary
 
-Click here to view our 20th Anniversary celebration with our Guest of Honour, Mr Alex Yam (MP for Chua Chu Kang GRC).
+Click [here](/files/20th%20Anniversary.pdf) to view our 20th Anniversary celebration with our Guest of Honour, Mr Alex Yam (MP for Chua Chu Kang GRC).
