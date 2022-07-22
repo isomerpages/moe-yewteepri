@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Keeping our Students Healthy.md
       - P1 November Orientation Slides.md
       - 2022 E Parent Briefing Slides.md
       - Inspiring Teacher Award Nomination 2022.md
