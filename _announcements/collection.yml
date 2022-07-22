@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2022 E Parent Briefing Slides.md
       - Inspiring Teacher Award Nomination 2022.md
       - PSLE DSA Parent Engagement 2022.md
       - Cyber Bullying Tip Sheet.md
