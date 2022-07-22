@@ -8,3 +8,5 @@ third_nav_title: Art Musée
 
 #### Art Gallery
 
+* [Chinese New Year](/files/chinese%20new%20year.pdf)
+* [Hong Kong Immersion]
