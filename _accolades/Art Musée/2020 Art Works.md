@@ -8,5 +8,4 @@ third_nav_title: Art Musée
 
 #### Art Gallery
 
-##### Peace Poster
-(file exceeds 5mb)
+* Peace Poster (file exceeds 5mb)
