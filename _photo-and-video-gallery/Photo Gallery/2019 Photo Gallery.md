@@ -12,11 +12,11 @@ third_nav_title: Photo Gallery
 * [Chinese New Year Celebration] (file size more than 5mb)
 * [CyberWellness][](/files/cyberwellness.pdf)
 * [Hari Raya & Racial Harmony Day Celebrations] (file size more than 5mb)
-* [Hong Kong Immersion @YTPS]
+* [Hong Kong Immersion @YTPS][](/files/honkong%20immersion.pdf)
 * [International Friendship Day] (file size more than 5mb)
 * [National Day Celebration] (file size more than 5mb)
 * [P2 CCA Fair][](/files/p2%20cca%20fair.pdf)
 * [Sports Fiesta (Butterfly Series)] (file size more than 5mb)
 * [Student Leader Investiture] (file size more than 5mb)
-* [Suzhou Cultural Exchange]
+* [Suzhou Cultural Exchange][](/files/suzhou.pdf)
 * [Teachers' Day Celebration] (file size more than 5mb)
