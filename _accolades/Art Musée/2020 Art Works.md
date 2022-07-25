@@ -8,4 +8,8 @@ third_nav_title: Art Musée
 
 #### Art Gallery
 
+* [Art Club Illustration](/files/art%20club%20illustration.pdf)
+* [Eco-Together](/files/eco%20together.pdf)
+* [Health Heroes Posters](/files/healthcare%20heroes.pdf)
+* [National Day Pledgecard](/files/national%20day%20pledgecard.pdf)
 * Peace Poster (file exceeds 5mb)
