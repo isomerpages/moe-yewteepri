@@ -15,7 +15,7 @@ description: ""
 6767 5450
 
 #### Email
-ytps@moe.edu.sg
+[ytps@moe.edu.sg](mailto:ytps@moe.edu.sg)
 
 #### FaceBook
 
