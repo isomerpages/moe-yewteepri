@@ -10,9 +10,8 @@ third_nav_title: Synergistic Staff
 
 ##### Primary 1
 
-|  |  |  |  |
-|---|---|---|---|
 | Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
+|---|---|---|---|
 | 1 Care | Lim Wen Huey (Mdm)<br> [lim_wen_huey@moe.edu.sg](mailto:lim_wen_huey@moe.edu.sg) |  |  |
 | 1 Diligence | Leong Ma Choo (Mdm)<br> [leong_ma_choo@moe.edu.sg](mailto:leong_ma_choo@moe.edu.sg) | Louise Lim Jia Ying (Ms)<br> [louise_lim_jia_ying@moe.edu.sg](mailto:louise_lim_jia_ying@moe.edu.sg) |  |
 | 1 Empathy | Chee Po Lean (Mdm)<br> [chee_po_lean@moe.edu.sg](mailto:chee_po_lean@moe.edu.sg) | Hartini Bte Sanin (Mdm) <br>[hartini_sanin@moe.edu.sg](mailto:hartini_sanin@moe.edu.sg) |  |
