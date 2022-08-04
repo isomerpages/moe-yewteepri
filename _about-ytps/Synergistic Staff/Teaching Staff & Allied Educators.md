@@ -64,12 +64,12 @@ third_nav_title: Synergistic Staff
 
 | Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
 |---|---|---|---|
-| 5 Care | Norliza Bte Ali Khan (Ms)norliza_ali_khan@moe.edu.sg | Xiao Chuan (Mdm) xiao_chuan@moe.edu.sg |  |
-| 5 Diligence | Emmaline Tay (Mrs) thor_zhi_ling_emmaline@moe.edu.sg | Loh Shao Wei (Mr) loh_shao_wei@moe.edu.sg |  |
-| 5 Empathy | Danny Asmara Bin Rahman (Mr) danny_asmara_b_rahman@moe.edu.sg | Tan Yoke Yin (Mrs) tan_yoke_yin@moe.edu.sg | Vijayalakshimi Balasubramaniam (Ms)vijayalakshimi_bala_s@schools.gov.sg |
-| 5 Integrity | Teo Guo Shun Eugene (Mr) teo_guo_shun_eugene@moe.edu.sg | Rashaitha Bibi Binte Abdul Hameed (Mdm) rashitha_bibi_abdul_hameed@moe.edu.sg | Siti Zaleha Bte Abdul Majid (Mdm) siti_zaleha_abdul_majid@moe.edu.sg |
-| 5 Perseverance | Tan Sin Yee (Ms) tan_sin_yee@moe.edu.sg | Tan Hsuen Fang (Mdm) tan_hsuen_fang@moe.edu.sg | Lim Ming Chwee (Mrs) lim_ming_chwee@moe.edu.sg |
-| 5 Respect | Kim Qingxian (Ms) kim_qing_xian@moe.edu.sg | Tan Puay Puay (Mdm) tan_puay_puay@moe.edu.sg | Sarifah Hasliza (Mdm) sarifah_hasliza_syed@moe.edu.sg |
+| 5 Care | Norliza Bte Ali Khan (Ms)<br> [norliza_ali_khan@moe.edu.sg](mailto:norliza_ali_khan@moe.edu.sg) | Xiao Chuan (Mdm) <br>[xiao_chuan@moe.edu.sg](mailto:xiao_chuan@moe.edu.sg) |  |
+| 5 Diligence | Emmaline Tay (Mrs)<br> [thor_zhi_ling_emmaline@moe.edu.sg](mailto:thor_zhi_ling_emmaline@moe.edu.sg) | Loh Shao Wei (Mr) <br>[loh_shao_wei@moe.edu.sg](mailto:loh_shao_wei@moe.edu.sg) |  |
+| 5 Empathy | Danny Asmara Bin Rahman (Mr) <br>[danny_asmara_b_rahman@moe.edu.sg](mailto:danny_asmara_b_rahman@moe.edu.sg) | Tan Yoke Yin (Mrs) <br>[tan_yoke_yin@moe.edu.sg](mailto:tan_yoke_yin@moe.edu.sg) | Vijayalakshimi Balasubramaniam (Ms)<br> [vijayalakshimi_bala_s@schools.gov.sg](mailto:vijayalakshimi_bala_s@schools.gov.sg) |
+| 5 Integrity | Teo Guo Shun Eugene (Mr)<br> [teo_guo_shun_eugene@moe.edu.sg](mailto:teo_guo_shun_eugene@moe.edu.sg) | Rashaitha Bibi Binte Abdul Hameed (Mdm) <br>[rashitha_bibi_abdul_hameed@moe.edu.sg](mailto:rashitha_bibi_abdul_hameed@moe.edu.sg) | Siti Zaleha Bte Abdul Majid (Mdm)<br> [siti_zaleha_abdul_majid@moe.edu.sg](mailto:siti_zaleha_abdul_majid@moe.edu.sg) |
+| 5 Perseverance | Tan Sin Yee (Ms)<br> [tan_sin_yee@moe.edu.sg](mailto:tan_sin_yee@moe.edu.sg) | Tan Hsuen Fang (Mdm)<br> [tan_hsuen_fang@moe.edu.sg](mailto:tan_hsuen_fang@moe.edu.sg) | Lim Ming Chwee (Mrs)<br> [lim_ming_chwee@moe.edu.sg](mailto:lim_ming_chwee@moe.edu.sg) |
+| 5 Respect | Kim Qingxian (Ms)<br> [kim_qing_xian@moe.edu.sg](mailto:kim_qing_xian@moe.edu.sg) | Tan Puay Puay (Mdm) <br>[tan_puay_puay@moe.edu.sg](mailto:tan_puay_puay@moe.edu.sg) | Sarifah Hasliza (Mdm)<br> [sarifah_hasliza_syed@moe.edu.sg](mailto:sarifah_hasliza_syed@moe.edu.sg) |
 |
 
 ##### Primary 6
