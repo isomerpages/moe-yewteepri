@@ -76,12 +76,12 @@ third_nav_title: Synergistic Staff
 
 | Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
 |---|---|---|---|
-| 6 Care | S Srijith (Mr)s_srijith@moe.edu.sg | Ng Yaw Ling (Mdm) ng_yaw_ling@moe.edu.sg | Liu Beibei (Mdm) liu_beibei@moe.edu.sg |
-| 6 Diligence | Nor'ashikin Binte Othman (Mdm) norashikin_othman@moe.edu.sg | Mohamad Najeeb Bin Abdul Majid (Mr) mohamad_najeeb_abdul_majid@moe.edu.sg | Tan Meow Huang (Mdm) tan_meow_huang@moe.edu.sg |
-| 6 Empathy | Yang Hui Yi (Ms) yang_huiyi@moe.edu.sg | Cheung Ka Lai (Mdm) cheung_2ka_lai@moe.edu.sg |  |
-| 6 Integrity | Santhi d/o James (Mdm) santhi_gomez@moe.edu.sg | Cheam Boon Sai Evelyn (Mdm) cheam_boon_sai_evelyn@moe.edu.sg |  |
-| 6 Perseverance | Pay Soo Cheng (Mdm) pay_soo_cheng@moe.edu.sg | Norhana Bte Juhari (Mdm) norhana_juhari@moe.edu.sg |  |
-| 6 Respect | Nur Huda Binte Mohammad Sidek (Ms) nur_huda_mohammad_sidek@moe.edu.sg | Alam Bin Naser (Mr) alam_naser@moe.edu.sg | Loh Huey Luen (Mdm) loh_huey_luen@moe.edu.sg |
+| 6 Care | S Srijith (Mr)<br> [s_srijith@moe.edu.sg](mailto:s_srijith@moe.edu.sg) | Ng Yaw Ling (Mdm)<br>[ng_yaw_ling@moe.edu.sg](mailto:ng_yaw_ling@moe.edu.sg) | Liu Beibei (Mdm)<br> [liu_beibei@moe.edu.sg](mailto:liu_beibei@moe.edu.sg) |
+| 6 Diligence | Nor'ashikin Binte Othman (Mdm)<br> [norashikin_othman@moe.edu.sg](mailto:norashikin_othman@moe.edu.sg) | Mohamad Najeeb Bin Abdul Majid (Mr) <br>[mohamad_najeeb_abdul_majid@moe.edu.sg](mailto:mohamad_najeeb_abdul_majid@moe.edu.sg) | Tan Meow Huang (Mdm)<br> [tan_meow_huang@moe.edu.sg](mailto:tan_meow_huang@moe.edu.sg) |
+| 6 Empathy | Yang Hui Yi (Ms)<br> [yang_huiyi@moe.edu.sg](mailto:yang_huiyi@moe.edu.sg) | Cheung Ka Lai (Mdm) <br>[cheung_2ka_lai@moe.edu.sg](mailto:cheung_2ka_lai@moe.edu.sg) |  |
+| 6 Integrity | Santhi d/o James (Mdm)<br> [santhi_gomez@moe.edu.sg](mailto:santhi_gomez@moe.edu.sg) | Cheam Boon Sai Evelyn (Mdm) <br>[cheam_boon_sai_evelyn@moe.edu.sg](mailto:cheam_boon_sai_evelyn@moe.edu.sg) |  |
+| 6 Perseverance | Pay Soo Cheng (Mdm)<br> [pay_soo_cheng@moe.edu.sg](mailto:pay_soo_cheng@moe.edu.sg) | Norhana Bte Juhari (Mdm) <br>[norhana_juhari@moe.edu.sg](mailto:norhana_juhari@moe.edu.sg) |  |
+| 6 Respect | Nur Huda Binte Mohammad Sidek (Ms) <br>[nur_huda_mohammad_sidek@moe.edu.sg](mailto:nur_huda_mohammad_sidek@moe.edu.sg) | Alam Bin Naser (Mr) <br>[alam_naser@moe.edu.sg](mailto:alam_naser@moe.edu.sg) | Loh Huey Luen (Mdm)<br> [loh_huey_luen@moe.edu.sg](mailto:loh_huey_luen@moe.edu.sg) |
 |
 
 ##### Allied Educators
