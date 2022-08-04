@@ -88,6 +88,6 @@ third_nav_title: Synergistic Staff
 
 |  |  |  |
 |---|---|---|
-| Mdm Sarasvathy Senior School Counsellor sarasvathy_govindasamy_annamalai@moe.edu.sg | Ms Amber Ng Special Educational Needs Officer ng_lay_yin@moe.edu.sg | Miss Siti Nurliyani Binte Yusri  Special Educational Needs Officer  Siti_Nurliyani_Yusri@moe.edu.sg |
-| Mdm Loh Huey Luen Allied Educator T&L Chinese Language loh_huey_luen@moe.edu.sg | Mdm Siti Nurliana Rosli Allied Educator T&L Mathematics siti_nurliana_rosli@moe.edu.sg |  |
+| Mdm Sarasvathy<br>Senior School Counsellor <br>[sarasvathy_govindasamy_annamalai@moe.edu.sg](mailto:sarasvathy_govindasamy_annamalai@moe.edu.sg) | Ms Amber Ng<br> Special Educational Needs Officer<br> [ng_lay_yin@moe.edu.sg](mailto:ng_lay_yin@moe.edu.sg) | Miss Siti Nurliyani Binte Yusri <br> Special Educational Needs Officer<br>  [Siti_Nurliyani_Yusri@moe.edu.sg](mailto:Siti_Nurliyani_Yusri@moe.edu.sg) |
+| Mdm Loh Huey Luen <br>Allied Educator T&L Chinese Language <br>[loh_huey_luen@moe.edu.sg](mailto:loh_huey_luen@moe.edu.sg) | Mdm Siti Nurliana Rosli <br>Allied Educator T&L Mathematics <br>[siti_nurliana_rosli@moe.edu.sg](mailto:siti_nurliana_rosli@moe.edu.sg) |  |
 |
