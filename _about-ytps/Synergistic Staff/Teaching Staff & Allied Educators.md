@@ -52,12 +52,12 @@ third_nav_title: Synergistic Staff
 
 | Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
 |---|---|---|---|
-| 4 Care | Joyce Lim Ying Ying (Mdm) joyce_lim_ying_ying@moe.edu.sg | Loh Ho Weng (Mrs) loh_ho_weng@moe.edu.sg |  |
-| 4 Diligence | Yasmin Sultanah Bte Syed Ahmed (Mdm) yasmin_sultanah_syed_ahmed@moe.edu.sg | Lim Poh Li (Ms) lim_poh_li@moe.edu.sg | Koh Chee How (Mr)koh_chee_how@moe.edu.sg |
-| 4 Empathy | Ong Si Pei Carlyn (Miss) ong_si_pei_carlyn@moe.edu.sg | Siti Nazhira Binte Mohd Aini (Mdm) siti_nazhira_mohd_aini@moe.edu.sg | Sairamprabhu s/o Balasubramaniam (Mr) sairamprabhu_balasubramani@moe.edu.sg |
-| 4 Integrity | Tok Wei Yuan (Mr) tok_wei_yuan@moe.edu.sg | Fong Yin Kuan-Mrs Ying (Mdm) fong_yin_kuan@moe.edu.sg |  |
-| 4 Perseverance | Sum Wai Fun (Mdm) sum_wai_fun@moe.edu.sg | Wong Song Pei (Mr) wong_song_pei@moe.edu.sg |  |
-| 4 Respect | Woon Kin Chong (Mr) woon_kin_chong@moe.edu.sg | Bong Mei Yun Cynthia (Mdm) bong_mei_yun_cynthia@moe.edu.sg | Siti Nurliana Bte Rosli (Mdm) siti_nurliana_rosli@moe.edu.sg |
+| 4 Care | Joyce Lim Ying Ying (Mdm)<br> [joyce_lim_ying_ying@moe.edu.sg](mailto:joyce_lim_ying_ying@moe.edu.sg) | Loh Ho Weng (Mrs) <br>[loh_ho_weng@moe.edu.sg](mailto:loh_ho_weng@moe.edu.sg) |  |
+| 4 Diligence | Yasmin Sultanah Bte Syed Ahmed (Mdm) <br>[yasmin_sultanah_syed_ahmed@moe.edu.sg](mailto:yasmin_sultanah_syed_ahmed@moe.edu.sg) | Lim Poh Li (Ms) <br>[lim_poh_li@moe.edu.sg](mailto:lim_poh_li@moe.edu.sg) | Koh Chee How (Mr) <br>[koh_chee_how@moe.edu.sg](mailto:koh_chee_how@moe.edu.sg) |
+| 4 Empathy | Ong Si Pei Carlyn (Miss) <br>[ong_si_pei_carlyn@moe.edu.sg](mailto:ong_si_pei_carlyn@moe.edu.sg) | Siti Nazhira Binte Mohd Aini (Mdm) <br>[siti_nazhira_mohd_aini@moe.edu.sg](mailto:siti_nazhira_mohd_aini@moe.edu.sg) | Sairamprabhu s/o Balasubramaniam (Mr)<br> [sairamprabhu_balasubramani@moe.edu.sg](mailto:sairamprabhu_balasubramani@moe.edu.sg) |
+| 4 Integrity | Tok Wei Yuan (Mr)<br> [tok_wei_yuan@moe.edu.sg](mailto:tok_wei_yuan@moe.edu.sg) | Fong Yin Kuan-Mrs Ying (Mdm) <br>[fong_yin_kuan@moe.edu.sg](mailto:fong_yin_kuan@moe.edu.sg) |  |
+| 4 Perseverance | Sum Wai Fun (Mdm)<br> [sum_wai_fun@moe.edu.sg](mailto:sum_wai_fun@moe.edu.sg) | Wong Song Pei (Mr) <br>[wong_song_pei@moe.edu.sg](mailto:wong_song_pei@moe.edu.sg) |  |
+| 4 Respect | Woon Kin Chong (Mr) <br>[woon_kin_chong@moe.edu.sg](mailto:woon_kin_chong@moe.edu.sg) | Bong Mei Yun Cynthia (Mdm) <br>[bong_mei_yun_cynthia@moe.edu.sg](mailto:bong_mei_yun_cynthia@moe.edu.sg) | Siti Nurliana Bte Rosli (Mdm) <br>[siti_nurliana_rosli@moe.edu.sg](mailto:siti_nurliana_rosli@moe.edu.sg) |
 |
 
 ##### Primary 5
