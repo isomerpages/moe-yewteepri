@@ -40,12 +40,12 @@ third_nav_title: Synergistic Staff
 
 | Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
 |---|---|---|---|
-| 3 Care | Gwei Hwee Theng (Mdm) gwei_hwee_theng@moe.edu.sg | Tan Xian Li Cheris (Mdm) tan_xian_li_cheris@moe.edu.sg |  |
-| 3 Diligence | Tay-Woo Hui Lyn Amy (Mrs) woo_hui_lyn_amy@moe.edu.sg | Lekhaadevi Balakrishan(Mdm) Lekhaadevi_balakrishan@moe.edu.sg |  |
-| 3 Empathy | Sim Bee Keat (Mr) sim_bee_keat@moe.edu.sg | Tan Su Ting (Ms) tan_su_ting@moe.edu.sg |  |
-| 3 Integrity | Wong Wei Xiang Darren (Mr) wong_wei_xiang_darren@moe.edu.sg | Isdasusianty Bte Ismail (Ms) isdasusianty_ismail@moe.edu.sg |  |
-| 3 Perseverance | Rozalina Mohamed Yahya (Mdm) rozalina_mohamed_yahya@schools.gov.sg | Yap Poh Choo (Mdm) yap_poh_choo@moe.edu.sg | Winaseh Sumarni Bte Ahmad (Mdm) winaseh_sumarni_ahmad@moe.edu.sg |
-| 3 Respect | Khairunnisa Bte Sazali (Mdm) khairunnisa_sazali@moe.edu.sg | Sherene Tan Sin Min (Mdm) tan_sin_min@moe.edu.sg | Muhammad Nazri Bin Saifee (Mr) muhammad_nazri_saifee@moe.edu.sg |
+| 3 Care | Gwei Hwee Theng (Mdm)<br> [gwei_hwee_theng@moe.edu.sg](mailto:gwei_hwee_theng@moe.edu.sg) | Tan Xian Li Cheris (Mdm) <br>[tan_xian_li_cheris@moe.edu.sg](mailto:tan_xian_li_cheris@moe.edu.sg) |  |
+| 3 Diligence | Tay-Woo Hui Lyn Amy (Mrs)<br> [woo_hui_lyn_amy@moe.edu.sg](mailto:woo_hui_lyn_amy@moe.edu.sg) | Lekhaadevi Balakrishan(Mdm) <br>[Lekhaadevi_balakrishan@moe.edu.sg](mailto:Lekhaadevi_balakrishan@moe.edu.sg) |  |
+| 3 Empathy | Sim Bee Keat (Mr)<br> [sim_bee_keat@moe.edu.sg](mailto:sim_bee_keat@moe.edu.sg) | Tan Su Ting (Ms)<br> [tan_su_ting@moe.edu.sg](mailto:tan_su_ting@moe.edu.sg) |  |
+| 3 Integrity | Wong Wei Xiang Darren (Mr)<br> [wong_wei_xiang_darren@moe.edu.sg](mailto:wong_wei_xiang_darren@moe.edu.sg) | Isdasusianty Bte Ismail (Ms) <br>[isdasusianty_ismail@moe.edu.sg](mailto:isdasusianty_ismail@moe.edu.sg) |  |
+| 3 Perseverance | Rozalina Mohamed Yahya (Mdm) <br>[rozalina_mohamed_yahya@schools.gov.sg](mailto:rozalina_mohamed_yahya@schools.gov.sg) | Yap Poh Choo (Mdm) <br>[yap_poh_choo@moe.edu.sg](mailto:yap_poh_choo@moe.edu.sg) | Winaseh Sumarni Bte Ahmad (Mdm) <br>[winaseh_sumarni_ahmad@moe.edu.sg](mailto:winaseh_sumarni_ahmad@moe.edu.sg) |
+| 3 Respect | Khairunnisa Bte Sazali (Mdm) <br>[khairunnisa_sazali@moe.edu.sg](mailto:khairunnisa_sazali@moe.edu.sg) | Sherene Tan Sin Min (Mdm) <br>[tan_sin_min@moe.edu.sg](mailto:tan_sin_min@moe.edu.sg) | Muhammad Nazri Bin Saifee (Mr)<br> [muhammad_nazri_saifee@moe.edu.sg](mailto:muhammad_nazri_saifee@moe.edu.sg) |
 |
 
 ##### Primary 4
