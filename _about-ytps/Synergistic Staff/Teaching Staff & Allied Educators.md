@@ -27,14 +27,14 @@ third_nav_title: Synergistic Staff
 
 | Class | Form Teacher 1 | Form Teacher 2 | Form Teacher 3 |
 |---|---|---|---|
-| 2 Care | Siti Nuraisah Bte Buang (Mdm) [siti_nuraisah_buang@moe.edu.sg](mailto:siti_nuraisah_buang@moe.edu.sg) | Tan Chai Hia (Mdm) [tan_chai_hia@moe.edu.sg](mailto:tan_chai_hia@moe.edu.sg) | Janet Wong Sok Jing (Ms) [janet_wong_sok_jing@moe.edu.sg](mailto:janet_wong_sok_jing@moe.edu.sg) |
-| 2 Diligence | Irma Bte Hassan (Mdm) [irma_hassan@moe.edu.sg](mailto:irma_hassan@moe.edu.sg) | Su Yunling (Mdm) [su_yunling@moe.edu.sg](su_yunling@moe.edu.sg) |  |
-| 2 Empathy | Roslinda Bte Omar (Mdm) [roslinda_omar@moe.edu.sg](mailto:roslinda_omar@moe.edu.sg) | Zhao Jun (Mdm) [zhao_jun_a@moe.edu.sg](mailto:zhao_jun_a@moe.edu.sg) |  |
-| 2 Faith | Shehnam Khan (Mdm) [shehnam_khan@moe.edu.sg](mailto:shehnam_khan@moe.edu.sg) | Lee Wen Hui (Mr) [lee_wen_hui@moe.edu.sg](mailto:lee_wen_hui@moe.edu.sg) | Zhuo Miao Lin (Mdm) [zhuo_miaolin@moe.edu.sg](mailto:zhuo_miaolin@moe.edu.sg) |
-| 2Grace | Chua Lee Lin (Mdm) [Chua_Lee_Lin@moe.edu.sg](mailto:Chua_Lee_Lin@moe.edu.sg) |  Ng Su Hoon Angeline (Mdm) [ng_su_hoon_angeline@schools.gov.sg](mailto:ng_su_hoon_angeline@schools.gov.sg) |   |
-| 2 Integrity | Munalizah Binte Ajis (Mdm) [munalizah_ajis@moe.edu.sg](mailto:munalizah_ajis@moe.edu.sg) | Chang Mei Cheng (Mdm) [chang_mei_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg) |  |
-| 2 Perseverance | Shavitha Jamna Ramakrishnan(Mdm) [shavitha_jamna_ramakrishnan@moe](mailto:shavitha_jamna_ramakrishnan@moe) | June Lee Choon Muay (Mdm) [lee_choon_muay@moe.edu.sg](mailto:lee_choon_muay@moe.edu.sg) | Ng Beng Kiaw (Mdm) [ng_beng_kiaw@moe.edu.sg](mailto:ng_beng_kiaw@moe.edu.sg) |
-| 2 Respect | Pauline Chua (Mrs) [neo_pauline_chua_pauline@moe.edu.sg](mailto:neo_pauline_chua_pauline@moe.edu.sg) | Chua Gek Tiang (Mdm) [chua_gek_tiang@moe.edu.sg](mailto:chua_gek_tiang@moe.edu.sg) |  |
+| 2 Care | Siti Nuraisah Bte Buang (Mdm)<br> [siti_nuraisah_buang@moe.edu.sg](mailto:siti_nuraisah_buang@moe.edu.sg) | Tan Chai Hia (Mdm) <br>[tan_chai_hia@moe.edu.sg](mailto:tan_chai_hia@moe.edu.sg) | Janet Wong Sok Jing (Ms)<br> [janet_wong_sok_jing@moe.edu.sg](mailto:janet_wong_sok_jing@moe.edu.sg) |
+| 2 Diligence | Irma Bte Hassan (Mdm)<br> [irma_hassan@moe.edu.sg](mailto:irma_hassan@moe.edu.sg) | Su Yunling (Mdm) <br>[su_yunling@moe.edu.sg](su_yunling@moe.edu.sg) |  |
+| 2 Empathy | Roslinda Bte Omar (Mdm)<br> [roslinda_omar@moe.edu.sg](mailto:roslinda_omar@moe.edu.sg) | Zhao Jun (Mdm)<br> [zhao_jun_a@moe.edu.sg](mailto:zhao_jun_a@moe.edu.sg) |  |
+| 2 Faith | Shehnam Khan (Mdm)<br> [shehnam_khan@moe.edu.sg](mailto:shehnam_khan@moe.edu.sg) | Lee Wen Hui (Mr)<br> [lee_wen_hui@moe.edu.sg](mailto:lee_wen_hui@moe.edu.sg) | Zhuo Miao Lin (Mdm) <br>[zhuo_miaolin@moe.edu.sg](mailto:zhuo_miaolin@moe.edu.sg) |
+| 2Grace | Chua Lee Lin (Mdm)<br> [Chua_Lee_Lin@moe.edu.sg](mailto:Chua_Lee_Lin@moe.edu.sg) |  Ng Su Hoon Angeline (Mdm)<br> [ng_su_hoon_angeline@schools.gov.sg](mailto:ng_su_hoon_angeline@schools.gov.sg) |   |
+| 2 Integrity | Munalizah Binte Ajis (Mdm)<br> [munalizah_ajis@moe.edu.sg](mailto:munalizah_ajis@moe.edu.sg) | Chang Mei Cheng (Mdm) <br>[chang_mei_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg) |  |
+| 2 Perseverance | Shavitha Jamna Ramakrishnan(Mdm)<br> [shavitha_jamna_ramakrishnan@moe](mailto:shavitha_jamna_ramakrishnan@moe) | June Lee Choon Muay (Mdm) <br>[lee_choon_muay@moe.edu.sg](mailto:lee_choon_muay@moe.edu.sg) | Ng Beng Kiaw (Mdm) <br>[ng_beng_kiaw@moe.edu.sg](mailto:ng_beng_kiaw@moe.edu.sg) |
+| 2 Respect | Pauline Chua (Mrs)<br> [neo_pauline_chua_pauline@moe.edu.sg](mailto:neo_pauline_chua_pauline@moe.edu.sg) | Chua Gek Tiang (Mdm) <br>[chua_gek_tiang@moe.edu.sg](mailto:chua_gek_tiang@moe.edu.sg) |  |
 |
 
 ##### Primary 3
