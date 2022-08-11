@@ -12,144 +12,192 @@ _Knowledge, Numeracy and Literacy_
 
 ##### Term 1
 
-| Category | Activity / Programme | Achievements |
-|:---:|:---:|---|
-| Literacy | Chinese Language National Chinese Challenge | TOP 20 |
-| Literacy | Malay Language Pesta Bahasa<br>Yew Tee CC 2018 | 3RD POSITION |
-| Numeracy | Koobits<br>Top Brain Winners | Goh Jean Hong Jared (3C)<br>Nathaniel See De Kang (4E)<br>Kwan Kai Li, Kelly (5P)<br>Ong Zheng Quan, Astrophel (6D) |
-| Literacy | Library<br>Top Class Borrower | 3 Care (January)<br>4 Diligence (January)<br>5 Empathy (January)<br>6 Empathy (January)<br>3 Care (February)<br>4 Diligence (February)<br>5 Integrity (February)<br>6 Care (February)<br>6 Empathy (February)<br>3 Care (March)<br>4 Diligence (March)<br>5 Integrity (March)<br>6 Care (March) |
-| Literacy | Library<br>Top Individual Borrower | Luo Faliang (3E) (January)<br>Vaneezah Raza Khan (4E) (January)<br>Quek Jingsi, Karis (5C) (January)<br>You Hui Yuan (6D) (January)<br>Chin Hao Yi (3C) (February)<br>Vaneezah Raza Khan (4E) (February)<br>Quek Jingsi, Karis (5C) (February)<br>Cheng Kai Yang (6E) (February)<br>Liang Yuheng Marcus (3R) (March)<br>Ng Zhi Xuan (4D) (March)<br>Liew Zhi En, Nicole (4E) (March)<br>Quek Jingsi, Karis (5C) (March)<br>Pang Hui Ren (6C) (March) |
-|
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i25p{background-color:#FFF;color:#3D332F;text-align:left;vertical-align:top}
+.tg .tg-wdcu{background-color:#FFF;color:#3D332F;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-cl9b{background-color:#FFF;color:#3D332F;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Category</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Activity / Programme</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu">Chinese Language National Chinese Challenge<br></td>
+    <td class="tg-wdcu">TOP 20</td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Malay Language Pesta Bahasa</span><br><span style="background-color:initial">Yew Tee CC 2018</span></td>
+    <td class="tg-wdcu">3RD POSITION</td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Numeracy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Koobits</span><br><span style="background-color:initial">Top Brain Winners</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Goh Jean Hong Jared (3C)</span><br><span style="background-color:initial">Nathaniel See De Kang (4E)</span><br><span style="background-color:initial">Kwan Kai Li, Kelly (5P)</span><br><span style="background-color:initial">Ong Zheng Quan, Astrophel (6D)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Library</span><br><span style="background-color:initial">Top Class Borrower</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">3 Care (January)</span><br><span style="background-color:initial">4 Diligence (January)</span><br><span style="background-color:initial">5 Empathy (January)</span><br><span style="background-color:initial">6 Empathy (January)</span><br><span style="background-color:initial">3 Care (February)</span><br><span style="background-color:initial">4 Diligence (February)</span><br><span style="background-color:initial">5 Integrity (February)</span><br><span style="background-color:initial">6 Care (February)</span><br><span style="background-color:initial">6 Empathy (February)</span><br><span style="background-color:initial">3 Care (March)</span><br><span style="background-color:initial">4 Diligence (March)</span><br><span style="background-color:initial">5 Integrity (March)</span><br><span style="background-color:initial">6 Care (March)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Library</span><br><span style="background-color:initial">Top Individual Borrower</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Luo Faliang (3E) (January)</span><br><span style="background-color:initial">Vaneezah Raza Khan (4E) (January)</span><br><span style="background-color:initial">Quek Jingsi, Karis (5C) (January)</span><br><span style="background-color:initial">You Hui Yuan (6D) (January)</span><br><span style="background-color:initial">Chin Hao Yi (3C) (February)</span><br><span style="background-color:initial">Vaneezah Raza Khan (4E) (February)</span><br><span style="background-color:initial">Quek Jingsi, Karis (5C) (February)</span><br><span style="background-color:initial">Cheng Kai Yang (6E) (February)</span><br><span style="background-color:initial">Liang Yuheng Marcus (3R) (March)</span><br><span style="background-color:initial">Ng Zhi Xuan (4D) (March)</span><br><span style="background-color:initial">Liew Zhi En, Nicole (4E) (March)</span><br><span style="background-color:initial">Quek Jingsi, Karis (5C) (March)</span><br><span style="background-color:initial">Pang Hui Ren (6C) (March)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
 ##### Term 2
 
-| Category | Activity / Programme | Achievements |
-| --- | --- | --- |
-| Numeracy | Singapore Mathematical Olympiad | BRONZE AWARD  <br> Loh Jinshao Nozomu (6C) |
-| Numeracy | Singapore Mathematical Olympiad | SILVER AWARD  <br>Lim Sui Yee (6C) <br> Song Xinpeng Charles (6C) |
-| Numeracy | Raffles Institute Primary Math Competition | DISTINCTION <br>Lim Sui Yee (6C),<br> Song Xinpeng Charles (6C), <br>Chan Wei Ling (6C), <br>Chua Sek Woo (6C), <br>Brigitte Tan (6C) |
-| Literacy | CL Reading Programme <br>Primary 1 | Alethea Ng, Camie Lee, Lee Wen Xi, Germaine Shui, Lee Wen Xi (1C MT)  
-  
-Max Ryan Leet, Zhao Ruiqing, Zhang Jingya, Erika Cham, Zhang Xinyu, Chong Sha Row (1D MT)  
-  
-Regina Pang, Darren Yap, Samuel Chua, Wang Mutian, Alicia Lim, Lee Coen (1E MT)  
-  
-Sam Shi Ying, Chai Su Fan, Yong Chao Hui, Chan Wei Fan, Er Wen Fei, Lee Becky (1I MT)  
-  
-Lim Lexi, Chon Yanze, Yvette Tan, Jia Zhaoyang, Miyuki Lorenzo, Jovan Toh (1P MT)  
-  
-Liu Yixiao, Cyra Yee, Elijah Tang, Stephy Lim, Wang Feier, Joy Tang (1R MT) |
-| Literacy | National Chinese Challenge | TOP 20  
-Lim Sui Yee (6C) |
-| Literacy | Pesta Bahasa  
-Singing Competition | 2ND POSITION  
-Nur Hidayah (1C), Rifda Ghufayrah (1C), Nur Amelia (1D), Izz Qayyim (1D), Ilham Ikhtiari (1I) |
-| Literacy | Pesta Bahasa  
-Drama Competition | 3RD POSITION  
-Rania Tiara Zahra (2C), Alif Ayden (2F),  
-Ariq Rayyan (2F) |
-| Literacy | Pesta Bahasa  
-Skit Competition | 3RD POSITION  
-Danish Ellyasa (3R), Nur Ariana (3R) |
-| Literacy | Pesta Bahasa  
-Idiom Sketch | CONSOLATION  
-Amirul Thaqif (4C), Aneesa Zafar (4D),  
-Farah Liyana (4I) |
-| Literacy | Pesta Bahasa  
-Creative Writing Competition | CONSOLATION  
-Izzah Ellyssa (5P), Emir Affiq (5P),  
-Nur Shakirah (5P),  
-Akhtar Javier Machdy (6D),  
-Jefmirza Jamaludin (6I),  
-Nurdania Irdina (6R) |
-| Literacy | Pesta Bahasa  
-Language Rap Competition | CONSOLATION  
-Akmal Mirza (5R), Akmal Hakim (5I), Mohamad Rhomidzie (5R) |
-| Literacy | Pesta Bahasa | 3RD POSITION |
-| Literacy | Library  
-Top Class Borrower | 1 Integrity (April)  
-2 Perseverance (April)  
-3 Care (April)  
-4 Care (April)  
-5 Care (April)  
-5 Integrity (April)  
-6 Diligence (April) |
-| Literacy | Library  
-Top Individual Borrower | Cheh Ya Hui (1E) (April)  
-Nigel Chua Jun Yi (2P) (April)  
-Vethathiriyam K (3C) (April)  
-Rauf Aqil (4D) (April)  
-Kavin Rishiit (4E) (April)  
-Quek Jingsi, Karis (5C) (April)  
-Ng Kai Nuo Kainos (6D) (April) |
-| Literacy | Penmanship Champs  
-Primary 1 | Ang Shao Zhe, Lee Wen Xi, Nur Hidayah (1C)  
-  
-Chong Sha Row, Kylie Wong, Phoebe Woo, Max Ryan Leet, Sun Yu Han, Chan Cheok Yin, Akshara, Zhang Jing Ya, Zhao Rui Qing, Samuel Tan, Tao Chen Yang (1D)  
-  
-Ho Qin Xuan Azel, Koh Min Qi Clara, Arifah Airaniah, Su Myat Noe, Alicia Lim, Lee Coen, So Yin Yu, Fan Yichen, Ming Yiwen, Nathanael Wong, Jovianne Yeo (1E)  
-  
-Aditi Ganesh Ram, Aravind Narun, Bo Yixin Farrah, Chin Xin Yi, Darins Wong, Erika Cham, Gillienne Cheah, Regina Pang, Prasannakumar Pradhiksha, Sat Xin Jie, Ramasamy Baala Kailas, Luciana Thang, Wang Feier, Karis Yeo (1F)  
-  
-Chai Su Fan, Lee Becky, Nigel Low, Benedict Tan, Varna Balaji, Josh Ng, Liu Zehan, Wang Jingxuan, Wang Keyin (1I)  
-  
-Miyuki Lorenzo, Mun Kai Reng, Tedric Wong, Wah Le Yang, Wong Zi Xuan, Aasha Kumaran, Janelle Tan, Jewel Tay, Tan Sheng Jie, Diao Jiaying (1P)  
-  
-Yongjia, Elijah, Yixiao, Joy, Raeyos, Ryan, Cyra, Stephy, Phoebe, Wen Jun, Zhan Peng, Zhongkai, Quak Yiying, Mayumi, Jinishaah, Cheryl (1R) |
-| Literacy | Spelling Champs  
-Primary 1 | Mohamed Ashar, Nur Hidayah, Yang Qiuci (1C)  
-  
-Chong Sha Row, Kylie Wong, Phoebe Woo, Max Ryan Leet, Chan Cheok Yin, Brien Fok, Sun Wen Xuan, Sun Yu Han, Zhang Xin Yu, Nur Amelia Natasha, Ariel Pang, Akshara G (1D)  
-  
-Aulia Izzatunnisa, Hooi Kar Yi, Jovianne Yeo, Wang Mutian (1E)  
-  
-Asher Koh, Aravind Narun, Charlene Keng, Gillienne Cheah (1F)  
-  
-Chai Su Fan, Ilham Ikhtiari, Josh Ng, Sasti D/O Saravanan, Varna Balaji, Liu Zehan, Benedict Tan, Kooi Xiu Quan (1I)  
-  
-Chan Kah Lok, Chon Yanze, Miyuki Lorenzo, Valerie Lim, Wong Zi Xuan (1P)  
-  
-Cyra Yee, Elijah Tang, Liu Yixiao, Jinishaah, Quak Yiying, Stephy Lim, Tan Wen Jun, Tee Le Xuan, Cheryl Toh, Wang Yuzhi (1R) |
-| Literacy | Penmanship Champs  
-Primary 2 | Austin Lim, Calyn Teng, Sohani Sharvil Gourish, Janice Ng. Nurul Anis, Luan Jiahui (2C)  
-  
-Aloysius Sim, Ashleigh Chua, Bryon Buan, Charlotte Nwo, May Lin Lin, Nur Sofiyyah, Chevelle Tan, Yang Shiqi, Jay Liu, Kelly Goh, Tang Zi Xuan, Lim You Xuan, minn Myat, Tayeeba, Xin Junxin (2D)  
-  
-Nicole Lee, Ho Chee Fong, Janelle Tay, Wu Hao Yang, Ophelia Ngu, Desiree Yap, Raphael Ebuka, Amy Chua, Livia Chew, Chow Cheng You (2E)  
-  
-Adrian Tang, Seri Nur Wardah, Sivakumar, Vivian T, Clarence Tan, Arifah, Tan Leanne, Stephanie Chan, Muhd Fiqhar (2F)  
-  
-Esther Ang, Chang Kuan Rui, Megan Chang, Cheng Yi En, Rashmika, Felicia Tan, Ng Jun Yi, Sanjeev, Hari Ram, Mattias Tan (2I)  
-  
-Wu Gushi, Nigel Chua, Dhivyashriven, Dylan Lim (2P)  
-  
-Ashwini, Caelyn Tan, Dong Dennis, Ho Kai Yi, Joan Lee, Kishore, Nathaniel Kan, Ace Tay, Darsyinii (2R) |
-| Literacy | Spelling Champs  
-Primary 2 | Andra Qastalany, Ishan Low, Austin Lim, Janice Ng, Jaydeus Kok, Liow Su Qi, Ong Si En, Rania Tiara Zahra, Sherlis Tock, Yap Wei En (2C)  
-  
-Charlotte Nwo, Dian Danish Ara, Kevyn Lim, May Lin Lin, Bryon Buan, Samuel He, Tan Rui Yang, Aloysius Sim, Ashleigh Chua, Minn Myat, Ohi Tayeeba Abtahee, Ong Shun, Chevelle Tan, Tang Zixuan (2D)  
-  
-Amy Chua, Huang Qirui, Anders Ng, Wu Hao Yang, Desiree Yap, Rizqa Aulia, Chow Cheng You (2E)  
-  
-Arifah, Vivin T, Ariq Rayyan, Md Fiqhar, Nawfal, Tan Jae Xun, Stephanie Chan, Clarence Tan (2F)  
-  
-Ester Ang, Megan Chang, Rashmika Anad, Liang Weixuan, Fong Wen Jun, Felicia Tan, Zhou Zi Xin, Ethen Tan, Hari Ram (2I)  
-  
-Wu Gushi, Nigel Chua, Dhivyashriven, Dylan Lim (2P)  
-  
-Ashwini, Caelyn Tan, Chua Min Ho, Joan Lee, Nathaniel Kan, Alyshea Pueh, Reanne Moh, Tristar, Zhu Yixuan (2R) |
-| Literacy | Library  
-Top Individual Borrower | Ilham Ikhtiari (1I) (May)  
-Nigel Chua (2P) (May) |
-| Literacy | Library  
-Top Class Borrower | 2 Perseverance (May) |
-| Numeracy | Koobits  
-Top Brain Winner  
-(Term 2) | Chong Sha Row (1D)  
-Ho Cheng An (2R)  
-Jared Goh (3C)  
-Ng Zhi Xuan (P4) |
-|
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-i25p{background-color:#FFF;color:#3D332F;text-align:left;vertical-align:top}
+.tg .tg-wdcu{background-color:#FFF;color:#3D332F;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-cl9b{background-color:#FFF;color:#3D332F;text-align:center;vertical-align:middle}
+.tg .tg-dfql{background-color:#FFF;color:#3D332F;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Category</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Activity / Programme</span></th>
+    <th class="tg-f8vp"><span style="color:#666;background-color:#DDD">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cl9b">Numeracy</td>
+    <td class="tg-wdcu">Singapore Mathematical Olympiad</td>
+    <td class="tg-wdcu"><span style="background-color:initial">BRONZE AWARD</span><br><span style="background-color:initial">Loh Jinshao Nozomu (6C)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Numeracy</td>
+    <td class="tg-wdcu">Singapore Mathematical Olympiad</td>
+    <td class="tg-wdcu"><span style="background-color:initial">SILVER AWARD</span><br><span style="background-color:initial">Lim Sui Yee (6C)</span><br><span style="background-color:initial">Song Xinpeng Charles (6C)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Numeracy</td>
+    <td class="tg-wdcu">Raffles Institute Primary Math Competition</td>
+    <td class="tg-wdcu"><span style="background-color:initial">DISTINCTION</span><br><span style="background-color:initial">Lim Sui Yee (6C), Song Xinpeng Charles (6C), Chan Wei Ling (6C), Chua Sek Woo (6C), Brigitte Tan (6C)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">CL Reading Programme</span><br><span style="background-color:initial">Primary 1</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Alethea Ng, Camie Lee, Lee Wen Xi, Germaine Shui, Lee Wen Xi (1C MT)</span><br><br><span style="background-color:initial">Max Ryan Leet, Zhao Ruiqing, Zhang Jingya, Erika Cham, Zhang Xinyu, Chong Sha Row (1D MT)</span><br><br><span style="background-color:initial">Regina Pang, Darren Yap, Samuel Chua, Wang Mutian, Alicia Lim, Lee Coen (1E MT)</span><br><br><span style="background-color:initial">Sam Shi Ying, Chai Su Fan, Yong Chao Hui, Chan Wei Fan, Er Wen Fei, Lee Becky (1I MT)</span><br><br><span style="background-color:initial">Lim Lexi, Chon Yanze, Yvette Tan, Jia Zhaoyang, Miyuki Lorenzo, Jovan Toh (1P MT)</span><br><br><span style="background-color:initial">Liu Yixiao, Cyra Yee, Elijah Tang, Stephy Lim, Wang Feier, Joy Tang (1R MT)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu">National Chinese Challenge</td>
+    <td class="tg-wdcu"><span style="background-color:initial">TOP 20</span><br><span style="background-color:initial">Lim Sui Yee (6C)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Pesta Bahasa</span><br><span style="background-color:initial">Singing Competition</span></td>
+    <td class="tg-wdcu"><span style="background-color:initial">2ND POSITION</span><br><span style="background-color:initial">Nur Hidayah (1C), Rifda Ghufayrah (1C), Nur Amelia (1D), Izz Qayyim (1D), Ilham Ikhtiari (1I)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Pesta Bahasa</span><br><span style="background-color:initial">Drama Competition</span></td>
+    <td class="tg-wdcu"><span style="background-color:initial">3RD POSITION</span><br><span style="background-color:initial">Rania Tiara Zahra (2C), Alif Ayden (2F),</span><br><span style="background-color:initial">Ariq Rayyan (2F)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Pesta Bahasa</span><br><span style="background-color:initial">Skit Competition</span></td>
+    <td class="tg-wdcu"><span style="background-color:initial">3RD POSITION</span><br><span style="background-color:initial">Danish Ellyasa (3R), Nur Ariana (3R)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Pesta Bahasa</span><br><span style="background-color:initial">Idiom Sketch</span></td>
+    <td class="tg-wdcu"><span style="background-color:initial">CONSOLATION</span><br><span style="background-color:initial">Amirul Thaqif (4C), Aneesa Zafar (4D),</span><br><span style="background-color:initial">Farah Liyana (4I)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Pesta Bahasa</span><br><span style="background-color:initial">Creative Writing Competition</span></td>
+    <td class="tg-wdcu"><span style="background-color:initial">CONSOLATION</span><br><span style="background-color:initial">Izzah Ellyssa (5P), Emir Affiq (5P),</span><br><span style="background-color:initial">Nur Shakirah (5P),</span><br><span style="background-color:initial">Akhtar Javier Machdy (6D),</span><br><span style="background-color:initial">Jefmirza Jamaludin (6I),</span><br><span style="background-color:initial">Nurdania Irdina (6R)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Pesta Bahasa</span><br><span style="background-color:initial">Language Rap Competition</span></td>
+    <td class="tg-wdcu"><span style="background-color:initial">CONSOLATION</span><br><span style="background-color:initial">Akmal Mirza (5R), Akmal Hakim (5I), Mohamad Rhomidzie (5R)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu">Pesta Bahasa</td>
+    <td class="tg-wdcu">3RD POSITION</td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Library</span><br><span style="background-color:initial">Top Class Borrower</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">1 Integrity (April)</span><br><span style="background-color:initial">2 Perseverance (April)</span><br><span style="background-color:initial">3 Care (April)</span><br><span style="background-color:initial">4 Care (April)</span><br><span style="background-color:initial">5 Care (April)</span><br><span style="background-color:initial">5 Integrity (April)</span><br><span style="background-color:initial">6 Diligence (April)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Library</span><br><span style="background-color:initial">Top Individual Borrower</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Cheh Ya Hui (1E) (April)</span><br><span style="background-color:initial">Nigel Chua Jun Yi (2P) (April)</span><br><span style="background-color:initial">Vethathiriyam K (3C) (April)</span><br><span style="background-color:initial">Rauf Aqil (4D) (April)</span><br><span style="background-color:initial">Kavin Rishiit (4E) (April)</span><br><span style="background-color:initial">Quek Jingsi, Karis (5C) (April)</span><br><span style="background-color:initial">Ng Kai Nuo Kainos (6D) (April)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Penmanship Champs</span><br><span style="background-color:initial">Primary 1</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Ang Shao Zhe, Lee Wen Xi, Nur Hidayah (1C)</span><br><br><span style="background-color:initial">Chong Sha Row, Kylie Wong, Phoebe Woo, Max Ryan Leet, Sun Yu Han, Chan Cheok Yin, Akshara, Zhang Jing Ya, Zhao Rui Qing, Samuel Tan, Tao Chen Yang (1D)</span><br><br><span style="background-color:initial">Ho Qin Xuan Azel, Koh Min Qi Clara, Arifah Airaniah, Su Myat Noe, Alicia Lim, Lee Coen, So Yin Yu, Fan Yichen, Ming Yiwen, Nathanael Wong, Jovianne Yeo (1E)</span><br><br><span style="background-color:initial">Aditi Ganesh Ram, Aravind Narun, Bo Yixin Farrah, Chin Xin Yi, Darins Wong, Erika Cham, Gillienne Cheah, Regina Pang, Prasannakumar Pradhiksha, Sat Xin Jie, Ramasamy Baala Kailas, Luciana Thang, Wang Feier, Karis Yeo (1F)</span><br><br><span style="background-color:initial">Chai Su Fan, Lee Becky, Nigel Low, Benedict Tan, Varna Balaji, Josh Ng, Liu Zehan, Wang Jingxuan, Wang Keyin (1I)</span><br><br><span style="background-color:initial">Miyuki Lorenzo, Mun Kai Reng, Tedric Wong, Wah Le Yang, Wong Zi Xuan, Aasha Kumaran, Janelle Tan, Jewel Tay, Tan Sheng Jie, Diao Jiaying (1P)</span><br><br><span style="background-color:initial">Yongjia, Elijah, Yixiao, Joy, Raeyos, Ryan, Cyra, Stephy, Phoebe, Wen Jun, Zhan Peng, Zhongkai, Quak Yiying, Mayumi, Jinishaah, Cheryl (1R)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Spelling Champs</span><br><span style="background-color:initial">Primary 1</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Mohamed Ashar, Nur Hidayah, Yang Qiuci (1C)</span><br><br><span style="background-color:initial">Chong Sha Row, Kylie Wong, Phoebe Woo, Max Ryan Leet, Chan Cheok Yin, Brien Fok, Sun Wen Xuan, Sun Yu Han, Zhang Xin Yu, Nur Amelia Natasha, Ariel Pang, Akshara G (1D)</span><br><br><span style="background-color:initial">Aulia Izzatunnisa, Hooi Kar Yi, Jovianne Yeo, Wang Mutian (1E)</span><br><br><span style="background-color:initial">Asher Koh, Aravind Narun, Charlene Keng, Gillienne Cheah (1F)</span><br><br><span style="background-color:initial">Chai Su Fan, Ilham Ikhtiari, Josh Ng, Sasti D/O Saravanan, Varna Balaji, Liu Zehan, Benedict Tan, Kooi Xiu Quan (1I)</span><br><br><span style="background-color:initial">Chan Kah Lok, Chon Yanze, Miyuki Lorenzo, Valerie Lim, Wong Zi Xuan (1P)</span><br><br><span style="background-color:initial">Cyra Yee, Elijah Tang, Liu Yixiao, Jinishaah, Quak Yiying, Stephy Lim, Tan Wen Jun, Tee Le Xuan, Cheryl Toh, Wang Yuzhi (1R)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Penmanship Champs</span><br><span style="background-color:initial">Primary 2</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Austin Lim, Calyn Teng, Sohani Sharvil Gourish, Janice Ng. Nurul Anis, Luan Jiahui (2C)</span><br><br><span style="background-color:initial">Aloysius Sim, Ashleigh Chua, Bryon Buan, Charlotte Nwo, May Lin Lin, Nur Sofiyyah, Chevelle Tan, Yang Shiqi, Jay Liu, Kelly Goh, Tang Zi Xuan, Lim You Xuan, minn Myat, Tayeeba, Xin Junxin (2D)</span><br><br><span style="background-color:initial">Nicole Lee, Ho Chee Fong, Janelle Tay, Wu Hao Yang, Ophelia Ngu, Desiree Yap, Raphael Ebuka, Amy Chua, Livia Chew, Chow Cheng You (2E)</span><br><br><span style="background-color:initial">Adrian Tang, Seri Nur Wardah, Sivakumar, Vivian T, Clarence Tan, Arifah, Tan Leanne, Stephanie Chan, Muhd Fiqhar (2F)</span><br><br><span style="background-color:initial">Esther Ang, Chang Kuan Rui, Megan Chang, Cheng Yi En, Rashmika, Felicia Tan, Ng Jun Yi, Sanjeev, Hari Ram, Mattias Tan (2I)</span><br><br><span style="background-color:initial">Wu Gushi, Nigel Chua, Dhivyashriven, Dylan Lim (2P)</span><br><br><span style="background-color:initial">Ashwini, Caelyn Tan, Dong Dennis, Ho Kai Yi, Joan Lee, Kishore, Nathaniel Kan, Ace Tay, Darsyinii (2R)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Spelling Champs</span><br><span style="background-color:initial">Primary 2</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Andra Qastalany, Ishan Low, Austin Lim, Janice Ng, Jaydeus Kok, Liow Su Qi, Ong Si En, Rania Tiara Zahra, Sherlis Tock, Yap Wei En (2C)</span><br><br><span style="background-color:initial">Charlotte Nwo, Dian Danish Ara, Kevyn Lim, May Lin Lin, Bryon Buan, Samuel He, Tan Rui Yang, Aloysius Sim, Ashleigh Chua, Minn Myat, Ohi Tayeeba Abtahee, Ong Shun, Chevelle Tan, Tang Zixuan (2D) </span><br><br><span style="background-color:initial">Amy Chua, Huang Qirui, Anders Ng, Wu Hao Yang, Desiree Yap, Rizqa Aulia, Chow Cheng You (2E)</span><br><br><span style="background-color:initial">Arifah, Vivin T, Ariq Rayyan, Md Fiqhar, Nawfal, Tan Jae Xun, Stephanie Chan, Clarence Tan (2F)</span><br><br><span style="background-color:initial">Ester Ang, Megan Chang, Rashmika Anad, Liang Weixuan, Fong Wen Jun, Felicia Tan, Zhou Zi Xin, Ethen Tan, Hari Ram (2I)</span><br><br><span style="background-color:initial">Wu Gushi, Nigel Chua, Dhivyashriven, Dylan Lim (2P)</span><br><br><span style="background-color:initial">Ashwini, Caelyn Tan, Chua Min Ho, Joan Lee, Nathaniel Kan, Alyshea Pueh, Reanne Moh, Tristar, Zhu Yixuan (2R)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Library</span><br><span style="background-color:initial">Top Individual Borrower</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Ilham Ikhtiari (1I) (May)</span><br><span style="background-color:initial">Nigel Chua (2P) (May)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Literacy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Library</span><br><span style="background-color:initial">Top Class Borrower</span></td>
+    <td class="tg-dfql">2 Perseverance (May)</td>
+  </tr>
+  <tr>
+    <td class="tg-cl9b">Numeracy</td>
+    <td class="tg-wdcu"><span style="background-color:initial">Koobits</span><br><span style="background-color:initial">Top Brain Winner</span><br><span style="background-color:initial">(Term 2)</span></td>
+    <td class="tg-i25p"><span style="background-color:initial">Chong Sha Row (1D)</span><br><span style="background-color:initial">Ho Cheng An (2R)</span><br><span style="background-color:initial">Jared Goh (3C)</span><br><span style="background-color:initial">Ng Zhi Xuan (P4)</span></td>
+  </tr>
+</tbody>
+</table>
 
 ##### Term 3
 
@@ -232,54 +280,6 @@ Ng Zhi Xuan (P4) |
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
 </tbody>
 </table>
 
