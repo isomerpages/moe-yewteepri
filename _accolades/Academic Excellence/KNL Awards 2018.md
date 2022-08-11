@@ -28,8 +28,7 @@ _Knowledge, Numeracy and Literacy_
 | Numeracy | Singapore Mathematical Olympiad | BRONZE AWARD  <br> Loh Jinshao Nozomu (6C) |
 | Numeracy | Singapore Mathematical Olympiad | SILVER AWARD  <br>Lim Sui Yee (6C) <br> Song Xinpeng Charles (6C) |
 | Numeracy | Raffles Institute Primary Math Competition | DISTINCTION <br>Lim Sui Yee (6C),<br> Song Xinpeng Charles (6C), <br>Chan Wei Ling (6C), <br>Chua Sek Woo (6C), <br>Brigitte Tan (6C) |
-| Literacy | CL Reading Programme  
-Primary 1 | Alethea Ng, Camie Lee, Lee Wen Xi, Germaine Shui, Lee Wen Xi (1C MT)  
+| Literacy | CL Reading Programme <br>Primary 1 | Alethea Ng, Camie Lee, Lee Wen Xi, Germaine Shui, Lee Wen Xi (1C MT)  
   
 Max Ryan Leet, Zhao Ruiqing, Zhang Jingya, Erika Cham, Zhang Xinyu, Chong Sha Row (1D MT)  
   
