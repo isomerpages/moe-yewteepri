@@ -64,6 +64,12 @@ _Knowledge, Numeracy and Literacy_
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
+	<tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
 </tbody>
 </table>
 
@@ -196,6 +202,12 @@ _Knowledge, Numeracy and Literacy_
     <td class="tg-wdcu"><span style="background-color:initial">Koobits</span><br><span style="background-color:initial">Top Brain Winner</span><br><span style="background-color:initial">(Term 2)</span></td>
     <td class="tg-i25p"><span style="background-color:initial">Chong Sha Row (1D)</span><br><span style="background-color:initial">Ho Cheng An (2R)</span><br><span style="background-color:initial">Jared Goh (3C)</span><br><span style="background-color:initial">Ng Zhi Xuan (P4)</span></td>
   </tr>
+	<tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
 </tbody>
 </table>
 
