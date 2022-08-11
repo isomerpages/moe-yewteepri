@@ -280,6 +280,9 @@ _Knowledge, Numeracy and Literacy_
   </tr>
   <tr>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
 </tbody>
 </table>
 
@@ -397,16 +400,6 @@ _Knowledge, Numeracy and Literacy_
     <td class="tg-cl9b">Knowledge</td>
     <td class="tg-wdcu"><span style="background-color:initial">JeWel Challenge 2018</span><br><span style="background-color:initial">JW Lego Maze Challenge</span></td>
     <td class="tg-wdcu"><span style="background-color:initial">2ND RUNNER-UP</span><br><span style="background-color:initial">Jaylen Chan (6C)</span><br><span style="background-color:initial">Geraud Ang (6C)</span><br><span style="background-color:initial">Nozomu Loh (6C)</span><br><span style="background-color:initial">Martin Low (6C)</span><br><span style="background-color:initial">Li Fucheng (6C)</span><br><span style="background-color:initial">Lucas Tam (6C)</span><br><span style="background-color:initial">Chong Rui En (6C)</span><br><span style="background-color:initial">Lim Sui Yee (6C)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
