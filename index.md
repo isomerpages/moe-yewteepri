@@ -11,7 +11,7 @@ notification: Early Closure for General Office on 27 May 2022 In support of the
 sections:
   - hero:
       title: Yew Tee Primary School
-      background: /images/isomer-logo.svg
+      background: /images/ytpsbanner.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
