@@ -15,9 +15,9 @@ third_nav_title: Art Musée
 * [Print Making] (file size more than 5mb)
 * [Starry Night] (file size more than 5mb)
 **Impressionism**
-<iframe allowfullscreen="true" width="560" height="369" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStVRmmKgRzQ-gEc-k4FD1tCYoSM4OYo-1ykv0yL_qwqZJGQPIpfilokGKIEx-03pt81ydJTtAruOvS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="600" height="369" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStVRmmKgRzQ-gEc-k4FD1tCYoSM4OYo-1ykv0yL_qwqZJGQPIpfilokGKIEx-03pt81ydJTtAruOvS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <br>
 
 **P1 Chinese Ink Painting**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQba44hvAvXzYF21Tjr5J4HClBDSWYJQ4ekj87o8QlSPWIG1WPfulrUOD9H-qC5ny4Q7appbVkpSiFI/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="560" height="369" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQba44hvAvXzYF21Tjr5J4HClBDSWYJQ4ekj87o8QlSPWIG1WPfulrUOD9H-qC5ny4Q7appbVkpSiFI/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="600" height="369" allowfullscreen="true"></iframe>
