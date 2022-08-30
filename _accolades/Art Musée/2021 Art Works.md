@@ -6,20 +6,20 @@ third_nav_title: Art Musée
 ---
 ### 2021 Art Works
 
-<img src="/images/category%20a.gif" style="width:85%">
-<img src="/images/category%20b.gif" style="width:85%">
-<img src="/images/category%20c.gif" style="width:85%">
+<img style="width:85%" src="/images/category%20a.gif">
+<img style="width:85%" src="/images/category%20b.gif">
+<img style="width:85%" src="/images/category%20c.gif">
 
 **Impressionism**
-<iframe allowfullscreen="true" width="600" height="369" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStVRmmKgRzQ-gEc-k4FD1tCYoSM4OYo-1ykv0yL_qwqZJGQPIpfilokGKIEx-03pt81ydJTtAruOvS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vStVRmmKgRzQ-gEc-k4FD1tCYoSM4OYo-1ykv0yL_qwqZJGQPIpfilokGKIEx-03pt81ydJTtAruOvS/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="369" width="600" allowfullscreen="true"></iframe>
 
 <br>
 
 **P1 Chinese Ink Painting**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQba44hvAvXzYF21Tjr5J4HClBDSWYJQ4ekj87o8QlSPWIG1WPfulrUOD9H-qC5ny4Q7appbVkpSiFI/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="600" height="369" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="369" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQba44hvAvXzYF21Tjr5J4HClBDSWYJQ4ekj87o8QlSPWIG1WPfulrUOD9H-qC5ny4Q7appbVkpSiFI/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 
 **P1 Henri Matisse**
-
+<iframe allowfullscreen="true" height="369" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRWx58-EmOELoHKcjmo_CZX5E-ugRzn1X_pvxHtHUzU-Dy2GLTKIYUsSjwjpgYgNg9tw4AoXagTt1H/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **P2 Jackson Pollock**
 
