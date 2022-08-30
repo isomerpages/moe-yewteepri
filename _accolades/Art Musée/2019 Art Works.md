@@ -12,17 +12,17 @@ The Singapore Youth Festival Art Exhibition, in its 51st year in 2019, celebrate
 
 Click&nbsp;[here](https://www.syf.gov.sg/art-exhibition/about-the-2019-exhibition) **broken link** &nbsp;to catch the artworks of our P2 Budding Artists (Category A) and members of the Artists’ Hub (Category B and C) in the online catalogue.
 
-<img style="width:90%" src="/images/SYF19-CatA.png">
-<img style="width:90%" src="/images/SYF19-CatB.png">
-<img style="width:90%" src="/images/SYF19-CatC.png">
+<img src="/images/SYF19-CatA.png" style="width:90%">
+<img src="/images/SYF19-CatB.png" style="width:90%">
+<img src="/images/SYF19-CatC.png" style="width:90%">
 		 
 #### Art Gallery
 
 **"Let's Care for Our Environment" Art Competition**
-<iframe allowfullscreen="true" width="700" height="369" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZQlLcoYb6RfgHnd36GfSIttC_FhQDxmcNgkDgTzwi2BAE1jg3_tzyQxJ1sIj3B3qgGeLiwCCkdoyZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZQlLcoYb6RfgHnd36GfSIttC_FhQDxmcNgkDgTzwi2BAE1jg3_tzyQxJ1sIj3B3qgGeLiwCCkdoyZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="369" width="700" allowfullscreen="true"></iframe>
 
 **2019 Peace Posters Competition**
-
+<iframe allowfullscreen="true" height="369" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwAfbBwo2sXeRuU4YB0DxJJpLxGLXdcAE77ujc3bNI3UW9G9XT_eFMTRe_OrnylNV6N-cbiSD5HtRf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Cat Paintings**
 
