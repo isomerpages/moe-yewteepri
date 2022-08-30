@@ -19,7 +19,7 @@ Click&nbsp;[here](https://www.syf.gov.sg/art-exhibition/about-the-2019-exhibitio
 #### Art Gallery
 
 **"Let's Care for Our Environment" Art Competition**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZQlLcoYb6RfgHnd36GfSIttC_FhQDxmcNgkDgTzwi2BAE1jg3_tzyQxJ1sIj3B3qgGeLiwCCkdoyZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="700" height="369" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZQlLcoYb6RfgHnd36GfSIttC_FhQDxmcNgkDgTzwi2BAE1jg3_tzyQxJ1sIj3B3qgGeLiwCCkdoyZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **2019 Peace Posters Competition**
 
