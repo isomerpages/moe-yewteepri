@@ -15,4 +15,4 @@ third_nav_title: Art Musée
 * Peace Poster (file exceeds 5mb)
 
 **Art Club Illustration**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaegOvzAVarrr9018rv1J7zLcY9fBNeQnrpjxkQpXLDkU9BMxR-Hst1z3F0rRjL4Je5CHCk4Y2vDsG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="700" height="369" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTaegOvzAVarrr9018rv1J7zLcY9fBNeQnrpjxkQpXLDkU9BMxR-Hst1z3F0rRjL4Je5CHCk4Y2vDsG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
