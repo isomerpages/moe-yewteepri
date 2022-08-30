@@ -17,4 +17,4 @@ third_nav_title: Art Musée
 * [Print Making] (file size more than 5mb)
 * [Starry Night] (file size more than 5mb)
 
-<iframe allowfullscreen="true" height="269" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQba44hvAvXzYF21Tjr5J4HClBDSWYJQ4ekj87o8QlSPWIG1WPfulrUOD9H-qC5ny4Q7appbVkpSiFI/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="369" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQba44hvAvXzYF21Tjr5J4HClBDSWYJQ4ekj87o8QlSPWIG1WPfulrUOD9H-qC5ny4Q7appbVkpSiFI/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
