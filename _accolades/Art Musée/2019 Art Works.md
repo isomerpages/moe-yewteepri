@@ -30,3 +30,29 @@ Click [here](https://www.syf.gov.sg/art-exhibition/about-the-2019-exhibition) *
 * [Grid Drawings](/files/grid%20drawings.pdf)
 * [Kadinsky Paintings](/files/Kadinsky%20Paintings.pdf)
 * [My Favourite Space in School](/files/favorite%20space%20in%20school.pdf)
+
+**"Let's Care for Our Environment" Art Competition**
+
+
+**2019 Peace Posters Competition**
+
+
+**Cat Paintings**
+
+
+**Cat Sculpture**
+
+
+**Chinese Ink Paintings**
+
+
+**EZCOECA Young Illustrator Competition**
+
+
+**Grid Drawings**
+
+
+**Kadinsky Paintings**
+
+
+**My Favourite Space in School**
