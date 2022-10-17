@@ -10,10 +10,10 @@ description: ""
 **Reflective Learners, Gracious Citizens**
 
 **As Reflective Learners, all Yew Tee Primary students are:**
-*   Confident and articulate
-*   Curious about learning yet discerning
-*   Resourceful
 *   Adaptable
+*   Resourceful
+*   Confident
+*   Creative (innovative thinking)
 
 **As Gracious Citizens, all Yew Tee Primary students:**
 *   Are persons of character exemplifying the school values (i.e. Integrity, Responsibility, Respect, Perseverance and Care)
