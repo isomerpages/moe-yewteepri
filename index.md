@@ -4,10 +4,7 @@ title: Yew Tee Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Early Closure for General Office on 27 May 2022 In support of the
-  “Eat With Your Family Day”, which is an initiative that is supported by the
-  Ministry of Social and Family Development (MSF), the school will be closing at
-  5 pm on 27 May 2022 (Friday).
+notification: ""
 sections:
   - hero:
       title: Yew Tee Primary School
