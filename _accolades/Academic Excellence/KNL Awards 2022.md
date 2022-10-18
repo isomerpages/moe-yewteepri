@@ -35,22 +35,10 @@ third_nav_title: Academic Excellence
   </tr>
   <tr>
     <td class="tg-0pky">14th Inter Primary School Talent Quest organized by Yew Tee CC - IAEC<br></td>
-    <td class="tg-0pky">Overall Champion for 2022<br><br>1st Prize Winner (Fancy Dress)<br>Karthik Kaashvi  (1 Empathy)<br><br>2nd Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>1st Prize Winner (Show Tell)<br>Ninthyanandam Mohith (2 Respect)<br><br>1st Prize Winner<br>Thanishka Sathish (3 Diligence)<br><br>1st Prize Winner (Storytelling)<br>Haethika (4 Integrity)<br><br>3rd Prize Winner<br>Vangal Pradeep Akkrutha (4 Care)<br><br>Consolation Prize Winner<br>Senthil Nathan Sai Prasanna (4 Diligence)<br><br>3rd Prize Winner<br>(Skit-Team Category)<br><br>1) Ashokan Akalya (6 Diligence)<br><br>2) Farook Babu Jasim Mohammed (6 Diligence)<br><br>3) Sathiyaseelan Sanjeev Kamalesh (6 Diligence)<br><br></td>
+    <td class="tg-0pky">Overall Champion for 2022<br><br>1st Prize Winner (Fancy Dress)<br>Karthik Kaashvi  (1 Empathy)<br><br>2nd Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>1st Prize Winner (Show Tell)<br>Ninthyanandam Mohith (2 Respect)<br><br>1st Prize Winner<br>Thanishka Sathish (3 Diligence)<br><br>1st Prize Winner (Storytelling)<br>Haethika (4 Integrity)<br><br>3rd Prize Winner<br>Vangal Pradeep Akkrutha (4 Care)<br><br>Consolation Prize Winner<br>Senthil Nathan Sai Prasanna (4 Diligence)<br><br>3rd Prize Winner<br>(Skit-Team Category)<br><br>1) Ashokan Akalya (6 Diligence)<br><br>2) Farook Babu Jasim Mohammed (6 Diligence)<br><br>3) Sathiyaseelan Sanjeev Kamalesh (6 Diligence)<br><br>4) Elanthiryan Roshan (6 Respect)<br><br>5) Tharunraj Narasimamorthy (6 Respect)</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Literacy<br></td>
-    <td class="tg-c3ow">Muthamizh Vizha 2021<br></td>
-    <td class="tg-0pky">Winners<br><br>P3 – Haethika (3 Integrity)<br>P5 – Mukilan Anamitra (5 Care)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-c3ow">Kolam Ayer CC IAEC<br>Inter School Virtual Tamil Language Competition 2021</td>
-    <td class="tg-0pky">3rd Prize – Storytelling Competition – Thirukkural<br><br>Sureshprabhu Sai Chatresh (2 Empathy)<br>Participation Certificates<br><br>Sivabalan Daksha (4 Care) – Oratorical Competition<br>Elangovan Kuralamudhan (6 Diligence )- Poetry Writing</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Literacy<br></td>
-    <td class="tg-c3ow">National Poetry Competition (NPC) 2021<br></td>
-    <td class="tg-0pky">Finalist / Awarded Certificate of Appreciation<br><br>Elangovan Kuralamudhan (6 Diligence )</td>
+    </td>
   </tr>
 </tbody>
 </table>
