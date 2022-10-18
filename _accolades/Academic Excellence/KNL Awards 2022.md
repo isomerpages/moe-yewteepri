@@ -27,15 +27,15 @@ third_nav_title: Academic Excellence
   <tr>
     <td class="tg-c3ow" rowspan="3">Literacy<br></td>
     <td class="tg-c3ow">**Bharathiyaar Bharathidasan Songs Appreciation**</td>
-    <td class="tg-0pky">Semi- Finalists<br>Nedunchezhiyan Krithi (6 Care)<br>Vethathiriyan Krishnamoorthi (6 Care)<br>Gunasegaran Baranikumar (6 Diligence)<br>Nanthakumar Ishani (6 Diligence)<br>Mithun Sakthivel (6 Empathy)</td>
+    <td class="tg-0pky">1st Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>3rd Prize Winner<br>Karthik Kaashvi (1 Empathy)<br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">MediaCorp Seithi’s Pongal Competitions 2021<br></td>
-    <td class="tg-c3ow">P2 – Drawing Competition<br>Winner :<br><br>Vivek Venba (2 Faith)<br>P3 &amp; P4 – Decorating Pongal Pot using recycled materials<br>Winners :<br><br>Shazana Humaira (3 Diligence)<br>Ranjeth Aradhana (4 Diligence)<br>P5 – Pongal Greeting Card Making Competition<br>Winner :<br><br>Mukilan Anamitra (5 Care)</td>
+    <td class="tg-0pky">MAGO National Storytelling Competition organized by AKT International<br></td>
+    <td class="tg-0pky">3rd Prize Winner<br>Vangal Pradeep Akkruta (4 Care)<br><br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Tirukkural Vizha Literacy Competitions 2021<br></td>
-    <td class="tg-0pky">2nd Prize<br><br>Gunasegaran Baranikumar (6 Diligence) &amp;<br>Sivashanmugam Jaikishan (6 Empathy)<br>3rd Prize<br><br>Mukilan Anamitra (5 Care) &amp;<br>Rashmika Anand (5 Empathy)<br>Participation Certificates<br><br>Aravinthan Jagnavi (2 Perseverance)<br>Vimalraj Yashitha (2 Respect)<br>Arungulavan Sunjeeve (3 Integrity)<br>Sivabalan Daksha (4 Care)</td>
+    <td class="tg-0pky">14th Inter Primary School Talent Quest organized by Yew Tee CC - IAEC<br></td>
+    <td class="tg-0pky">Overall Champion for 2022<br><br>Gunasegaran Baranikumar (6 Diligence) &amp;<br>Sivashanmugam Jaikishan (6 Empathy)<br>3rd Prize<br><br>Mukilan Anamitra (5 Care) &amp;<br>Rashmika Anand (5 Empathy)<br>Participation Certificates<br><br>Aravinthan Jagnavi (2 Perseverance)<br>Vimalraj Yashitha (2 Respect)<br>Arungulavan Sunjeeve (3 Integrity)<br>Sivabalan Daksha (4 Care)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Literacy<br></td>
