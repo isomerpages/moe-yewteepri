@@ -14,7 +14,19 @@ Moreover, through the Environmental Learning programme, STEM Learning programme 
 
 #### Department Members
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Head of Department</strong><br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mr Koh Chee How<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Level Head</strong><br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mdm Siti Zaleha<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Members</strong></td></tr></tbody></table><table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr Woon Kin Chong (ST Sci)<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Ng Yaw Ling<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Carlyn Ong<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mdm Joyce Lim<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr Darren Wong<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Yang Huiyi<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr K. Sreedraran Nair<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mdm Sum Wai Fun<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Nur Huda<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mdm Yasmin Sultanah<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mrs Ying-Fong Yin Kuan<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mdm Rozalina Mohamed Yahya</td></tr></tbody></table>
+
+| **Head of Department** || 
+| -------- | -------- |
+| Mr Koh Chee How    ||
+|**Level Head**||
+|Mdm Siti Zaleha||
+|**Members**||
+|Mr Woon Kin Chong (ST Sci)|Ms Ng Yaw Ling (SSD)|
+|Ms Carlyn Ong|Mdm Joyce Lim|
+|Mr Darren Wong|Ms Yang Huiyi|
+|Mdm Rozalina Mohamed Yahya|Mdm Sum Wai Fun|
+|Ms Nur Huda|Mdm Yasmin Sultanah|
+|Mrs Ying-Fong Yin Kuan||
 
 #### Key Programmes
 
@@ -26,17 +38,17 @@ Learning of Science is not limited to only inside the classrooms or Science labs
 *   Playpond
 *   Mini Eco Forest
 
-<img src="/images/elp%20science.gif" 
-     style="width:70%">
+<img style="width:70%" src="/images/elp%20science.gif">
 
 ##### STEM Learning Programme (STEM)
 This programme incorporates various hands-on activities of STEM learning. It aims to spark students’ interest and curiosity when they apply their knowledge in Science, Technology and Mathematics in the activities. This programme will also enhance their problem-solving and communication skills.
 
-<img src="/images/science%20STEM.gif" 
-     style="width:70%">
+<img style="width:70%" src="/images/science%20STEM.gif">
 
 ##### Sony Creative Science Award (SCSA)
 This event is Singapore’s largest toy-making competition. It provides students with opportunities to develop their creativity and thinking skills. Students will design and create toys that function based on scientific principles.
 
-<img src="/images/sony%20science%20award.gif" 
-     style="width:65%">
+<img style="width:65%" src="/images/sony%20science%20award.gif">
+		 
+##### Achievements
+<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHjEjgypOrGUeQ-8iEajnF7MWVLKpHi3n9XHbE9utp5olC9Ajb-rhw5hfLvkcN7unhF3bmwlXWMMwp/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
