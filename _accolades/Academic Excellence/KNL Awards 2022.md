@@ -38,7 +38,4 @@ third_nav_title: Academic Excellence
     <td class="tg-0pky">Overall Champion for 2022<br><br>1st Prize Winner (Fancy Dress)<br>Karthik Kaashvi  (1 Empathy)<br><br>2nd Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>1st Prize Winner (Show Tell)<br>Ninthyanandam Mohith (2 Respect)<br><br>1st Prize Winner<br>Thanishka Sathish (3 Diligence)<br><br>1st Prize Winner (Storytelling)<br>Haethika (4 Integrity)<br><br>3rd Prize Winner<br>Vangal Pradeep Akkrutha (4 Care)<br><br>Consolation Prize Winner<br>Senthil Nathan Sai Prasanna (4 Diligence)<br><br>3rd Prize Winner<br>(Skit-Team Category)<br><br>1) Ashokan Akalya (6 Diligence)<br><br>2) Farook Babu Jasim Mohammed (6 Diligence)<br><br>3) Sathiyaseelan Sanjeev Kamalesh (6 Diligence)<br><br>4) Elanthiryan Roshan (6 Respect)<br><br>5) Tharunraj Narasimamorthy (6 Respect)</td>
   </tr>
   <tr>
-    </td>
-  </tr>
-</tbody>
-</table>
+  
