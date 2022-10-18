@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Performing-Arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ### Modern Dance
 
 #### CCA Overview
@@ -16,6 +15,8 @@ International Dance also performed at the American Polygraph Association (Asia P
 
 
 Our Modern Dance CCA was invited to perform at the National Day Observance Ceremony organized by the Prime Minister's Office at the Treasury Building on 8 August. The 12 Primary 5 and 6 students danced their way into the hearts of the audience. We are so proud of the girls.
+
+As part of the Yew Tee National Day Dinner Celebrations, Wushu and Modern Dance CCA performed for the Yew Tee Community on 13 August. 5 Wushu and 18 Modern Dance students performed with gusto and confidence in front of a large audience! The performances were well received by the large audience who attended the event!
 
 
 
@@ -31,3 +32,8 @@ Our Modern Dance CCA was invited to perform at the National Day Observance Cerem
 		 
 ![](/images/AMBI3064.jpg)
 Dance Performance at National Day Observance Ceremony (PMO)
+
+![](/images/TKAM9681.jpg)
+Yew Tee National Day Dinner Celebrations
+
+
