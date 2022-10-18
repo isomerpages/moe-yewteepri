@@ -35,7 +35,7 @@ third_nav_title: Academic Excellence
   </tr>
   <tr>
     <td class="tg-0pky">14th Inter Primary School Talent Quest organized by Yew Tee CC - IAEC<br></td>
-    <td class="tg-0pky">Overall Champion for 2022<br><br>1st Prize Winner (Fancy Dress)<br>Karthik Kaashvi  (1 Empathy)<br><br>2nd Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>1st Prize Winner (Show Tell)<br>Ninthyanandam Mohith (2 Respect)<br><br>1st Prize Winner<br>Thanishka Sathish (3 Diligence)<br><br>1st Prize Winner (Storytelling)<br>Arungulavan Sunjeeve (3 Integrity)<br>Sivabalan Daksha (4 Care)</td>
+    <td class="tg-0pky">Overall Champion for 2022<br><br>1st Prize Winner (Fancy Dress)<br>Karthik Kaashvi  (1 Empathy)<br><br>2nd Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>1st Prize Winner (Show Tell)<br>Ninthyanandam Mohith (2 Respect)<br><br>1st Prize Winner<br>Thanishka Sathish (3 Diligence)<br><br>1st Prize Winner (Storytelling)<br>Haethika (4 Integrity)<br><br>3rd Prize Winner<br>Vangal Pradeep Akkrutha (4 Care)<br><br>Consolation Prize Winner<br>Senthil Nathan Sai Prasanna (4 Diligence)<br><br>3rd Prize Winner<br>(Skit-Team Category)<br><br>1) Ashokan Akalya (6 Diligence)<br><br>2) Farook Babu Jasim Mohammed (6 Diligence)<br><br>3) Sathiyaseelan Sanjeev Kamalesh (6 Diligence)<br><br></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Literacy<br></td>
