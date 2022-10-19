@@ -13,7 +13,6 @@ Rock Climbing in YTPS aims to develop the physical, mental and technical aspects
 #### CCA Photos
 
 ![](/images/rock%20climbing%201.jpg)
-<img src="/images/rock%20climbing%202.jpg" 
-     style="width:85%">
-<img src="/images/rock%20climbing%203.jpg" 
-     style="width:45%">
+<img style="width:85%" src="/images/rock%20climbing%202.jpg">
+<img style="width:45%" src="/images/rock%20climbing%203.jpg">
+<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeyd7SZF0bVGXz43CXl_HMBfoMvrwt4VMu8ztWNQ1jLMqH9xEdlYcpTLvZOjGv9V4XEwfnt85KAIcs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
