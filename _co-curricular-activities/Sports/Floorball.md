@@ -16,5 +16,5 @@ Our team trains dedicatedly in every session and the school provides opportuniti
 
 ![](/images/floorball%201.jpg)
 ![](/images/floorball%202.jpg)
-<img src="/images/floorball%203.jpg" 
-     style="width:55%">
+<img style="width:55%" src="/images/floorball%203.jpg">
+<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1-eiBBl6GZCiF-D9NDu84metvpTtjPPlDZ1CB1G_Z1BjNAX6WXjA4yL9vTe1jEgYojK5Z70BmsB6-/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
