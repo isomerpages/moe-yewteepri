@@ -1,0 +1,10 @@
+collections:
+  quicklinks:
+    output: true
+    order:
+      - MOE Sexuality Education @ YTPS.md
+      - Student Learning Space.md
+      - Student iCON.md
+      - Student Zoom.md
+      - HBL@YTPS.md
+      - Resources for staff.md

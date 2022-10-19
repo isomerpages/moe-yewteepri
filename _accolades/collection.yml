@@ -1,0 +1,26 @@
+collections:
+  accolades:
+    output: true
+    order:
+      - Academic Excellence/KNL Awards 2022.md
+      - Academic Excellence/KNL Awards 2021.md
+      - Academic Excellence/KNL Awards 2019.md
+      - Academic Excellence/KNL Awards 2018.md
+      - Academic Excellence/.keep
+      - CCA Achievements/CCLAS Awards 2022 (CCA).md
+      - CCA Achievements/CCLAS Awards 2021 (CCA).md
+      - CCA Achievements/CCLAS Awards 2020 (CCA).md
+      - CCA Achievements/CCLAS Awards 2019 (CCA).md
+      - CCA Achievements/.keep
+      - School Based Achievements/STAR Awards 2022.md
+      - School Based Achievements/STAR Awards 2021.md
+      - School Based Achievements/STAR Awards 2020.md
+      - School Based Achievements/STAR Awards 2019.md
+      - School Based Achievements/.keep
+      - Photo and Video Gallery/.keep
+      - Art Musée/.keep
+      - Art Musée/Art Musée.md
+      - Art Musée/2022 Arts Works.md
+      - Art Musée/2021 Art Works.md
+      - Art Musée/2020 Art Works.md
+      - Art Musée/2019 Art Works.md

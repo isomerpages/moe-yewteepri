@@ -1,0 +1,17 @@
+collections:
+  partners:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Parent Support Group/Parent Support Group Exco.md
+      - Parent Support Group/Level and Class Leaders.md
+      - Parent Support Group/Parent Support Group Events.md
+      - Parent Support Group/.keep
+      - Information for Parents/School Calender.md
+      - Information for Parents/Communication with Parents.md
+      - Information for Parents/School ePublication.md
+      - Information for Parents/Forms.md
+      - Information for Parents/Service Providers.md
+      - Information for Parents/Useful Links for Parents.md
+      - Information for Parents/Parents Gateway.md
+      - Information for Parents/.keep
