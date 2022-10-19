@@ -1,9 +1,9 @@
 title: Yew Tee Primary School
-url: ""
-favicon: /images/Yew Tee Pri Sch logo.jpg
+url: https://www.yewteepri.moe.edu.sg
+favicon: /images/YTPS Logo_transparent bg_color.png
 colors:
-  primary-color: "#a62d2e"
-  secondary-color: "#b6b895"
+  primary-color: "#ffffff"
+  secondary-color: "#b29576"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,7 +52,7 @@ plugins:
 staging: https://moe-yewteepri-staging.netlify.app
 prod: https://moe-yewteepri-prod.netlify.app
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
