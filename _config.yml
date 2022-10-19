@@ -2,8 +2,8 @@ title: Yew Tee Primary School
 url: https://www.yewteepri.moe.edu.sg
 favicon: /images/YTPS Logo_transparent bg_color.png
 colors:
-  primary-color: "#ffffff"
-  secondary-color: "#b29576"
+  primary-color: "#a62d2e"
+  secondary-color: "#b6b895"
   media-colors:
     - title: media-color-one
       color: "#49759a"
