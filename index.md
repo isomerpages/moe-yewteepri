@@ -17,11 +17,21 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: YTPS Social Media
       button: Click here
       url: /contact-us/more-info/
       description: Facebook & Instagram
-      subtitle: Check out YTPS
 ---
-
