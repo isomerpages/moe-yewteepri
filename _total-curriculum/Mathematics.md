@@ -26,4 +26,3 @@ Technology is used to enhance student engagement in Math classrooms. For example
 E2K Mathematics Programme is an enrichment programme developed by the Israel Centre for Excellence through Education (ICEE) for upper primary pupils who demonstrate interest and ability in Mathematics. This programme aims to develop mathematical thinking using constructivist concepts, in which the pupils create links between prior knowledge and new knowledge.
 
 <iframe allowfullscreen="true" height="350" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQBi7Lq7FGUCzdmBKWzeuX7982HezA6Rx2boJOY_42SQU184x1DfNXcSN0ADwoRvBF7cmlm_vfWVCx4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
