@@ -11,10 +11,4 @@ third_nav_title: Clubs
 The Infocomm Club is made up of students with a strong passion for photography, videography and coding. Members are taught to use photo and video editing software such as Adobe Photoshop and Windows Movie Maker as well as Microbit and Makey Makey for coding. Equipped with their passion and skills that they have learnt during CCA sessions, they contribute actively during school events by capturing memorable moments. Members also participate in competitions where they showcase their creativity and teamwork.
 
 #### CCA Photos
-
-<img src="/images/infocomm%201.jpg" 
-     style="width:85%">
-<img src="/images/infocomm%202.jpg" 
-     style="width:75%">
-<img src="/images/infocomm%203.jpg" 
-     style="width:80%">
+<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCfV91cDoSelKt3P2zYnVf4i6jg2a0ZAV0qz9cTepVaET0CZEwuIX3r8nkE-cZIMaNoh8oi_gZMcT9/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
