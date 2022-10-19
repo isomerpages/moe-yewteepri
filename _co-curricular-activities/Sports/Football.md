@@ -12,9 +12,8 @@ YTPS Football CCA seeks to provide the boys with exposure, experience and the op
 
 #### CCA Photos
 
-<img src="/images/football%203.jpg" 
-     style="width:50%">
+<img style="width:50%" src="/images/football%203.jpg">
 ![](/images/football%201.jpg)
 ![](/images/football%202.jpg)
-<img src="/images/football%204.jpg" 
-     style="width:45%">
+<img style="width:45%" src="/images/football%204.jpg">
+<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbFEsOiEV86RLKmg5hlZKPYmujPm1nQTpgTkh-zloW5FP203q0-2eT2vQRRHnlXjdjDd-vFW745v6X/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
