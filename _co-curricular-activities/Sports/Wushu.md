@@ -26,10 +26,8 @@ Through YTPS Wushu CCA, we aimed to develop nurture our students in terms of ski
 **Competition**
 ![](/images/wushu%203a.jpg)
 
-<img src="/images/wushu%203b.jpg" 
-     style="width:55%">
-<img src="/images/wushu%203c.jpg" 
-     style="width:55%">
+<img style="width:55%" src="/images/wushu%203b.jpg">
+<img style="width:55%" src="/images/wushu%203c.jpg">
 
 ##### 2020
 **Ongoing Training**
@@ -39,6 +37,4 @@ Through YTPS Wushu CCA, we aimed to develop nurture our students in terms of ski
 ##### 2022
 Yew Tee National Day Dinner Celebrations
 ![](/images/VUQF3701%20(1).jpg)
-
-
-
+<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjLQomD_POyNkMiwCuX5hxL-pJDiXcSWGEOQvZeyehhZQux_iU5VhN1BhvculppFqpYgRRb6FUGpjp/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
