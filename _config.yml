@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-yewteepri-staging.netlify.app
 prod: https://moe-yewteepri-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/YTPS Logo_transparent bg_color.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
