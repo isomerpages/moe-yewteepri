@@ -4,11 +4,10 @@ title: Yew Tee Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Welcome to Yew Tee Primary School "
 sections:
   - hero:
-      title: Yew Tee Primary School
-      background: /images/ytpsbanner.gif
+      background: /images/IMG_0038b.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
