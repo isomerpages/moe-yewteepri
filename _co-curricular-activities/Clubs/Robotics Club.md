@@ -7,13 +7,10 @@ third_nav_title: Clubs
 ### Robotics Club
 
 #### CCA Overview
+Robotics Club provides a wonderful platform for the development of critical thinking and innovative as students as constantly challenged to engage in problem-solving process. It requires students team members to work well together, and thus help them to also develop effective communication and collaboration skills.
 
-Our Robotics Club has participated in two major Robotics Competition which are National Robotics Programming Competition (NRPC) in June and National Robotics Competition (NRC) in September 2019. Through these competitions, our team clinched the championship award in NRPC and the 1st runner up in NRC. Taking part in these competitions has taught them resilience and working well with their team members.
+Members who display talent in their craft will have opportunities to represent the school and participate in various competitions.
 
 #### CCA Photos
 
-<img src="/images/robotics%20club%201.jpg" 
-     style="width:85%">
-
- <img src="/images/robotics%20club%202.jpg" 
-     style="width:85%">
+<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTL_P6fcHvzBlQCg-L5KgRulsOozfU3DmOtHYLKyunagvdfpJYQRZ1NJgWccsOYhS7w7CSbJOpfUSW3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
