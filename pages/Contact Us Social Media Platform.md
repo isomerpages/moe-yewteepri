@@ -11,7 +11,7 @@ description: ""
 
 Scan the QR code or click [here](https://www.facebook.com/theyewteeprimaryschool/) to head to Yew Tee Primary School Facebook page!
 
-<br> <br> <br> <br>
+<br> 
 
 #### Instagram
 
