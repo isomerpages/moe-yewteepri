@@ -18,10 +18,6 @@ sections:
           description: ""
           url: /announcements/
   - infobar:
-      title: Quicklinks
-      button: Click here
-      url: /quicklinks/
-  - infobar:
       title: YTPS Social Media
       button: Click here
       url: /contact-us/more-info/
