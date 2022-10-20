@@ -22,6 +22,7 @@ sections:
       button: Click here
       alt: Image alt text
       url: https://yewteepriourhome.com.sg/
+      image: /images/homeytps.jpg
   - infopic:
       title: E-open house
       description: YTPS warmly invites you for a virtual tour of our school and
