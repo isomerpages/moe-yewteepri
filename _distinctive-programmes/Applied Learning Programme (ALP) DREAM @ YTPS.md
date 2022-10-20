@@ -17,7 +17,7 @@ Programme design facilitate students working in teams, whilst activating their p
 
 #### Department Members
 
-| **Head of Department**| | 
+| **Head of Department**||
 | -------- | -------- |
 | Mr Koh Chee How <br> Mdm Chang Mei Cheng   || 
 |**Members**||
