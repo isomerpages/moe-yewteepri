@@ -35,6 +35,6 @@ sections:
   - infobar:
       title: YTPS Social Media
       button: Click here
-      url: /contact-us/more-info/
+      url: /about-ytps/contact-us/
       description: Facebook & Instagram
 ---
