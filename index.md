@@ -7,8 +7,8 @@ permalink: /
 notification: "Welcome to Yew Tee Primary School "
 sections:
   - hero:
-      button: Contact Us
-      url: /contact-us/
+      button: "Quick Links "
+      url: /quicklinks/
       key_highlights:
         - title: Highlights
           description: ""
