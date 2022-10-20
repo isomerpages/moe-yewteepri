@@ -32,6 +32,7 @@ sections:
       button: click here
       url: https://sites.google.com/moe.edu.sg/ytpseopenhouse2022
       image: /images/eopenhousewebanner.png
+      alt: image alt text
   - infobar:
       title: YTPS Social Media
       button: Click here
