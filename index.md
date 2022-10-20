@@ -4,12 +4,11 @@ title: Yew Tee Primary School
 description: An Isomer site of the Singapore Government
 image: /images/YTPS Logo_transparent bg_color.png
 permalink: /
-notification: "Welcome to Yew Tee Primary School "
+notification: ""
 sections:
   - hero:
-      background: /images/IMG_0038b.jpg
-      button: Contact Us
-      url: /contact-us/
+      button: "Quick Links "
+      url: /quicklinks/
       key_highlights:
         - title: Highlights
           description: ""
@@ -17,21 +16,26 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+      background: /images/IMG_0038c.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Home@YTPS
       description: Infopic description
-      button: Button Text
+      button: Click here
       alt: Image alt text
+      url: https://yewteepriourhome.com.sg/
+      image: /images/homeytps.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: E-open house
+      description: YTPS warmly invites you for a virtual tour of our school and
+        programmes.  For more information, please explore the various pages of
+        our school’s website.
+      button: click here
+      url: https://sites.google.com/moe.edu.sg/ytpseopenhouse2022
+      image: /images/eopenhousewebanner.png
+      alt: image alt text
   - infobar:
       title: YTPS Social Media
       button: Click here
-      url: /contact-us/more-info/
+      url: /about-ytps/contact-us/
       description: Facebook & Instagram
 ---

@@ -2,6 +2,7 @@ collections:
   photo-and-video-gallery:
     output: true
     order:
+      - Photo Gallery/2022 Photo Gallery.md
       - Photo Gallery/.keep
       - Photo Gallery/2021 Photo Gallery.md
       - Photo Gallery/2020 Photo Gallery.md

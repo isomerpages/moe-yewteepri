@@ -6,8 +6,8 @@ third_nav_title: Art Musée
 ---
 ### Art Musée
 
-_  
-“Give me a museum and I’ll fill it” – Pablo Picasso_
+
+“Give me a museum and I’ll fill it” – Pablo Picasso
 
 This on-line museum aims to… <br>
 Provide our pupils a platform to showcase their artistic talents<br>
