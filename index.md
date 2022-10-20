@@ -23,11 +23,13 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: E-open house
+      description: YTPS warmly invites you for a virtual tour of our school and
+        programmes.  For more information, please explore the various pages of
+        our school’s website.
+      button: click here
+      url: https://sites.google.com/moe.edu.sg/ytpseopenhouse2022
+      image: /images/eopenhousewebanner.png
   - infobar:
       title: YTPS Social Media
       button: Click here
