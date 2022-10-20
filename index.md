@@ -17,11 +17,11 @@ sections:
           description: ""
           url: /announcements/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Home@YTPS
       description: Infopic description
-      button: Button Text
+      button: Click here
       alt: Image alt text
+      url: https://yewteepriourhome.com.sg/
   - infopic:
       title: E-open house
       description: YTPS warmly invites you for a virtual tour of our school and
