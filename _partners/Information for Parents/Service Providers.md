@@ -42,4 +42,4 @@ Monday, Tuesday, Thursday & Friday 1.40 p.m. to 7.00 p.m. <br>
 Wednesday 12.40 p.m. - 7.00 p.m. <br>
 School Holidays & School Closure Days : 7.30 a.m. - 7.00 p.m. <br>
 Telephone : 8828 8169 <br>
-Email : yewtee\_PS@pro-teach.com
+Email : yewtee_PS@pro-teach.com
