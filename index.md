@@ -7,7 +7,6 @@ permalink: /
 notification: "Welcome to Yew Tee Primary School "
 sections:
   - hero:
-      background: /images/IMG_0038b.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
