@@ -7,8 +7,8 @@ description: ""
 
 #### School Crest
 
-<img src="/images/Yew%20Tee%20Pri%20Sch%20logo.jpg" 
-     style="width:35%">
+<img src="/images/YTPS%20Logo_transparent%20bg_color.png" 
+     style="width:50%">
 		 
 **NAME OF SCHOOL** <br>
 The Chinese characters “Yu Zhi” mean the nurturing of young minds
@@ -32,7 +32,6 @@ Symbolise creativity
 Symbolise racial harmony and caring for others
 
 #### School Song
-
 Yew Tee Primary School <br>
 Loyal to you we shall be <br>
 Hand in hand we unite <br>
