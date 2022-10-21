@@ -14,6 +14,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+        - title: Quick Links
+          description: ""
+          url: /quicklinks/
       background: /images/Yew Tee hero banner .gif
   - infopic:
       title: Home@YTPS
