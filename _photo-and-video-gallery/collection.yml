@@ -1,5 +1,4 @@
 collections:
   photo-and-video-gallery:
     output: true
-    order:
-      - 2022 Video Gallery.md
+    order: []
