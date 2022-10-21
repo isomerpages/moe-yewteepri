@@ -2,6 +2,7 @@ collections:
   photo-and-video-gallery:
     output: true
     order:
+      - 2021 Video Gallery.md
       - 2022 Video Gallery.md
       - 2019 Photo Gallery.md
       - 2020 Photo Gallery.md
