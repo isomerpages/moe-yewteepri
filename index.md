@@ -16,7 +16,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-      background: /images/IMG_0038b.jpg
+      background: /images/Yew Tee hero banner .gif
   - infopic:
       title: Home@YTPS
       description: Home is here at YTPS! Get to know what your child experiences in
