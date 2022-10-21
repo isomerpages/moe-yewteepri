@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Photo Gallery/.keep
-      - Photo Gallery/2021 Photo Gallery.md
       - Photo Gallery/2020 Photo Gallery.md
       - Photo Gallery/2019 Photo Gallery.md
       - Video Gallery/2022 Video Gallery.md
