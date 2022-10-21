@@ -19,7 +19,8 @@ sections:
       background: /images/IMG_0038c.jpg
   - infopic:
       title: Home@YTPS
-      description: Infopic description
+      description: Home is here at YTPS! Get to know what your child experiences in
+        the school. Join us on a virtual tour of the school now.
       button: Click here
       alt: Image alt text
       url: https://yewteepriourhome.com.sg/
