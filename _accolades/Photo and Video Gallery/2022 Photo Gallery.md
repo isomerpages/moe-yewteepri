@@ -2,8 +2,9 @@
 title: 2022 Photo Gallery
 permalink: /photo-and-video-gallery/Photo-Gallery/2022photogallery/
 description: ""
-third_nav_title: Photo Gallery
+third_nav_title: Photo and Video Gallery
 ---
+
 ##### Teachers' Day Celebration
 <iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREQVKTbHWYaDzjJm0XI8Rpzz9Mz7gRMm46k10lmp-dqyGSiQPpDWswqa1lw9iyeR77Es0sqtcr_xRr/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 
