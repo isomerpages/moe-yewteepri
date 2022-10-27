@@ -28,9 +28,7 @@ sections:
       image: /images/homeytps.jpg
   - infopic:
       title: E-open house
-      description: YTPS warmly invites you for a virtual tour of our school and
-        programmes.  For more information, please explore the various pages of
-        our school’s website.
+      description: Welcome to Yew Tee Primary School's E - Open House!
       button: click here
       url: https://sites.google.com/moe.edu.sg/ytpseopenhouse2022
       image: /images/eopenhousewebanner.png
