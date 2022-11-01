@@ -41,4 +41,9 @@ sections:
       url: /about-ytps/contact-us/
       image: /images/240_F_392719944_L0LYv3e7QozB2tsj3CfUN0HPC8eZQOWb.jpg
       alt: Image alt text
+  - infobar:
+      title: MOE Social Media
+      description: You can follow MOE on Facebook <a href="url">@moesingapore</a>,
+        Instagram @moesingapore and @parentingwith.moesg, TikTok @moesingapore
+        or Twitter @MOEsg
 ---
