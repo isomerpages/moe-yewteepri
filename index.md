@@ -43,7 +43,7 @@ sections:
       alt: Image alt text
   - infobar:
       title: MOE Social Media
-      description: You can follow MOE on Facebook <a href="url">@moesingapore</a>,
-        Instagram @moesingapore and @parentingwith.moesg, TikTok @moesingapore
-        or Twitter @MOEsg
+      description: You can follow MOE on Facebook, Instagram, TikTok and Twitter
+      button: Click here
+      url: /about-ytps/contact-us/
 ---
