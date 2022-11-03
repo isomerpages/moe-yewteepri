@@ -33,9 +33,17 @@ sections:
       url: https://sites.google.com/moe.edu.sg/ytpseopenhouse2022
       image: /images/eopenhousewebanner.png
       alt: image alt text
-  - infobar:
+  - infopic:
       title: YTPS Social Media
+      subtitle: Infopic Subtitle
+      description: Facebook & Instagram
+      button: click here
+      url: /about-ytps/contact-us/
+      image: /images/240_F_392719944_L0LYv3e7QozB2tsj3CfUN0HPC8eZQOWb.jpg
+      alt: Image alt text
+  - infobar:
+      title: MOE Social Media
+      description: You can follow MOE on Facebook, Instagram, TikTok and Twitter
       button: Click here
       url: /about-ytps/contact-us/
-      description: Facebook & Instagram
 ---
