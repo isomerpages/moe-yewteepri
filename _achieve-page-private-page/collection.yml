@@ -1,4 +1,5 @@
 collections:
   achieve-page-private-page:
     output: true
-    order: []
+    order:
+      - KNL Awards 2019.md
