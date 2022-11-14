@@ -27,15 +27,25 @@ third_nav_title: Academic Excellence
   <tr>
     <td class="tg-c3ow" rowspan="3">Literacy<br></td>
     <td class="tg-c3ow">**Bharathiyaar Bharathidasan Songs Appreciation**</td>
-    <td class="tg-0pky">1st Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>3rd Prize Winner<br>Karthik Kaashvi (1 Empathy)<br></td>
+    <td class="tg-0pky">   
+Our school emerged  as Overall Champion in the 14th Inter Primary School Tamil Talent Quest Competition organized by Yew Tee CC IAEC, attaining the Challenge Trophy for 2022.<br>
+Our students won various awards such as :<br>
+P1 Fancy Dress – 1ST & 2ND Prize<br>
+P2 Show & Tell – 1ST Prize<br>
+P3 Singing Competition – 1st Prize<br>
+P4 Storytelling Competition – 1st, 3rd and Consolation Prize<br>
+P6 “I can Speak” Oracy Competition – 1st Prize & Consolation Prize<br>
+P6 Drama Competition ( Team Category) - 3rd Prize</td>
   </tr>
   <tr>
     <td class="tg-0pky">MAGO National Storytelling Competition organized by AKT International<br></td>
-    <td class="tg-0pky">3rd Prize Winner<br>Vangal Pradeep Akkruta (4 Care)<br><br></td>
+    <td class="tg-0pky">
+A group of P4s participated in the “MAGO” National Storytelling Competition organized by AKT International and among them 1 student outshined and won the 3rd Prize.<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">14th Inter Primary School Talent Quest organized by Yew Tee CC - IAEC<br></td>
-    <td class="tg-0pky">Overall Champion for 2022<br><br>1st Prize Winner (Fancy Dress)<br>Karthik Kaashvi  (1 Empathy)<br><br>2nd Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>1st Prize Winner (Show Tell)<br>Ninthyanandam Mohith (2 Respect)<br><br>1st Prize Winner<br>Thanishka Sathish (3 Diligence)<br><br>1st Prize Winner (Storytelling)<br>Haethika (4 Integrity)<br><br>3rd Prize Winner<br>Vangal Pradeep Akkrutha (4 Care)<br><br>Consolation Prize Winner<br>Senthil Nathan Sai Prasanna (4 Diligence)<br><br>3rd Prize Winner<br>(Skit-Team Category)<br><br>1) Ashokan Akalya (6 Diligence)<br><br>2) Farook Babu Jasim Mohammed (6 Diligence)<br><br>3) Sathiyaseelan Sanjeev Kamalesh (6 Diligence)<br><br>4) Elanthiryan Roshan (6 Respect)<br><br>5) Tharunraj Narasimamorthy (6 Respect)</td>
+    <td class="tg-0pky">
+“Bharathiyaar Bharathidasan” Songs Appreciation Competition 2022 brough about 2 winners from our Primary 1 level and they each won 1st and 3rd  prize respectively in their category.
+		</td>
   </tr>
   <tr>
-  
