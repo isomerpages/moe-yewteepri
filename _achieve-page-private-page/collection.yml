@@ -1,0 +1,4 @@
+collections:
+  achieve-page-private-page:
+    output: true
+    order: []
