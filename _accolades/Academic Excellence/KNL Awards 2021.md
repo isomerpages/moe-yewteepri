@@ -16,3 +16,7 @@ third_nav_title: Academic Excellence
 ||Muthamizh Vizha 2021|Our school participated in the “Muthamizh Vizha” 2021 organized by the Association of Singapore Tamil Writers, and we won 2 awards in the P3 & P5 Category.|
 ||Kolam Ayer CC IAEC Inter School Virtual Tamil Language Competition 2021|Our school participated in the “Inter School Virtual Tamil Language Competition” 2021 organized  Kolam Ayer CC IAEC, and we won the following awards :  <br>P2 Storytelling - 3rd Prize  <br>P4  Oratorical - Participation Certificate  <br>P6 Poetry Writing - Participation Certificate|
 ||National Poetry Competition (NPC) 2021|Our P6 student was selected as a finalist and was awarded the Certificate of Appreciation in the National Poetry Competition ( NPC) 2021.|
+|National|Singapore Mathematical Olympiad for Primary Schools 2021 (SMOPS 2021)|1 Silver, 6 Bronze|
+||Raffles Institution Primary Mathematics World Contest (RIPMWC) 2021|NIL (Covid, Home-based)|
+||National Mathematical Olympiad of Singapore 2021 (NMOΣ)|2 Silver, 5 Bronze, 23 Honorable Mention|
+||Annual Mathlympics Competition 2021|1 Gold, 9 Bronze, 49 Merit|
