@@ -21,7 +21,7 @@ third_nav_title: CCA Achievements
   <tr>
     <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Category</span><br></th>
     <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Competition/ Programme</span><br></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Recipient</span><br></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Achievements</span><br></th>
   </tr>
 </thead>
 <tbody>
