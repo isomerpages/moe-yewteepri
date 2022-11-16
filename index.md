@@ -17,6 +17,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quicklinks/
+      background: /images/IMG_0063a.jpg
   - infopic:
       title: Home@YTPS
       description: Home is here at YTPS! Get to know what your child experiences in
