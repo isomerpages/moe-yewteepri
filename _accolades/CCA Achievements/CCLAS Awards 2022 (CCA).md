@@ -7,7 +7,7 @@ third_nav_title: CCA Achievements
 ### CCLAS Awards 2022 (CCA)
 <br>
 
-| Category | Competition/ Programme | Recipient |
+| Category | Competition/ Programme | Achievements |
 | -------- | -------- | -------- |
 | Robotics     | National Robotics Competition 2022     | 2nd Position for Best Programming |
 Floorball|Participation Group Stage|Sportsmanship Award
