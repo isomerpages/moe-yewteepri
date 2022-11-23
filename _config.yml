@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-yewteepri-staging.netlify.app
-prod: https://moe-yewteepri-prod.netlify.app
+staging: https://staging.d3usw2mojzvnj5.amplifyapp.com
+prod: https://master.d3usw2mojzvnj5.amplifyapp.com
 shareicon: /images/YTPS Logo_transparent bg_color.png
 is_government: true
 facebook-pixel: ""
