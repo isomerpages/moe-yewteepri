@@ -70,6 +70,8 @@ links:
       - title: Art Musée
         url: /accolades/Art-Musee/2021/
   - title: Partners
+    collection: partners
+  - title: Partners
     url: /school-advisory-committee/
     sublinks:
       - title: School Advisory Committee
