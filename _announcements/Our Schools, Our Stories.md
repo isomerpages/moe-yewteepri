@@ -3,7 +3,6 @@ title: Our Schools, Our Stories
 permalink: /announcements/our-school-our-stories/
 description: ""
 ---
-
 ### Our Schools,Our Stories
 
 The entry [‘The new normal’](https://youtu.be/83vfjK5jtec) produced by the school has won First Prize under the MOE Staff category! Congratulations to the school!
