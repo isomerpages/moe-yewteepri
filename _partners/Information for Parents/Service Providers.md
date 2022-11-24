@@ -11,6 +11,7 @@ third_nav_title: Information for Parents
 Address : Yew Tee Primary School, Bookshop <br>
 Telephone : 81138887 (Robin Chin) <br>
 Operating hours : Monday – Friday 8.30 a.m. to 2.30 p.m. 
+<br>
 **Booklist 2023:**<br>
 [P1 - Booklist](/files/P1%20-%20Booklist%202023.pdf)
 <br>
