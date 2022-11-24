@@ -3,7 +3,7 @@ url: https://www.yewteepri.moe.edu.sg
 favicon: /images/YTPS Logo_transparent bg_color.png
 colors:
   primary-color: "#a62d2e"
-  secondary-color: "#ffd160"
+  secondary-color: "#4269bc"
   media-colors:
     - title: media-color-one
       color: "#49759a"
