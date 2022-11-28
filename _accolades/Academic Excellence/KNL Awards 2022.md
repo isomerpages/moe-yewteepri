@@ -20,4 +20,3 @@ third_nav_title: Academic Excellence
 ||第二十六届全国小学现场华文创作比赛 <br>The 26th National Primary Schools On-The-Spot Chinese Creative Essay Writing Competition|Category D (non-Chinese /Primary 6)<br>- Second Place<br><br>Category F (non-Chinese / Primary 4)<br>- Third Place<br><br>Category A (12-14 year old)<br>- Merit|
 ||第五届中小学课文朗诵比赛<br>5th CL Text Recital Competition for Primary and Secondary|Lower Primary<br>1 Silver (Individual)<br>2 Bronze (Group)<br>1 Bronze (Individual)<br><br>Upper Primary<br>1 Silver (Individual)<br>2 Bronze (Group)<br>2 Bronze (Group)<br>1 Bronze (Individual)|
 ||||
-||||
