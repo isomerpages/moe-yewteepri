@@ -20,3 +20,6 @@ third_nav_title: Academic Excellence
 ||Raffles Institution Primary Mathematics World Contest (RIPMWC) 2021|NIL (Covid, Home-based)|
 ||National Mathematical Olympiad of Singapore 2021 (NMOΣ)|2 Silver, 5 Bronze, 23 Honorable Mention|
 ||Annual Mathlympics Competition 2021|1 Gold, 9 Bronze, 49 Merit|
+||16th “National Primary School Cross-Talk Competition" 2021|1 Best New Performer Award|
+||第四届中小学课文朗诵比赛 4th Text Recital Competition for Primary and Secondary School|1 Silver (Team)<br>1 Bronze(Team)|
+||||
