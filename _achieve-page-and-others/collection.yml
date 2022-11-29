@@ -2,4 +2,5 @@ collections:
   achieve-page-and-others:
     output: true
     order:
+      - MOE social media.md
       - KNL Awards 2019.md
