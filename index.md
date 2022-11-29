@@ -45,5 +45,5 @@ sections:
       title: MOE Social Media
       description: You can follow MOE on Facebook, Instagram, TikTok and Twitter
       button: Click here
-      url: /about-ytps/contact-us/
+      url: /quicklinks/moesocialmedia/
 ---
