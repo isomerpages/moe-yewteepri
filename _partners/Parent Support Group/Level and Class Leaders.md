@@ -8,7 +8,7 @@ third_nav_title: Parent Support Group
 
 
 ##### Primary 1
-| | |
+|||
 | -------- | -------- | 
 | **P1 Level Leader** | Ms Yue Siew Leng (1P) | 
 | **P1 Class Leader**   | Mr Tan Boon Ghee (1C)|
@@ -113,8 +113,3 @@ third_nav_title: Parent Support Group
 ||Ms Celine Loh (6P)|
 ||Ms Viviane de Cassia Pereira Figueiredo (6R)|
 ||Ms Saadiah Binte Abdul Rahman (6R)|
-
-
-
-
-
