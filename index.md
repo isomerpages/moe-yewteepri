@@ -34,8 +34,7 @@ sections:
       image: /images/eopenhousewebanner.png
       alt: image alt text
   - infopic:
-      title: YTPS Social Media
-      subtitle: Infopic Subtitle
+      title: Find us on
       description: Facebook & Instagram
       button: click here
       url: /about-ytps/contact-us/
