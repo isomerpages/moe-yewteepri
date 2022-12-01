@@ -6,36 +6,18 @@ third_nav_title: Academic Excellence
 ---
 ### KNL Awards 2022
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Category<br></th>
-    <th class="tg-0pky">Activity / Programme<br></th>
-    <th class="tg-0pky">Achievements<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow" rowspan="3">Literacy<br></td>
-    <td class="tg-c3ow">**Bharathiyaar Bharathidasan Songs Appreciation**</td>
-    <td class="tg-0pky">1st Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>3rd Prize Winner<br>Karthik Kaashvi (1 Empathy)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">MAGO National Storytelling Competition organized by AKT International<br></td>
-    <td class="tg-0pky">3rd Prize Winner<br>Vangal Pradeep Akkruta (4 Care)<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">14th Inter Primary School Talent Quest organized by Yew Tee CC - IAEC<br></td>
-    <td class="tg-0pky">Overall Champion for 2022<br><br>1st Prize Winner (Fancy Dress)<br>Karthik Kaashvi  (1 Empathy)<br><br>2nd Prize Winner<br>Raghavendran Shree Vinay (1 Perseverance)<br><br>1st Prize Winner (Show Tell)<br>Ninthyanandam Mohith (2 Respect)<br><br>1st Prize Winner<br>Thanishka Sathish (3 Diligence)<br><br>1st Prize Winner (Storytelling)<br>Haethika (4 Integrity)<br><br>3rd Prize Winner<br>Vangal Pradeep Akkrutha (4 Care)<br><br>Consolation Prize Winner<br>Senthil Nathan Sai Prasanna (4 Diligence)<br><br>3rd Prize Winner<br>(Skit-Team Category)<br><br>1) Ashokan Akalya (6 Diligence)<br><br>2) Farook Babu Jasim Mohammed (6 Diligence)<br><br>3) Sathiyaseelan Sanjeev Kamalesh (6 Diligence)<br><br>4) Elanthiryan Roshan (6 Respect)<br><br>5) Tharunraj Narasimamorthy (6 Respect)</td>
-  </tr>
-  <tr>
-  
+
+
+| Category | Activity / Programme | Achievements |
+| -------- | -------- | -------- |
+|Literacy    |Bharathiyaar Bharathidasan Songs Appreciation    |Our school emerged  as Overall Champion in the 14th Inter Primary School Tamil Talent Quest Competition organized by Yew Tee CC IAEC, attaining the Challenge Trophy for 2022. <br>Our students won various awards such as : <br> P1 Fancy Dress – 1ST & 2ND Prize<br>  P2 Show & Tell – 1ST Prize<br>  P3 Singing Competition – 1st Prize<br>  P4 Storytelling Competition – 1st, 3rd and Consolation Prize <br> P6 “I can Speak” Oracy Competition – 1st Prize & Consolation Prize <br>P6 Drama Competition ( Team Category) - 3rd Prize|
+||MAGO National Storytelling Competition organized by AKT International|A group of P4s participated in the “MAGO” National Storytelling Competition organized by AKT International and among them 1 student outshined and won the 3rd Prize.|
+||14th Inter Primary School Talent Quest organized by Yew Tee CC - IAEC|“Bharathiyaar Bharathidasan” Songs Appreciation Competition 2022 brough about 2 winners from our Primary 1 level and they each won 1st and 3rd  prize respectively in their category.|
+|National|Singapore Mathematical Olympiad for Primary Schools 2022 (SMOPS 2022)|1 Gold, 1 Silver, 4 Bronze|
+|National|Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022|2 High Distinction, 4 Distinction, 9 Merit|
+|National|National Mathematical Olympiad of Singapore 2022 (NMOΣ)|2 Silver, 8 Bronze, 20 Honorable Mention|
+|National|Annual Mathlympics Competition 2022|3 Silver, 5 Bronze|
+||第二十六届全国小学现场华文创作比赛 <br>The 26th National Primary Schools On-The-Spot Chinese Creative Essay Writing Competition|Category D (non-Chinese /Primary 6)<br>- Second Place<br><br>Category F (non-Chinese / Primary 4)<br>- Third Place<br><br>Category A (12-14 year old)<br>- Merit|
+||第五届中小学课文朗诵比赛<br>5th CL Text Recital Competition for Primary and Secondary|Lower Primary<br>1 Silver (Individual)<br>2 Bronze (Group)<br>1 Bronze (Individual)<br><br>Upper Primary<br>1 Silver (Individual)<br>2 Bronze (Group)<br>2 Bronze (Group)<br>1 Bronze (Individual)|
+||2022年超级阅读明星比赛<br>Reading Super Star Competition 2022|Lower Primary<br>低年级游戏类优异奖<br>1 Merit Award<br><br>Middle Primary<br>中年级纸本类优异奖<br>1 Merit Award<br><br>Upper Primary<br>高年级游戏类优异奖<br>2 Merit Awards
+|

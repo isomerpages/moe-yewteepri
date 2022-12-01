@@ -70,11 +70,4 @@ links:
       - title: Art Musée
         url: /accolades/Art-Musee/2021/
   - title: Partners
-    url: /school-advisory-committee/
-    sublinks:
-      - title: School Advisory Committee
-        url: /school-advisory-committee/
-      - title: Parent Support Group
-        url: /partners/parent-support-group/exco/
-      - title: Information for Parents
-        url: /partners/information-for-parents/school-calender/
+    collection: partners

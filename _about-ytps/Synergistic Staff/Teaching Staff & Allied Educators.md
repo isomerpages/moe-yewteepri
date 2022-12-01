@@ -32,8 +32,8 @@ third_nav_title: Synergistic Staff
 | 2 Faith | Shehnam Khan (Mdm)<br> [shehnam_khan@moe.edu.sg](mailto:shehnam_khan@moe.edu.sg) | Lee Wen Hui (Mr)<br> [lee_wen_hui@moe.edu.sg](mailto:lee_wen_hui@moe.edu.sg) | Zhuo Miao Lin (Mdm) <br>[zhuo_miaolin@moe.edu.sg](mailto:zhuo_miaolin@moe.edu.sg) |
 | 2Grace | Chua Lee Lin (Mdm)<br> [Chua_Lee_Lin@moe.edu.sg](mailto:Chua_Lee_Lin@moe.edu.sg) |  Ng Su Hoon Angeline (Mdm)<br> [ng_su_hoon_angeline@schools.gov.sg](mailto:ng_su_hoon_angeline@schools.gov.sg) |   |
 | 2 Integrity | Munalizah Binte Ajis (Mdm)<br> [munalizah_ajis@moe.edu.sg](mailto:munalizah_ajis@moe.edu.sg) | Chang Mei Cheng (Mdm) <br>[chang_mei_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg) |  |
-| 2 Perseverance | Shavitha Jamna Ramakrishnan(Mdm)<br> [shavitha_jamna_ramakrishnan@moe](mailto:shavitha_jamna_ramakrishnan@moe) | June Lee Choon Muay (Mdm) <br>[lee_choon_muay@moe.edu.sg](mailto:lee_choon_muay@moe.edu.sg) | Ng Beng Kiaw (Mdm) <br>[ng_beng_kiaw@moe.edu.sg](mailto:ng_beng_kiaw@moe.edu.sg) |
-| 2 Respect | Pauline Chua (Mrs)<br> [neo_pauline_chua_pauline@moe.edu.sg](mailto:neo_pauline_chua_pauline@moe.edu.sg) | Chua Gek Tiang (Mdm) <br>[chua_gek_tiang@moe.edu.sg](mailto:chua_gek_tiang@moe.edu.sg) |  |
+| 2 Perseverance | Shavitha Jamna Ramakrishnan (Mdm)<br> [shavitha_jamna_ramakrishnan@moe](mailto:shavitha_jamna_ramakrishnan@moe) | June Lee Choon Muay (Mdm) <br>[lee_choon_muay@moe.edu.sg](mailto:lee_choon_muay@moe.edu.sg) | Ng Beng Kiaw (Mdm) <br>[ng_beng_kiaw@moe.edu.sg](mailto:ng_beng_kiaw@moe.edu.sg) |
+| 2 Respect | Neo Pauline (Mdm)<br> [neo_pauline_chua_pauline@moe.edu.sg](mailto:neo_pauline_chua_pauline@moe.edu.sg) | Chua Gek Tiang (Mdm) <br>[chua_gek_tiang@moe.edu.sg](mailto:chua_gek_tiang@moe.edu.sg) |  |
 |
 
 ##### Primary 3
