@@ -23,4 +23,4 @@ Supporting staff awards such as:
 
 * The YTPS Long Service Award (for staff who have rendered 10 years or more of service to YTPS)
 
-* The My Partner-Teacher Award (for teachers who demonstrate commitment to building strong partnership with parents)
+* My Partner-Teacher Award (for teachers who demonstrate commitment to building strong partnership with parents)
