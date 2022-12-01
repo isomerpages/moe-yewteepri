@@ -24,7 +24,7 @@ third_nav_title: Parent Support Group
 
 
 ##### Primary 2
-| | |
+|||
 | -------- | -------- | 
 | **P2 Level Leader** | Ms Sun Qiaoyang (2C)| 
 ||Ms Geetha Stalin (2G)|
@@ -48,7 +48,7 @@ third_nav_title: Parent Support Group
 ||Ms Ji Xiao Na (2R)|
 
 ##### Primary 3
-| | |
+|||
 | -------- | -------- | 
 | **P3 Level Leader** | Ms Dinindya Warusavithana (3C)| 
 | **P3 Class Leader**   |Ms Tan Boon Ping (Linda) (3C)|
@@ -64,7 +64,7 @@ third_nav_title: Parent Support Group
 
 
 ##### Primary 4
-| | |
+|||
 | -------- | -------- | 
 | **P4 Level Leader** |Mr Hu Biao (4E)| 
 | **P4 Class Leader**   |Ms Adeline Niah (4C)|
@@ -82,7 +82,7 @@ third_nav_title: Parent Support Group
 
 
 ##### Primary 5
-| | |
+|||
 | -------- | -------- | 
 | **P5 Level Leader** |Mr Chin Kin Hing (5C)| 
 ||Mr Srikanth Gudigandla (5D)|
@@ -98,7 +98,7 @@ third_nav_title: Parent Support Group
 ||Ms Renee Lee (5R)|
 
 ##### Primary 6
-| | |
+|||
 | -------- | -------- | 
 | **P6 Level Leader** |Mr Zaw Myo Lwin (6E)| 
 | **P6 Class Leader**   |Ms Cheryl Ong (6C)|
