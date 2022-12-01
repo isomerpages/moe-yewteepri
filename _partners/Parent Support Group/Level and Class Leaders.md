@@ -8,7 +8,7 @@ third_nav_title: Parent Support Group
 
 
 ##### Primary 1
-|||
+|Level|Name|
 | -------- | -------- | 
 | **P1 Level Leader** | Ms Yue Siew Leng (1P) | 
 | **P1 Class Leader**   | Mr Tan Boon Ghee (1C)|
