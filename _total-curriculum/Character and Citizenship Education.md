@@ -12,6 +12,7 @@ The school takes an integrated approach to Character &amp; Citizenship Education
 Synthesising all these into a coherent experience for the children is the school’s signature&nbsp;_Citizenship, Creativity, Leadership, Action and Service_&nbsp;(CCLAS) platform – an enabler in our Total Curriculum Framework (TCF) that was adapted from the International Baccalaureate Programme as well as the National Youth Achievement Award. Every child joining our school thus embarks on a journey of self-discovery to maximise their potential, through experiential learning in these five domains that challenge them to grow personally and interpersonally, with civic and social mindedness regardless of their starting point.
 
 #### Department Members
+
 | **Head of Department**  | | 
 | --------| -------- | 
 | Mr Sairamprabhu s/o Balasubramaniam|
