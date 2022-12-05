@@ -12,5 +12,5 @@ third_nav_title: Our Heritage
 | 2004 - 2008 | Mrs Brenda Tan |
 | 2009 - 2013 | Mrs Janis Kok |
 | 2014 - 2021 | Ms Ang Mui Khoong |
-|  2022 - current |  Ms Nur Sabariah Mohd Ibrahim |
+|  2022 - Present |  Ms Nur Sabariah Mohd Ibrahim |
 |
