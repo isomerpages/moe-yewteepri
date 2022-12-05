@@ -56,4 +56,3 @@ EXCELLENCE WITH INTEGRITY
 _**Lyrics** \- Students and Staff of Yew Tee Primary School_ <br>
 _**Composer** – Ling Young Ern_<br>
 _**Vocalist** – Esther Ling_<br>
-_**Arrangement & Recording** – Young Studios_
