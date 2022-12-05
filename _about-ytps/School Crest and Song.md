@@ -53,6 +53,6 @@ Loyal to you we shall be <br>
 Living out our motto <br>
 EXCELLENCE WITH INTEGRITY
 
-_**Lyrics** \- Students and Staff of Yew Tee Primary School_ <br>
+_**Lyrics** \- Staff and Students of Yew Tee Primary School_ <br>
 _**Composer** – Ling Young Ern_<br>
 _**Vocalist** – Esther Ling_<br>
