@@ -11,7 +11,7 @@ description: ""
      style="width:50%">
 		 
 **NAME OF SCHOOL** <br>
-The Chinese characters “Yu Zhi” mean the nurturing of young minds
+The Chinese characters 育智 “Yu Zhi” mean the nurturing of young minds
 
 **SHIELD** <br>
 Symbolises the integrity and moral ethical values of the bearers
