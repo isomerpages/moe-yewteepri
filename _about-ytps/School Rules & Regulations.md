@@ -20,12 +20,11 @@ description: ""
 *   Students must look clean and neat. Male students must be clean-shaven and neat in appearance.
 *   Students should not wear jewellery and accessories except a pair of simple ear studs for female students with pierced earlobes.
 *   Students are to be in **FASHION** in their general appearance.
-
-*    **F**ingernails - Fingernails must be kept short and clean at all times.
-*    **A**ttire - Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
-*    **S**ocks & shoes - Only black socks and plain black canvas shoes are allowed.
-*    **H**airstyle - Students must keep their hairstyle simple and neat.
-*   **ION** (Iron-on Name Tag) - The student’s name tag should be worn above the school badge.
+        <br>- **F**ingernails - Fingernails must be kept short and clean at all times.
+       <br>- **A**ttire - Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+       <br>- **S**ocks & shoes - Only black socks and plain black canvas shoes are allowed.
+      <br>- **H**airstyle - Students must keep their hairstyle simple and neat.
+      <br>- **ION** (Iron-on Name Tag) - The student’s name tag should be worn above the school badge.
 
 ##### Desirable behavior in School
 Students are expected to:
