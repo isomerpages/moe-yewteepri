@@ -13,10 +13,10 @@ description: ""
 *   Adaptable
 *   Resourceful
 *   Confident
-*   Creative (innovative thinking)
+*   Creative & Innovative Thinking
 
 **As Gracious Citizens, all Yew Tee Primary students:**
-*   Are persons of character exemplifying the school values (i.e. Integrity, Responsibility, Respect, Perseverance and Care)
+*   Are persons of character exemplifying the school values of  Integrity, Responsibility, Respect, Perseverance and Care.
 *   Possesses social-emotional competencies of Self-Awareness, Self-Management, Social Awareness, Relationship Management and Responsible Decision-Making.
 *   Contribute actively to the school, community, nation and environment.
 
