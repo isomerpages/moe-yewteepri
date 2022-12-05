@@ -11,13 +11,13 @@ description: ""
      style="width:50%">
 		 
 **NAME OF SCHOOL** <br>
-The Chinese characters 育智 “Yu Zhi” mean the nurturing of young minds
+The Chinese characters 育智  (Yu Zhi) mean the nurturing of young minds
 
 **SHIELD** <br>
 Symbolises the integrity and moral ethical values of the bearers
 
 **BANNER AND THREE ARROWS** <br>
-Symbolise success and achievements beyond academic accomplishments
+Symbolises success and achievements beyond academic accomplishments
 
 **BOOK** <br>
 Represents knowledge and wisdom
@@ -26,10 +26,10 @@ Represents knowledge and wisdom
 Symbolises achievements in sports and co-curricular activities
 
 **ENTWINED ARROWS** <br>
-Symbolise creativity
+Symbolises creativity
 
 **HANDSHAKE AND HEART** <br>
-Symbolise racial harmony and caring for others
+Symbolises racial harmony and caring for others
 
 #### School Song
 Yew Tee Primary School <br>
