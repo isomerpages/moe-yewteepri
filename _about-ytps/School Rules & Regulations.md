@@ -29,7 +29,7 @@ description: ""
 
 ##### Desirable behavior in School
 Students are expected to:
-*   be punctual, respectful and helpful
+*   be punctual, respectful
 *   exercise self-discipline at all times
 *   do their part in ensuring the school is a safe and conducive learning space for all
 *   keep the classroom and school clean
