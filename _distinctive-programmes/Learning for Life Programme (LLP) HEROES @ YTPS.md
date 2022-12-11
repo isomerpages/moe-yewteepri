@@ -29,7 +29,8 @@ Students who demonstrate the ability to turn challenges into opportunities, show
 ![](/images/heroes%202.jpg)
 ![](/images/heroes%203.jpg)
 
-<img style="width:45%" src="/images/heroes%204.jpg">
+<img style="width:45%" src="/images/heroes%204.jpg"><br>
+
 
 <iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbwzXOZMoUypeWkEwCrZfJs46qeqmi_lvRjeNY-_im5JGMsXUWl237ppkINNjt_m75V1KFzSSN35j7/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 		 
@@ -41,4 +42,3 @@ P1-2 Caterpillar Series
 
 ![](/images/heroes%207.jpg)
 ![](/images/heroes%208.jpg)
-
