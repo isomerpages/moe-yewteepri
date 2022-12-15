@@ -10,7 +10,8 @@ third_nav_title: Information for Parents
 * [Cycling Advisory](https://drive.google.com/file/d/12bAw9u99vWIUefmLtZkMV1GdQwrSkNVV/view)
 
 #### Forms For Existing Students
-* [MOE FAS Application Form](https://drive.google.com/file/d/1ssIsg6Jop4DGcSB2jP4xDqGh4sxCYGPG/view)
+
+* [MOE FAS Application Form](/files/FAS%202023%20Application%20Form.pdf)
 * [GIRO Form](https://drive.google.com/file/d/1B0L9GVxNStsi_dmSUGY8aaWs3nctGfWL/view)
 * [Edusave Form for 2nd-Tier Miscellaneous Fee Payment](/files/Edusave_SO_Form_SPMM.pdf)
 * [Name Tag Order Form](https://drive.google.com/file/d/1qozJLvWqaUqyjsAQ0QSyJE4IDlA6joWj/view)
