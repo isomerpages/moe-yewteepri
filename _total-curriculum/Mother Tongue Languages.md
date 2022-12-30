@@ -18,15 +18,17 @@ Key to this is an emphasis on the core skills of listening, speaking, reading an
 
 ##### Reading Programmes
 A love for reading accelerates language development and to nurture this, students read extensively through a structured programme from Primary One to Six. At the same time, students also learn character development and sound moral values through the experience and power of stories.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJtYSmZn7G-N3_SwNWBh1VR8Nfl8LBUe-UUzMWNs-13cvBTQMbYYzgEC_fNETMdZx1O3zBIpCo-rxR/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="650" height="450" allowfullscreen="true"></iframe>
 <iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvMj3NIvYV8dRDZVaw01NS4SdY-YdT5qmsrjzEgMYiumyBZlKbGFrdieDpFpU3Kgdk6gDmCcEO2on8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 		 
 ##### Mother Tongue (MTL) / e-MTL Fortnight		 
 A platform to enhance the authentic learning of language, the MTL Fortnight activities leverage cultural experiences that allow students to understand and learn MTL in context and as living languages.
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQajSL9mWxIABh11Mf97DOA6VENzhaMVlZfTQihvYqmE0qqK7uggH3mlwDYmQU1XcaTlxrFbS_4uUnv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlU24CykRDQzXusfGeljaDtGRALi-KQsFHhWFe4cE9JuSlVH0xEZ8wOtIMtp8l_9UZ0lcmqdXeLWQ5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 
 ##### Public Speaking 
-To develop confidence in communication, students are trained and given opportunities to experience public speaking at various platforms such as school concerts, celebrations and during recess throughout the year. The&nbsp;school&nbsp;acknowledges those who have put in effort and performed well as a confident speaker.
+To develop confidence in communication, students are trained and given opportunities to experience public speaking at various platforms such as school concerts, celebrations and during recess throughout the year. The school acknowledges those who have put in effort and performed well as a confident speaker.
 
 <img src="/images/public%20speaking.gif" style="width:70%">
 
