@@ -14,7 +14,7 @@ third_nav_title: Synergistic Staff
 |---|---|
 |1C|Cheung Ka Lai (Mdm) [cheung\_ka\_lai@moe.edu.sg](mailto:cheung_ka_lai@moe.edu.sg)<br>Muhammad Nazri Bin Saifee (Mr) [muhammad\_nazri\_saifee@moe.edu.sg](mailto:muhammad_nazri_saifee@moe.edu.sg)|
 |1D|Chua Lee Lin (Mdm) [Chua\_Lee\_Lin@moe.edu.sg](mailto:Chua_Lee_Lin@moe.edu.sg)<br>Irma Bte Hassan (Mdm) [irma\_hassan@moe.edu.sg](mailto:irma_hassan@moe.edu.sg)<br>Tan Meow Huang (Mdm) [tan\_meow\_huang@moe.edu.sg](mailto:tan_meow_huang@moe.edu.sg)|
-|1E|Norazizah Bte Noordin (Mdm) [norazizah\_noordin@moe.edu.sg](mailto:norazizah_noordin@moe.edu.sg)<br>Norhana Bte Juhari (Mdm)[norhana\_halil@moe.edu.sg](mailto:norhana_halil@moe.edu.sg)|
+|1E|Norazizah Bte Noordin (Mdm) [norazizah_noordin@moe.edu.sg](mailto:norazizah_noordin@moe.edu.sg)<br>Norhana Bte Juhari (Mdm)[norhana_juhari@moe.edu.sg](mailto:norhana_juhari@moe.edu.sg)|
 |1F|Lee Wen Hui (Mr) [lee\_wen\_hui@moe.edu.sg](mailto:lee_wen_hui@moe.edu.sg)<br>Ng Su Hoon Angeline (Mrs) [ng\_su\_hoon\_angeline@schools.gov.sg](mailto:ng_su_hoon_angeline@schools.gov.sg)|
 |1I|Shehnam Khan (Mdm) [shehnam\_khan@moe.edu.sg](mailto:shehnam_khan@moe.edu.sg)<br>Tan Chai Hia (Mdm) [tan\_chai\_hia@moe.edu.sg](mailto:tan_chai_hia@moe.edu.sg)|
 |1P|Munalizah Binte Ajis (Mdm) [munalizah\_ajis@moe.edu.sg](mailto:munalizah_ajis@moe.edu.sg)<br>Roslinda Bte Omar (Mdm) [roslinda\_omar@moe.edu.sg](mailto:roslinda_omar@moe.edu.sg)<br>Tan Xian Li Cheris (Mdm) [tan\_xian\_li\_cheris@moe.edu.sg](mailto:tan_xian_li_cheris@moe.edu.sg)|
