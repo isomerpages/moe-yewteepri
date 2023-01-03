@@ -43,7 +43,7 @@ third_nav_title: Synergistic Staff
 |3D|Nor'ashikin Binte Othman (Mdm) [norashikin\_othman@moe.edu.sg](mailto:norashikin_othman@moe.edu.sg)<br>Rashitha Bibi Binte Abdul Hameed (Mdm) [rashitha\_bibi\_abdul\_hameed@moe.edu.sg](mailto:rashitha_bibi_abdul_hameed@moe.edu.sg)|
 |3E|Joyce Lim Ying Ying (Mdm) [joyce\_lim\_ying\_ying@moe.edu.sg](mailto:joyce_lim_ying_ying@moe.edu.sg)<br>Sairamprabhu s/o Balasubramaniam (Mr) [sairamprabhu\_balasubramani@moe.edu.sg](mailto:sairamprabhu_balasubramani@moe.edu.sg)<br>Loh Ho Weng (Mrs)[loh\_ho\_weng@moe.edu.sg](mailto:loh_ho_weng@moe.edu.sg)|
 |3I|Lim Poh Li (Ms) [lim\_poh\_li@moe.edu.sg](mailto:lim_poh_li@moe.edu.sg)<br>Ong Si Pei Carlyn (Miss) [ong\_si\_pei\_carlyn@moe.edu.sg](mailto:ong_si_pei_carlyn@moe.edu.sg)<br>Sum Wai Fun (Mdm) [sum\_wai\_fun@moe.edu.sg](mailto:sum_wai_fun@moe.edu.sg)|
-|3P|Ang Shi Min Geraldine (Mdm) [ang_shi_min_garaldine@moe.edu.sg](mailto:ang_shi_min_garaldine@moe.edu.sg)<br>Wong Song Pei (Mr) [wong\_song\_pei@moe.edu.sg](mailto:wong_song_pei@moe.edu.sg)|
+|3P|Ang Shi Min Geraldine (Mdm) [ang_shi_min_geraldine@moe.edu.sg](mailto:ang_shi_min_geraldine@moe.edu.sg)<br>Wong Song Pei (Mr) [wong\_song\_pei@moe.edu.sg](mailto:wong_song_pei@moe.edu.sg)|
 |3R|Bong Mei Yun Cynthia (Mdm) [bong\_mei\_yun\_cynthia@moe.edu.sg](mailto:bong_mei_yun_cynthia@moe.edu.sg)<br>Cheam Boon Sai Evelyn (Mdm) [cheam\_boon\_sai\_evelyn@moe.edu.sg](mailto:cheam_boon_sai_evelyn@moe.edu.sg) |
 
 
