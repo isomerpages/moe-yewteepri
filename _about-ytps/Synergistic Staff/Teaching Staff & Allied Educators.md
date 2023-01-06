@@ -51,7 +51,7 @@ third_nav_title: Synergistic Staff
 
 | Class |Teacher|
 |---|---|
-|4C|Lekhaadevi Balakrishnan (Ms) [Lekhaadevi\_balakrishan@moe.edu.sg](mailto:Lekhaadevi_balakrishan@moe.edu.sg)<br>Su Yunling (Mdm) [su\_yunling@moe.edu.sg](https://www.yewteepri.moe.edu.sg/about-ytps/Synergistic-Staff/teaching-staff/su_yunling@moe.edu.sg)<br>Wiu Zhen An Caryn (Ms) [Wiu\_Zhen\_An@moe.edu.sg](mailto:Wiu_Zhen_An@moe.edu.sg)|
+|4C|Lekhaadevi Balakrishnan (Ms) [Lekhaadevi\_balakrishnan@moe.edu.sg](mailto:Lekhaadevi_balakrishnan@moe.edu.sg)<br>Su Yunling (Mdm) [su\_yunling@moe.edu.sg](https://www.yewteepri.moe.edu.sg/about-ytps/Synergistic-Staff/teaching-staff/su_yunling@moe.edu.sg)<br>Wiu Zhen An Caryn (Ms) [Wiu\_Zhen\_An@moe.edu.sg](mailto:Wiu_Zhen_An@moe.edu.sg)|
 |4D|Norliza Bte Ali Khan (Ms) [norliza\_ali\_khan@moe.edu.sg](mailto:norliza_ali_khan@moe.edu.sg)<br>Tay-Woo Hui Lyn Amy (Mrs) [woo\_hui\_lyn\_amy@moe.edu.sg](mailto:woo_hui_lyn_amy@moe.edu.sg)|
 |4E|Koh Chee How (Mr) [koh\_chee\_how@moe.edu.sg](mailto:koh_chee_how@moe.edu.sg)<br>Sim Bee Keat (Mr) [sim\_bee\_keat@moe.edu.sg](mailto:sim_bee_keat@moe.edu.sg)<br>Tan Su Ting (Ms) [tan\_su\_ting@moe.edu.sg](mailto:tan_su_ting@moe.edu.sg)|
 |4I|Wong Wei Xiang Darren (Mr) [wong\_wei\_xiang\_darren@moe.edu.sg](mailto:wong_wei_xiang_darren@moe.edu.sg)<br>Fong Yin Kuan-Mrs Ying (Mdm) [fong\_yin\_kuan@moe.edu.sg](mailto:fong_yin_kuan@moe.edu.sg)|
