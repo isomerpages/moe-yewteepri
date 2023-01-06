@@ -15,7 +15,7 @@ third_nav_title: Information for Parents
 * [GIRO Form](https://drive.google.com/file/d/1B0L9GVxNStsi_dmSUGY8aaWs3nctGfWL/view)
 * [Edusave Form for 2nd-Tier Miscellaneous Fee Payment](/files/Edusave_SO_Form_SPMM.pdf)
 * [Name Tag Order Form](https://drive.google.com/file/d/1qozJLvWqaUqyjsAQ0QSyJE4IDlA6joWj/view)
-* [Letter of Request for Use of Mobile Phones](https://drive.google.com/file/d/1769qYFJ6CuGx-YwH8i6D10supQexefUV/view)
+* [Letter of Request for Use of Mobile Phones](https://drive.google.com/file/d/1liF1Wg884ejYB2bS8uURj6lOPcI00T1K/view?usp=share_link)
 
 
 #### Forms For Prospective Parents
