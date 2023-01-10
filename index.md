@@ -17,7 +17,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quicklinks/
-      background: /images/IMG_0063a.jpg
+      background: /images/Untitled-1.jpg
   - infopic:
       title: Find us on
       description: Facebook & Instagram
