@@ -40,9 +40,9 @@ b.	Character and Citizenship Education (CCE)<br><br>
 <table>
 <tbody>
 <tr>
-<td><b>CCE(FTGP) THEME<br></td><td><b>LESSON TITLE / DURATION</td>
-<td><b>LESSON OVERVIEW</td>
-<td><b>TIME PERIOD <br>(e.g. Term 1 Week 2)</td></tr>	
+<td><b>CCE(FTGP) THEME<br><td><b>LESSON TITLE / DURATION</td>
+<td><b>LESSON OVERVIEW
+<td><b>TIME PERIOD <br>(e.g. Term 1 Week 2)	
 <tr>
 <td rowspan="3">Growing Years<br></td><td>The Changes in Me
 (60 min)</td>
