@@ -29,6 +29,7 @@ b.	Character and Citizenship Education (CCE)<br><br>
 
 ##### <u>Sexuality Education Lessons: </u><br>
 6.	The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
+
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. <br><br>
 
 ##### At Yew Tee Primary School, the following Sexuality Education lessons will be taught in <u>2023</u>:<br>
@@ -40,9 +41,11 @@ b.	Character and Citizenship Education (CCE)<br><br>
 <table>
 <tbody>
 <tr>
-<td><b>CCE(FTGP) THEME<br><td><b>LESSON TITLE / DURATION</td>
-<td><b>LESSON OVERVIEW
-<td><b>TIME PERIOD <br>(e.g. Term 1 Week 2)	
+<td><b>CCE(FTGP) THEME<br></td>
+<td><b>LESSON TITLE / DURATION</td>
+<td><b>LESSON OVERVIEW</td>
+<td><b>TIME PERIOD <br>(e.g. Term 1 Week 2)</td>
+</tr>
 <tr>
 <td rowspan="3">Growing Years<br></td><td>The Changes in Me
 (60 min)</td>
@@ -91,11 +94,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
 <td>Term 2 Week 9</td></tr>
 </tbody></table>	
-
 ##### <u>Please Note:</u> <br>*For <u>2023</u>, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
-
 <br>
-
 ##### INFORMATION FOR PARENTS <br>
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. <br>
 9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form link will be provided to parents at the start of the year via Parents Gateway. The completed opt-out form is to be submitted by <b>27/01/2023</b>.<br>
