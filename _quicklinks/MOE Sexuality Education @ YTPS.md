@@ -37,6 +37,7 @@ b.	Character and Citizenship Education (CCE)<br><br>
 ##### 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 
 
 #### PRIMARY 5
+
 <table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;">
 	
 <tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">
@@ -107,7 +108,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 <br>
 
-#### INFORMATION FOR PARENTS
+##### INFORMATION FOR PARENTS <br>
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. <br>
-9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form link will be provided to parents at the start of the year via Parents Gateway and is also accessible [here](https://form.gov.sg/63c4987dbef23b001130ed68). The completed opt-out form is to be submitted by **27/01/2023**.<br>
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form link will be provided to parents at the start of the year via Parents Gateway. The completed opt-out form is to be submitted by <b>27/01/2023</b>.<br>
 10.	Parents can contact the school at 67670027 for discussion or to seek clarification about the school’s Sexuality Education programme.
