@@ -37,16 +37,12 @@ b.	Character and Citizenship Education (CCE)<br><br>
 ##### 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 
 
 #### PRIMARY 5
-
 <table>
-	
 <tbody>
-
 <tr>
 <td><b>CCE(FTGP) THEME<br></td><td><b>LESSON TITLE / DURATION</td>
 <td><b>LESSON OVERVIEW</td>
-<td><b>TIME PERIOD <br>(e.g. Term 1 Week 2)</td></tr>
-	
+<td><b>TIME PERIOD <br>(e.g. Term 1 Week 2)</td></tr>	
 <tr>
 <td rowspan="3">Growing Years<br></td><td>The Changes in Me
 (60 min)</td>
@@ -54,13 +50,11 @@ b.	Character and Citizenship Education (CCE)<br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
 <td>Term 2 Week 9</td></tr>
-	
 <tr>
 <td> Did You Know? (60 min)</td>
 <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’. </b><br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 <td>Term 3 Week 5</td></tr>
-	
 <tr>
 <td>Keeping Myself Safe
 <br>(60 min)</td>
@@ -72,30 +66,24 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 
 ##### PRIMARY 6
-
 <table>
-	
 <tbody>
-
 <tr>
 <td><b>CCE(FTGP) THEME<br></td><td><b>LESSON TITLE / DURATION</td>
 <td><b>LESSON OVERVIEW</td>
 <td><b>TIME PERIOD <br>(e.g. Term 1 Week 2)</td></tr>
-	
 <tr>
 <td rowspan="3">Growing Years<br></td><td >Did You Know? *<br>(60 min)</td>
 <td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’.</b> <br><br>
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
 <td>Term 1 Week 8</td></tr>
-	
 <tr>
 <td>Are We More than Friends?
 <br>Lesson 1 (60 min)
 </td>
 <td>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-<td>Term 2 Week 8</td></tr>
-
+	<td>Term 2 Week 8</td></tr>
 <tr>
 <td>Are We More than Friends?
 <br>Lesson 2 (60 min)
