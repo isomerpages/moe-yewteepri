@@ -25,3 +25,7 @@ Student iCON is a suite of Google apps that helps to better support student’s 
 
 #### Student iCON Support
 Students may approach their form or subject teachers for assistance if they encounter any issues such as password related matters.
+
+##### Student iCON data management and housekeeping
+[Google Takeout Guide for Student iCON](/files/Google_Takeout_Guide_for_Student_iCON.pdf)<br>
+[Quick Guide on Student iCON Data Management](/files/Quick_Guide_on_Student_iCON_Data_Management.pdf)
