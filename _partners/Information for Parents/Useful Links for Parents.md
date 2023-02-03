@@ -17,3 +17,4 @@ third_nav_title: Information for Parents
 * [Centre for Fathering Singapore](https://fathers.com.sg/)
 * [Fei Yue Community Services](https://www.fycs.org/)
 * [School Bag](https://www.schoolbag.edu.sg/)
+* [YTPS OPAC](https://schoolibrary.moe.edu.sg/yewteepri/)
