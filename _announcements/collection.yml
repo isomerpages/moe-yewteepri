@@ -2,6 +2,9 @@ collections:
   announcements:
     output: true
     order:
+      - Inspiring Teacher of English Award 2023.md
+      - MOST INSPIRING TAMIL TEACHERS’ AWARD 2023.md
+      - Arif Budiman Malay Language Teacher Award 2023.md
       - 2023 P1 Orientation Slides.md
       - President's Award for Teachers (PAT) 2023.md
       - List of Approved Dictionaries for Exam Use.md
