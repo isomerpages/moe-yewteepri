@@ -15,7 +15,7 @@ third_nav_title: Synergistic Staff
 |1C|Cheung Ka Lai (Mdm) [cheung\_ka\_lai@moe.edu.sg](mailto:cheung_ka_lai@moe.edu.sg)<br>Muhammad Nazri Bin Saifee (Mr) [muhammad\_nazri\_saifee@moe.edu.sg](mailto:muhammad_nazri_saifee@moe.edu.sg)|
 |1D|Chua Lee Lin (Mdm) [Chua\_Lee\_Lin@moe.edu.sg](mailto:Chua_Lee_Lin@moe.edu.sg)<br>Irma Bte Hassan (Mdm) [irma\_hassan@moe.edu.sg](mailto:irma_hassan@moe.edu.sg)<br>Tan Meow Huang (Mdm) [tan\_meow\_huang@moe.edu.sg](mailto:tan_meow_huang@moe.edu.sg)|
 |1E|Norazizah Bte Noordin (Mdm) [norazizah_noordin@moe.edu.sg](mailto:norazizah_noordin@moe.edu.sg)<br>Norhana Bte Juhari (Mdm)[norhana_juhari@moe.edu.sg](mailto:norhana_juhari@moe.edu.sg)|
-|1F|Lee Wen Hui (Mr) [lee\_wen\_hui@moe.edu.sg](mailto:lee_wen_hui@moe.edu.sg)<br>Ng Su Hoon Angeline (Mrs) [ng\_su\_hoon\_angeline@schools.gov.sg](mailto:ng_su_hoon_angeline@schools.gov.sg)|
+|1F|Lee Wen Hui (Mr) [lee\_wen\_hui@moe.edu.sg](mailto:lee_wen_hui@moe.edu.sg)<br>Ng Su Hoon Angeline (Mrs) [ng\_su\_hoon\_angeline@moe.edu.sg](mailto:ng_su_hoon_angeline@moe.edu.sg)|
 |1I|Shehnam Khan (Mdm) [shehnam\_khan@moe.edu.sg](mailto:shehnam_khan@moe.edu.sg)<br>Tan Chai Hia (Mdm) [tan\_chai\_hia@moe.edu.sg](mailto:tan_chai_hia@moe.edu.sg)|
 |1P|Munalizah Binte Ajis (Mdm) [munalizah\_ajis@moe.edu.sg](mailto:munalizah_ajis@moe.edu.sg)<br>Roslinda Bte Omar (Mdm) [roslinda\_omar@moe.edu.sg](mailto:roslinda_omar@moe.edu.sg)<br>Tan Xian Li Cheris (Mdm) [tan\_xian\_li\_cheris@moe.edu.sg](mailto:tan_xian_li_cheris@moe.edu.sg)|
 |1R|Chee Po Lean (Mdm) [chee\_po\_lean@moe.edu.sg](mailto:chee_po_lean@moe.edu.sg)<br>Neo Pauline (Mdm) [neo\_pauline\_chua\_pauline@moe.edu.sg](mailto:neo_pauline_chua_pauline@moe.edu.sg)<br>Siti Nazhira Binte Mohd Aini (Mdm) [siti\_nazhira\_mohd\_aini@moe.edu.sg](mailto:siti_nazhira_mohd_aini@moe.edu.sg)|
@@ -55,7 +55,7 @@ third_nav_title: Synergistic Staff
 |4D|Norliza Bte Ali Khan (Ms) [norliza\_ali\_khan@moe.edu.sg](mailto:norliza_ali_khan@moe.edu.sg)<br>Tay-Woo Hui Lyn Amy (Mrs) [woo\_hui\_lyn\_amy@moe.edu.sg](mailto:woo_hui_lyn_amy@moe.edu.sg)|
 |4E|Koh Chee How (Mr) [koh\_chee\_how@moe.edu.sg](mailto:koh_chee_how@moe.edu.sg)<br>Sim Bee Keat (Mr) [sim\_bee\_keat@moe.edu.sg](mailto:sim_bee_keat@moe.edu.sg)<br>Tan Su Ting (Ms) [tan\_su\_ting@moe.edu.sg](mailto:tan_su_ting@moe.edu.sg)|
 |4I|Wong Wei Xiang Darren (Mr) [wong\_wei\_xiang\_darren@moe.edu.sg](mailto:wong_wei_xiang_darren@moe.edu.sg)<br>Fong Yin Kuan-Mrs Ying (Mdm) [fong\_yin\_kuan@moe.edu.sg](mailto:fong_yin_kuan@moe.edu.sg)|
-|4P|Rozalina Bte Mohamed Yahya ( Mdm) [rozalina\_mohamed\_yahya@schools.gov.sg](mailto:rozalina_mohamed_yahya@schools.gov.sg)<br>Winaseh Sumarni Bte Ahmad (Mdm) [winaseh\_sumarni\_ahmad@moe.edu.sg](mailto:winaseh_sumarni_ahmad@moe.edu.sg)<br>Yap Poh Choo (Mdm) [yap\_poh\_choo@moe.edu.sg](mailto:yap_poh_choo@moe.edu.sg)|
+|4P|Rozalina Bte Mohamed Yahya ( Mdm) [rozalina\_mohamed\_yahya@moe.edu.sg](mailto:rozalina_mohamed_yahya@moe.edu.sg)<br>Winaseh Sumarni Bte Ahmad (Mdm) [winaseh\_sumarni\_ahmad@moe.edu.sg](mailto:winaseh_sumarni_ahmad@moe.edu.sg)<br>Yap Poh Choo (Mdm) [yap\_poh\_choo@moe.edu.sg](mailto:yap_poh_choo@moe.edu.sg)|
 |4R|Chang Mei Cheng (Mdm) [chang\_mei\_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg)<br>Hartini Bte Sanin (Mdm) [hartini\_sanin@moe.edu.sg](mailto:hartini_sanin@moe.edu.sg)<br>Khairunnisa Binte Sazali (Mdm) [khairunnisa\_sazali@moe.edu.sg](mailto:khairunnisa_sazali@moe.edu.sg)<br>Mohamad Najeeb Bin Abdul Majid (Mr)[mohamad\_najeeb\_abdul\_majid@moe.edu.sg](mailto:mohamad_najeeb_abdul_majid@moe.edu.sg)|
 
 
@@ -63,7 +63,7 @@ third_nav_title: Synergistic Staff
 
 | Class |Teacher|
 |---|---|
-|5C|Gwei Hwee Theng (Mdm) [gwei\_hwee\_theng@moe.edu.sg](mailto:gwei_hwee_theng@moe.edu.sg)<br>Yang Huiyi (Ms) [yang\_huiyi@moe.edu.sg](mailto:yang_huiyi@moe.edu.sg)<br>Vijayalakshimi Balasubramaniam (Mdm) [vijayalakshimi\_bala\_s@schools.gov.sg](mailto:vijayalakshimi_bala_s@schools.gov.sg)|
+|5C|Gwei Hwee Theng (Mdm) [gwei\_hwee\_theng@moe.edu.sg](mailto:gwei_hwee_theng@moe.edu.sg)<br>Yang Huiyi (Ms) [yang\_huiyi@moe.edu.sg](mailto:yang_huiyi@moe.edu.sg)<br>Vijayalakshimi Balasubramaniam (Mdm) [vijayalakshimi\_bala\_s@moe.edu.sg](mailto:vijayalakshimi_bala_s@moe.edu.sg)|
 |5D|Ng Yaw Ling (Mdm) [ng\_yaw\_ling@moe.edu.sg](mailto:ng_yaw_ling@moe.edu.sg)<br>Tok Wei Yuan (Mr) [tok\_wei\_yuan@moe.edu.sg](mailto:tok_wei_yuan@moe.edu.sg)|
 |5E|Woon Kin Chong (Mr) [woon\_kin\_chong@moe.edu.sg](mailto:woon_kin_chong@moe.edu.sg)<br>Zhao Jun (Mdm) [zhao\_jun\_a@moe.edu.sg](mailto:zhao_jun_a@moe.edu.sg)|
 |5I|Pay Soo Cheng (Mdm) [pay\_soo\_cheng@moe.edu.sg](mailto:pay_soo_cheng@moe.edu.sg)<br>Santhi d/o James (Mdm) [santhi\_gomez@moe.edu.sg](mailto:santhi_gomez@moe.edu.sg)|
