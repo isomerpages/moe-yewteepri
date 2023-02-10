@@ -3,8 +3,6 @@ title: Inspiring Teacher of English Award 2023
 permalink: /announcements/Inspiring-Teacher-of-English-Award-2023/
 description: ""
 ---
-
-
 ### Inspiring Teacher of English Award 2023
 
-Click [here](www.goodenglish.org.sg) to nominate your English Language teachers
+Click [here](https://www.languagecouncils.sg/goodenglish/) to nominate your English Language teachers
