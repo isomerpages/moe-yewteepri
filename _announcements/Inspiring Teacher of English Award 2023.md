@@ -5,4 +5,4 @@ description: ""
 ---
 ### Inspiring Teacher of English Award 2023
 
-Click [here](https://www.languagecouncils.sg/goodenglish/) to nominate your English Language teachers
+Click [here](http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information)to nominate your English Language teachers
