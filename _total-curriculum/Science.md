@@ -37,6 +37,9 @@ ELP also serves to educate students on food sustainability and ways to overcome 
 
 ##### STEM Learning Programme (STEM)
 The multi-disciplinary STEM Learning Programme in YTPS sparks the interest of students by providing them with opportunities to enact authentic scenarios. In the process of problem-solving, our students think critically and become reflective learners. They also communicate openly and respectfully while apply their knowledge in Science and other areas such as Technology, Engineering and Mathematics. 
+![](/images/STEM%201.jpg)
+![](/images/STEM%202.jpeg)
+![](/images/STEM%203.jpeg)
 
 
 
