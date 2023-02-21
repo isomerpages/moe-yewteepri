@@ -44,6 +44,9 @@ The multi-disciplinary STEM Learning Programme in YTPS sparks the interest of st
 ![](/images/STEM%205.jpeg)
 ![](/images/STEM%207.jpg)
 
+##### Sony Creative Science Award (SCSA)
+
+The Sony Creative Science Award (SCSA) is Singapore’s largest toy-making competition. Students who are interesting in making a toy based on Scientific principles, go through a series of workshops by our very own teachers. During the workshop, our students learn more about design-thinking and proto-typing. They consult with a team of teachers to get advice on their designs and improve on their initial design before tapping on their creativity and making their very own toy.
 
 
 .................
