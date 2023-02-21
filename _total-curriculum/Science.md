@@ -67,3 +67,10 @@ YTPS teachers and students met this challenge headfirst for the very first time.
 ![](/images/SAFMC%203.jpeg)
 
 
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+|West Zone Junior Science Whiz Competition (Jointly organised by the West Zone Centre of Excellence for Science and Technology (WZCOE) @ River Valley High School and the RVHS Science Leaders Academy)
+| Out of our six P6 participants, Nathaniel Kan Li Teng won an award for “Top 11th to 20th Scorer in the Written Test”. | 
+|Raffles Science Olympiad (Organised by Raffles Institution)|Our of our five P5 participants, Zayyan Ilham was recognized with a merit award.|
+
