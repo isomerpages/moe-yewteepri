@@ -62,7 +62,9 @@ YTPS teachers and students met this challenge headfirst for the very first time.
 3.	2nd Position in Time Aloft Award
 4.	3rd Position in Boomerang Award
 
-
+![](/images/SAFMC%201.jpeg)
+![](/images/SAFMC%202.jpeg)
+![](/images/SAFMC%203.jpeg)
 
 
 .................
