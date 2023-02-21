@@ -41,6 +41,8 @@ The multi-disciplinary STEM Learning Programme in YTPS sparks the interest of st
 ![](/images/STEM%202.jpeg)
 ![](/images/STEM%203.jpeg)
 ![](/images/STEM%204.jpg)
+![](/images/STEM%205.jpeg)
+
 
 
 
