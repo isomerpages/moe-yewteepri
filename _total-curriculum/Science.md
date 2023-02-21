@@ -6,11 +6,7 @@ description: ""
 ### Science
 
 #### Department Overview
-The school believes that a strong foundation in Science helps to develop students into confident learners, critical thinkers and active inquirers. The Science curriculum seeks to nurture the student as an inquirer. The starting point is that children are curious about and want to explore the things around them. The Science curriculum leverages on and seeks to fuel this spirit of curiosity. The end goal is students who enjoy Science and value Science as an important tool in helping them explore their natural and physical world.
-
-Adopting the 5-E instructional model, and leveraging on technology, students are provided with structured science experiences to develop their sense of inquiry.
-
-Moreover, through the Environmental Learning programme, STEM Learning programme and various Science-related activities/competitions, students are provided with opportunities to develop their innovative thinking and problem solving skills.
+In YTPS, we believe that a strong foundation in Science plays a pivotal role in developing our students into confident learners, critical thinkers and active inquirers. At the heart of the Singapore Science curriculum is the role of a student as an inquirer. An inquiring mind is always backed by the curious and exploratory nature of children. The Science learning experiences in YTPS leverages on and seeks to fuel this spirit of curiosity. By asking questions about their surroundings and the world, students learn to value the relevance and meaningful nature of Science and be inspired by its ability to transform the world the improve lives. Adopting the 5-E instructional model, and leveraging on technology, students are provided with structured learning experiences to develop their sense of inquiry. The key programmes of the department such as the Environmental Learning Programme (ELP) and STEM Learning Programme (STEM) are geared to provide students with opportunities to develop problem-solving skills and innovate using Science.
 
 #### Department Members
 
@@ -18,15 +14,14 @@ Moreover, through the Environmental Learning programme, STEM Learning programme 
 | **Head of Department** || 
 | -------- | -------- |
 | Mr Koh Chee How    ||
-|**Level Head**||
-|Mdm Siti Zaleha||
 |**Members**||
 |Mr Woon Kin Chong (ST Sci)|Ms Ng Yaw Ling (SSD)|
+|Ms Yang Huiyi|Mdm Sum Wai Fun|
+|Mr Darren Wong|Ms Nur Huda|
 |Ms Carlyn Ong|Mdm Joyce Lim|
-|Mr Darren Wong|Ms Yang Huiyi|
-|Mdm Rozalina Mohamed Yahya|Mdm Sum Wai Fun|
-|Ms Nur Huda|Mdm Yasmin Sultanah|
-|Mrs Ying-Fong Yin Kuan||
+|Mdm Rozalina Mohamed Yahya|Mdm Amy Woo Hui Lyn|
+|Mr Jonathan Cheah||
+
 
 #### Key Programmes
 
