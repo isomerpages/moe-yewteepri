@@ -67,25 +67,3 @@ YTPS teachers and students met this challenge headfirst for the very first time.
 ![](/images/SAFMC%203.jpeg)
 
 
-.................
-Learning of Science is not limited to only inside the classrooms or Science labs. ELP evokes the spirit of inquiry and stimulates curiosity. Students are brought around these designated spaces for their Science lessons to enthuse them and encourage them to become self-directed learners.
-
-*   Hydroponics garden
-*   Ecopond
-*   Playpond
-*   Mini Eco Forest
-
-<img style="width:70%" src="/images/elp%20science.gif">
-
-##### STEM Learning Programme (STEM)
-This programme incorporates various hands-on activities of STEM learning. It aims to spark students’ interest and curiosity when they apply their knowledge in Science, Technology and Mathematics in the activities. This programme will also enhance their problem-solving and communication skills.
-
-<img style="width:70%" src="/images/science%20STEM.gif">
-
-##### Sony Creative Science Award (SCSA)
-This event is Singapore’s largest toy-making competition. It provides students with opportunities to develop their creativity and thinking skills. Students will design and create toys that function based on scientific principles.
-
-<img style="width:65%" src="/images/sony%20science%20award.gif">
-		 
-##### Achievements
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHjEjgypOrGUeQ-8iEajnF7MWVLKpHi3n9XHbE9utp5olC9Ajb-rhw5hfLvkcN7unhF3bmwlXWMMwp/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
