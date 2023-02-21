@@ -26,6 +26,8 @@ In YTPS, we believe that a strong foundation in Science plays a pivotal role in 
 #### Key Programmes
 
 ##### Environmental Learning Programme (ELP)
+The learning of Science should not be limited to the confines of a classroom or a laboratory. ELP leverages on our environment as the third teacher. By creating opportunities for our students to visit designated spaces in the outdoors, ELP evokes the spirit of inquiry and stimulates curiosity in our learners. The outdoor lessons allow our students to relate their content knowledge to what they can observe and enthuse them further to become self-directed learners who actively seek Science in nature. 
+![](/images/ELP%201.jpeg)
 Learning of Science is not limited to only inside the classrooms or Science labs. ELP evokes the spirit of inquiry and stimulates curiosity. Students are brought around these designated spaces for their Science lessons to enthuse them and encourage them to become self-directed learners.
 
 *   Hydroponics garden
