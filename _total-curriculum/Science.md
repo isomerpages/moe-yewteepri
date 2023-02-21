@@ -31,8 +31,16 @@ The learning of Science should not be limited to the confines of a classroom or 
 ![](/images/ELP%202.jpeg)
 ![](/images/ELP%203.jpeg)
 ELP also serves to educate students on food sustainability and ways to overcome this despite our land scarcity. Our students tried their hand at hydroponics farming. They also harvested their crops and shared it with the staff in school. This experience not only teaches our students how to grow their own food but also inspires our students by reinforcing the relevance and meaningful nature of Science to improve lives and transform the world positively.
+![](/images/ELP%204.jpeg)
+![](/images/ELP%205.jpeg)
+![](/images/ELP%206.jpeg)
+
+##### STEM Learning Programme (STEM)
+The multi-disciplinary STEM Learning Programme in YTPS sparks the interest of students by providing them with opportunities to enact authentic scenarios. In the process of problem-solving, our students think critically and become reflective learners. They also communicate openly and respectfully while apply their knowledge in Science and other areas such as Technology, Engineering and Mathematics. 
 
 
+
+.................
 Learning of Science is not limited to only inside the classrooms or Science labs. ELP evokes the spirit of inquiry and stimulates curiosity. Students are brought around these designated spaces for their Science lessons to enthuse them and encourage them to become self-directed learners.
 
 *   Hydroponics garden
