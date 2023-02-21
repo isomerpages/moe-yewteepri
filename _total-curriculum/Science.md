@@ -70,9 +70,6 @@ YTPS teachers and students met this challenge headfirst for the very first time.
 
 |Name of Event |Celebration of Learning| 
 | -------- | -------- | 
-|West Zone Junior Science Whiz Competition (Jointly organised by the West Zone Centre of Excellence for Science and Technology (WZCOE) @ River Valley High School and the RVHS Science Leaders Academy)
-| Out of our six P6 participants, Nathaniel Kan Li Teng won an award for “Top 11th to 20th Scorer in the Written Test”. | 
+|West Zone Junior Science Whiz Competition (Jointly organised by the West Zone Centre of Excellence for Science and Technology (WZCOE) @ River Valley High School and the RVHS Science Leaders Academy)|Out of our six P6 participants, Nathaniel Kan Li Teng won an award for “Top 11th to 20th Scorer in the Written Test”.| 
 |Raffles Science Olympiad (Organised by Raffles Institution)|Our of our five P5 participants, Zayyan Ilham was recognized with a merit award.|
-|Singapore Primary Science Olympiad
-(Organised by the NUS High School of Mathematics and Science)
-|Our 39 participants did us proud with 8 Merit Awards, 11 Bronze Awards and 2 Silver Awards.|
+|Singapore Primary Science Olympiad (Organised by the NUS High School of Mathematics and Science)|Our 39 participants did us proud with 8 Merit Awards, 11 Bronze Awards and 2 Silver Awards.|
