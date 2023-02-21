@@ -49,6 +49,20 @@ The multi-disciplinary STEM Learning Programme in YTPS sparks the interest of st
 The Sony Creative Science Award (SCSA) is Singapore’s largest toy-making competition. Students who are interesting in making a toy based on Scientific principles, go through a series of workshops by our very own teachers. During the workshop, our students learn more about design-thinking and proto-typing. They consult with a team of teachers to get advice on their designs and improve on their initial design before tapping on their creativity and making their very own toy.
 ![](/images/SCSA%201.jpg)
 ![](/images/SCSA%202.jpg)
+![](/images/SCSA%203.jpg)
+
+#### Achievements
+##### Singapore Amazing Flying Machine Competition (SAFMC)
+SAFMC provides a unique platform for students to push the boundaries of innovation by designing and creating extraordinary flying machines by applying their knowledge gained on aerodynamics and demonstrating their passion for flight science.
+
+YTPS teachers and students met this challenge headfirst for the very first time. Four teams of Primary 5 students rose to the challenge and give it their best. Of the four teams, two of our teams tasted success and brought home the following wins:
+
+1.	Overall Champion for Primary School Category
+2.	2nd Position in Boomerang Award
+3.	2nd Position in Time Aloft Award
+4.	3rd Position in Boomerang Award
+
+
 
 
 .................
