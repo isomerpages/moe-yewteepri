@@ -65,6 +65,10 @@ The communal celebration of different festivals are leveraged to help students l
 <br>**Learning from each other about different cultures and festivals**
 ![](/images/g2023.jpg)
 ![](/images/IMG-20230117-WA0012%20(g).jpg)
+
+<br>**Staff, students and parent volunteers coming together to celebrate the joyous occasion! We are also happy to have the Seniors from Lions’ Befrienders joining us for the CNY concert this year!**
+![](/images/IMG-20230120-WA0086%20(h).jpg)
+![](/images/h2023.jpg)
 		 
 ##### Little Ambassadors Programme
 MTL high progress learners are stretched through enrichment activities and/or external competitions to help them fulfil their potential in the language.
