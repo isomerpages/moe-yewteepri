@@ -52,10 +52,14 @@ To develop confidence in communication, students are trained and given opportuni
 ##### Festive Celebrations
 The communal celebration of different festivals are leveraged to help students learn and appreciate Singapore’s diverse cultural heritage. By participating in one another’s cultural traditions, students gain insights about people who may be different from themselves, and this fosters acceptance and responsibility towards others. It also creates common experiences and shared memories to help strengthen a sense of belonging to the nation.
 <br>**Chinese New Year Concert**
-![](/images/a2023.jpg)<br>
-![](/images/b2023.jpg)<br>
-![](/images/c2023.jpg)<br>
-![](/images/d2023.jpg)<br>
+![](/images/a2023.jpg)
+![](/images/b2023.jpg)
+![](/images/c2023.jpg)
+![](/images/d2023.jpg)
+![](/images/IMG_5005(d).jpg)
+
+<br>**Sharing the festive joy with staff **
+
 		 
 ##### Little Ambassadors Programme
 MTL high progress learners are stretched through enrichment activities and/or external competitions to help them fulfil their potential in the language.
