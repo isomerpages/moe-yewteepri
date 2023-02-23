@@ -58,8 +58,13 @@ The communal celebration of different festivals are leveraged to help students l
 ![](/images/d2023.jpg)
 ![](/images/IMG_5005(d).jpg)
 
-<br>**Sharing the festive joy with staff **
+<br>**Sharing the festive joy with staff**
+![](/images/e2023.jpg)
+![](/images/f2023.jpg)
 
+<br>**Learning from each other about different cultures and festivals**
+![](/images/g2023.jpg)
+![](/images/IMG-20230117-WA0012%20(g).jpg)
 		 
 ##### Little Ambassadors Programme
 MTL high progress learners are stretched through enrichment activities and/or external competitions to help them fulfil their potential in the language.
