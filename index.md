@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Yew Tee Primary School
-description: An Isomer site of the Singapore Government
+description: "HOME@YTPS - Home is here at YTPS! Get to know what your child
+  experiences in the school. "
 image: /images/YTPS Logo_transparent bg_color.png
 permalink: /
 notification: ""
@@ -46,3 +47,4 @@ sections:
       button: Click here
       url: /quicklinks/moesocialmedia/
 ---
+
