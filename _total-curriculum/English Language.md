@@ -20,18 +20,17 @@ Teachers also model and scaffold the development of knowledge and skills, taking
 | **Head of Department** | | 
 | -------- | -------- | 
 | Mdm Lekha    |      | 
-|**Level Head** |     |
-| Mr S Srijith    |     |
 | **Members**     | |
-|Ms Norliza Bte Ali Khan (ST EL)   | Ms Melissa Choy Min Er     |
-| Mdm Neo Pauline  |Mdm Khairunnisa Bte Sazali    |
+|Ms Norliza Bte Ali Khan (Senior Teacher)| Ms Melissa Choy Min Er     |
+| Mdm Neo Pauline  |Mdm Khairunnisa Bte Sazali (Stellar Mentor) |
 | Mdm Siti Nuraisah Bte Buang     |Mdm Norhana Juhari   |
 | Mdm Fadzilah Bte Moideen Kitty   |Mdm Santhi James     |
 | Mdm Munalizah Bte Ajis     |Mdm Cynthia Bong     |
 |Mdm Shehnam Khan|Mr K Sreedraran Nair|
 |Ms Jayne Pan Ting|Mdm Winaseh Sumarni Bte Ahmad|
-|Mr Sim Bee Keat|Mr Alam Bin Naser|
-|Mdm Nor’ashikin Othman|Ms Wiu Zhen An|
+|Mr Sim Bee Keat|Mdm Yasmin Sultanah|
+|Mdm Nor’ashikin Othman|Mdm Ang Shi Min Geraldine|
+|Mr S Srijith||
 
 
 #### Key Programmes
