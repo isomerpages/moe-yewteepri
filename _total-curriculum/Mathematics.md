@@ -19,13 +19,13 @@ This is why ensuring that all students achieve a competent level of mathematics 
 |Mdm Evelyn Cheam|||
 |**Members**|||
 |Mdm Chua Gek Tiang (ST/Math)|Mdm Angeline Gwei Hwee Theng (ST/Math)||
-|Mdm Irma Bte Hassan|Ms Tan Sin Yee||
-|Mdm Roslinda Binte Omar|Mdm Leong Ma Choo||
-|Mdm Tan Puay Puay|Mr Danny Asmara Bin Rahman||
-|Mdm Pay Soo Cheng|Mdm Chee Po Lean||
-|Mr Dav Goh Leong Poon|Mdm Norazizah Bte Noordin||
-|Ms Norhana Bte Halil|Ms Thor Zhi Ling Emmaline||
-|Mr Teo Guo Shun Eugene|||
+|Mdm Irma Bte Hassan|Mdm Norazizah Bte Noordin ||
+|Mdm Roslinda Binte Omar|Ms Tan Sin Yee||
+|Mdm Tan Puay Puay|Mdm Leong Ma Choo||
+|Mdm Pay Soo Cheng|Mr Danny Asmara Bin Rahman||
+|Ms Thor Zhi Ling Emmaline|Mdm Chee Po Lean ||
+|Mr Dav Goh Leong Poon|Ms Wiu Zhen An||
+|Ms Norhana Bte Halil|||
 
 #### Key Programmes
 
