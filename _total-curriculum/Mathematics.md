@@ -31,7 +31,7 @@ This is why ensuring that all students achieve a competent level of mathematics 
 
 ##### Making Math Fun through Technology
 Technology is used to enhance student engagement in Math classrooms. For example, word problems are embedded in digital Escape Rooms for students to solve and “breakout”, without them realizing that they are actually practising their math problem solving skills. Kahoot and Quizziz are also used to assess students learning in a fun and engaging manner. Technology is also used to make students thinking visible so that teachers can address their misconceptions during lessons.
-
+![](/images/2023%20mmftt.jpg)
 
 
 ##### Mathematics Trails in School
@@ -46,7 +46,7 @@ The Math Shopping Day allows students to apply the concepts they have learnt in 
 
 ##### E2K
 E2K Mathematics Programme is an enrichment programme developed by the Israel Centre for Excellence through Education (ICEE) for upper primary pupils who demonstrate interest and ability in Mathematics. This programme aims to develop mathematical thinking using constructivist concepts, in which the pupils create links between prior knowledge and new knowledge.
-
+![](/images/2023%20e2k.jpg)
 
 
 #####  Learning Support for Mathematics
