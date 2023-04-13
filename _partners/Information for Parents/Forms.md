@@ -20,3 +20,5 @@ third_nav_title: Information for Parents
 
 #### Forms For Prospective Parents
 * [Wait List Application Form](/files/Request%20for%20Transfer%20In-Admission.pdf)
+* [40 hrs PV Interest Form A](/files/40%20hrs%20pv%20interest_form%20a_application.pdf)
+* [40 hrs PV Interest Form B](/files/40_hrs_pv_interest_form_b_registration.pdf)
