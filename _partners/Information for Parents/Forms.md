@@ -7,7 +7,7 @@ third_nav_title: Information for Parents
 ### Forms
 
 #### Advisory
-* [Cycling Advisory](https://drive.google.com/file/d/12bAw9u99vWIUefmLtZkMV1GdQwrSkNVV/view)
+* [Cycling Advisory](/files/advisory%20note%20on%20safety%20precautions%20when%20cycling%20to%20school.pdf)
 
 #### Forms For Existing Students
 
