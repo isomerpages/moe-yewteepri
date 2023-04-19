@@ -12,4 +12,4 @@ Equip your child with the right gear for their learning journey.
 <br>
 **POSB Smart Buddy Application Procedure**
 <br>
-https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy#slideToN101C3
+[https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy#slideToN101C3](https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy#slideToN101C3)
