@@ -13,3 +13,11 @@ third_nav_title: School Based Achievements
 ![](/images/2023%20P4%20February%20STARA.jpg)
 ![](/images/2023%20P5%20February%20STARA.jpg)
 ![](/images/2023%20P6%20February%20STARA.jpg)
+
+**March**
+![](/images/2023%20primary%201%20march%20stara.PNG)
+![](/images/2023%20primary%202%20march%20stara.PNG)
+![](/images/2023%20primary%203%20march%20stara.PNG)
+![](/images/2023%20primary%204%20stara.PNG)
+![](/images/2023%20primary%205%20stara.PNG)
+![](/images/2023%20primary%206%20stara.PNG)
