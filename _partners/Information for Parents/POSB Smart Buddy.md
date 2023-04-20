@@ -9,4 +9,4 @@ third_nav_title: Information for Parents
 **Learn good money habits with Smart Buddy**<br>
 Equip your child with the right gear for their learning journey.
 <br><br>
-click [here](https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy#slideToN101C3) for POSB Smart Buddy Application Procedure
+click [here](https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy#slideToN101C3) to find out more about POSB Smart Buddy Application Procedure.
