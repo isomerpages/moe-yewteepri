@@ -27,11 +27,11 @@ sections:
       image: /images/240_F_392719944_L0LYv3e7QozB2tsj3CfUN0HPC8eZQOWb.jpg
       alt: Image alt text
   - infopic:
-      title: E-open house
-      description: Welcome to Yew Tee Primary School's E - Open House!
-      button: click here
-      url: https://sites.google.com/moe.edu.sg/ytpseopenhouse2022
-      image: /images/eopenhousewebanner.png
+      title: Yew Tee Primary School Open House 2023
+      description: We are delighted to be able to do our Open House in person this year.
+      button: Click on the link to register
+      url: https://go.gov.sg/ytps23openhouse
+      image: /images/2023 open house.JPG
       alt: image alt text
   - infopic:
       title: Home@YTPS
@@ -47,4 +47,3 @@ sections:
       button: Click here
       url: /quicklinks/moesocialmedia/
 ---
-
