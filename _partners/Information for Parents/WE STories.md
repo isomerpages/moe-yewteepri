@@ -2,6 +2,7 @@
 title: WE STories
 permalink: /highlights/west-stories/
 description: ""
+third_nav_title: Information for Parents
 ---
 ### WE-STories
 
