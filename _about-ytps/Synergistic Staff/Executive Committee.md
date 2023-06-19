@@ -11,6 +11,7 @@ third_nav_title: Synergistic Staff
 |Ms Nur Sabariah Mohd Ibrahim<br> Principal|[Nur_Sabariah_Mohd_Ibrahim@moe.edu.sg](mailto:Nur_Sabariah_Mohd_Ibrahim@moe.edu.sg)|
 |Mdm Patricia Sim <br>Vice-principal|[sim_ee_koon_patricia@moe.edu.sg](mailto:sim_ee_koon_patricia@moe.edu.sg) |
 |Mdm Pauline Toh<br>Vice-principal|[toh_guat_hwa_pauline@moe.edu.sg](mailto:toh_guat_hwa_pauline@moe.edu.sg)|
+|Mr Ng Siok Kwang Andrew<br>Vice-principal|[ng_siok_kwang_andrew@moe.edu.sg](mailto:ng_siok_kwang_andrew@moe.edu.sg)|
 |Ms Ng Yaw Ling<br>School Staff Developer|[ng_yaw_ling@moe.edu.sg](mailto:ng_yaw_ling@moe.edu.sg)|
 |Mdm Fadzilah M K<br>Year Head, P1/P2|[fadzilah_moideen_kutty@moe.edu.sg](mailto:fadzilah_moideen_kutty@moe.edu.sg)|
 | Mr Gwee Yee Tat <br>Year Head, P3/P4|[gwee_yee_tat@moe.edu.sg](mailto:gwee_yee_tat@moe.edu.sg) |
@@ -24,7 +25,7 @@ third_nav_title: Synergistic Staff
 |Mr Koh Chee How <br>HOD Science|[koh_chee_how@moe.edu.sg](mailto:koh_chee_how@moe.edu.sg)|
 |Mrs Tan Yoke Yin <br>HOD ICT |[tan_yoke_yin@moe.edu.sg](mailto:tan_yoke_yin@moe.edu.sg)|
 | Mdm Chang Mei Cheng <br>HOD Aesthetics|[chang_mei_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg)|
-|Ms Pek Peiyu <br>SH / PE & CCA|[pek_pei_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)|
+|Ms Pek Peiyu <br>SH / PE &amp; CCA|[pek_pei_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)|
 | Mr Sairamprabhu <br>HOD CCE|[sairamprabhu_balasubramani@moe.edu.sg](mailto:sairamprabhu_balasubramani@moe.edu.sg)|
 |Mr S Srijith <br>SH Student Management|[s_srijith@moe.edu.sg](mailto:s_srijith@moe.edu.sg) |
 |Mdm Winaseh Sumarni<br> SH Student Well-Being|[winaseh_sumarni_ahmad@moe.edu.sg](mailto:winaseh_sumarni_ahmad@moe.edu.sg)|
