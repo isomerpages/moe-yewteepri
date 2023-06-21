@@ -9,9 +9,8 @@ third_nav_title: Synergistic Staff
 |||
 |---|---|
 |Ms Nur Sabariah Mohd Ibrahim<br> Principal|[Nur_Sabariah_Mohd_Ibrahim@moe.edu.sg](mailto:Nur_Sabariah_Mohd_Ibrahim@moe.edu.sg)|
-|Mdm Patricia Sim <br>Vice-principal|[sim_ee_koon_patricia@moe.edu.sg](mailto:sim_ee_koon_patricia@moe.edu.sg) |
 |Mdm Pauline Toh<br>Vice-principal|[toh_guat_hwa_pauline@moe.edu.sg](mailto:toh_guat_hwa_pauline@moe.edu.sg)|
-|Mr Ng Siok Kwang Andrew<br>Vice-principal|[ng_siok_kwang_andrew@moe.edu.sg](mailto:ng_siok_kwang_andrew@moe.edu.sg)|
+|Mr Andrew Ng<br>Vice-principal|[ng_siok_kwang_andrew@moe.edu.sg](mailto:ng_siok_kwang_andrew@moe.edu.sg)|
 |Ms Ng Yaw Ling<br>School Staff Developer|[ng_yaw_ling@moe.edu.sg](mailto:ng_yaw_ling@moe.edu.sg)|
 |Mdm Fadzilah M K<br>Year Head, P1/P2|[fadzilah_moideen_kutty@moe.edu.sg](mailto:fadzilah_moideen_kutty@moe.edu.sg)|
 | Mr Gwee Yee Tat <br>Year Head, P3/P4|[gwee_yee_tat@moe.edu.sg](mailto:gwee_yee_tat@moe.edu.sg) |
