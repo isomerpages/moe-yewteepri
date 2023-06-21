@@ -8,7 +8,7 @@ third_nav_title: Synergistic Staff
 
 |||
 |---|---|
-|Ms Nur Sabariah Mohd Ibrahim<br> Principal|[Nur_Sabariah_Mohd_Ibrahim@moe.edu.sg](mailto:Nur_Sabariah_Mohd_Ibrahim@moe.edu.sg)|
+|Ms Nur Sabariah Mohd Ibrahim<br> Principal|[nur_sabariah_mohd_ibrahim@moe.edu.sg](mailto:Nur_Sabariah_Mohd_Ibrahim@moe.edu.sg)|
 |Mdm Pauline Toh<br>Vice-principal|[toh_guat_hwa_pauline@moe.edu.sg](mailto:toh_guat_hwa_pauline@moe.edu.sg)|
 |Mr Andrew Ng<br>Vice-principal|[ng_siok_kwang_andrew@moe.edu.sg](mailto:ng_siok_kwang_andrew@moe.edu.sg)|
 |Ms Ng Yaw Ling<br>School Staff Developer|[ng_yaw_ling@moe.edu.sg](mailto:ng_yaw_ling@moe.edu.sg)|
