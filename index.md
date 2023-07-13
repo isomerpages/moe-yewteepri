@@ -20,7 +20,7 @@ sections:
           url: /quicklinks/
       background: /images/Untitled-1.jpg
   - infopic:
-      title: "Follow us on our social channels "
+      title: Follow us on our social channels
       description: Facebook & Instagram
       button: click here
       url: /about-ytps/contact-us/
@@ -30,7 +30,7 @@ sections:
       title: Yew Tee Primary School Open House 2023
       description: We are delighted to host the Open House in May and meet families in
         the neighbourhood in person.
-      button: Click to see the highlights
+      button: Click to see highlights
       url: https://www.instagram.com/p/CssMADHP3wv/?igshid=Y2I2MzMwZWM3ZA==
       image: /images/2023 open house.JPG
       alt: image alt text
