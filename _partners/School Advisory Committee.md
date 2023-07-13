@@ -29,6 +29,3 @@ The SAC contributes their professional expertise and time to support school prog
   * YTPS Long Service Award for more than 10 years of service. <br> 
   * My Partner-Teacher Award for teachers who demonstrate commitment to building strong partnership with parents.<br>
 
-
-
-
