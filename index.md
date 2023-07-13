@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Yew Tee Primary School
-description: "HOME@YTPS - Home is here at YTPS! Get to know what your child
-  experiences in the school. "
+description: HOME@YTPS - Home is here at YTPS! Get to know what your child
+  experiences in the school.
 image: /images/YTPS Logo_transparent bg_color.png
 permalink: /
 notification: ""
@@ -20,7 +20,7 @@ sections:
           url: /quicklinks/
       background: /images/Untitled-1.jpg
   - infopic:
-      title: Find us on
+      title: Follow us on our social channels
       description: Facebook & Instagram
       button: click here
       url: /about-ytps/contact-us/
@@ -28,9 +28,10 @@ sections:
       alt: Image alt text
   - infopic:
       title: Yew Tee Primary School Open House 2023
-      description: We are delighted to be able to do our Open House in person this year.
-      button: Click on the link to register
-      url: https://go.gov.sg/ytps23openhouse
+      description: We are delighted to host the Open House in May and meet families in
+        the neighbourhood in person.
+      button: Click to see highlights
+      url: https://www.instagram.com/p/CssMADHP3wv/?igshid=Y2I2MzMwZWM3ZA==
       image: /images/2023 open house.JPG
       alt: image alt text
   - infopic:
