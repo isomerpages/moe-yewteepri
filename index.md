@@ -28,8 +28,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: Yew Tee Primary School Open House 2023
-      description: We are delighted to host the Open House in May and meet families in
-        the neighbourhood in person.
+      description: We are delighted to have hosted our Open House in May and met
+        families in the neighbourhood in person.
       button: Click to see highlights
       url: https://www.instagram.com/p/CssMADHP3wv/?igshid=Y2I2MzMwZWM3ZA==
       image: /images/2023 open house.JPG
