@@ -3,7 +3,7 @@ title: School Advisory Committee
 permalink: /school-advisory-committee/
 description: ""
 ---
-### School Advisory Committee (SAC)
+https://youtu.be/ZjX4vu0HhJ4[https://youtu.be/ZjX4vu0HhJ4](https://youtu.be/ZjX4vu0HhJ4)### School Advisory Committee (SAC)
 
 Our SAC comprises members who have come forward to voluntarily serve at YTPS. They work closely with the school by supporting school programmes, promoting student well-being and forging closer ties between the community and the school.
 
@@ -36,7 +36,7 @@ The SAC contributes their professional expertise and time to support school prog
 
 |  |  | 
 | -------- | -------- | 
-| ![](/images/ng-yew-poh-vincent-portrait.jpg)<br>Dr Vincent Ng |Dr Vincent Ng, Head and Senior Consultant with the Department of Neurosurgery at the National Neuroscience Institute, speaks about making choices, pursuing your passion and managing time with our student interviewers, Sasti Saravanan and Soh Yin Yu. Join us by scanning the QR code or clicking on the link.      |
+| ![](/images/ng-yew-poh-vincent-portrait.jpg)<br>**Dr Vincent Ng** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |Dr Vincent Ng, Head and Senior Consultant with the Department of Neurosurgery at the National Neuroscience Institute, speaks about making choices, pursuing your passion and managing time with our student interviewers, Sasti Saravanan and Soh Yin Yu. Join us by scanning the QR code or clicking on the link. <br>[https://youtu.be/ZjX4vu0HhJ4](https://youtu.be/ZjX4vu0HhJ4)<br><img src="/images/dr%20vincent%20ng%20qr%20code.png" style="width:50%">|
 
  
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZjX4vu0HhJ4" height="315" width="560"></iframe>
