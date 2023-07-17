@@ -33,4 +33,10 @@ The SAC contributes their professional expertise and time to support school prog
  
  Let’s get to know our School Advisory Committee through our World Beyond School video series. This series provides insights for our students and the larger Yew Tee neighbourhood on issues of the day. <br>
  
+
+|  |  | 
+| -------- | -------- | 
+| ![](/images/ng-yew-poh-vincent-portrait.jpg)<br>Dr Vincent Ng |Dr Vincent Ng, Head and Senior Consultant with the Department of Neurosurgery at the National Neuroscience Institute, speaks about making choices, pursuing your passion and managing time with our student interviewers, Sasti Saravanan and Soh Yin Yu. Join us by scanning the QR code or clicking on the link.      |
+
+ 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZjX4vu0HhJ4" height="315" width="560"></iframe>
