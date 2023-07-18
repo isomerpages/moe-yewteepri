@@ -3,7 +3,7 @@ title: Vision, Mission, Values and Motto
 permalink: /about-ytps/
 description: ""
 ---
-### Vision, Mission &amp; Values
+### Vision, Mission, Values and Motto
 
 #### Our Vision
 
