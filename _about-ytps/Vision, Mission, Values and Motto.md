@@ -3,7 +3,7 @@ title: Vision, Mission, Values and Motto
 permalink: /about-ytps/
 description: ""
 ---
-### Vision, Mission, Values & Motto
+### Vision, Mission &amp; Values
 
 #### Our Vision
 
@@ -13,7 +13,7 @@ description: ""
 *   Adaptable
 *   Resourceful
 *   Confident
-*   Creative & Innovative Thinking
+*   Creative &amp; Innovative Thinking
 
 **As Gracious Citizens, all Yew Tee Primary students:**
 *   Are persons of character exemplifying the school values of  Integrity, Responsibility, Respect, Perseverance and Care.
