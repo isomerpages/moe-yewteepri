@@ -39,3 +39,16 @@ The SAC contributes their professional expertise and time to support school prog
 | ![](/images/ng-yew-poh-vincent-portrait.jpg)<br>**Dr Vincent Ng** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |Dr Vincent Ng, Head and Senior Consultant with the Department of Neurosurgery at the National Neuroscience Institute, speaks about making choices, pursuing your passion and managing time with our student interviewers, Sasti Saravanan and Soh Yin Yu. Join us by scanning the QR code or clicking on the link. <br>[https://youtu.be/ZjX4vu0HhJ4](https://youtu.be/ZjX4vu0HhJ4)<br><img src="/images/dr%20vincent%20ng%20qr%20code.png" align="left" style="width:50%">|
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZjX4vu0HhJ4" height="400" style="width:100%"></iframe>
+<br>
+
+
+|  | |  |
+| -------- | -------- | -------- |
+|  |  |  |
+
+
+![](/images/sac%202023%2001.jpg)
+**Mr Alex Loh** and **Mr Trevor Xie** share their fatherhood journey with our newly minted father, Head of Department (HOD) /Citizenship and Character Education (CCE), Mr Prabhu. In this candid interview, the fathers look back on their children’s primary school years and their parenting approach.<br>
+[https://youtu.be/nD4xF1y0jfE](https://youtu.be/nD4xF1y0jfE)<br>
+<img src="/images/mr%20alex%20loh%20and%20mr%20trevor%20xie%20qr%20code.png" align="left" style="width:40%"><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nD4xF1y0jfE" height="400" style="width:100%"></iframe>
