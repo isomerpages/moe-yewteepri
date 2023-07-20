@@ -31,16 +31,24 @@ The SAC contributes their professional expertise and time to support school prog
   * YTPS Long Service Award for more than 10 years of service. <br> 
   * My Partner-Teacher Award for teachers who demonstrate commitment to building strong partnership with parents.<br>
  
- Let’s get to know our School Advisory Committee through our World Beyond School video series. This series provides insights for our students and the larger Yew Tee neighbourhood on issues of the day. <br>
- 
+ Let’s get to know our School Advisory Committee through our *World Beyond School* video series. This series provides insights for our students and the larger Yew Tee neighbourhood on issues of the day. <br>
+<hr>
 
-|  |  | 
-| -------- | -------- | 
-| ![](/images/ng-yew-poh-vincent-portrait.jpg)<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |**Dr Vincent Ng**, Head and Senior Consultant with the Department of Neurosurgery at the National Neuroscience Institute, speaks about making choices, pursuing your passion and managing time with our student interviewers, Sasti Saravanan and Soh Yin Yu.|
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZjX4vu0HhJ4" height="400" style="width:100%"></iframe>
-<br>
+![](/images/sac%202023%2002.JPG)
+**Dr Vincent Ng**, Head and Senior Consultant with the Department of Neurosurgery at the National Neuroscience Institute, speaks about making choices, pursuing your passion and managing time with our student interviewers, Sasti Saravanan and Soh Yin Yu.
+[https://www.youtube.com/watch?v=ZjX4vu0HhJ4](https://www.youtube.com/watch?v=ZjX4vu0HhJ4)
+<img style="width:40%" src="/images/dr%20vincent%20ng%20qr%20code.png">
 <hr>
 
 ![](/images/sac%202023%2001.jpg)
-**Mr Alex Loh** and **Mr Trevor Xie** share their fatherhood journey with our newly minted father, Head of Department (HOD) /Citizenship and Character Education (CCE), Mr Prabhu. In this candid interview, the fathers look back on their children’s primary school years and their parenting approach.<br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nD4xF1y0jfE" height="400" style="width:100%"></iframe>
+<p style="font-size: 12px;">From left to right: Mr Prabhu, Mr Trevor Xie &amp; Mr Alex Loh</p>
+
+**Mr Trevor Xie** and **Mr Alex Loh** share their fatherhood journey with our newly minted father, Head of Department (HOD) /Citizenship and Character Education (CCE), Mr Prabhu. In this candid interview, the fathers look back on their children’s primary school years and their parenting approach.<br>
+[https://www.youtube.com/watch?v=nD4xF1y0jfE](https://www.youtube.com/watch?v=nD4xF1y0jfE)
+<img style="width:40%" src="/images/mr%20alex%20loh%20and%20mr%20trevor%20xie%20qr%20code.png">
+<hr>
+
+![](/images/sac%202023%2003.JPG)
+What does LEGO, civil engineering and rising sea levels have in common? Our student interviewers, Nihal Chandra Aitipamula and Xenia Dionson, asked **Mr Ho Chai Teck**, Deputy Director at Coastal Protection Department at Public Utilities Board (PUB) about preparing for the world of work. Mr Ho speaks about the soft skills that would help our young people work through any challenges.<br>
+[https://www.youtube.com/watch?v=DZvgKSPTvtU](https://www.youtube.com/watch?v=DZvgKSPTvtU)
+<img style="width:40%" src="/images/mr%20ho%20chai%20teck%20qr%20code.png">
