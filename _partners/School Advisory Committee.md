@@ -33,14 +33,14 @@ The SAC contributes their professional expertise and time to support school prog
  
  Let’s get to know our School Advisory Committee through our World Beyond School video series. This series provides insights for our students and the larger Yew Tee neighbourhood on issues of the day. <br>
  
-
-|  |  | 
-| -------- | -------- | 
-| ![](/images/ng-yew-poh-vincent-portrait.jpg)<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |**Dr Vincent Ng**, Head and Senior Consultant with the Department of Neurosurgery at the National Neuroscience Institute, speaks about making choices, pursuing your passion and managing time with our student interviewers, Sasti Saravanan and Soh Yin Yu.|
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZjX4vu0HhJ4" height="400" style="width:100%"></iframe>
-<br>
+![](/images/sac%202023%2002.JPG)
+**Dr Vincent Ng**, Head and Senior Consultant with the Department of Neurosurgery at the National Neuroscience Institute, speaks about making choices, pursuing your passion and managing time with our student interviewers, Sasti Saravanan and Soh Yin Yu.
+[https://www.youtube.com/watch?v=ZjX4vu0HhJ4](https://www.youtube.com/watch?v=ZjX4vu0HhJ4)
+<img style="width:40%" src="/images/dr%20vincent%20ng%20qr%20code.png">
 <hr>
 
 ![](/images/sac%202023%2001.jpg)
+<p>From left to right: Mr Prabhu, Mr Trevor Xie &amp; Mr Alex Loh
+
 **Mr Alex Loh** and **Mr Trevor Xie** share their fatherhood journey with our newly minted father, Head of Department (HOD) /Citizenship and Character Education (CCE), Mr Prabhu. In this candid interview, the fathers look back on their children’s primary school years and their parenting approach.<br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nD4xF1y0jfE" height="400" style="width:100%"></iframe>
+</p>
