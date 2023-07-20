@@ -53,4 +53,3 @@ What does LEGO, civil engineering and rising sea levels have in common? Our stud
 [https://www.youtube.com/watch?v=nD4xF1y0jfE](https://www.youtube.com/watch?v=nD4xF1y0jfE)
 <img style="width:20%" src="/images/mr%20alex%20loh%20and%20mr%20trevor%20xie%20qr%20code.png">
 <hr>
-
