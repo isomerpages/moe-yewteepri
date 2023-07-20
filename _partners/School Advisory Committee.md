@@ -40,7 +40,9 @@ The SAC contributes their professional expertise and time to support school prog
 <hr>
 
 ![](/images/sac%202023%2001.jpg)
-<p>From left to right: Mr Prabhu, Mr Trevor Xie &amp; Mr Alex Loh
+<p style="font-size: 12px;">From left to right: Mr Prabhu, Mr Trevor Xie &amp; Mr Alex Loh</p>
 
 **Mr Alex Loh** and **Mr Trevor Xie** share their fatherhood journey with our newly minted father, Head of Department (HOD) /Citizenship and Character Education (CCE), Mr Prabhu. In this candid interview, the fathers look back on their children’s primary school years and their parenting approach.<br>
-</p>
+[https://www.youtube.com/watch?v=nD4xF1y0jfE](https://www.youtube.com/watch?v=nD4xF1y0jfE)
+<img style="width:40%" src="/images/mr%20alex%20loh%20and%20mr%20trevor%20xie%20qr%20code.png">
+
