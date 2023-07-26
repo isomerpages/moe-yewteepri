@@ -25,7 +25,7 @@ sections:
       description: Dr Vincent Ng, our SAC member, speaks about making choices,
         pursuing your passion and managing time with our student interviewers,
         Sasti and Yin Yu.
-      button: click here for the video
+      button: click here to watch the video
       url: https://www.youtube.com/watch?v=ZjX4vu0HhJ4
       image: /images/sac 2023 02.JPG
       alt: Image alt text
@@ -35,7 +35,7 @@ sections:
       description: Mr Ho Chai Teck, our SAC member, speaks about the soft skills that
         our young people need to work through any challenges with our students,
         Nihal and Xenia.
-      button: click here for the video
+      button: click here to watch the video
       url: https://www.youtube.com/watch?v=DZvgKSPTvtU
       image: /images/sac 2023 03.JPG
       alt: click here for the video
@@ -44,7 +44,7 @@ sections:
       subtitle: Mr Trevor Xie and Mr Alex Loh
       description: Mr Trevor Xie and Mr Alex Loh, our SAC members, share their
         fatherhood journey with newly minted father, HOD / CCE, Mr Prabhu.
-      button: click here for the video
+      button: click here to watch the video
       url: https://www.youtube.com/watch?v=nD4xF1y0jfE
       image: /images/sac 2023 01.jpg
       alt: Image alt text
