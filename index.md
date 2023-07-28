@@ -36,7 +36,7 @@ sections:
         our young people need to work through any challenges with our students,
         Nihal and Xenia.
       button: click here to watch the video
-      url: https://www.youtube.com/watch?v=DZvgKSPTvtU
+      url: https://www.youtube.com/watch?v=PejxNJdvqI0
       image: /images/sac 2023 03.JPG
       alt: click here for the video
   - infopic:
