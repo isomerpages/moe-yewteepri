@@ -42,7 +42,7 @@ Let’s get to know our School Advisory Committee through our *World Beyond Scho
 
 ![](/images/sac%202023%2003.JPG)
 What does LEGO, civil engineering and rising sea levels have in common? Our student interviewers, Nihal Chandra Aitipamula and Xenia Dionson, asked **Mr Ho Chai Teck**, Deputy Director at the Coastal Protection Department at Public Utilities Board (PUB) about preparing for the world of work. Mr Ho speaks about the soft skills that would help our young people work through any challenges.<br>
-[https://www.youtube.com/watch?v=DZvgKSPTvtU](https://www.youtube.com/watch?v=DZvgKSPTvtU)
+[https://www.youtube.com/watch?v=PejxNJdvqI0](https://www.youtube.com/watch?v=PejxNJdvqI0)
 <img style="width:20%" src="/images/mr%20ho%20chai%20teck%20qr%20code.png">
 <hr>
 
