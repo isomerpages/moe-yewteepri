@@ -37,3 +37,11 @@ third_nav_title: School Based Achievements
 ![](/images/STARA/May%202023/may%202023%20p4.PNG)
 ![](/images/STARA/May%202023/may%202023%20p5.PNG)
 ![](/images/STARA/May%202023/may%202023%20p6.PNG)
+
+**July**
+![](/images/STARA/July%202023/july%202023%20p1.PNG)
+![](/images/STARA/July%202023/july%202023%20p2.PNG)
+![](/images/STARA/July%202023/july%202023%20p3.PNG)
+![](/images/STARA/July%202023/july%202023%20p4.PNG)
+![](/images/STARA/July%202023/july%202023%20p5.PNG)
+![](/images/STARA/July%202023/july%202023%20p6.PNG)
