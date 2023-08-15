@@ -30,8 +30,12 @@ To extend and deepen students’ learning, students are provided with opportunit
 Students were excited to participate in the Science Centre STEM Playground challenge 2023 with two challenges - Bridge making and Boat making challenges. For STEM Playground Challenge #1 (Bridge making challenge), YTPS is awarded for one of the top 5 schools with the highest participation rate! We are waiting for the release of results for STEM Playground Challenge #2 (Boat making challenge). Let’s hope for the best!
 
 ##### STEM Playground @ Science Centre Challenge #1: Bridge Making
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aGcvk7UkQ5U" height="315" width="560"></iframe>
+
 ![](/images/ALP/alp%20photo%203.jpg)
 ##### STEM Playground @ Science Centre Challenge #2: Boat Making
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5jHivFwB5P4" height="315" width="560"></iframe>
+
 ![](/images/ALP/alp%20photo%204.jpg)
 
 ##### National Thinkers Challenge
@@ -39,6 +43,9 @@ At the 2023 National Thinkers Challenge, our Primary 4 students proposed the use
 ![](/images/ALP/alp%20photo%205.jpg)
 
 ##### 3D Design and Printing Workshop@SST
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PNn-rU41XL8" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qK9I-Fq3FTw" height="315" width="560"></iframe>
+
 Our Primary 5 Sparkle and Art Club students were ably guided by Year 4 students from the School of Science and Technology (SST) to create models with Autodesk Tinkercad, bringing their designs to life! Our designs ranged from coasters to pencil holders and even our YTPS school building!
 ![](/images/ALP/alp%20photo%206.jpg)
 
