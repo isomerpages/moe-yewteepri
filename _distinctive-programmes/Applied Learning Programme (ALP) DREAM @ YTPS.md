@@ -9,18 +9,6 @@ description: ""
 Aligned to our school vision of ‘Reflective Learners, Gracious Citizens’, DREAM@YTPS seeks to Develop **R**eflective learners, **E**mpower cre**A**tive **M**inds through student agency and empowerment. <br>
 The ALP programme is designed to facilitate students working in teams, whilst activating their problem-solving skills, and creative and critical thinking to come up with plausible solutions to problems, from an empathetic lens. This is achieved through the Design thinking process and Tools. These engineered experiences enhance students’ social-emotional learning, develop 21st century competencies, and help them see the relevance and inter-connectedness of what they learn as students apply them in real-life situations.
 
-#### Department Members
-
-| **Head of Department**||
-| -------- | -------- |
-| Mr Koh Chee How <br> Mdm Chang Mei Cheng   || 
-|**Members**||
-|Ms Tan Sin Yee (ALP Coordinator)|Ms Ong Si Pei Carlyn|
-|Mdm Pauline Neo|Mdm Rashitha Bibi Bte Abdul Hameed|
-|Mdm Khairunnisa Bte Sazali|Ms Tan Su Ting|
-|Ms Louise Lim|Mrs Amy Tay-Woo Hui Lyn|
-|Mdm Jasmine Yap|Mdm Sherene Tan|
-
 #### Key Programmes
 ##### DREAM@YTPS through Design Thinking
 DREAM@YTPS adopts the Design Thinking process to nurture **confident and self-directed** learners. Students develop 21st century competencies progressively from Primary 1 to 6 through an interdisciplinary thematic approach and STEAM (Science, Technology, Engineering, Arts, Mathematics) learning experience. Students share their ideas and work together on authentic problems to come up with their own innovative and practical solutions to meet the needs identified, share what they think and work through the process, together as team, to decide on the solution that would best address the problem.
