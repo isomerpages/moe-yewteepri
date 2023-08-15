@@ -50,131 +50,13 @@ Students were excited to participate in the Science Centre STEM Playground chall
 ![](/images/ALP/alp%20photo%204.jpg)
 
 ##### National Thinkers Challenge
-
 At the 2023 National Thinkers Challenge, our Primary 4 students proposed the use of Artificial Intelligence (AI) to promote healthy living in Singapore. Their proposal included the use of AI to track daily calorie intake and generate suggestions on healthy meal choices. It will also demonstrate how to cook nutritious meals and use geolocation to recommend nearby food stalls with healthier food choices.
+![](/images/ALP/alp%20photo%205.jpg)
 
+##### 3D Design and Printing Workshop@SST
+Our Primary 5 Sparkle and Art Club students were ably guided by Year 4 students from the School of Science and Technology (SST) to create models with Autodesk Tinkercad, bringing their designs to life! Our designs ranged from coasters to pencil holders and even our YTPS school building!
+![](/images/ALP/alp%20photo%206.jpg)
 
-##### Primary One
-
-The Project Work theme for P1 is on&nbsp;**Pet Care**. Students went through several key components leading to the final product.
-*   Design Thinking Process Skills
-*   Collaborative Learning
-*   Communication Skills
-*   ICT Skills
-*   Virtual Learning Journey to River Safari
-*   SPCA Talk during Environment Week
-*   P1 Read-With-Me
-
-The key questions for our students are:
-*   How should we take care of our pets?
-*   What do pets need?
-*   What do the zoo animals need?
-*   How can we take care of the animals in the zoo or in the wild?
-*   What school value do we show when we take care of our pet?
-*   What can we do help the animals?
-
-<img src="/images/dream%20primary%201.gif" style="width:70%">
-
-##### Primary Two
-
-P2 students work on&nbsp;**Ocean Care**. The key components leading to the final product include:
-*   Design Thinking Process Skills
-*   Collaborative Learning
-*   Communication Skills
-*   ICT Skills
-*   Virtual Learning Journey to Singapore Zoo
-*   P2 Encore
-
-The key questions for our students are:
-*   How should we show care for the sea creatures?
-*   What are we doing now that are harmful to the sea creatures?
-*   What can we do in the 3Rs to save the ocean?
-*   What message do you want to inform your family and friends?
-
-<img src="/images/dream%20primary%202.gif" style="width:70%">
-
-##### Primary Three
-
-The theme for P3 Project Work is on&nbsp;**Upcycling**. The key programmes for the levels include:
-*   On-line Design Thinking Workshop
-*   Collaborative Learning
-*   Communication Skills
-*   In-class Instruction
-*   Research Skills
-*   Upcycling Workshop by National Environment Agency (NEA)
-
-The key questions for our students are:
-*   What are the waste generated in Singapore?
-*   How much waste is generated over the years?
-*   What happened to the waste?
-*   Why is there so much waste?
-*   Who manages the waste?
-*   What effects do waste have on the environment?
-*   What is Singapore’s current and future practices in waste management?
-*   What are other countries doing?
-*   What innovative ways are there to help in waste management?
-
-<img src="/images/dream%20primary%203.gif" style="width:70%">
-
-##### Primary Four
-
-The theme for P4 Project Work is on&nbsp;**improvisation on a cleaning tool**. The key programmes for the levels include:
-*   On-line Design Thinking Workshop
-*   Collaborative Learning
-*   Communication Skills
-*   In-class Instruction
-*   Research Skills
-*   Upcycling Workshop by National Environment Agency (NEA)
-
-The key questions for our students are:
-*   What physical difficulty do elderly face?
-*   How do they feel about their work?
-*   What do you observe when they clean the various areas?
-*   What cleaning tools do they use in their work?
-*   How much time do they take?
-*   What can help them?
-
-<img src="/images/dream%20primary%204.gif" style="width:70%">
-
-##### Primary Five
-
-The P5 students work on&nbsp;**Elderly Care**. Key components for the level include:
-*   In-class Instruction
-*   Design Thinking Process Skills
-*   Collaborative Skills
-*   Communication Skills
-*   Research and Interview Skills
-*   Dialogue-in-the-Dark Virtual Learning Programme
-
-The key questions for our students are:
-*   What physical difficulty do elderly face?
-*   What do they enjoy doing?
-*   What do they wish to do?
-*   What can help them? (in this digital age)
-*   What can we learn from them?
-
-<img src="/images/dream%20primary%205.gif" style="width:70%">
-
-##### Primary Six
-
-The Project Work theme for P6 is on&nbsp;**Town / Community Planning**. <br>
-Key components for the level include:
-*   In-class Instruction
-*   Design Thinking Process Skills
-*   Collaborative Skills
-*   Communication Skills
-*   Virtual Learning Programme with Urban Redevelopment Authority (URA)
-
-The key questions for our students are:
-*   How has the population of elderly changed over the years?
-*   Who are the elderly?
-*   Where do they live?
-*   Who provides for them?
-*   Who takes care of their daily needs?
-*   What do they need?
-*   What physical difficulty do elderly face?
-*   What do they enjoy doing?
-*   What do they wish to do?
-*   What can help them?
-*   What has Singapore done in terms of town planning to meet their needs?
-*   What else can be improved?
+##### Sony Creative Science Award
+The Sony Creative Science Award (SCSA) is Singapore’s largest toy-making competition for primary school students, jointly organised by Science Centre Singapore and Sony Group of Companies in Singapore. Students create their own toys and explain the scientific principles behind them, putting into practice what they have learnt through a series of workshops conducted by our teachers. During the workshop, our students learn more about design thinking and prototyping. This competition promotes creativity in students and provides opportunity for them to bring their amazing ideas to life. 
+![](/images/ALP/alp%20photo%207.jpg)
