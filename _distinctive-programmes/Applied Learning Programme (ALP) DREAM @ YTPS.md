@@ -46,8 +46,8 @@ Students were excited to participate in the Science Centre STEM Playground chall
 
 ###### STEM Playground @ Science Centre Challenge #1: Bridge Making
 ![](/images/ALP/alp%20photo%203.jpg)
-
 ###### STEM Playground @ Science Centre Challenge #2: Boat Making
+
 
 
 
