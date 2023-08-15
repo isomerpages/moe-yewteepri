@@ -15,8 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: "HOME@YTPS - Home is here at YTPS! Get to know what your child
-  experiences in the school. "
+description: HOME@YTPS - Home is here at YTPS! Get to know what your child
+  experiences in the school.
 permalink: none
 baseurl: ""
 exclude:
@@ -57,3 +57,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+resources_name: alp-page
