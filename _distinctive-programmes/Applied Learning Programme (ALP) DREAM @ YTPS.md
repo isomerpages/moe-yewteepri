@@ -44,9 +44,9 @@ To extend and deepen students’ learning, students are provided with opportunit
 
 Students were excited to participate in the Science Centre STEM Playground challenge 2023 with two challenges - Bridge making and Boat making challenges. For STEM Playground Challenge #1 (Bridge making challenge), YTPS is awarded for one of the top 5 schools with the highest participation rate! We are waiting for the release of results for STEM Playground Challenge #2 (Boat making challenge). Let’s hope for the best!
 
-###### STEM Playground @ Science Centre Challenge #1: Bridge Making
+##### STEM Playground @ Science Centre Challenge #1: Bridge Making
 ![](/images/ALP/alp%20photo%203.jpg)
-###### STEM Playground @ Science Centre Challenge #2: Boat Making
+##### STEM Playground @ Science Centre Challenge #2: Boat Making
 ![](/images/ALP/alp%20photo%204.jpg)
 
 ##### National Thinkers Challenge
