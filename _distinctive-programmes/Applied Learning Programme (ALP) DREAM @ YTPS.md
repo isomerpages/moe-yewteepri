@@ -36,9 +36,17 @@ DREAM@YTPS adopts the Design Thinking process to nurture **confident and self-di
 |Pic|Through Design Thinking, students ask questions and conduct their research for the various themes such as “Caring for Pets, Upcycling, Waste Management, Elderly Care and Sustainable Living”. In defining the problem, students will develop a greater awareness and ownership of challenges in society that they can help to solve. They make links across different areas of knowledge by generating, developing, and evaluating ideas and information for application to a real-world project task. During the process, students collaborate in a team and communicate their ideas in both written and oral forms in front of an audience. This project helps them learn independently, reflect on their learning and find creative solutions for problems they see around them. |
 
 ![](/images/ALP/alp%20photo%201.jpg)
+![](/images/ALP/alp%20photo%202.jpg)
+
+To extend and deepen students’ learning, students are provided with opportunities to challenge themselves in the application of the Design Thinking or STEAM approaches in new and different scenarios through external competitions and workshops. Some examples are STEM Playground Challenge organized by Science Centre, 3D Design and Printing workshop @ School of Science and Technology (SST), National Thinkers Challenge and Sony Creative Science Award @ Science Centre.
+
+##### STEM Playground Challenge @ Science Centre
+
+Students were excited to participate in the Science Centre STEM Playground challenge 2023 with two challenges - Bridge making and Boat making challenges. For STEM Playground Challenge #1 (Bridge making challenge), YTPS is awarded for one of the top 5 schools with the highest participation rate! We are waiting for the release of results for STEM Playground Challenge #2 (Boat making challenge). Let’s hope for the best!
+
+###### STEM Playground @ Science Centre Challenge #1: Bridge Making
 
 
-VIA objectives are integrated into Project Work. It is primarily focused on two core domains, best encapsulated using the school value of Care as an acronym –&nbsp;**C**aring for The&nbsp;**A**ged &amp;&nbsp;**R**especting the&nbsp;**E**nvironment, to address the future challenges of sustainable development and an aging population. This approach allows students to develop greater awareness of the needs of the different stakeholders in the school and community, with DREAM@YTPS serving as a platform for the learning and demonstration of values.
 
 ##### Primary One
 
