@@ -5,10 +5,8 @@ description: ""
 ---
 ### Applied Learning Programme - DREAM@YTPS
 
-#### Overview of Applied Learning Programme (ALP) – DREAM@YTPS
-
-Aligned to our school vision of ‘Reflective Learners, Gracious Citizens’, DREAM@YTPS seeks to Develop **R**eflective learners, **E**mpower cre**A**tive **M**inds through student agency and empowerment. 
-
+##### Overview of Applied Learning Programme (ALP) – DREAM@YTPS
+Aligned to our school vision of ‘Reflective Learners, Gracious Citizens’, DREAM@YTPS seeks to Develop **R**eflective learners, **E**mpower cre**A**tive **M**inds through student agency and empowerment. <br>
 The ALP programme is designed to facilitate students working in teams, whilst activating their problem-solving skills, and creative and critical thinking to come up with plausible solutions to problems, from an empathetic lens. This is achieved through the Design thinking process and Tools. These engineered experiences enhance students’ social-emotional learning, develop 21st century competencies, and help them see the relevance and inter-connectedness of what they learn as students apply them in real-life situations.
 
 #### Department Members
@@ -41,7 +39,6 @@ DREAM@YTPS adopts the Design Thinking process to nurture **confident and self-di
 To extend and deepen students’ learning, students are provided with opportunities to challenge themselves in the application of the Design Thinking or STEAM approaches in new and different scenarios through external competitions and workshops. Some examples are STEM Playground Challenge organized by Science Centre, 3D Design and Printing workshop @ School of Science and Technology (SST), National Thinkers Challenge and Sony Creative Science Award @ Science Centre.
 
 ##### STEM Playground Challenge @ Science Centre
-
 Students were excited to participate in the Science Centre STEM Playground challenge 2023 with two challenges - Bridge making and Boat making challenges. For STEM Playground Challenge #1 (Bridge making challenge), YTPS is awarded for one of the top 5 schools with the highest participation rate! We are waiting for the release of results for STEM Playground Challenge #2 (Boat making challenge). Let’s hope for the best!
 
 ##### STEM Playground @ Science Centre Challenge #1: Bridge Making
