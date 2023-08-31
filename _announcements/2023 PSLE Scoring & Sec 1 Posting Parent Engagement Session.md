@@ -1,6 +1,6 @@
 ---
 title: 2023 PSLE Scoring & Sec 1 Posting Parent Engagement Session
-permalink: /announcements/
+permalink: /announcements/2023pslescoringandsec1posting/
 description: ""
 ---
 Click the link below for PSLE Scoring and Secondary One Posting.<br>

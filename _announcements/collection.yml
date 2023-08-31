@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - My Partner Teacher Award 2023.md
       - 2023 PSLE Scoring & Sec 1 Posting Parent Engagement Session.md
       - DNA Science Art Exhibition.md
       - Yew Tee Primary School Open House.md
