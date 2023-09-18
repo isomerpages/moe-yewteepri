@@ -2,15 +2,12 @@ collections:
   announcements:
     output: true
     order:
+      - NIE Caring Teacher Award 2024.md
       - My Partner Teacher Award 2023.md
       - 2023 PSLE Scoring & Sec 1 Posting Parent Engagement Session.md
       - DNA Science Art Exhibition.md
       - Yew Tee Primary School Open House.md
-      - Inspiring Teacher of English Award 2023.md
-      - MOST INSPIRING TAMIL TEACHERS’ AWARD 2023.md
-      - Arif Budiman Malay Language Teacher Award 2023.md
       - 2023 P1 Orientation Slides.md
-      - President's Award for Teachers (PAT) 2023.md
       - List of Approved Dictionaries for Exam Use.md
       - 2022 E Parent Briefing Slides.md
       - Choosing a Primary School.md

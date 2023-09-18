@@ -1,6 +1,6 @@
 ---
 title: My Partner Teacher Award 2023
-permalink: /announcements/
+permalink: /mpta2023/
 description: My Partner Teacher Award 2023
 ---
 Dear Parents,<br><br>
