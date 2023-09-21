@@ -27,16 +27,17 @@ Operating hours : Monday – Friday 8.30 a.m. to 2.30 p.m.
 
 #### Bus Operator
 **Leeng Transport Service** <br>
-Telephone : 96329603 (Ms Sharon)
+Telephone : 96329603 (Ms Sharon)<br>
+To view details of bus operator and bus fares, click [here](/files/school%20bus%20service.pdf)
 
 #### School Canteen
 click [here](/files/Yew%20Tee%20Pri%20School%20Canteen%20Menu-updated%2024%20Nov%202022%20for%20Jan%202023%20price_removed.pdf) for canteen menu.
 
-#### School Uniform & PE Attire
+#### School Uniform &amp; PE Attire
 **Shanghai Uniforms Pte Ltd** <br>
 Email General : contact@shanghai-uniforms.com <br>
 Email Sales : sales@shanghai-uniforms.com <br>
-Online Sales : [https://shop.shanghai-uniforms.com/product-category/yew-tee-primary/](https://shop.shanghai-uniforms.com/product-category/yew-tee-primary/)
+Online Sales :&nbsp;[https://shop.shanghai-uniforms.com/product-category/yew-tee-primary/](https://shop.shanghai-uniforms.com/product-category/yew-tee-primary/)
 
 Warehouse Outlet: <br>
 Shanghai School Uniforms Pte Ltd <br>
@@ -47,15 +48,15 @@ Mon-Sat : 10 a.m. to 6 p.m. (Closed for Lunch from 1 p.m. to 2 p.m.)
 
 #### Dental Clinic
 Contact : 91159835 (WhatsApp Only) <br>
-Information to provide on the message :    
-(Child's full name; Class; Last 4 digits of child's IC number, i.e. TXXXX999G )    
- \*Appointment is to be made directly with the dental therapist.
+Information to provide on the message : &nbsp;  
+(Child's full name; Class; Last 4 digits of child's IC number, i.e. TXXXX999G )&nbsp;&nbsp;  
+&nbsp;\*Appointment is to be made directly with the dental therapist.
  
 #### Student Care Centre
 **Pro-Teach Student Care** <br>
 School Terms: <br>
-Monday, Tuesday, Thursday & Friday 1.40 p.m. to 7.00 p.m. <br>
+Monday, Tuesday, Thursday &amp; Friday 1.40 p.m. to 7.00 p.m. <br>
 Wednesday 12.40 p.m. - 7.00 p.m. <br>
-School Holidays & School Closure Days : 7.30 a.m. - 7.00 p.m. <br>
+School Holidays &amp; School Closure Days : 7.30 a.m. - 7.00 p.m. <br>
 Telephone : 8828 8169 <br>
 Email : yewtee_PS@pro-teach.com
