@@ -20,3 +20,4 @@ description: ""
 * [OneDrive Personal Cloud Storage - Microsoft (5TB)](https://onedrive.live.com/about/en-us/signin/)
 * [ALL EARS Form Builder](https://forms.moe.edu.sg/)
 * [Trusted short links from public officers (GO.gov.sg)](https://go.gov.sg/#/)
+* [GenAI Testimonial Generator](https://launchpad.data.tech.gov.sg/)
