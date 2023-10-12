@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Outstanding Youth in Education Award (OYEA) 2024.md
       - President's Award for Teachers (PAT) 2024.md
       - NIE Caring Teacher Award 2024.md
       - My Partner Teacher Award 2023.md
