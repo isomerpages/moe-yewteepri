@@ -53,3 +53,5 @@ third_nav_title: School Based Achievements
 ![](/images/STARA/August%202023/augustp4.PNG)
 ![](/images/STARA/August%202023/augustp5.PNG)
 ![](/images/STARA/August%202023/augustp6.PNG)
+
+**September**
