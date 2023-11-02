@@ -29,7 +29,7 @@ description: ""
 **How to get there?**
 * Nearest MRT: Yew Tee MRT (NS5 line) – 5 minutes walking distance
 * Bus number: <br>307, 307A (Blk 634)- 3 minutes walking distance
-                           <br>302, 979 (Opp Yew Tee Stn)
+                           <br>302, 979 (Opp Yew Tee Station)
  
 
 **Interest applicants must meet the following criteria:**
