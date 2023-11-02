@@ -2,12 +2,11 @@ collections:
   partners:
     output: true
     order:
-      - School Services.md
       - School Advisory Committee.md
+      - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group Exco.md
       - Parent Support Group/Level and Class Leaders.md
       - Parent Support Group/Parent Support Group Events.md
-      - Parent Support Group/.keep
       - Information for Parents/.keep
       - Information for Parents/School Calendar.md
       - Information for Parents/WE STories.md
@@ -18,3 +17,4 @@ collections:
       - Information for Parents/Useful Links for Parents.md
       - Information for Parents/Parents Gateway.md
       - Information for Parents/POSB Smart Buddy.md
+      - School Services.md
