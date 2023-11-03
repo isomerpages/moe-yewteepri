@@ -2,6 +2,7 @@
 title: Resources for staff
 permalink: /quicklinks/resources-for-staff/
 description: ""
+variant: markdown
 ---
 ### Resources for Staff
 
@@ -16,7 +17,7 @@ description: ""
 * [Parents Gateway](https://pg.moe.edu.sg/)
 * [Resource Booking Service (RBS)](https://rbs.avero-tech.com/login.html)
 * [School Cockpit 2.0](https://schoolcockpit.moe.gov.sg/)
-* [OneDrive Personal Cloud Storage - Microsoft (5TB)](https://onedrive.live.com/about/en-us/signin/)
+* [Microsoft 365 Online (Word, PowerPoint, Excel and OneDrive)](http://office.com/)
 * [ALL EARS Form Builder](https://forms.moe.edu.sg/)
 * [Trusted short links from public officers (GO.gov.sg)](https://go.gov.sg/#/)
 * [GenAI Testimonial Generator](https://go.gov.sg/appraiser)
