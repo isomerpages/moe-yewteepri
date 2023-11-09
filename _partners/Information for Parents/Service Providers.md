@@ -3,6 +3,7 @@ title: Service Providers
 permalink: /partners/Information-for-Parents/service-providers/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 ### Service Providers
 
@@ -10,20 +11,24 @@ third_nav_title: Information for Parents
 **Ricky Book Centre** <br>
 Address : Yew Tee Primary School, Bookshop <br>
 Telephone : 81138887 (Robin Chin) <br>
-Operating hours : Monday – Friday 8.30 a.m. to 2.30 p.m. 
+Operating hours : <br>
+Mon, Tues, Thurs, Fri - 8.30am to 2.30pm<br>
+Wed - 8.30am to 1.00pm
+
+
+**Booklist 2024:**
 <br>
-**Booklist 2023:**<br>
-[P1 - Booklist](/files/P1%20-%20Booklist%202023.pdf)
+[P1 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p1.pdf)
 <br>
-[P2 - Booklist](/files/P2%20-%20Booklist%202023.pdf)
+[P2 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p2.pdf)
 <br>
-[P3 - Booklist](/files/P3%20-%20Booklist%202023.pdf)
+[P3 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p3.pdf)
 <br>
-[P4 - Booklist](/files/P4%20-%20Booklist%202023.pdf)
+[P4 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p4.pdf)
 <br>
-[P5 - Booklist](/files/P5%20-%20Booklist%202023.pdf)
+[P5 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p5.pdf)
 <br>
-[P5 - Booklist](/files/P5%20-%20Booklist%202023.pdf)
+[P6 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p6.pdf)
 
 #### Bus Operator
 **Leeng Transport Service** <br>
