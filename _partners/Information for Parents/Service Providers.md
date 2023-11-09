@@ -11,7 +11,10 @@ variant: markdown
 **Ricky Book Centre** <br>
 Address : Yew Tee Primary School, Bookshop <br>
 Telephone : 81138887 (Robin Chin) <br>
-Operating hours : Monday – Friday 8.30 a.m. to 2.30 p.m. 
+Operating hours : <br>
+Mon, Tues, Thurs, Fri - 8.30am to 2.30pm<br>
+Wed - 8.30am to 1.00pm
+
 <br>
 
 **Booklist 2024:**<br>
