@@ -15,9 +15,9 @@ Operating hours : <br>
 Mon, Tues, Thurs, Fri - 8.30am to 2.30pm<br>
 Wed - 8.30am to 1.00pm
 
-<br>
 
-**Booklist 2024:**<br>
+**Booklist 2024:**
+<br>
 [P1 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p1.pdf)
 <br>
 [P2 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p2.pdf)
