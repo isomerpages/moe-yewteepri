@@ -18,17 +18,18 @@ Wed - 8.30am to 1.00pm
 
 **Booklist 2024:**
 <br>
-[P1 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p1.pdf)
+[P1 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P1.pdf)
 <br>
-[P2 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p2.pdf)
+[P2 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P2.pdf)
 <br>
-[P3 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p3.pdf)
+[P3 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P3.pdf)
 <br>
-[P4 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p4.pdf)
+[P4 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P4.pdf)
 <br>
-[P5 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p5.pdf)
+[P5 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P5.pdf)
 <br>
-[P6 - Booklist](/files/yew%20tee%20primary%20school%20%20-%20booklist%20ay%202024%20caa%20011123%20-%20p6.pdf)
+[P6 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P6.pdf)
+<br>
 
 #### Bus Operator
 **Leeng Transport Service** <br>
