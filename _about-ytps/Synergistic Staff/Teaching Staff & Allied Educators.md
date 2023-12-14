@@ -20,7 +20,6 @@ variant: markdown
 |1P|Leong Ma Choo (Mdm) [leong\_ma\_choo@moe.edu.sg](mailto:leong_ma_choo@moe.edu.sg)<br>Zhuo Miaolin (Mdm) [zhuo\_miaolin@moe.edu.sg](mailto:zhuo_miaolin@moe.edu.sg)|
 |1R|Chua Gek Tiang (Mdm) [chua\_gek\_tiang@moe.edu.sg](mailto:chua_gek_tiang@moe.edu.sg)<br>K. Sreedraran Nair (Mr) [k\_sreedraran\_nair@moe.edu.sg](mailto:k_sreedraran_nair@moe.edu.sg) |
 
-
 ##### Primary 2 
 
 | Class |Teacher|
@@ -74,7 +73,6 @@ variant: markdown
 |6E|Shavitha Jamna Ramakrishnan(Mdm) [shavitha\_jamna\_ramakrishnan@moe.edu.sg](mailto:shavitha_jamna_ramakrishnan@moe.edu.sg)<br>Woon Kin Chong (Mr) [woon\_kin\_chong@moe.edu.sg](mailto:woon_kin_chong@moe.edu.sg)<br>Zhao Jun (Mdm) [zhao\_jun\_a@moe.edu.sg](mailto:zhao_jun_a@moe.edu.sg)|
 |6I|S Srijith (Mr) [s\_srijith@moe.edu.sg](mailto:s_srijith@moe.edu.sg)<br>Sarifah Hasliza (Mdm) [sarifah\_hasliza\_syed@moe.edu.sg](mailto:sarifah_hasliza_syed@moe.edu.sg)<br>Tan Puay Puay (Mdm) [tan\_puay\_puay@moe.edu.sg](mailto:tan_puay_puay@moe.edu.sg)|
 |6P|Lekha (Mdm) [lekha\_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)<br>Nur Huda Bte Mohd Sidek (Ms) [nur\_huda\_mohammad\_sidek@moe.edu.sg](mailto:nur_huda_mohammad_sidek@moe.edu.sg)<br>Tan Meow Huang (Mdm) [tan\_meow\_huang@moe.edu.sg](mailto:tan_meow_huang@moe.edu.sg)|
-
 
 ##### Allied Educators
 
