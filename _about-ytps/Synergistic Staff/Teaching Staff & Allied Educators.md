@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Synergistic Staff
 variant: markdown
 ---
-### Teaching Staff &amp; Allied Educators
-
-#### Teaching Staff 2024
+#### Teaching Staff 
 
 ##### Primary 1 
 
