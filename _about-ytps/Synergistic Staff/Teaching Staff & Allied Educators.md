@@ -3,8 +3,9 @@ title: Teaching Staff & Allied Educators
 permalink: /about-ytps/Synergistic-Staff/teaching-staff/
 description: ""
 third_nav_title: Synergistic Staff
+variant: markdown
 ---
-### Teaching Staff & Allied Educators
+### Teaching Staff &amp; Allied Educators
 
 #### Teaching Staff
 
@@ -81,11 +82,21 @@ third_nav_title: Synergistic Staff
 |6P|Tan Hsuen Fang (Mdm) [tan\_hsuen\_fang@moe.edu.sg](mailto:tan_hsuen_fang@moe.edu.sg)<br>Tan Sin Yee (Ms) [tan\_sin\_yee@moe.edu.sg](mailto:tan_sin_yee@moe.edu.sg)|
 |6R|Kim Qingxian (Ms) [kim\_qing\_xian@moe.edu.sg](mailto:kim_qing_xian@moe.edu.sg)<br>Tan Puay Puay (Mdm) [tan\_puay\_puay@moe.edu.sg](mailto:tan_puay_puay@moe.edu.sg)<br>Lim Ming Chwee (Mdm) [lim\_ming\_chwee@moe.edu.sg](mailto:lim_ming_chwee@moe.edu.sg)<br>Sarifah Hasliza (Mdm) [sarifah\_hasliza\_syed@moe.edu.sg](mailto:sarifah_hasliza_syed@moe.edu.sg)|
 
+##### Primary 6 2024
+
+| Class |Teacher|
+|---|---|
+|6C|Gwei Hwee Theng (Mdm) [gwei\_hwee\_theng@moe.edu.sg](mailto:gwei_hwee_theng@moe.edu.sg)<br>Yang Huiyi (Ms) [yang\_huiyi@moe.edu.sg](mailto:yang_huiyi@moe.edu.sg)<br>|
+|6D|Ng Yaw Ling (Mdm) [ng\_yaw\_ling@moe.edu.sg](mailto:ng_yaw_ling@moe.edu.sg)<br>Tok Wei Yuan (Mr) [tok\_wei\_yuan@moe.edu.sg](mailto:tok_wei_yuan@moe.edu.sg)|
+|6E|Shavitha Jamna Ramakrishnan(Mdm) [shavitha\_jamna\_ramakrishnan@moe.edu.sg](mailto:shavitha_jamna_ramakrishnan@moe.edu.sg)<br>Woon Kin Chong (Mr) [woon\_kin\_chong@moe.edu.sg](mailto:woon_kin_chong@moe.edu.sg)<br>Zhao Jun (Mdm) [zhao\_jun\_a@moe.edu.sg](mailto:zhao_jun_a@moe.edu.sg)|
+|6I|S Srijith (Mr) [s\_srijith@moe.edu.sg](mailto:s_srijith@moe.edu.sg)<br>Sarifah Hasliza (Mdm) [sarifah\_hasliza\_syed@moe.edu.sg](mailto:sarifah_hasliza_syed@moe.edu.sg)<br>Tan Puay Puay (Mdm) [tan\_puay\_puay@moe.edu.sg](mailto:tan_puay_puay@moe.edu.sg)|
+|6P|Lekha (Mdm) [lekha\_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)<br>Nur Huda Bte Mohd Sidek (Ms) [nur\_huda\_mohammad\_sidek@moe.edu.sg](mailto:nur_huda_mohammad_sidek@moe.edu.sg)<br>Tan Meow Huang (Mdm) [tan\_meow\_huang@moe.edu.sg](mailto:tan_meow_huang@moe.edu.sg)|
+
 
 ##### Allied Educators
 
 |  |  |  |
 |---|---|---|
-| Mdm Sarasvathy<br>Senior School Counsellor <br>[sarasvathy_govindasamy_annamalai@moe.edu.sg](mailto:sarasvathy_govindasamy_annamalai@moe.edu.sg) | Ms Amber Ng<br> Special Educational Needs Officer<br> [ng_lay_yin@moe.edu.sg](mailto:ng_lay_yin@moe.edu.sg) | Miss Siti Nurliyani Binte Yusri <br> Special Educational Needs Officer<br>  [Siti_Nurliyani_Yusri@moe.edu.sg](mailto:Siti_Nurliyani_Yusri@moe.edu.sg) |
-| Mdm Loh Huey Luen <br>Allied Educator T&L Chinese Language <br>[loh_huey_luen@moe.edu.sg](mailto:loh_huey_luen@moe.edu.sg) | Mdm Siti Nurliana Rosli <br>Allied Educator T&L Mathematics <br>[siti_nurliana_rosli@moe.edu.sg](mailto:siti_nurliana_rosli@moe.edu.sg) |  |
+| Mdm Sarasvathy<br>Senior School Counsellor <br>[sarasvathy_govindasamy_annamalai@moe.edu.sg](mailto:sarasvathy_govindasamy_annamalai@moe.edu.sg) | Ms Amber Ng<br> Special Educational Needs Officer<br> [ng_lay_yin@moe.edu.sg](mailto:ng_lay_yin@moe.edu.sg) |  |
+| Mdm Loh Huey Luen <br>Allied Educator T&amp;L Chinese Language <br>[loh_huey_luen@moe.edu.sg](mailto:loh_huey_luen@moe.edu.sg) | Mdm Siti Nurliana Rosli <br>Allied Educator T&amp;L Mathematics <br>[siti_nurliana_rosli@moe.edu.sg](mailto:siti_nurliana_rosli@moe.edu.sg) |  |
 |
