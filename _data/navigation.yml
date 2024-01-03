@@ -1,0 +1,75 @@
+logo: /images/YTPS Logo_transparent bg_color5.png
+links:
+  - title: About YTPS
+    url: /about-ytps/
+    sublinks:
+      - title: Vision, Mission & Values
+        url: /about-ytps/
+      - title: School Crest/Song
+        url: /about-ytps/crest-song/
+      - title: School Information
+        url: /about-ytps/school-information/
+      - title: School Rules & Regulations
+        url: /about-ytps/school-rules-and-regulations/
+      - title: Synergistic Staff
+        url: /about-ytps/staff/
+      - title: School Leaders
+        url: /about-ytps/school-leaders
+      - title: Our Heritage
+        url: /about-ytps/Our-Heritage/
+      - title: Contact Us
+        url: /about-ytps/contact-us/
+  - title: Total Curriculum
+    url: /total-curriculum/
+    sublinks:
+      - title: Total Curriculum Framework
+        url: /total-curriculum/
+      - title: Character & Citizenship Edu
+        url: /total-curriculum/cce/
+      - title: English Language
+        url: /total-curriculum/english/
+      - title: Information & Comm Technology
+        url: /total-curriculum/ict/
+      - title: Mathematics
+        url: /total-curriculum/math/
+      - title: Mother Tongue Languages
+        url: /total-curriculum/mother-tongue/
+      - title: P.E. & Aesthetics
+        url: /total-curriculum/pe/
+      - title: Science
+        url: /total-curriculum/science/
+  - title: Co-Curricular Activities
+    url: /co-curricular-activities/Clubs/art/
+    sublinks:
+      - title: Clubs
+        url: /co-curricular-activities/Clubs/art/
+      - title: Performing Arts
+        url: /co-curricular-activities/Performing-Arts/angklung-ensemble/
+      - title: Sports
+        url: /co-curricular-activities/Sports/badminton/
+      - title: Uniformed Group
+        url: /co-curricular-activities/Uniformed-Group/boys-brigade/
+  - title: Distinctive Programmes
+    url: /distinctive-programmes/alp-dream/
+    sublinks:
+      - title: ALP - DREAM @ YTPS
+        url: /distinctive-programmes/alp-dream/
+      - title: LLP - HEROES @ YTPS
+        url: /distinctive-programmes/llp-heroes/
+      - title: Student Development Programme
+        url: /distinctive-programmes/student-development-programme/
+  - title: Accolades
+    url: /accolades/Academic-Excellence/knl-awards-2021/
+    sublinks:
+      - title: Academic Excellence
+        url: /accolades/Academic-Excellence/knl-awards-2021/
+      - title: CCA Achievements
+        url: /accolades/CCA-Achievements/2021/
+      - title: School-Based Achievements
+        url: /accolades/school-based-achievements/star-2023/
+      - title: Photo and Video Gallery
+        url: /photo-and-video-gallery/Photo-Gallery/2019/
+      - title: Art Musée
+        url: /accolades/Art-Musee/2021/
+  - title: Partners
+    collection: partners
