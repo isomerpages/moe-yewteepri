@@ -39,7 +39,7 @@ variant: markdown
 |3E|Tan Sin Yee (Ms) [tan\_sin\_yee@moe.edu.sg](mailto:tan_sin_yee@moe.edu.sg)<br>Tan Xian Li Cheris (Mdm) [tan\_xian\_li\_cheris@moe.edu.sg](mailto:tan_xian_li_cheris@moe.edu.sg)|
 |3I|Tan Su Ting (Ms) [tan\_su\_ting@moe.edu.sg](mailto:tan_su_ting@moe.edu.sg)<br>Wong Wei Xiang Darren (Mr) [wong\_wei\_xiang\_darren@moe.edu.sg](mailto:wong_wei_xiang_darren@moe.edu.sg)<br>Fong Yin Kuan-Mrs Ying (Mdm) [fong\_yin\_kuan@moe.edu.sg](mailto:fong_yin_kuan@moe.edu.sg)|
 |3P|Isdasusianty Bte Ismail (Ms) [isdasusianty\_ismail@moe.edu.sg](mailto:isdasusianty_ismail@moe.edu.sg)<br>Janet Wong Sok Jing (Ms) [janet\_wong\_sok\_jing@moe.edu.sg](mailto:janet_wong_sok_jing@moe.edu.sg)<br>Tay-Woo Hui Lyn Amy (Mrs) [woo\_hui\_lyn\_amy@moe.edu.sg](mailto:woo_hui_lyn_amy@moe.edu.sg)|
-|3R|Norliza Bte Ali Khan (Ms) [norliza\_ali\_khan@moe.edu.sg](mailto:norliza_ali_khan@moe.edu.sg)<br>Ong Si Pei Carlyn (Miss) [ong\_si\_pei\_carlyn@moe.edu.sg](mailto:ong_si_pei_carlyn@moe.edu.sg)<br>Koh Wee Gee (Mr)|
+|3R|Norliza Bte Ali Khan (Ms) [norliza\_ali\_khan@moe.edu.sg](mailto:norliza_ali_khan@moe.edu.sg)<br>Ong Si Pei Carlyn (Miss) [ong\_si\_pei\_carlyn@moe.edu.sg](mailto:ong_si_pei_carlyn@moe.edu.sg)<br>Koh Wee Gee (Mr) [koh_wee_gee_c@moe.edu.sg](mailto:KOH_WEE_GEE_C@moe.edu.sg)|
 
 ##### Primary 4 
 
