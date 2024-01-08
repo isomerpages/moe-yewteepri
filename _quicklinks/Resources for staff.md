@@ -21,3 +21,4 @@ variant: markdown
 * [ALL EARS Form Builder](https://forms.moe.edu.sg/)
 * [Trusted short links from public officers (GO.gov.sg)](https://go.gov.sg/#/)
 * [GenAI Testimonial Generator](https://go.gov.sg/appraiser)
+* [HRP Portal](https://www.hrp.gov.sg/hrp/#/)
