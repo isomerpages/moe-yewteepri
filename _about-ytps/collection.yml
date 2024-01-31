@@ -2,13 +2,13 @@ collections:
   about-ytps:
     output: true
     order:
-      - School Organisation Chart.md
       - Vision, Mission, Values and Motto.md
       - School Crest and Song.md
       - School Information/.keep
       - School Information/School Hours and Timings.md
       - School Information/School Terms & Holidays.md
       - School Rules & Regulations.md
+      - School Organisation Chart.md
       - Synergistic Staff/.keep
       - Synergistic Staff/Executive Committee.md
       - Synergistic Staff/Teaching Staff & Allied Educators.md
