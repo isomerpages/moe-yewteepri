@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Most Inspiring Tamil Teachers’ Award 2024.md
       - Arif Budiman Malay Language Teacher Award 2024.md
       - Outstanding Youth in Education Award (OYEA) 2024.md
       - President's Award for Teachers (PAT) 2024.md
