@@ -18,7 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quicklinks/
-      background: /images/websitebanner.jpg
+      background: /images/websitebanner2.jpg
   - infopic:
       title: A World Beyond School
       subtitle: Dr Vincent Ng
