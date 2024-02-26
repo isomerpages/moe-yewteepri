@@ -2,5 +2,4 @@ collections:
   achieve-page-and-others:
     output: true
     order:
-      - 25th Anniversary.md
       - KNL Awards 2019.md
