@@ -1,0 +1,5 @@
+collections:
+  25th-anniversary:
+    output: true
+    order:
+      - 25th Anniversary.md
