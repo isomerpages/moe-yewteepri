@@ -1,4 +1,5 @@
 collections:
   25th-anniversary:
     output: true
-    order: []
+    order:
+      - 25th Anniversary.md
