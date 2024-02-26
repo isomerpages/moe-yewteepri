@@ -11,7 +11,7 @@ as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VA0-v0n55jk?si=0wxkmLWTtqejY8N-"></iframe>
 </div>
-<p><strong>Connect | Cherish | Celebrate ~ Our Alumni ~ Vikram Jayakumar </strong>
+<p><strong>Connect | Cherish | Celebrate ~ Our Alumni ~ Vikram Jayakumar</strong>
 </p>
 <p></p>
 <div class="iframe-wrapper">
