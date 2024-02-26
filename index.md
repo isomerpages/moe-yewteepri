@@ -76,4 +76,16 @@ sections:
       description: You can follow MOE on Facebook, Instagram, TikTok and Twitter
       button: Click here
       url: /quicklinks/moesocialmedia/
+  - infopic:
+      title: "Connect | Cherish | Celebrate: Our Alumni"
+      id: infopic
+      description: >-
+        As we celebrate our 25th Anniversary in 2024, hear from our alumni as
+        they reminisce their memories of Yew Tee Primary School.
+
+        Cheers!
+      button: Click here
+      url: https://www.yewteepri.moe.edu.sg/
+      image: /images/YTPS_25_IDENT.png
+      alt: Image alt text
 ---
