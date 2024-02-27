@@ -22,11 +22,9 @@ sections:
   - infopic:
       title: "Connect | Cherish | Celebrate: Our Alumni"
       id: infopic
-      description: >-
+      description: >
         As we celebrate our 25th Anniversary in 2024, hear from our alumni as
         they reminisce their memories of Yew Tee Primary School.
-
-        Cheers!
       button: Click here
       url: /25th-anniversary/alumni-videos/
       image: /images/YTPS_25_IDENT.png
