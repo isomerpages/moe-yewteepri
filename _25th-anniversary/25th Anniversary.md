@@ -54,3 +54,7 @@ as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <p><strong>Connect | Cherish | Celebrate ~ Our Alumni ~ Rachel Dass (Class of 2006)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25thanniversary.jpg">
+</div>
+<p></p>
