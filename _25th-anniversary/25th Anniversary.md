@@ -7,7 +7,6 @@ description: ""
 <h4>Connect | Cherish | Celebrate: Our Alumni</h4>
 <p>As we celebrate our 25th&nbsp;Anniversary in 2024, hear from our alumni
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
-<p>Cheers!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VA0-v0n55jk?si=0wxkmLWTtqejY8N-"></iframe>
 </div>
