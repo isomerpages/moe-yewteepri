@@ -8,11 +8,15 @@ description: ""
 <p>As we celebrate our 25th&nbsp;Anniversary in 2024, hear from our alumni
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nyo0_Krt43I?si=-8Pq8AVGUdAFyElC"></iframe>
+</div>
+<p><strong>Connect | Cherish | Celebrate ~ Our Alumni ~ Tan Shern Kai &amp; Muhammad Ridhwan bin Ismail (Class of 2013)</strong>
+</p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VA0-v0n55jk?si=0wxkmLWTtqejY8N-"></iframe>
 </div>
 <p><strong>Connect | Cherish | Celebrate ~ Our Alumni ~ Vikram Jayakumar</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gGvdgSCNiA0?si=JqWmwCI-yQ7zNQlF"></iframe>
 </div>
@@ -53,4 +57,8 @@ as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 </div>
 <p><strong>Connect | Cherish | Celebrate ~ Our Alumni ~ Rachel Dass (Class of 2006)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25thanniversary.jpg">
+</div>
 <p></p>
