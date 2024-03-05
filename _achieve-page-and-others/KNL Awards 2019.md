@@ -2,8 +2,8 @@
 title: KNL Awards 2019
 permalink: /accolades/Academic-Excellence/knl-awards-2019/
 description: ""
+variant: markdown
 ---
-
 ### KNL Awards 2019
 
 _Knowledge, Numeracy and Literacy_
@@ -260,3 +260,4 @@ _Knowledge, Numeracy and Literacy_
   </tr>
 </tbody>
 </table>
+![](/images/ce2adc7b_d491_4e52_b5cf_63f136b9495f.jpg)
