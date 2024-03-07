@@ -25,7 +25,7 @@ Key to this is an emphasis on the core skills of listening, speaking, reading an
 |Mr Sairamprabhu Balasubramani (HOD/CCE)|Mdm Hartini Sanin|
 |Mr Mohamad Najeeb Abdul Majid (Asst Year Head UP)|Mdm Liu Beibei|
 |Miss Cheng Boon Ling|Mdm Tan Chai Hia|
-|Miss Kim QingXian|Miss Isdasusianty (ML Coordinator) Ismail|
+|Miss Kim QingXian|Miss Isdasusianty Ismail (ML Coordinator)|
 |Mdm Xiao Chuan|Miss Lim Poh Li|
 |Mdm Rashitha Bibi Abdul Hameed|Mr Wong Song Pei|
 |Mdm Zhuo Miaolin|Mdm Cheung Ka Lai|
