@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /total-curriculum/mother-tongue/
 description: ""
+variant: markdown
 ---
 ### Mother Tongue Languages
 
@@ -17,20 +18,20 @@ Key to this is an emphasis on the core skills of listening, speaking, reading an
 | -------- | -------- | 
 | Mdm Tan Hsuen Fang   || 
 |**Subject Head**||
-|Mr Mohamad Najeeb Abdul Majid ( Malay Language )|
 |Mdm. Shavitha Jamna Ramakrishnan ( Tamil Language)|
 |**Members**||
 |Mdm Tan Meow Huang (ST/CL)|Mdm Lim Wen Huey (ST/CL)|
 |Mrs Tan Yoke Yin (HOD ICT)|Mr Gwee Yee Tat Ryan (YH)|
 |Mr Sairamprabhu Balasubramani (HOD/CCE)|Mdm Hartini Sanin|
-|Mdm Liu Beibei|Miss Cheng Boon Ling|
-|Mdm Tan Chai Hia|Miss Kim QingXian|
-|Miss Isdasusianty Ismail|Mdm Xiao Chuan|
-|Miss Lim Poh Li|Mdm Rashitha Bibi Abdul Hameed|
-|Mr Wong Song Pei|Mdm Zhuo Miaolin|
-|Mdm Cheung Ka Lai|Mdm Siti Nazhira Bte Mohd Aini|
-|Mdm Ng Beng Kiaw (FAJT)|Mrs. Vijayalakshimi Balasubramaniam (FAJT)|
-|Mdm Loh Huey Luen (AED – T & L)|Mdm Lekhaadevi Balakrishnan (FAJT)|
+|Mr Mohamad Najeeb Abdul Majid (Asst Year Head UP)|Mdm Liu Beibei|
+|Miss Cheng Boon Ling|Mdm Tan Chai Hia|
+|Miss Kim QingXian|Miss Isdasusianty (ML Coordinator) Ismail|
+|Mdm Xiao Chuan|Miss Lim Poh Li|
+|Mdm Rashitha Bibi Abdul Hameed|Mr Wong Song Pei|
+|Mdm Zhuo Miaolin|Mdm Cheung Ka Lai|
+|Mdm Siti Nazhira Bte Mohd Aini|Mdm Ng Beng Kiaw (FAJT)|
+|Mrs. Vijayalakshimi Balasubramaniam (FAJT)|Mdm Loh Huey Luen (AED – T &amp; L)|
+|Mdm Lekhaadevi Balakrishnan (FAJT)||
 
 #### Programme Highlights
 ##### Reading Programmes
