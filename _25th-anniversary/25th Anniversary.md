@@ -9,6 +9,11 @@ description: ""
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <p></p>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CcKKlekgRC8?si=Ita9WTcS5IYp1Yg0"></iframe>
+</div>
+<p><strong>Teo Chen Rei Rayson (Class of 2013)</strong>
+</p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/deQFdr3ROr0?si=ZKzEBXET4aLDcbxy"></iframe>
 </div>
 <p><strong>Hemaa Shruthi Sekar (Class of 2007) &amp; Rupa Shree Sekar&nbsp;(Class of 2013)</strong>
