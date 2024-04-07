@@ -9,6 +9,11 @@ description: ""
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <p></p>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hz08e9Jno0E?si=8YAJuTVH8oDRNKOk"></iframe>
+</div>
+<p><strong>Foo Loon Haw &amp; Ershad Harith Bin Abdul Malik (Class of 2008)</strong>
+</p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qToWzd-c_GI?si=5ZvRCixpDPONm6DM"></iframe>
 </div>
 <p><strong>Shankar s/o Velu &amp; Shanggari d/o Velu (Class of 2008)</strong>
