@@ -16,8 +16,8 @@ as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hz08e9Jno0E?si=8YAJuTVH8oDRNKOk"></iframe>
 </div>
-<p>Connect | Cherish | Celebrate ~ Our Alumni ~ Amirul Syakur (Class of 2015),
-Amirul Adani (Class of 2016) &amp; Amirul Thaqif (Class of 2020)</p>
+<p><strong>Foo Loon Haw &amp; Ershad Harith Bin Abdul Malik (Class of 2008)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qToWzd-c_GI?si=5ZvRCixpDPONm6DM"></iframe>
 </div>
