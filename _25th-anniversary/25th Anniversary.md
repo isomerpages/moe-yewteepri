@@ -9,6 +9,16 @@ description: ""
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <p></p>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5ZOUd4s4GlQ?si=PxXgYk-8cYoj2ky4"></iframe>
+</div>
+<p><strong>Kegan Phang &amp; Akhtar Javier Machdy (Class of 2018)</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lgsEnDe0SlA?si=uJCtKazincrVq78e"></iframe>
+</div>
+<p><strong>Chloe Loh (Class of 2018) &amp; Chanelle Loh (Class of 2020)</strong>
+</p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pvftVmlOexU?si=ngIca164CxG5uxCf"></iframe>
 </div>
 <p><strong>Amirul Syakur (Class of 2015), Amirul Adani (Class of 2016) &amp; Amirul Thaqif (Class of 2020)</strong>
