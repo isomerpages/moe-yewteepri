@@ -19,7 +19,7 @@ description: ""
 </li>
 </ul>
 <p>If you are keen to join the Alumni, click on the link:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65cec4d31bd44f5cd63c8f98</a>
+<p><a href="https://form.gov.sg/65cec4d31bd44f5cd63c8f98" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65cec4d31bd44f5cd63c8f98</a>
 </p>
 <p></p>
 <p>If you have any clarification, please email either:</p>
