@@ -9,13 +9,13 @@ description: ""
 <p>We would like to welcome all alumni in:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nurturing School Spirit across generations of YTPS students</p>
+<p>Nurturing school spirit across generations of YTPS students</p>
 </li>
 <li>
-<p>Preserving YTPS Legacy &amp; Cherished Traditions</p>
+<p>Preserving YTPS legacy and cherished traditions</p>
 </li>
 <li>
-<p>Fostering Network amongst generations of YTPS students</p>
+<p>Fostering network amongst generations of YTPS students</p>
 </li>
 </ul>
 <p>If you are keen to join the Alumni, click on the link:</p>
@@ -34,5 +34,5 @@ description: ""
 </li>
 </ol>
 <p></p>
-<p>Thanks.</p>
+<p></p>
 <p></p>
