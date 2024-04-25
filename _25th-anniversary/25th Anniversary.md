@@ -9,6 +9,11 @@ description: ""
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <p></p>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NVsMfB7VGQk?si=JikScf-52EZUEZX5"></iframe>
+</div>
+<p><strong>Emma Chee &amp; Keira Widjaja (Class of 2018)</strong>
+</p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5ZOUd4s4GlQ?si=PxXgYk-8cYoj2ky4"></iframe>
 </div>
 <p><strong>Kegan Phang &amp; Akhtar Javier Machdy (Class of 2018)</strong>
