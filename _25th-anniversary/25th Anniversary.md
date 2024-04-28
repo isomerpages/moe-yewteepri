@@ -7,7 +7,11 @@ description: ""
 <h4>Connect | Cherish | Celebrate: Our Alumni</h4>
 <p>As we celebrate our 25th&nbsp;Anniversary in 2024, hear from our alumni
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zB17Wg2oKYQ?si=IhyjBAeZUAK53Zjv"></iframe>
+</div>
+<p><strong>Claudia How Xian Hui, Javier Ng Zhe Wei, Kate Yee Xinyun &amp; Saravanan Annapoorani (Class of 2020)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NVsMfB7VGQk?si=JikScf-52EZUEZX5"></iframe>
 </div>
