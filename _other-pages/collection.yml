@@ -1,5 +1,5 @@
 collections:
-  25th-anniversary:
+  other-pages:
     output: true
     order:
       - 25th Anniversary.md
