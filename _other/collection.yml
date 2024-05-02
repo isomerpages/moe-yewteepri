@@ -2,4 +2,5 @@ collections:
   other:
     output: true
     order:
+      - MOS visit.md
       - 25th Anniversary.md
