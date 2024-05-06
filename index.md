@@ -22,12 +22,21 @@ sections:
   - infopic:
       title: "Connect | Cherish | Celebrate: Our Alumni"
       id: infopic
-      description: >
-        As we celebrate our 25th Anniversary in 2024, hear from our alumni as
-        they reminisce their memories of Yew Tee Primary School.
+      description: As we celebrate our 25th Anniversary in 2024, hear from our alumni
+        as they reminisce their memories of Yew Tee Primary School.
       button: Click here
-      url: /25th-anniversary/alumni-videos/
+      url: /Other/alumni-videos/
       image: /images/YTPS_25_IDENT.png
+      alt: Image alt text
+  - infopic:
+      title: Visit by Ms Gan Siow Huang, MOS (Education and Manpower)
+      id: infopic
+      description: On 25 April, our students and staff had a good time interacting
+        with Ms Gan, sharing their recess experience and engaging her with
+        thoughtful questions.
+      button: Click here
+      url: /Other/mos-visit/
+      image: /images/DSC01012.jpg
       alt: Image alt text
   - infopic:
       title: A World Beyond School

@@ -7,6 +7,12 @@ description: ""
 <h4>Connect | Cherish | Celebrate: Our Alumni</h4>
 <p>As we celebrate our 25th&nbsp;Anniversary in 2024, hear from our alumni
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HbKG6EIHQhQ?si=Ojt41IS-kQfX7x5q"></iframe>
+</div>
+<p><strong>Geraud Ang Wei Sheng (Class of 2018), Lim Jia Ying (Class of 2019) &amp; Cayden Chan Chong Yee (Class of 2020) feat. Mdm Cynthia Bong, Mdm Chang Mei Cheng &amp; Mdm Chua Leelin</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zB17Wg2oKYQ?si=IhyjBAeZUAK53Zjv"></iframe>
 </div>
@@ -107,10 +113,6 @@ as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 </div>
 <p><strong>Rachel Dass (Class of 2006)</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ce2adc7b_d491_4e52_b5cf_63f136b9495f.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_09_at_10_58_28_AM.jpg">
