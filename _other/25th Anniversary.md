@@ -115,10 +115,6 @@ as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ce2adc7b_d491_4e52_b5cf_63f136b9495f.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_09_at_10_58_28_AM.jpg">
 </div>
 <p></p>
