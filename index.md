@@ -25,7 +25,7 @@ sections:
       description: As we celebrate our 25th Anniversary in 2024, hear from our alumni
         as they reminisce their memories of Yew Tee Primary School.
       button: Click here
-      url: /Other/alumni-videos/
+      url: https://www.yewteepri.moe.edu.sg/alumni-videos/
       image: /images/YTPS_25_IDENT.png
       alt: Image alt text
   - infopic:
