@@ -35,7 +35,7 @@ sections:
         with Ms Gan, sharing their recess experience and engaging her with
         thoughtful questions.
       button: Click here
-      url: /Other/mos-visit/
+      url: https://www.yewteepri.moe.edu.sg/mos-visit/
       image: /images/DSC01012.jpg
       alt: Image alt text
   - infopic:
