@@ -9,6 +9,11 @@ description: ""
 as they reminisce their memories of Yew Tee Primary&nbsp;School.</p>
 <p></p>
 <div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-m8Ogv4lGrQ?si=LttjLi4WPVg_1511"></iframe>
+</div>
+<p><strong>Adena Ho, Colin Soh Hengyi, Neoh Chin Ee and Wong Qiqi Leticia (Class of 2019)</strong>
+</p>
+<div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HbKG6EIHQhQ?si=Ojt41IS-kQfX7x5q"></iframe>
 </div>
 <p><strong>Geraud Ang Wei Sheng (Class of 2018), Lim Jia Ying (Class of 2019) &amp; Cayden Chan Chong Yee (Class of 2020) feat. Mdm Cynthia Bong, Mdm Chang Mei Cheng &amp; Mdm Chua Leelin</strong>
