@@ -22,12 +22,13 @@ sections:
   - infopic:
       title: 25th Anniversary Google Site
       id: infopic
-      description: "As we celebrate our 25th anniversary in 2024, access this
-        specially created site for more information on the celebration. "
+      description: As we celebrate our 25th anniversary in 2024, access this specially
+        created site for more information on the celebration.
       button: Click here
       url: https://sites.google.com/moe.edu.sg/ytps25th/welcome-page
-      image: /images/YTPS_25_IDENT.png
+      image: /images/Without_white_backgrd_1.png
       alt: Image alt text
+      subtitle: Connect | Cherish | Celebrate
   - infopic:
       title: Visit by Ms Gan Siow Huang, MOS (Education and Manpower)
       id: infopic
