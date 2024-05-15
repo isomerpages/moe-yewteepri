@@ -20,12 +20,12 @@ sections:
           url: /quicklinks/
       background: /images/websitebanner2.jpg
   - infopic:
-      title: "Connect | Cherish | Celebrate: Our Alumni"
+      title: 25th Anniversary Google Site
       id: infopic
-      description: As we celebrate our 25th Anniversary in 2024, hear from our alumni
-        as they reminisce their memories of Yew Tee Primary School.
+      description: "As we celebrate our 25th anniversary in 2024, access this
+        specially created site for more information on the celebration. "
       button: Click here
-      url: https://www.yewteepri.moe.edu.sg/alumni-videos/
+      url: https://sites.google.com/moe.edu.sg/ytps25th/welcome-page
       image: /images/YTPS_25_IDENT.png
       alt: Image alt text
   - infopic:
