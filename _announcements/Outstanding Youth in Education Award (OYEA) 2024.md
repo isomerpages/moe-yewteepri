@@ -1,6 +1,6 @@
 ---
 title: Outstanding Youth in Education Award (OYEA) 2024
-permalink: /announcements/
+permalink: /announcements/oyea2024/
 description: ""
 variant: markdown
 ---
