@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - OPEN HOUSE 2024.md
       - 25th Anniversary Google Site.md
       - Outstanding Youth in Education Award (OYEA) 2024.md
       - President's Award for Teachers (PAT) 2024.md
