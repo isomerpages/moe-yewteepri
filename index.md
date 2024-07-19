@@ -20,13 +20,13 @@ sections:
           url: /quicklinks/
       background: /images/websitebanner2.jpg
   - infopic:
-      title: 25th Anniversary Google Site
+      title: 25th Anniversary Celebrations
       id: infopic
-      description: As we celebrate our 25th anniversary in 2024, access this specially
-        created site for more information on the celebration.
+      description: We are 25. This specially created site captures the joy of our
+        alumni, students, staff, parents and partners.
       button: Click here
       url: https://sites.google.com/moe.edu.sg/ytps25th/welcome-page
-      image: /images/Without_white_backgrd_1.png
+      image: /images/DSC03040.jpg
       alt: Image alt text
       subtitle: Connect | Cherish | Celebrate
   - infopic:
