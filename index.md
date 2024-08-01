@@ -20,6 +20,14 @@ sections:
           url: /quicklinks/
       background: /images/websitebanner2.jpg
   - infopic:
+      title: Yew Tee Primary School Open House 2024
+      description: Learning is fun and enjoyable at Yew Tee Primary School. That is
+        the theme for this year’s Open House 2024.
+      button: Click to see highlights
+      url: https://www.instagram.com/p/C9zWtcihxTE/?utm_source=ig_web_copy_link
+      image: /images/DSC03758.jpg
+      alt: image alt text
+  - infopic:
       title: 25th Anniversary Celebrations
       id: infopic
       description: We are 25. This specially created site captures the joy of our
@@ -75,14 +83,6 @@ sections:
       url: /about-ytps/contact-us/
       image: /images/240_F_392719944_L0LYv3e7QozB2tsj3CfUN0HPC8eZQOWb.jpg
       alt: Image alt text
-  - infopic:
-      title: Yew Tee Primary School Open House 2023
-      description: We are delighted to have hosted our Open House in May and met
-        families in the neighbourhood in person.
-      button: Click to see highlights
-      url: https://www.instagram.com/p/CssMADHP3wv/?igshid=Y2I2MzMwZWM3ZA==
-      image: /images/2023 open house.JPG
-      alt: image alt text
   - infopic:
       title: Home@YTPS
       description: Home is here at YTPS! Get to know what your child experiences in
