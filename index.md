@@ -21,8 +21,8 @@ sections:
       background: /images/websitebanner2.jpg
   - infopic:
       title: Yew Tee Primary School Open House 2024
-      description: Learning is fun and enjoyable at Yew Tee Primary School. That is
-        the theme for this year’s Open House 2024.
+      description: Learning is fun and enjoyable at Yew Tee Primary School's Open
+        House 2024.
       button: Click to see highlights
       url: https://www.instagram.com/p/C9zWtcihxTE/?utm_source=ig_web_copy_link
       image: /images/DSC03758.jpg
