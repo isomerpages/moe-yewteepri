@@ -32,9 +32,16 @@ Wed - 8.30am to 1.00pm
 <br>
 
 #### Bus Operator
-**Leeng Transport Service (1 January 2023 to 31 December 2024)** <br>
-Telephone : 96329603 (Ms Sharon)<br>
-To view details of bus operator and bus fares, click [here](/files/school%20bus%20service.pdf)<br>
+**Leeng Transport Service (1 January 2023 to 31 December 2024)**<br>
+Telephone: 96329603 (Ms Sharon) <br>
+To view details of bus operator and bus fares, click here <br>
+
+**Chang Chen Pte Ltd (1 January 2025 to 31 December 2026)**<br>
+Chang An Bus Transport Service (Parent Company)<br>
+Contact person: Mr Grif Lim <br>
+Telephone: 9090 5835 <br>
+Email: griflim@hotmail.com<br>
+To view details of bus operator, bus fares and application form, click here
 
 #### School Canteen
 click [here](/files/Yew_Tee_Pri_School_Canteen_Menu_Year_2024.pdf) for canteen menu.
