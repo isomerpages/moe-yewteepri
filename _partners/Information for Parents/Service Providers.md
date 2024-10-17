@@ -41,7 +41,7 @@ Chang An Bus Transport Service (Parent Company)<br>
 Contact person: Mr Grif Lim <br>
 Telephone: 9090 5835 <br>
 Email: griflim@hotmail.com<br>
-To view details of bus operator, bus fares and application form, click here
+To view details of bus operator, bus fares and application form, click [here](/files/Request_for_School_Bus_Services_with_Application_Form.pdf)
 
 #### School Canteen
 click [here](/files/Yew_Tee_Pri_School_Canteen_Menu_Year_2024.pdf) for canteen menu.
