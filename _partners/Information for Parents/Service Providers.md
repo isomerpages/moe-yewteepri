@@ -42,15 +42,9 @@ Contact person: Mr Grif Lim <br>
 Telephone: 9090 5835 <br>
 Email: griflim@hotmail.com <br>
 To view details of bus operator, bus fares and application form: <br>
-* School Bus Application form <br>
-* School Bus Fares
+* [School Bus Application form](/files/Request_for_School_Bus_Services_with_Application_Form.pdf) <br>
+* [School Bus Fares](/files/school_bus_service_1_Jan_2025_to_31_Dec_2026.pdf)
 
-**Chang Chen Pte Ltd (1 January 2025 to 31 December 2026)**<br>
-Chang An Bus Transport Service (Parent Company)<br>
-Contact person: Mr Grif Lim <br>
-Telephone: 9090 5835 <br>
-Email: griflim@hotmail.com<br>
-To view details of bus operator, bus fares and application form, click [here](/files/Request_for_School_Bus_Services_with_Application_Form.pdf)
 
 #### School Canteen
 click [here](/files/Yew_Tee_Pri_School_Canteen_Menu_Year_2024.pdf) for canteen menu.
