@@ -34,7 +34,7 @@ Wed - 8.30am to 1.00pm
 #### Bus Operator
 **Leeng Transport Service (1 January 2023 to 31 December 2024)**<br>
 Telephone: 96329603 (Ms Sharon) <br>
-To view details of bus operator and bus fares, click [here](/files/school_bus_service_1_Jan_2025_to_31_Dec_2026.pdf) <br>
+To view details of bus operator and bus fares, click [here](/files/school_bus_service_for_Leeng.pdf) <br>
 
 **Chang Chen Pte Ltd (1 January 2025 to 31 December 2026)**<br>
 Chang An Bus Transport Service (Parent Company)<br>
