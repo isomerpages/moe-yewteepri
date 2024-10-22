@@ -4,5 +4,6 @@ permalink: /announcements/pat2025/
 description: ""
 variant: tiptap
 ---
-Click [here](https://go.gov.sg/pat2024) to nominate your teachers for PAT 2024 <br>
-[https://go.gov.sg/pat2024](https://go.gov.sg/pat2024)
+<p>Click <a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">here</a> to
+nominate your teachers for PAT 2025</p>
+<p></p>
