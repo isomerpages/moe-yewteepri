@@ -6,9 +6,11 @@ description: ""
 third_nav_title: School Based Achievements
 ---
 <h2>STAR Awards 2024</h2>
-<p><strong>August</strong>
+<p><strong>September</strong>
 </p>
 <p></p>
+<p><strong>August</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STARA/August 2024/Primary_1_and_2_STARA_Photos.jpg">
 </div>
