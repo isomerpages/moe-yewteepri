@@ -16,7 +16,7 @@ Mon, Tues, Thurs, Fri - 8.30am to 2.30pm<br>
 Wed - 8.30am to 1.00pm
 
 
-**Booklist 2024:**
+**Booklist 2025:**
 <br>
 [P1 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P1.pdf)
 <br>
