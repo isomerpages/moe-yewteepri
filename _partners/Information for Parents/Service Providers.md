@@ -17,19 +17,12 @@ Wed - 8.30am to 1.00pm
 
 
 **Booklist 2025:**
-<br>
-[P1 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P1.pdf)
-<br>
-[P2 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P2.pdf)
-<br>
-[P3 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P3.pdf)
-<br>
-[P4 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P4.pdf)
-<br>
-[P5 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P5.pdf)
-<br>
-[P6 - Booklist](/files/Yew_Tee_Primary_School____Booklist_AY_2024_caa_151123___P6.pdf)
-<br>
+<br>[P1 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025___P1.pdf)
+<br>[P2 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025___P2.pdf)
+<br>[P3 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025___P3.pdf)
+<br>[P4 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025___P4.pdf)
+<br>[P5 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025___P5.pdf)
+<br>[P6 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025___P6.pdf)
 
 #### Bus Operator
 **Leeng Transport Service (1 January 2023 to 31 December 2024)**<br>
