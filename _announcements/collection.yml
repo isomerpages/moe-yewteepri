@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - e Orientation on 15 November 2024.md
       - Outstanding Youth in Education Award (OYEA) 2025.md
       - President's Award for Teachers (PAT) 2025.md
       - NIE Caring Teacher Award 2024.md
