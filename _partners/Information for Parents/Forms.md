@@ -3,6 +3,7 @@ title: Forms
 permalink: /partners/Information-for-Parents/forms/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 ### Forms
 
@@ -11,7 +12,7 @@ third_nav_title: Information for Parents
 
 #### Forms For Existing Students
 
-* [MOE FAS Application Form](/files/2024%20moe%20fas%20application%20form.pdf)
+* [MOE FAS Application Form](/files/2025/MOE_FAS_Application_Form_2025.pdf)
 * [Edusave Form for 2nd-Tier Miscellaneous Fee Payment](/files/Edusave_SO_Form_SPMM.pdf)
 * [Name Tag Order Form](https://drive.google.com/file/d/1qozJLvWqaUqyjsAQ0QSyJE4IDlA6joWj/view)
 * [Letter of Request for Use of Mobile Phones](https://drive.google.com/file/d/1liF1Wg884ejYB2bS8uURj6lOPcI00T1K/view?usp=share_link)
