@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### School Terms & Holidays
 
-**The school terms and holidays for the year 2024 are as follows:**
+**The school terms and holidays for the year 2025 are as follows:**
 
 #### School Terms
 
