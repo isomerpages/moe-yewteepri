@@ -47,4 +47,3 @@ If your child takes Foundation Math, he he/she would need to attend the followin
 | -------- | -------- | 
 | Gate A    | 6.45 a.m. to 6.30 p.m.   |
 | Side Gate B &amp; D   |7.00 a.m. to 7.30 a.m. <br> 1.30 p.m. to 2.00 p.m. (Monday, Tuesday, Thursday &amp; Friday)<br>12.30 p.m. to 1.00 p.m. (Wednesday only) |
-
