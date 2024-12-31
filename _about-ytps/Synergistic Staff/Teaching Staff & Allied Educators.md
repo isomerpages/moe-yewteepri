@@ -18,6 +18,16 @@ variant: markdown
 |1P|Leong Ma Choo (Mdm) [leong\_ma\_choo@moe.edu.sg](mailto:leong_ma_choo@moe.edu.sg)<br>Zhuo Miaolin (Mdm) [zhuo\_miaolin@moe.edu.sg](mailto:zhuo_miaolin@moe.edu.sg)|
 |1R|Chua Gek Tiang (Mdm) [chua\_gek\_tiang@moe.edu.sg](mailto:chua_gek_tiang@moe.edu.sg)<br>K. Sreedraran Nair (Mr) [k\_sreedraran\_nair@moe.edu.sg](mailto:k_sreedraran_nair@moe.edu.sg) |
 
+| Class 2025 |Teacher|
+|---|---|
+|1C|Neo Pauline (Mdm) [neo\_pauline\_chua\_pauline@moe.edu.sg](mailto:neo_pauline_chua_pauline@moe.edu.sg)<br>Rozalina Bte Mohamed Yahya ( Mdm) [rozalina\_mohamed\_yahya@moe.edu.sg](mailto:rozalina_mohamed_yahya@moe.edu.sg)|
+|1D|Chang Mei Cheng (Mdm) [chang\_mei\_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg)<br>Pek Pei Yu (Mdm) [pek\_pei\_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)<br>Andrea Lee Qing (Ms) [lee_qing_andrea@schools.gov.sg](mailto:lee_qing_andrea@schools.gov.sg)<br>Ng Su Hoon Angeline (Mrs) [ng\_su\_hoon\_angeline@moe.edu.sg](mailto:ng_su_hoon_angeline@moe.edu.sg)|
+|1E|Irma Bte Hassan (Mdm) [irma\_hassan@moe.edu.sg](mailto:irma_hassan@moe.edu.sg)<br>Zhao Jun (Mdm) [zhao\_jun\_a@moe.edu.sg](mailto:zhao_jun_a@moe.edu.sg)<br>Janet Wong Sok Jing (Ms) [janet\_wong\_sok\_jing@moe.edu.sg](mailto:janet_wong_sok_jing@moe.edu.sg)|
+|1F|Shehnam Khan (Mdm) [shehnam\_khan@moe.edu.sg](mailto:shehnam_khan@moe.edu.sg)<br>Tan Chai Hia (Mdm) [tan\_chai\_hia@moe.edu.sg](mailto:tan_chai_hia@moe.edu.sg)|
+|1I|Khairunnisa Binte Sazali (Mdm) [khairunnisa_sazali@schools.gov.sg](mailto:khairunnisa_sazali@schools.gov.sg)<br>Roslinda Bte Omar (Mdm) [roslinda\_omar@moe.edu.sg](mailto:roslinda_omar@moe.edu.sg)<br>Tan Xian Li Cheris (Mdm) [tan\_xian\_li\_cheris@moe.edu.sg](mailto:tan_xian_li_cheris@moe.edu.sg)|
+|1P|Cheung Ka Lai (Mdm) [cheung\_ka\_lai@moe.edu.sg](mailto:cheung_ka_lai@moe.edu.sg)<br>Winaseh Sumarni Bte Ahmad (Mdm) [winaseh\_sumarni\_ahmad@moe.edu.sg](mailto:winaseh_sumarni_ahmad@moe.edu.sg)|
+|1R|Tan Yee Wee Elphia (Ms) [tan_yee_whee_elphia@schools.gov.sg](mailto:tan_yee_whee_elphia@schools.gov.sg)<br>Jasmin Rosleena Jalal (Ms)<br>Norhana Bte Halil (Ms) [norhana\_halil@moe.edu.sg](mailto:norhana_halil@moe.edu.sg)<br>|
+
 ##### Primary 2 
 
 | Class |Teacher|
@@ -29,6 +39,17 @@ variant: markdown
 |2I|Shehnam Khan (Mdm) [shehnam\_khan@moe.edu.sg](mailto:shehnam_khan@moe.edu.sg)<br>Tan Chai Hia (Mdm) [tan\_chai\_hia@moe.edu.sg](mailto:tan_chai_hia@moe.edu.sg)|
 |2P|Chang Mei Cheng (Mdm) [chang\_mei\_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg)<br>Norhana Bte Halil (Ms) [norhana\_halil@moe.edu.sg](mailto:norhana_halil@moe.edu.sg)<br>Ng Beng Kiaw (Mdm) [ng\_beng\_kiaw@moe.edu.sg](mailto:ng_beng_kiaw@moe.edu.sg)|
 |2R|Chee Po Lean (Mdm) [chee\_po\_lean@moe.edu.sg](mailto:chee_po_lean@moe.edu.sg)<br>Lekhaadevi Balakrishnan (Ms) [Lekhaadevi\_balakrishnan@moe.edu.sg](mailto:Lekhaadevi_balakrishnan@moe.edu.sg)<br>Neo Pauline (Mdm) [neo\_pauline\_chua\_pauline@moe.edu.sg](mailto:neo_pauline_chua_pauline@moe.edu.sg)<br>|
+
+| Class 2025 |Teacher|
+|---|---|
+|2C||
+|2D||
+|2E||
+|2F||
+|2I||
+|2P||
+|2R||
+
 
 ##### Primary 3 
 
