@@ -23,7 +23,7 @@ variant: markdown
 |Mdm Miriam Khan<br> HOD Mathematics|[khan_miriam_rehana@moe.edu.sg](mailto:khan_miriam_rehana@moe.edu.sg)|
 | Mdm Evelyn Cheam <br>LH Mathematics|[cheam_boon_sai_evelyn@moe.edu.sg](mailto:cheam_boon_sai_evelyn@moe.edu.sg)|
 |Mr Koh Chee How <br>HOD Science|[koh_chee_how@moe.edu.sg](mailto:koh_chee_how@moe.edu.sg)|
-|Mr Sim Bee Kiat <br>SH ICT |[sim_bee_kiat@moe.edu.sg](mailto:sim_bee_kiat@moe.edu.sg)|
+|Mr Sim Bee Keat <br>SH ICT |[sim_bee_keat@moe.edu.sg](mailto:sim_bee_keat@moe.edu.sg)|
 |Mdm Chang Mei Cheng <br>HOD Aesthetics|[chang_mei_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg)|
 |Ms Pek Peiyu <br>SH / PE &amp; CCA|[pek_pei_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)|
 |Mr S Srijith <br>HOD Student Management|[s_srijith@moe.edu.sg](mailto:s_srijith@moe.edu.sg) |
