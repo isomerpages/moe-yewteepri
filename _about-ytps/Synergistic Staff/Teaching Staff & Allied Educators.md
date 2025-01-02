@@ -8,7 +8,8 @@ variant: markdown
 #### Teaching Staff 
 
 ##### Primary 1
-| Class|Teacher|
+
+|Class|Teacher|
 |---|---|
 |1C|Neo Pauline (Mdm) [neo\_pauline\_chua\_pauline@moe.edu.sg](mailto:neo_pauline_chua_pauline@moe.edu.sg)<br>Rozalina Bte Mohamed Yahya ( Mdm) [rozalina\_mohamed\_yahya@moe.edu.sg](mailto:rozalina_mohamed_yahya@moe.edu.sg)|
 |1D|Chang Mei Cheng (Mdm) [chang\_mei\_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg)<br>Pek Pei Yu (Mdm) [pek\_pei\_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)<br>Andrea Lee Qing (Ms) [lee_qing_andrea@moe.edu.sg](mailto:lee_qing_andrea@moe.edu.sg)<br>Ng Su Hoon Angeline (Mrs) [ng\_su\_hoon\_angeline@moe.edu.sg](mailto:ng_su_hoon_angeline@moe.edu.sg)|
@@ -19,6 +20,7 @@ variant: markdown
 |1R|Tan Yee Wee Elphia (Ms) [tan_yee_whee_elphia@moe.edu.sg](mailto:tan_yee_whee_elphia@moe.edu.sg)<br>Jasmin Rosleena Jalal (Ms)<br>Norhana Bte Halil (Ms) [norhana\_halil@moe.edu.sg](mailto:norhana_halil@moe.edu.sg)<br>|
 
 ##### Primary 2 
+
 | Class|Teacher|
 |---|---|
 |2C|Lee Wen Hui (Mr) [lee\_wen\_hui@moe.edu.sg](mailto:lee_wen_hui@moe.edu.sg)<br>Rashitha Bibi Binte Abdul Hameed (Mdm) [rashitha\_bibi\_abdul\_hameed@moe.edu.sg](mailto:rashitha_bibi_abdul_hameed@moe.edu.sg)<br>Lee Choon Muay (Mdm) [lee\_choon\_muay@moe.edu.sg](mailto:lee_choon_muay@moe.edu.sg)|
@@ -30,6 +32,7 @@ variant: markdown
 
 
 ##### Primary 3 
+
 | Class|Teacher|
 |---|---|
 |3C|Yang Huiyi (Ms) [yang\_huiyi@moe.edu.sg](mailto:yang_huiyi@moe.edu.sg)<br>Loh Ho Weng (Mrs)[loh\_ho\_weng@moe.edu.sg](mailto:loh_ho_weng@moe.edu.sg)|
@@ -40,6 +43,7 @@ variant: markdown
 |3R|Chee Po Lean (Mdm) [chee\_po\_lean@moe.edu.sg](mailto:chee_po_lean@moe.edu.sg)<br>Woon Kin Chong (Mr) [woon\_kin\_chong@moe.edu.sg](mailto:woon_kin_chong@moe.edu.sg)|
 
 ##### Primary 4 
+
 | Class|Teacher|
 |---|---|
 |4C|Cheng Boon Ling (Ms)[cheng\_boon\_ling@moe.edu.sg](mailto:cheng_boon_ling@moe.edu.sg)<br>Jayne Pan Ting (Ms) [jayne\_pan\_ting@moe.edu.sg](mailto:jayne_pan_ting@moe.edu.sg)|
@@ -50,6 +54,7 @@ variant: markdown
 |4R|Bong Mei Yun Cynthia (Mdm) [bong\_mei\_yun\_cynthia@moe.edu.sg](mailto:bong_mei_yun_cynthia@moe.edu.sg)<br>Norliza Bte Ali Khan (Ms) [norliza\_ali\_khan@moe.edu.sg](mailto:norliza_ali_khan@moe.edu.sg)<br>Ong Si Pei Carlyn (Miss) [ong\_si\_pei\_carlyn@moe.edu.sg](mailto:ong_si_pei_carlyn@moe.edu.sg)|
 
 ##### Primary 5 
+
 | Class|Teacher|
 |---|---|
 |5C|Loh Shao Wei (Mr) [loh\_shao\_wei@moe.edu.sg](mailto:loh_shao_wei@moe.edu.sg)<br>Pun Jin Mei Yvonne (Mdm) [pun_jin_mei_yvonne@moe.edu.sg](mailto:pun_jin_mei_yvonne@moe.edu.sg)|
@@ -61,6 +66,7 @@ variant: markdown
 
 
 ##### Primary 6 
+
 | Class|Teacher|
 |---|---|
 |6C|Khan Miriam Rehana (Mdm) [khan\_miriam\_rehana@moe.edu.sg](mailto:khan_miriam_rehana@moe.edu.sg)<br>Koh Chee How (Mr) [koh\_chee\_how@moe.edu.sg](mailto:koh_chee_how@moe.edu.sg)<br>Melissa Choy Min Er (Ms) [melissa\_choy\_min\_er@moe.edu.sg](mailto:melissa_choy_min_er@moe.edu.sg)|
