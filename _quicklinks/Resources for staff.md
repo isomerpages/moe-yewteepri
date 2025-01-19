@@ -20,6 +20,6 @@ variant: markdown
 * [Microsoft 365 Online (Word, PowerPoint, Excel and OneDrive)](http://office.com/)
 * [ALL EARS Form Builder](https://forms.moe.edu.sg/)
 * [Trusted short links from public officers (GO.gov.sg)](https://go.gov.sg/#/)
-* [GenAI Testimonial Generator](https://go.gov.sg/appraiser)
+* [SmartCompose](https://www.smartcompose.gov.sg/)
 * [HRP Portal](https://www.hrp.gov.sg/hrp/#/)
 * [Pair Chat](https://pair.gov.sg/)
