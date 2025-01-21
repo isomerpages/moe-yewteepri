@@ -8,12 +8,11 @@ variant: markdown
 ### Service Providers
 
 #### Bookshop
-**Ricky Book Centre** <br>
+**Pacific Bookstores Pte Ltd** <br>
 Address : Yew Tee Primary School, Bookshop <br>
-Telephone : 81138887 (Robin Chin) <br>
-Operating hours : <br>
-Mon, Tues, Thurs, Fri - 8.30am to 2.30pm<br>
-Wed - 8.30am to 1.00pm
+Telephone : 69298012 <br>
+Operating hours : Monday to Friday (8.30 a.m. to 2.30 p.m.) <br>
+Parents are encouraged to come in after 11:00 a.m. for book purchases.
 
 
 **Booklist 2025:**
