@@ -7,15 +7,13 @@ variant: markdown
 ---
 ### Forms
 
-#### Advisory
-* [Cycling Advisory](/files/advisory%20note%20on%20safety%20precautions%20when%20cycling%20to%20school.pdf)
-
 #### Forms For Existing Students
 
 * [MOE FAS Application Form](/files/2025/MOE_FAS_Application_Form_2025.pdf)
 * [Edusave Form for 2nd-Tier Miscellaneous Fee Payment](/files/Edusave_SO_Form_SPMM.pdf)
 * [Name Tag Order Form](https://drive.google.com/file/d/1qozJLvWqaUqyjsAQ0QSyJE4IDlA6joWj/view)
-* [Letter of Request for Use of Mobile Phones](https://drive.google.com/file/d/1liF1Wg884ejYB2bS8uURj6lOPcI00T1K/view?usp=share_link)
+* [Cycling Request Form](https://go.gov.sg/ytpscyclingrequestform2025)
+* [Mobile Device Request Form](https://go.gov.sg/ytpsmobiledeviceform2025)
 
 
 #### Forms For Prospective Parents
