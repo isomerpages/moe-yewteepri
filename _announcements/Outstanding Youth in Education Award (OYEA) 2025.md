@@ -4,4 +4,4 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-Click [here](https://go.gov.sg/oyea2025) to nominate your teachers below the age of 36 years old for OYEA 2025.
+click [here](/files/Announcements/Press_Release_Nominations_for_Arif_Budiman_Malay_Language_Teacher_Award_2025__moe_.pdf) to nominations for Arif Budiman Malay Language Teacher Award 2025
