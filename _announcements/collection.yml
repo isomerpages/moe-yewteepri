@@ -2,8 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Call for Nominations for Arif Budiman Malay Language Teacher Award
-        2025.md
+      - Arif Budiman Malay Language Teacher Award 2025.md
       - Call for Nominations for the Most Inspiring Tamil Teachers’ (MITT) Award
         2025.md
       - e Orientation on 15 November 2024.md
