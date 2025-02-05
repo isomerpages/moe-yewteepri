@@ -1,5 +1,5 @@
 ---
-title: Call for Nominations for Arif Budiman Malay Language Teacher Award 2025
+title: Arif Budiman Malay Language Teacher Award 2025
 permalink: /announcements/
 description: ""
 variant: markdown
