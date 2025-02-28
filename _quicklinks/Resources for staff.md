@@ -8,7 +8,7 @@ variant: markdown
 
 #### Useful links
 
-* [CES Webmail](https://schools.gov.sg/owa/)
+* [CES Webmail](https://outlook.office365.com/owa/schools.gov.sg/)
 * [MIMS](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
 * [Opal 2.0](https://www.opal2.moe.edu.sg/app/learner) 
 * [OPAL - STP Wiki](https://go.gov.sg/stp)
