@@ -52,3 +52,12 @@ What does LEGO, civil engineering and rising sea levels have in common? Our stud
 **Mr Trevor Xie** and **Mr Alex Loh** share their fatherhood journey with our newly minted father, Head of Department (HOD) / Citizenship and Character Education (CCE), Mr Prabhu. In this candid interview, the fathers look back on their children’s primary school years and their parenting approach.<br>
 [https://www.youtube.com/watch?v=nD4xF1y0jfE](https://www.youtube.com/watch?v=nD4xF1y0jfE)
 <img style="width:20%" src="/images/mr%20alex%20loh%20and%20mr%20trevor%20xie%20qr%20code.png">
+<hr>
+
+![](/images/WhatsApp_Image_2025_03_06_at_12_22_38_PM__1_.jpg)
+<p style="font-size: 12px;">From left to right: Dr Freda Lim &amp; Mrs Emmaline Tay </p>
+
+**Dr Freda Lim** Dr Freda Lim, our SAC member, shares her journey in Science and the importance of nurturing a love for learning by connecting Science to daily life, with our teacher, Mrs Emmaline Tay.<br>
+[https://youtu.be/72YmgOU4Weo](https://youtu.be/72YmgOU4Weo)
+<img style="width:20%" src="/images/Dr_Freda_Lim.png">
+<hr>
