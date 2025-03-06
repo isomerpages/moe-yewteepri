@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /school-advisory-committee/
 description: ""
+variant: markdown
 ---
 ### School Advisory Committee (SAC)
 
@@ -14,7 +15,6 @@ Our SAC comprises members who have come forward to voluntarily serve at YTPS. Th
 |Ms Yeo Keng Lee (SAC Chairperson)|||
 |Mr Alex Loh  |    |   |
 |Dr Freda Lim  |    |   |
-|Mr Ho Chai Teck  |    |   |
 |Mdm Jenny Chen  |    |   |
 |Mr Trevor Xie Sheng Jie  |    |   |
 |Mdm Usharani Navaratnam |    |   |
