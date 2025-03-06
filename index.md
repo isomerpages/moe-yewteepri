@@ -20,14 +20,6 @@ sections:
           url: /quicklinks/
       background: /images/websitebanner2.jpg
   - infopic:
-      title: Yew Tee Primary School Open House 2024
-      description: Learning is fun and enjoyable at Yew Tee Primary School's Open
-        House 2024.
-      button: Click to see highlights
-      url: https://www.instagram.com/p/C9zWtcihxTE/?utm_source=ig_web_copy_link
-      image: /images/DSC03758.jpg
-      alt: image alt text
-  - infopic:
       title: 25th Anniversary Celebrations
       id: infopic
       description: We are 25. This specially created site captures the joy of our
@@ -37,16 +29,6 @@ sections:
       image: /images/DSC03040.jpg
       alt: Image alt text
       subtitle: Connect | Cherish | Celebrate
-  - infopic:
-      title: Visit by Ms Gan Siow Huang, MOS (Education and Manpower)
-      id: infopic
-      description: On 25 April, our students and staff had a good time interacting
-        with Ms Gan, sharing their recess experience and engaging her with
-        thoughtful questions.
-      button: Click here
-      url: https://www.yewteepri.moe.edu.sg/mos-visit/
-      image: /images/DSC01012.jpg
-      alt: Image alt text
   - infopic:
       title: A World Beyond School
       subtitle: Dr Vincent Ng
