@@ -74,9 +74,9 @@ sections:
       title: A World Beyond School
       subtitle: Dr Freda Lim
       id: infopic
-      description: Dr Freda Lim, our SAC member, shares her journey in Science and the
-        importance of nurturing a love for learning by connecting Science to
-        daily life.
+      description: Dr Freda Lim, our SAC member, shares her journey in nurturing a
+        love for learning by connecting Science to daily life, with our teacher,
+        Mrs. Emmaline Tay.
       button: CLICK HERE
       url: https://youtu.be/72YmgOU4Weo
       image: /images/WhatsApp_Image_2025_03_06_at_12_22_38_PM__1_.jpg
