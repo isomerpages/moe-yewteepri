@@ -57,7 +57,7 @@ What does LEGO, civil engineering and rising sea levels have in common? Our stud
 ![](/images/WhatsApp_Image_2025_03_06_at_12_22_38_PM__1_.jpg)
 <p style="font-size: 12px;">From left to right: Dr Freda Lim &amp; Mrs Emmaline Tay </p>
 
-**Dr Freda Lim** Dr Freda Lim, our SAC member, shares her journey in Science and the importance of nurturing a love for learning by connecting Science to daily life, with our teacher, Mrs Emmaline Tay.<br>
+**Dr Freda Lim** , our SAC member, shares her journey in nurturing a love for learning by connecting Science to daily life, with our teacher, Mrs. Emmaline Tay.<br>
 [https://youtu.be/72YmgOU4Weo](https://youtu.be/72YmgOU4Weo)
 <img style="width:20%" src="/images/Dr_Freda_Lim.png">
 <hr>
