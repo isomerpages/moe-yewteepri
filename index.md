@@ -31,6 +31,17 @@ sections:
       subtitle: Connect | Cherish | Celebrate
   - infopic:
       title: A World Beyond School
+      subtitle: Dr Freda Lim
+      id: infopic
+      description: Dr Freda Lim, our SAC member, shares her journey in nurturing a
+        love for learning by connecting Science to daily life, with our teacher,
+        Mrs. Emmaline Tay.
+      button: click here to watch the video
+      url: https://youtu.be/72YmgOU4Weo
+      image: /images/WhatsApp_Image_2025_03_06_at_12_22_38_PM__1_.jpg
+      alt: Image alt text
+  - infopic:
+      title: A World Beyond School
       subtitle: Dr Vincent Ng
       description: Dr Vincent Ng, our SAC member, speaks about making choices,
         pursuing your passion and managing time with our student interviewers,
@@ -57,17 +68,6 @@ sections:
       button: click here to watch the video
       url: https://www.youtube.com/watch?v=nD4xF1y0jfE
       image: /images/sac 2023 01.jpg
-      alt: Image alt text
-  - infopic:
-      title: A World Beyond School
-      subtitle: Dr Freda Lim
-      id: infopic
-      description: Dr Freda Lim, our SAC member, shares her journey in nurturing a
-        love for learning by connecting Science to daily life, with our teacher,
-        Mrs. Emmaline Tay.
-      button: click here to watch the video
-      url: https://youtu.be/72YmgOU4Weo
-      image: /images/WhatsApp_Image_2025_03_06_at_12_22_38_PM__1_.jpg
       alt: Image alt text
   - infopic:
       title: Follow us on our social channels
