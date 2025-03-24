@@ -18,7 +18,8 @@ sections:
         - title: Quick Links
           description: ""
           url: /quicklinks/
-      background: /images/websitebanner2.jpg
+      background: /images/sch_website_banner.jpg
+      variant: image
   - infopic:
       title: 25th Anniversary Celebrations
       id: infopic
