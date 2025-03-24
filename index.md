@@ -65,7 +65,7 @@ sections:
       title: A World Beyond School
       subtitle: Mr Trevor Xie and Mr Alex Loh
       description: Mr Trevor Xie and Mr Alex Loh, our SAC members, share their
-        fatherhood journey with newly minted father, HOD / CCE, Mr Prabhu.
+        fatherhood journey with newly minted father, Mr Prabhu.
       button: click here to watch the video
       url: https://www.youtube.com/watch?v=nD4xF1y0jfE
       image: /images/sac 2023 01.jpg
