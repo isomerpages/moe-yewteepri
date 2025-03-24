@@ -49,7 +49,7 @@ What does LEGO, civil engineering and rising sea levels have in common? Our stud
 ![](/images/sac%202023%2001.jpg)
 <p style="font-size: 12px;">From left to right: Mr Prabhu, Mr Trevor Xie &amp; Mr Alex Loh</p>
 
-**Mr Trevor Xie** and **Mr Alex Loh** share their fatherhood journey with our newly minted father, Head of Department (HOD) / Citizenship and Character Education (CCE), Mr Prabhu. In this candid interview, the fathers look back on their children’s primary school years and their parenting approach.<br>
+**Mr Trevor Xie** and **Mr Alex Loh** share their fatherhood journey with our newly minted father, Mr Prabhu. In this candid interview, the fathers look back on their children’s primary school years and their parenting approach.<br>
 [https://www.youtube.com/watch?v=nD4xF1y0jfE](https://www.youtube.com/watch?v=nD4xF1y0jfE)
 <img style="width:20%" src="/images/mr%20alex%20loh%20and%20mr%20trevor%20xie%20qr%20code.png">
 <hr>
