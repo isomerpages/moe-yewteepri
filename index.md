@@ -23,8 +23,9 @@ sections:
   - infopic:
       title: 25th Anniversary Celebrations
       id: infopic
-      description: We are 25. This specially created site captures the joy of our
-        alumni, students, staff, parents and partners.
+      description: 2024 was a memorable year. YTPS turned 25. This specially created
+        site captures the joy of our alumni, students, staff, parents and
+        partners.
       button: Click here
       url: https://sites.google.com/moe.edu.sg/ytps25th/welcome-page
       image: /images/DSC03040.jpg
