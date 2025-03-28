@@ -2,6 +2,7 @@
 title: English Language
 permalink: /total-curriculum/english/
 description: ""
+variant: markdown
 ---
 ### English Language
 
@@ -20,17 +21,18 @@ Teachers also model and scaffold the development of knowledge and skills, taking
 | **Head of Department** | | 
 | -------- | -------- | 
 | Mdm Lekha    |      | 
+| **Level Heaad**   |      | 
+| Mrs Yvonne Tu    |      | 
 | **Members**     | |
-|Ms Norliza Bte Ali Khan (Senior Teacher)| Ms Melissa Choy Min Er     |
-| Mdm Neo Pauline  |Mdm Khairunnisa Bte Sazali (Stellar Mentor) |
+|Ms Norliza Bte Ali Khan| Ms Melissa Choy Min Er     |
+| Mdm Neo Pauline  |Mdm Khairunnisa Bte Sazali  |
 | Mdm Siti Nuraisah Bte Buang     |Mdm Norhana Juhari   |
-| Mdm Fadzilah Bte Moideen Kitty   |Mdm Santhi James     |
-| Mdm Munalizah Bte Ajis     |Mdm Cynthia Bong     |
-|Mdm Shehnam Khan|Mr K Sreedraran Nair|
-|Ms Jayne Pan Ting|Mdm Winaseh Sumarni Bte Ahmad|
+| Mdm Fadzilah Bte Moideen Kitty   | Mdm Cynthia Bong  |
+|Mdm Shehnam Khan|Mdm Norazizah Bte Noordin|
+|Ms Jayne Pan Ting|Ms Winaseh Sumarni Bte Ahmad|
 |Mr Sim Bee Keat|Mdm Yasmin Sultanah|
 |Mdm Nor’ashikin Othman|Mdm Ang Shi Min Geraldine|
-|Mr S Srijith||
+|Mr S Srijith|Ms Kannagi Gnanasekaran|
 
 
 #### Key Programmes
@@ -38,23 +40,19 @@ Teachers also model and scaffold the development of knowledge and skills, taking
 ##### Read With Me
 A special event organized for Primary 1 students and their parents, Read With Me encourages our little ones as well as parents to indulge in pure reading pleasure. It aims to pique students’ interest in reading and to encourage parental involvement in cultivating good reading habits in their children.
 
-<img src="/images/read%20with%20me.gif" 
-     style="width:70%">
+<img src="/images/read%20with%20me.gif" style="width:70%">
 
 ##### Spelling Bee
 In encouraging our young learners to build their spelling skills, the Primary 2 students participate in a Spelling Bee competition. They will pit their wits against one another, applying their word recognition and decoding skills, in what has become an extremely well-liked and enjoyable experience for the students.
 
-<img src="/images/spelling%20bee.gif" 
-     style="width:70%">
+<img src="/images/spelling%20bee.gif" style="width:70%">
 
 ##### Recess Programmes
 This is a platform to showcase talent and hone public speaking skills, our students present what they have learnt about effective presentation with their peers, in a casual setting. Students are able to recite poetry, present a big book story, complete with song and actions or even tell their peers an interesting story!
 
-<img src="/images/recess.gif" 
-     style="width:70%">
+<img src="/images/recess.gif" style="width:70%">
 
 ##### Oracy Programmes
 The school aims to develop students to become confident and articulate users of the English Language. Students should be able to engage in conversation effectively and develop their oral communication skills in a meaningful and enjoyable manner. Students are introduced to speech and drama, debating programmes as well as Reader’s Theatre in order to hone their oratorical competencies.
 
-<img src="/images/ocracy.gif" 
-     style="width:70%">
+<img src="/images/ocracy.gif" style="width:70%">
