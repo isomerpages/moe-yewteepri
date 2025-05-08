@@ -46,13 +46,17 @@ This form of learning helps students in developing 21st century competencies suc
 ![](/images/ICT/DSC07550.jpg)
 ![](/images/ICT/DSC07562.jpg)
 ![](/images/ICT/DSC07534.jpg)
+![](/images/ICT/DSC06227.jpg)
+![](/images/ICT/DSC01786.jpg)
+![](/images/ICT/DSC01676.jpg)
 
 #### Enhancing Digital Literacies In Our Learners
 The ICT department aims to provide learning opportunities to develop student’s future readiness. Through a structured digital literacy programme, students are exposed to coding, computational thinking and new technologies progressively. This is important as computing technology plays an increasingly important part in our society.
 
 Combining elements of fun, collaboration and creativity, students apply their knowledge in coding and computational skills to explore and solve problems in an authentic context.
-
-<img src="/images/enhancing%20digital%20life.gif" style="width:70%">
+![](/images/ICT/DSC09453.jpg)
+![](/images/ICT/DSC06722.jpg)
+![](/images/ICT/DSC06682.jpg)
 
 #### Nurturing Responsible Digital Citizens
 Students are equipped with the knowledge and awareness of topics related to Cyberwellness so that they know how to be safe and use technology responsibly. They learn to be responsible digital citizens through explicit teaching during Form Teacher Guidance Periods (FTGP) and Character and Citizenship Education (CCE) lessons, as well as from short bite-sized presentations during morning assembly.
