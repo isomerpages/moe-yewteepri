@@ -43,8 +43,9 @@ Active Learning is carried out via platforms such as Singapore Student Learning 
 The school acknowledges Blended Learning as a regular feature of the schooling experience. With Blended Learning, students will learn what is prescribed by the curriculum through a mix of home-based and in-school activities, and leverage both online and offline approaches to learning.
 
 This form of learning helps students in developing 21st century competencies such as critical thinking skills and to apply self-directedness and self-management.
-
-<img src="/images/harnessing%20technology.gif" style="width:70%">
+![](/images/ICT/DSC07550.jpg)
+![](/images/ICT/DSC07562.jpg)
+![](/images/ICT/DSC07534.jpg)
 
 #### Enhancing Digital Literacies In Our Learners
 The ICT department aims to provide learning opportunities to develop student’s future readiness. Through a structured digital literacy programme, students are exposed to coding, computational thinking and new technologies progressively. This is important as computing technology plays an increasingly important part in our society.
