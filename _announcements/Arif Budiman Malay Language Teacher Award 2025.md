@@ -1,6 +1,6 @@
 ---
 title: Arif Budiman Malay Language Teacher Award 2025
-permalink: /announcements/
+permalink: /arif-budiman-malay-language-teacher-award-2025/
 description: ""
 variant: markdown
 ---
