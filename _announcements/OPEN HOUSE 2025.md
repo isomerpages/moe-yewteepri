@@ -11,5 +11,5 @@ description: ""
 <p>Come and join us for a unique YTPS experience.</p>
 <p>You will get the chance to interact with our students and teachers and
 immerse in exciting activities.</p>
-<p><a href="https://form.gov.sg/admin/form/67d1158c186c9746b6ee2efe" rel="noopener nofollow" target="_blank">CLICK HERE TO REGISTER</a> (by
+<p><a href="https://form.gov.sg/67d1158c186c9746b6ee2efe" rel="noopener nofollow" target="_blank">CLICK HERE TO REGISTER</a> (by
 Monday, 16 June 2025)</p>
