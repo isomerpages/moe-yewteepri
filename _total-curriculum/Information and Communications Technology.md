@@ -20,19 +20,18 @@ Technology is harnessed in support of the school’s Total Curriculum Framework 
 
 #### Department Members
 
-
-| **Head of Department** |  | 
+| **Subject Head**||
 | -------- | -------- | 
-|Mrs Tan Yoke Yin||
+|Mr Sim Bee Keat||
 |**Members**||
-|Ms Kim Qing Xian|Mr Danny Asmara Bin Rahman|
-|Mdm Pay Soo Cheng|Mdm Irma Bte Hassan|
-|Mdm Siti Nazhira Binte Mohd Aini|Mr Sim Bee Keat|
-|Ms Yang Hui Yi|Mdm Tan Chai Hia|
-|Mr Wong Song Pei|Mr Teo Guo Shun Eugene|
-|Ms Jayne Pan Ting||
-|Mr Lew Jia Chien (ITC Manager)|Mr Mohamed Hilman Bin Mohamed Basri (ICT Trainer)|
+|Mr Teo Guo Shun Eugene|Ms Jayne Pan Ting|
+|Mr Danny Asmara Bin Rahman|Wiu Zhen An|
+|Mr Darren Wong Wei Xiang|Mr Wong Song Pei|
+|Mdm Hartini Sanin|Mdm Lekhaadevi|
+|Mr Tok Wei Yuan||
+|Mr Lew Jia Chien (ITC Manager)|Mr Rudy Fang (ICT Trainer)|
 |Mr Koh Geng Kai (Desktop Engineer)|Mr Mohamed Razi Bin Mohamed Sahar(Desktop Engineer)|
+
 
 
 
