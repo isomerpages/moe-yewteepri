@@ -42,18 +42,26 @@ At the heart of our teaching and learning processes is a student-centred approac
 ##### Super Readers, Assemble! 
 This week-long event has our school buzzing with various activities and initiatives designed to engage and inspire our students. Through the exploration of the wonderful world of books, our students enhance their literacy skills and cultivate a lifelong love for reading. 
 <br>The highlight of the event is ‘Characters Come Alive!’ Day, when students come dressed as storybook characters. Stepping into the shoes of their favourite storybook characters and embodying their traits, our students embark on a memorable role-play adventure!
+![](/images/2025/Untitled_1.jpg)
 
-##### Spelling Bee
-In encouraging our young learners to build their spelling skills, the Primary 2 students participate in a Spelling Bee competition. They will pit their wits against one another, applying their word recognition and decoding skills, in what has become an extremely well-liked and enjoyable experience for the students.
+##### Sparking the Joy of Learning 
+##### Experiential Learning 
+These authentic and meaningful experiences are designed to support the language development of our students. They are able to make connections between spoken and written language by engaging in shared, purposeful activities that lead to rich opportunities for reading and writing. 
+<br>Primary 1 - Sandwich Making
+![](/images/2025/Untitled_2.jpg)<br>
+Primary 2  - Prata Experience
+![](/images/2025/Untitled_3.jpg)
 
-<img src="/images/spelling%20bee.gif" style="width:70%">
+##### Spelling Bee 
+To support our students in enhancing their spelling skills, students from Primary 1 to 3 take part in **Spelling Bee competitions**. These friendly competitions give students the opportunity to apply their word recognition and decoding skills as they compete with their peers. Held twice a year, the Spelling Bee has become a much-anticipated and well-loved event—enjoyed by both participants and members of the audience alike!
+![](/images/2025/Untitled_4.jpg)
 
-##### Recess Programmes
-This is a platform to showcase talent and hone public speaking skills, our students present what they have learnt about effective presentation with their peers, in a casual setting. Students are able to recite poetry, present a big book story, complete with song and actions or even tell their peers an interesting story!
+##### Oracy Programmes 
+We believe that being confident and articulate users in the English Language is key to helping our students express themselves clearly and connect meaningfully with others. Through oracy enrichment programmes in Speech and Drama, Poetry Recitation, and Storytelling and Dramatisation, students have opportunities to develop strong communication skills in ways that are both enjoyable and purposeful. These are rich learning experiences designed to build their confidence, creativity and presentation skills.
+![](/images/2025/Untitled_5.jpg)
 
-<img src="/images/recess.gif" style="width:70%">
+##### Literature Infusion 
+Imaginative thinkers, confident speakers and joyful readers! Through this programme, our students learn to appreciate literature and creative expression. In Primary 2, students explore classic fairy tales, learning about their features and familiar elements like magic, good versus evil and happy endings. With a focus on fractured fairy tales, Primary 3 students are encouraged to creatively reimagine these classic tales and experiment with rhymes to develop a sense of rhythm and expression. 
 
-##### Oracy Programmes
-The school aims to develop students to become confident and articulate users of the English Language. Students should be able to engage in conversation effectively and develop their oral communication skills in a meaningful and enjoyable manner. Students are introduced to speech and drama, debating programmes as well as Reader’s Theatre in order to hone their oratorical competencies.
-
-<img src="/images/ocracy.gif" style="width:70%">
+Finally, Primary 4 students delve into poetry — reading, writing and analysing poems as they explore poetic forms and their features in engaging activities.
+![](/images/2025/Untitled_6.jpg)
