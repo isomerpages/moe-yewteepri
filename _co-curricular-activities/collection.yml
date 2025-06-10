@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Stage Crafters.md
       - Clubs/Art Club.md
       - Clubs/Infocomm Club.md
       - Clubs/Robotics Club.md
