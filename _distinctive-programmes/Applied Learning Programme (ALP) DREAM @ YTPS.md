@@ -28,33 +28,39 @@ DREAM@YTPS adopts the Design Thinking process to nurture <font style="color: red
 ![](/images/2025/ALP_5.jpg)
 |||
 | -------- | -------- |
-|![](/images/2025/ALP_6.jpg)||
+|![](/images/2025/ALP_6.jpg)|![](/images/2025/ALP_13.jpg)|
 
 To extend and deepen students’ learning, students are provided with opportunities to challenge themselves in the application of the Design Thinking or STEAM approaches in new and different scenarios through external competitions and workshops. Some examples are STEM Playground Challenge organized by Science Centre, 3D Design and Printing workshop @ School of Science and Technology (SST), National Thinkers Challenge and Sony Creative Science Award @ Science Centre.
 
 ##### STEM Playground Challenge @ Science Centre
-Students were excited to participate in the Science Centre STEM Playground challenge 2023 with two challenges - Bridge making and Boat making challenges. For STEM Playground Challenge #1 (Bridge making challenge), YTPS is awarded for one of the top 5 schools with the highest participation rate! We are waiting for the release of results for STEM Playground Challenge #2 (Boat making challenge). Let’s hope for the best!
+Students were excited to participate in the Science Centre STEAM Playground Challenge 2023 with two challenges - Bridge making and Boat making challenges. For STEAM Playground Challenge #1 (Bridge making challenge), YTPS was awarded 5th place! We obtained 2nd place for STEAM Playground Challenge #2 (Boat making challenge). 
 
-##### STEM Playground @ Science Centre Challenge #1: Bridge Making
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aGcvk7UkQ5U" height="315" width="560"></iframe>
+In 2024, YTPS was awarded 3rd place for Reel Tank Challenge, in which our students successfully built a tank to move forward for at least 3 seconds!
 
-![](/images/ALP/alp%20photo%203.jpg)
-##### STEM Playground @ Science Centre Challenge #2: Boat Making
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5jHivFwB5P4" height="315" width="560"></iframe>
-
-![](/images/ALP/alp%20photo%204.jpg)
+##### STEAM Playground @ Science Centre Challenge #1: Bridge Making
+![](/images/2025/ALP_7.jpg)
+##### STEAM Playground @ Science Centre Challenge #2: Boat Making
+![](/images/2025/ALP_8.jpg)
 
 ##### National Thinkers Challenge
-At the 2023 National Thinkers Challenge, our Primary 4 students proposed the use of Artificial Intelligence (AI) to promote healthy living in Singapore. Their proposal included the use of AI to track daily calorie intake and generate suggestions on healthy meal choices. It will also demonstrate how to cook nutritious meals and use geolocation to recommend nearby food stalls with healthier food choices.
-![](/images/ALP/alp%20photo%205.jpg)
+At the 2023 National Thinkers Challenge, our Primary 4 students won the Best Presentation Award with the use of Artificial Intelligence (AI) to promote healthy living in Singapore. Their proposal included the use of AI to track daily calorie intake and generate suggestions on healthy meal choices. It will also demonstrate how to cook nutritious meals and use geolocation to recommend nearby food stalls with healthier food choices. 
 
-##### 3D Design and Printing Workshop@SST
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PNn-rU41XL8" height="315" width="560"></iframe>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qK9I-Fq3FTw" height="315" width="560"></iframe>
+In 2024, our Primary 4 students won the Most Relevant Award for designing an application to support CCA, PE, Art and Music curriculum as a vision of their future school. Their proposal aims to provide for each student a customized profile (identifying strengths and areas of improvement), personalized feedback, tailored exercises and progress tracking to encourage self-directed learning.
+![](/images/2025/ALP_9.jpg)
 
+##### 3D Design and Printing Workshop @ SST 
 Our Primary 5 Sparkle and Art Club students were ably guided by Year 4 students from the School of Science and Technology (SST) to create models with Autodesk Tinkercad, bringing their designs to life! Our designs ranged from coasters to pencil holders and even our YTPS school building!
-![](/images/ALP/alp%20photo%206.jpg)
+![](/images/2025/ALP_10.jpg)
 
-##### Sony Creative Science Award
-The Sony Creative Science Award (SCSA) is Singapore’s largest toy-making competition for primary school students, jointly organised by Science Centre Singapore and Sony Group of Companies in Singapore. Students create their own toys and explain the scientific principles behind them, putting into practice what they have learnt through a series of workshops conducted by our teachers. During the workshop, our students learn more about design thinking and prototyping. This competition promotes creativity in students and provides opportunity for them to bring their amazing ideas to life. 
-![](/images/ALP/alp%20photo%207.jpg)
+
+##### Bat Repellent Project with SUTD
+This is a collaboration project with SUTD, Singapore University of Technology and Design. Smorphi robots are introduced to our students by SUTD lecturer and staff and this selected group of P4 students embarked on a journey to tackle the problems created by the unwelcomed bats which started to live in our school hall. 
+
+The students were able to work together to explore possibilities and generate new ideas. Some of their ideas were using electric bells, laser, motion detector, generate sound with certain frequencies to irritate the bats so that they will move away from the school hall and find a new home.
+![](/images/2025/ALP_11.jpg)
+
+##### STEAM + AI Carnival 
+To let students have a platform to reinforce their learning, as part of our 25th Anniversary celebration, our school celebrates the future of learning in this STEAM +AI Carnival led by our student ambassadors. As trailblazers, problem solvers and changemakers, our student ambassadors shared their involvement in STEAM and Artificial Intelligence (AI) projects and how they adopted the design thinking approach to solve challenges or generate innovative ideas to solve various real-world problems. 
+
+Our student ambassadors were thrilled to showcase their innovative projects to our guests like parents, various schools’ key personnels and even our guest of honour, Mr Alex Yam. Our students have a natural passion and curiosity to discover their interest in STEAM (Science, Technology, Engineering, Arts, Mathematics) and AI. Hence this was a great opportunity and platform for them to share their rich learning experience passionately!
+![](/images/2025/ALP_12.jpg)
