@@ -2,11 +2,12 @@
 title: Science
 permalink: /total-curriculum/science/
 description: ""
+variant: markdown
 ---
 ### Science
 
 #### Department Overview
-In YTPS, we believe that a strong foundation in Science plays a pivotal role in developing our students into confident learners, critical thinkers and active inquirers. At the heart of the Singapore Science curriculum is the role of a student as an inquirer. An inquiring mind is always backed by the curious and exploratory nature of children. The Science learning experiences in YTPS leverages on and seeks to fuel this spirit of curiosity. By asking questions about their surroundings and the world, students learn to value the relevance and meaningful nature of Science and be inspired by its ability to transform the world the improve lives. Adopting the 5-E instructional model, and leveraging on technology, students are provided with structured learning experiences to develop their sense of inquiry. The key programmes of the department such as the Environmental Learning Programme (ELP) and STEM Learning Programme (STEM) are geared to provide students with opportunities to develop problem-solving skills and innovate using Science.
+In YTPS, we believe that a strong foundation in Science plays a pivotal role in developing our students into confident learners, critical thinkers and active inquirers. At the heart of the Singapore Science curriculum is the role of a student as an inquirer. An inquiring mind is always backed by the curious and exploratory nature of children. The Science learning experiences in YTPS leverages on and seeks to fuel this spirit of curiosity. By asking questions about their surroundings and the world, students learn to value the relevance and meaningful nature of Science and be inspired by its ability to transform the world to improve lives. Adopting the 5-E instructional model, and leveraging on technology, students are provided with structured learning experiences to develop their sense of inquiry. The key programmes of the department such as the Environmental Learning Programme (ELP) and STEM Learning Programme (STEM) are geared to provide students with opportunities to develop problem-solving skills and innovate using Science.
 
 #### Department Members
 
@@ -15,18 +16,18 @@ In YTPS, we believe that a strong foundation in Science plays a pivotal role in 
 | -------- | -------- |
 | Mr Koh Chee How    ||
 |**Members**||
-|Mr Woon Kin Chong (ST Sci)|Ms Ng Yaw Ling (SSD)|
+|Mdm Nurhida Sapiie (Senior Teacher/ Science)|Mr Woon Kin Chong|
 |Ms Yang Huiyi|Mdm Sum Wai Fun|
-|Mr Darren Wong|Ms Nur Huda|
-|Ms Carlyn Ong|Mdm Joyce Lim|
+|Mr Darren Wong|Mdm Joyce Lim|
+|Ms Carlyn Ong|Mr Jonathan Cheah|
 |Mdm Rozalina Mohamed Yahya|Mdm Amy Woo Hui Lyn|
-|Mr Jonathan Cheah||
+|Mr Danny Asmara|Mr K Sreedraran Nair|
 
 
 #### Key Programmes
 
 ##### Environmental Learning Programme (ELP)
-The learning of Science should not be limited to the confines of a classroom or a laboratory. ELP leverages on our environment as the third teacher. By creating opportunities for our students to visit designated spaces in the outdoors, ELP evokes the spirit of inquiry and stimulates curiosity in our learners. The outdoor lessons allow our students to relate their content knowledge to what they can observe and enthuse them further to become self-directed learners who actively seek Science in nature. 
+The learning of Science should not be limited to the confines of a classroom or a laboratory. ELP leverages on our environment as the third teacher. By creating opportunities for our students to visit designated spaces in the outdoors, ELP evokes the spirit of inquiry and stimulates curiosity in our learners. The outdoor lessons allow our students to relate their content knowledge to what they can observe and enthuse them further to become self-directed learners who actively seek Science in nature.
 ![](/images/ELP%201.jpeg)
 ![](/images/ELP%202.jpeg)
 ![](/images/ELP%203.jpeg)
