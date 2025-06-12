@@ -2,27 +2,33 @@
 title: Applied Learning Programme (ALP) DREAM @ YTPS
 permalink: /distinctive-programmes/alp-dream/
 description: ""
+variant: markdown
 ---
 ### Applied Learning Programme - DREAM@YTPS
 
 ##### Overview of Applied Learning Programme (ALP) – DREAM@YTPS
-Aligned to our school vision of ‘Reflective Learners, Gracious Citizens’, DREAM@YTPS seeks to Develop **R**eflective learners, **E**mpower cre**A**tive **M**inds through student agency and empowerment. <br>
-The ALP programme is designed to facilitate students working in teams, whilst activating their problem-solving skills, and creative and critical thinking to come up with plausible solutions to problems, from an empathetic lens. This is achieved through the Design thinking process and Tools. These engineered experiences enhance students’ social-emotional learning, develop 21st century competencies, and help them see the relevance and inter-connectedness of what they learn as students apply them in real-life situations.
+Aligned to our school vision of ‘Reflective Learners, Gracious Citizens’, DREAM@YTPS seeks to **D**evelop **R**eflective learners, **E**mpower cre**A**tive **M**inds through student agency and empowerment. 
+
+The ALP programme is designed to facilitate students working in teams, whilst activating their problem-solving skills, and creative and critical thinking to come up with plausible solutions to problems, from an empathetic lens. This is achieved through the Design Thinking process and tools. These engineered experiences enhance students’ social-emotional learning, develop 21st century competencies, and help them see the relevance and inter-connectedness of what they learn as students apply them in real-life situations.
 
 #### Key Programmes
 ##### DREAM@YTPS through Design Thinking
-DREAM@YTPS adopts the Design Thinking process to nurture **confident and self-directed** learners. Students develop 21st century competencies progressively from Primary 1 to 6 through an interdisciplinary thematic approach and STEAM (Science, Technology, Engineering, Arts, Mathematics) learning experience. Students share their ideas and work together on authentic problems to come up with their own innovative and practical solutions to meet the needs identified, share what they think and work through the process, together as team, to decide on the solution that would best address the problem.
+DREAM@YTPS adopts the Design Thinking process to nurture <font style="color: red;"> confident and self-directed</font> learners. Students develop 21st century competencies progressively from Primary 1 to 6 through an interdisciplinary thematic approach and STEAM + AI (Science, Technology, Engineering, Arts, Mathematics and Artificial Intelligence) learning experience. Students share their ideas and work together on authentic problems to come up with their own innovative and practical solutions to meet the needs identified, share what they think and work through the process, together as team, to decide on the solution that would best address the problem.
 <img src="/images/Design%20Thinking%20%20YTPS.jpg" style="width:100%">
+![](/images/2025/ALP_1.jpg)
 
 
 
 |||
 | -------- | -------- |
-|The themes are encapsulated using the school value of CARE as an acronym – Caring for The Aged &amp; Respecting the Environment, to address the future challenges of aging population and sustainable development. Students develop a greater awareness of the needs of the different stakeholders in the school and community, with DREAM@YTPS serving as a platform for the development and demonstration of values. In this way, this programme will nurture them to become active contributors and concerned citizens in the future.|![](/images/ALP/alp%20photo%209.jpg)|
-|![](/images/ALP/alp%20photo%208.jpg)|Through Design Thinking, students ask questions and conduct their research for the various themes such as “Caring for Pets, Upcycling, Waste Management, Elderly Care and Sustainable Living”. In defining the problem, students will develop a greater awareness and ownership of challenges in society that they can help to solve. They make links across different areas of knowledge by generating, developing, and evaluating ideas and information for application to a real-world project task. During the process, students collaborate in a team and communicate their ideas in both written and oral forms in front of an audience. This project helps them learn independently, reflect on their learning and find creative solutions for problems they see around them. |
+|The themes are encapsulated using the school value of CARE as an acronym – **C**aring for The **A**ged &amp; **R**especting the **E**nvironment, to address the future challenges of aging population and sustainable development. Students develop a greater awareness of the needs of the different stakeholders in the school and community, with DREAM@YTPS serving as a platform for the development and demonstration of values. In this way, this programme will nurture them to become active contributors and concerned citizens in the future.|![](/images/2025/ALP_3.jpg)|
+|![](/images/2025/ALP_4.jpg)|Through Design Thinking, students ask questions and conduct their research for the various themes such as “Caring for Pets, Upcycling, Waste Management, Elderly Care and Sustainable Living”. In defining the problem, students will develop a greater awareness and ownership of challenges in society that they can help to solve. They make links across different areas of knowledge by generating, developing, and evaluating ideas and information for application to a real-world project task. During the process, students collaborate in a team and communicate their ideas in both written and oral forms in front of an audience. This project helps them learn independently, reflect on their learning and find creative solutions for problems they see around them.|
 
-![](/images/ALP/alp%20photo%201.jpg)
-![](/images/ALP/alp%20photo%202.jpg)
+##### Design Thinking Process – Students-in-action
+![](/images/2025/ALP_5.jpg)
+|||
+| -------- | -------- |
+|![](/images/2025/ALP_6.jpg)||
 
 To extend and deepen students’ learning, students are provided with opportunities to challenge themselves in the application of the Design Thinking or STEAM approaches in new and different scenarios through external competitions and workshops. Some examples are STEM Playground Challenge organized by Science Centre, 3D Design and Printing workshop @ School of Science and Technology (SST), National Thinkers Challenge and Sony Creative Science Award @ Science Centre.
 
