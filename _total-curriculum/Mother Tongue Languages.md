@@ -40,8 +40,7 @@ A love for reading accelerates language development and to nurture this, student
 		 
 ##### Mother Tongue (MTL) / Fortnight		 
 A platform to enhance the authentic learning of language, the MTL Fortnight activities leverage cultural experiences that allow students to understand and learn MTL in context and as living languages.
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlU24CykRDQzXusfGeljaDtGRALi-KQsFHhWFe4cE9JuSlVH0xEZ8wOtIMtp8l_9UZ0lcmqdXeLWQ5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPcWSGPCvGBZSOmvgST8KIKkezmAmugV546bWcr9t3oda8-IHosZR2X2wlhAAnYqb1HRDV7_c1RM_I/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### Public Speaking 
 To develop confidence in communication, students are trained and given opportunities to experience public speaking at various platforms such as school concerts, celebrations and during recess throughout the year. The school acknowledges those who have put in effort and performed well as a confident speaker.
@@ -66,6 +65,5 @@ celebrate the joyous occasion!**
 ![](/images/2025/joyous_occasion.jpg)
 		 
 ##### Little Ambassadors Programme
-MTL high progress learners are stretched through enrichment activities and/or external competitions to help them fulfil their potential in the language.
-
-<img src="/images/little%20ambassador.gif" style="width:60%">
+High-progress MTL learners are supported through enrichment activities and participation in external competitions to help them achieve their full potential in the language. From 2025, the school has introduced the Bicultural Programme as part of the Little Ambassadors (CL) Programme. This initiative aims to help students better understand cross-cultural topics through guided discussions and sharing of ideas from a Singaporean perspective.
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vToxelMi3w-DkTiKIcOuX1ZG48bsLjyREP6kEwx97dc_Pswc0Rap6HSuemqsSPBauGz0lwnSQfSvfV1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
