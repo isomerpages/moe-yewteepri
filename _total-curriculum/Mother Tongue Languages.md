@@ -38,7 +38,7 @@ A love for reading accelerates language development and to nurture this, student
 <iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvMj3NIvYV8dRDZVaw01NS4SdY-YdT5qmsrjzEgMYiumyBZlKbGFrdieDpFpU3Kgdk6gDmCcEO2on8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 		 
-##### Mother Tongue (MTL) / e-MTL Fortnight		 
+##### Mother Tongue (MTL) / Fortnight		 
 A platform to enhance the authentic learning of language, the MTL Fortnight activities leverage cultural experiences that allow students to understand and learn MTL in context and as living languages.
 <iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlU24CykRDQzXusfGeljaDtGRALi-KQsFHhWFe4cE9JuSlVH0xEZ8wOtIMtp8l_9UZ0lcmqdXeLWQ5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
@@ -63,16 +63,7 @@ The communal celebration of different festivals are leveraged to help students l
 
 <br>**Staff, students and parent volunteers coming together to
 celebrate the joyous occasion!**
-![](/images/e2023.jpg)
-![](/images/f2023.jpg)
-
-
-![](/images/g2023.jpg)
-![](/images/IMG-20230117-WA0012%20(g).jpg)
-
-<br>**Staff, students and parent volunteers coming together to celebrate the joyous occasion! We are also happy to have the Seniors from Lions’ Befrienders joining us for the CNY concert this year!**
-![](/images/IMG-20230120-WA0086%20(h).jpg)
-![](/images/h2023.jpg)
+![](/images/2025/joyous_occasion.jpg)
 		 
 ##### Little Ambassadors Programme
 MTL high progress learners are stretched through enrichment activities and/or external competitions to help them fulfil their potential in the language.
