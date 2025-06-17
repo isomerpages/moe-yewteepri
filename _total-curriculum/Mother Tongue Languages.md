@@ -34,8 +34,8 @@ Key to this is an emphasis on the core skills of listening, speaking, reading an
 #### Programme Highlights
 ##### Reading Programmes
 A love for reading accelerates language development and to nurture this, students read extensively through a structured programme from Primary One to Six. At the same time, students also learn character development and sound moral values through the experience and power of stories.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJtYSmZn7G-N3_SwNWBh1VR8Nfl8LBUe-UUzMWNs-13cvBTQMbYYzgEC_fNETMdZx1O3zBIpCo-rxR/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="650" height="450" allowfullscreen="true"></iframe>
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvMj3NIvYV8dRDZVaw01NS4SdY-YdT5qmsrjzEgMYiumyBZlKbGFrdieDpFpU3Kgdk6gDmCcEO2on8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJtYSmZn7G-N3_SwNWBh1VR8Nfl8LBUe-UUzMWNs-13cvBTQMbYYzgEC_fNETMdZx1O3zBIpCo-rxR/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvMj3NIvYV8dRDZVaw01NS4SdY-YdT5qmsrjzEgMYiumyBZlKbGFrdieDpFpU3Kgdk6gDmCcEO2on8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 		 
 ##### Mother Tongue (MTL) / Fortnight		 
