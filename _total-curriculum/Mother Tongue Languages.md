@@ -50,18 +50,23 @@ To develop confidence in communication, students are trained and given opportuni
 
 ##### Festive Celebrations
 The communal celebration of different festivals are leveraged to help students learn and appreciate Singapore’s diverse cultural heritage. By participating in one another’s cultural traditions, students gain insights about people who may be different from themselves, and this fosters acceptance and responsibility towards others. It also creates common experiences and shared memories to help strengthen a sense of belonging to the nation.
-<br>**Chinese New Year Concert**
-![](/images/a2023.jpg)
-![](/images/b2023.jpg)
-![](/images/c2023.jpg)
-![](/images/d2023.jpg)
-![](/images/IMG_5005(d).jpg)
+<br>**Lunar New Year**
+![](/images/2025/lunar_new_year_01.jpg)
+<br>**Hari Raya**
+![](/images/2025/hari_raya.jpg)
+<br>**Deepavali**
+![](/images/2025/deepavali_celebration.jpg)
+<br>**Dumpling and Mid-Autumn Festival**
+![](/images/2025/Dumpling___mid_autumn_festival.jpg)
+<br>**Tamil New Year**
+![](/images/2025/tamil_new_year_01.jpg)
 
-<br>**Sharing the festive joy with staff**
+<br>**Staff, students and parent volunteers coming together to
+celebrate the joyous occasion!**
 ![](/images/e2023.jpg)
 ![](/images/f2023.jpg)
 
-<br>**Learning from each other about different cultures and festivals**
+
 ![](/images/g2023.jpg)
 ![](/images/IMG-20230117-WA0012%20(g).jpg)
 
