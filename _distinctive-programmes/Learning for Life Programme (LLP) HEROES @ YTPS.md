@@ -22,3 +22,5 @@ Outdoor education centres on cultivating ruggedness and resilience. Students emb
 
 This holistic approach empowers students to make informed choices based on their interests and abilities, while developing the knowledge, skills and mindset needed for an active lifestyle. These experiences become powerful platforms for character development, nurturing team spirit and responsibility, while fostering social integration and racial harmony.
 
+![](/images/2025/LLP1.jpg)
+![](/images/2025/LLP2.jpg)
