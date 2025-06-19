@@ -2,6 +2,7 @@
 title: Physical Education and Aesthetics
 permalink: /total-curriculum/pe/
 description: ""
+variant: markdown
 ---
 ### Physical Education and Aesthetics
 
@@ -19,28 +20,48 @@ This is why the department is committed to providing a strong foundation for eve
 #### Key Programmes
 
 ##### Physical Education
-For PE in YTPS, the Physical Education and Sports Development Framework guides us in the delivery of physical education and sports within the school system. It envisions a nation of active and physically competent individuals. Everyone values, participates, and pursues physical activities and sports of their interest and ability in order to enrich their lives, be they for recreation and well-being, personal challenge and achievement, or for national honours.
+At Yew Tee Primary School (YTPS), we firmly believe that physical education forms a cornerstone of holistic student development. Our comprehensive approach to physical activities and sports is particularly crucial during the primary years – a pivotal period when children undergo significant physical development and motor skill acquisition.
+
+##### Educational Philosophy 
+Our programme is built upon the understanding that early exposure to diverse physical activities lays the foundation for lifelong wellness. Through structured physical education, students develop fundamental movement skills, sports competencies, and most importantly, a genuine appreciation for an active lifestyle.
+
+##### Guiding Framework 
+The Physical Education and Sports Development Framework serves as our pedagogical compass, ensuring systematic and effective delivery of physical education. This research-based framework aligns with national educational objectives while catering to our students' developmental needs.
 
 The figure below shows a diagrammatic representation of the framework.
 
-<img src="/images/PE%20framework.png" 
-     style="width:80%">
-		 
+<img src="/images/PE%20framework.png" style="width:80%">
+
+##### Strategic Implementation 
+Our PE curriculum encompasses: 
+* Progressive skill development across different sports disciplines 
+* Age-appropriate physical challenges and activities 
+* Opportunities for both recreational and competitive sports 
+* Integration of character development through sports 
+* Regular assessment of physical competencies and progress
+
+##### Vision and Desired Outcomes 
+We aspire to nurture students who: 
+* Demonstrate physical literacy and competence in various movement skills 
+* Understand and appreciate the value of regular physical activity 
+* Develop resilience and sportspersonship through physical challenges 
+* Make informed choices about their personal fitness and well-being 
+* Potentially excel in sports at competitive levels, including national representation
+
+Through this comprehensive approach, YTPS strives to empower every student with the skills, knowledge, and attitudes necessary for maintaining an active and healthy lifestyle well beyond their primary school years. <br><br>
 The key developmental programmes are:
 
 
 |||
 | -------- | -------- |
-|Primary 1|Caterpillar Series|
-|Primary 2|Caterpillar Series, P2 CCA Experience|
-|Primary 3|Chrysalis Series, Unstructured Play|
-|Primary 4|Chrysalis Series, NAPFA Test, Unstructured Play|
-|Primary 5|Butterfly Series, P5 Adventure Camp, Swimsafer Programme|
-|Primary 6|Butterfly Series, NAPFA Test, P6 Olympiad|
+|Primary 1|Caterpillar Series, Play@recess|
+|Primary 2|Caterpillar Series, P2 CCA Experience, Play@recess|
+|Primary 3|Chrysalis Series, Swimsafer Programme, Play@recess|
+|Primary 4|Chrysalis Series, NAPFA Test, Play@recess|
+|Primary 5|Butterfly Series, P5 Adventure Camp, Play@recess|
+|Primary 6|Butterfly Series, NAPFA Test, P6 Olympiad, Play@recess|
 
 
-<img src="/images/pe%20photos%20new.gif" 
-     style="width:70%">
 		 
 ##### Art Education
 
@@ -65,8 +86,7 @@ Key developmental programmes are:
 Exploring Art, Expressing Self
 <br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Cultural Exposure, Making Marks<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 3<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Composing Images, Recycling Materials<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 4<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Environment and Heritage, Rendering Space<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 5<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Rendering in 3D, Graphic Design<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 6<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Visual Communication, Surrealism and Juxtaposition</td></tr></tbody></table>
 
-<img src="/images/art%20education.gif" 
-     style="width:70%">
+<img src="/images/art%20education.gif" style="width:70%">
 		 
 ##### Music Education
 
@@ -76,8 +96,7 @@ The aims for music education are to:
 *   develop ability for creative expression and communication through music
 *   provide the basis to develop an informed and life-long involvement in music
 
-<img src="/images/Music%20Concepts.png" 
-     style="width:70%">
+<img src="/images/Music%20Concepts.png" style="width:70%">
 
 Learning Outcomes:  
 LO1: Perform Music in both instrumental and vocal settings, individually and in groups <br>
@@ -90,8 +109,7 @@ Key developmental programmes are:
 
 <table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 1<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Singing Games<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Angklung Playing<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 3<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ethnic Percussion<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 4<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ensemble Playing<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 5<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Garageband<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 6<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ukulele Playing</td></tr></tbody></table>
 
-<img src="/images/music%20education.gif" 
-     style="width:70%">
+<img src="/images/music%20education.gif" style="width:70%">
 		 
 ##### Co-curriculum – Programme for Active Learning
 
@@ -103,8 +121,7 @@ The table below shows the exciting activities in PAL sports, outdoor education, 
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="110" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br class="Apple-interchange-newline">Module 1<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="162" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Module 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="148" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Module 3<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="140" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 1<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="110" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Dance<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="162" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Drama<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="148" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Sports and Games<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="140" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="110" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Art<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="162" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Outdoor Education<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="148" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Music<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr></tbody></table>
 
-<img src="/images/active%20learning.gif" 
-     style="width:70%">
+<img src="/images/active%20learning.gif" style="width:70%">
 		 
 ##### Characteristics of PAL Modules
 
