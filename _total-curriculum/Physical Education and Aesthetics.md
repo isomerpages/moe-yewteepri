@@ -39,8 +39,7 @@ Our programme is built upon the understanding that early exposure to diverse phy
 The Physical Education and Sports Development Framework serves as our pedagogical compass, ensuring systematic and effective delivery of physical education. This research-based framework aligns with national educational objectives while catering to our students' developmental needs.
 
 The figure below shows a diagrammatic representation of the framework.
-
-<img src="/images/PE%20framework.png" style="width:80%">
+![](/images/PE%20framework.png)
 
 ##### Strategic Implementation 
 Our PE curriculum encompasses: 
