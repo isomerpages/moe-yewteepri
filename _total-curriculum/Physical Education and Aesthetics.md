@@ -61,7 +61,8 @@ The key developmental programmes are:
 |Primary 5|Butterfly Series, P5 Adventure Camp, Play@recess|
 |Primary 6|Butterfly Series, NAPFA Test, P6 Olympiad, Play@recess|
 
-
+![](/images/2025/PE1.jpg)
+![](/images/2025/PE2.jpg)
 		 
 ##### Art Education
 
