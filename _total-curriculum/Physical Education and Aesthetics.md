@@ -2,6 +2,7 @@
 title: Physical Education and Aesthetics
 permalink: /total-curriculum/pe/
 description: ""
+variant: markdown
 ---
 ### Physical Education and Aesthetics
 
@@ -14,33 +15,63 @@ This is why the department is committed to providing a strong foundation for eve
 
 #### Department Members
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Head of Department<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mdm Chang Mei Cheng (Aesthetics)<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Subject Head<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Ms Pek Pei Yu (PE&amp;CCA)<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" width="575" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Members</b></td></tr></tbody></table><table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr Loh Shao Wei (ST/Music)<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr Mohd Helmi B Abdul Jamil<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mdm Sherene Tan Sin Min<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Cheris Tan Xian Li<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr Tok Wei Yuan<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr Lai Yong Hui<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mdm Chua Lee Lin<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr Max Lee Wen Hui<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mdm Jasmine Yap Poh Choo<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr Muhammad Nazri Bin Saifee</td></tr></tbody></table><table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="288" style="margin: 0px; outline: 0px; padding: 2px 2px 2px 10px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Janet Wong Sok Jing<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr></tbody></table>
+|Head of Department|| 
+| -------- | -------- |
+|Mdm Chang Mei Cheng (Aesthetics)||
+|**Subject Head**||
+|Ms Pek Pei Yu (PE&amp;CCA)||
+|**Members**||
+|Mr Loh Shao Wei (ST/Music)|Mr Mohd Helmi B Abdul Jamil|
+|Ms Cheris Tan Xian Li|Mr Tok Wei Yuan|
+|Mr Lai Yong Hui|Mdm Chua Lee Lin|
+|Mr Muhammad Nazri Bin Saifee|
+
 
 #### Key Programmes
 
 ##### Physical Education
-For PE in YTPS, the Physical Education and Sports Development Framework guides us in the delivery of physical education and sports within the school system. It envisions a nation of active and physically competent individuals. Everyone values, participates, and pursues physical activities and sports of their interest and ability in order to enrich their lives, be they for recreation and well-being, personal challenge and achievement, or for national honours.
+At Yew Tee Primary School (YTPS), we firmly believe that physical education forms a cornerstone of holistic student development. Our comprehensive approach to physical activities and sports is particularly crucial during the primary years – a pivotal period when children undergo significant physical development and motor skill acquisition.
+
+##### Educational Philosophy 
+Our programme is built upon the understanding that early exposure to diverse physical activities lays the foundation for lifelong wellness. Through structured physical education, students develop fundamental movement skills, sports competencies, and most importantly, a genuine appreciation for an active lifestyle.
+
+##### Guiding Framework 
+The Physical Education and Sports Development Framework serves as our pedagogical compass, ensuring systematic and effective delivery of physical education. This research-based framework aligns with national educational objectives while catering to our students' developmental needs.
 
 The figure below shows a diagrammatic representation of the framework.
+![](/images/PE%20framework.png)
 
-<img src="/images/PE%20framework.png" 
-     style="width:80%">
-		 
+##### Strategic Implementation 
+Our PE curriculum encompasses: 
+* Progressive skill development across different sports disciplines 
+* Age-appropriate physical challenges and activities 
+* Opportunities for both recreational and competitive sports 
+* Integration of character development through sports 
+* Regular assessment of physical competencies and progress
+
+##### Vision and Desired Outcomes 
+We aspire to nurture students who: 
+* Demonstrate physical literacy and competence in various movement skills 
+* Understand and appreciate the value of regular physical activity 
+* Develop resilience and sportspersonship through physical challenges 
+* Make informed choices about their personal fitness and well-being 
+* Potentially excel in sports at competitive levels, including national representation
+
+Through this comprehensive approach, YTPS strives to empower every student with the skills, knowledge, and attitudes necessary for maintaining an active and healthy lifestyle well beyond their primary school years. <br><br>
 The key developmental programmes are:
 
 
 |||
 | -------- | -------- |
-|Primary 1|Caterpillar Series|
-|Primary 2|Caterpillar Series, P2 CCA Experience|
-|Primary 3|Chrysalis Series, Unstructured Play|
-|Primary 4|Chrysalis Series, NAPFA Test, Unstructured Play|
-|Primary 5|Butterfly Series, P5 Adventure Camp, Swimsafer Programme|
-|Primary 6|Butterfly Series, NAPFA Test, P6 Olympiad|
+|Primary 1|Caterpillar Series, Play@recess|
+|Primary 2|Caterpillar Series, P2 CCA Experience, Play@recess|
+|Primary 3|Chrysalis Series, Swimsafer Programme, Play@recess|
+|Primary 4|Chrysalis Series, NAPFA Test, Play@recess|
+|Primary 5|Butterfly Series, P5 Adventure Camp, Play@recess|
+|Primary 6|Butterfly Series, NAPFA Test, P6 Olympiad, Play@recess|
 
-
-<img src="/images/pe%20photos%20new.gif" 
-     style="width:70%">
+![](/images/2025/PE1.jpg)
+![](/images/2025/PE2.jpg)
 		 
 ##### Art Education
 
@@ -49,78 +80,85 @@ The aims of art education are to enable every child to:
 *   communicate visually
 *   make meaning through connecting with society and culture
 
-Domain and key competencies:
+##### Domain and key competencies:
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: left; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="184" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">See<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="184" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Express<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="184" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Appreciate<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="184" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">
-Through observation of their surroundings, students analyse and reflect on their visual and other experiences. By recording and interpreting this information, students will develop their skills in observation and visual inquiry, equipping them with tools to capture their observations and reflect on the outcome.
-<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="184" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">
-Students learn to express themselves through art by generate ideas from observation and exploring ways to create and communicate by using all sorts of materials, art forms and tools. Students also experiment and innovate with visual elements, qualities of materials, tools and artistic processes in order show their intention through their artwork.
-<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="184" valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: justify; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-weight: 400; text-align: left;">Students learn how to express their appreciation for art through acquiring skills and using appropriate vocabulary to discuss and interpret artworks. This leads to a deeper understanding of Singapore and the world around them, allowing them to drawing
-inspiration from their environment. By learning
-about artworks and artists from local and other cultures, this also leads them to become more well-rounded individuals who are better able to navigate the rich cultural landscape that is contemporary Singapore.</div></td></tr></tbody></table>
 
-Key developmental programmes are:
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 1<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">
-Exploring Art, Expressing Self
-<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Cultural Exposure, Making Marks<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 3<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Composing Images, Recycling Materials<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 4<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Environment and Heritage, Rendering Space<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 5<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Rendering in 3D, Graphic Design<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 6<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Visual Communication, Surrealism and Juxtaposition</td></tr></tbody></table>
+|See|Express|Appreciate|
+| -------- | -------- | -------- |
+|Competencies:<br> Observe – Wonder – Inquire|Competencies:<br> Create – Innovate – Present|Competencies:<br> Reflect – Connect – Respond|
+|In seeing art, our students observe their surrounding closely, and analyse and reflect on their visual and other experiences. The focus will be on recording and interpreting as means towards developing students’ observation and visual inquiry. Students will be equipped with tools such as drawing to capture and reflect on their observations and lived experiences.|In expressing art, our students generate ideas from what they see and explore ways to create and communicate through the use of various conventional and unconventional materials and tools, art forms and media. Students also experiment and innovate with visual elements, qualities of materials, tools and six artistic processes in order to meet an artistic intention. To promote metacognition and deepen the dispositions as artist and audience, students get to present choices and voices within their art processes, progress and products through portfolio process and display platforms in tandem with their developmental capacities and interest.|In appreciating art, our students acquire skills and use appropriate vocabulary to discuss and interpret artworks. Students deepen their understanding of Singapore through drawing inspirations from their environment, learning about artworks and artists from local and other cultures and context to make connections and understand the values of art in their lives and society.|
 
-<img src="/images/art%20education.gif" 
-     style="width:70%">
-		 
+
+
+##### Key developmental programmes are:
+
+|||
+| -------- | -------- |
+|Primary 1|Exploring Art, Expressing Self|
+|Primary 2|Cultural Exposure, Mark Making|
+|Primary 3|Composing Images, Recycling Materials|
+|Primary 4|Environment and Heritage, Rendering in Space|
+|Primary 5|Surrealism and Juxtaposition, Graphic Design|
+|Primary 6|Visual Communication, Rendering in 3D|
+
+![](/images/2025/Art_1.jpg)
+![](/images/2025/Art_2.jpg)
+![](/images/2025/Art1.jpg)
+
 ##### Music Education
+The 2023 Music Syllabus aims to enable students to: 
+* Acquire and apply musical skills, knowledge and understanding through Listening, Creating and Performing 
+* Develop abilities for creative expression and communication 
+* Develop an understanding and appreciation of music in local and global cultures 
+* Cultivate a life-long enjoyment and involvement in music.
 
-The aims for music education are to:
+![](/images/2025/music1.jpg)
 
-*   develop awareness and appreciation of music in local and global cultures
-*   develop ability for creative expression and communication through music
-*   provide the basis to develop an informed and life-long involvement in music
+**Learning Outcomes**<br>
+**LO1:** Listen and Respond to Music <br>
+**LO2:** Create Music in both vocal and instrumental settings, individually and collaboratively<br>
+**LO3:** Perform Music in both vocal and instrumental settings, individually and collaboratively where students respectively: <br>
+* Sing 
+* Play Instruments<br>
 
-<img src="/images/Music%20Concepts.png" 
-     style="width:70%">
+Source: MOE 2023 Music Syllabus, Primary and Lower Secondary
 
-Learning Outcomes:  
-LO1: Perform Music in both instrumental and vocal settings, individually and in groups <br>
-LO2: Create Music in both instrumental and vocal settings, individually and in groups <br>
-LO3: Listen and Respond to Music <br>
-LO4: Appreciate Music in local and global cultures <br>
-LO5: Understand musical elements and concepts
+##### Key developmental programmes are:
+|||
+| -------- | -------- |
+|Primary 1|Singing Games|
+|Primary 2|Angklung|
+|Primary 3|Ethnic Percussion|
+|Primary 4|Recorder|
+|Primary 5|GarageBand|
+|Primary 6|Ukulele|
 
-Key developmental programmes are:
-
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 1<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Singing Games<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Angklung Playing<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 3<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ethnic Percussion<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 4<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ensemble Playing<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 5<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Garageband<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 6<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ukulele Playing</td></tr></tbody></table>
-
-<img src="/images/music%20education.gif" 
-     style="width:70%">
+![](/images/2025/music2.jpg)
+![](/images/2025/music3.jpg)
 		 
 ##### Co-curriculum – Programme for Active Learning
 
-The school offers Programme for Active Learning (PAL) that focuses on learning beyond the classroom. This is in line with MOE’s approach in learning to prepare students for the 21st Century and to bring about Joy of Learning, Entrepreneurial Dare and Singapore Spirit.
+The school offers Programme for Active Learning (PAL) that focuses on learning beyond the classroom. This is in line with MOE’s approach in learning to prepare students for the 21st Century and to bring about Joy of Learning, Entrepreneurial Dare and Singapore Spirit. 
 
-PAL provides students the opportunity to experience the joy of learning through the acquisition of new skills and the discovery of new interests. They will also display traits of Entrepreneurial Dare and a Growth Mindset of ‘I Can learn’ by thinking of innovative ways of doing tasks. The students preserve to solve problems posed to them during the PAL activities. PAL is customised to encourage students to embrace the Singapore Spirit. This is achieved through character development embedded in the activities where students learn how to work as a team and accepting each other’s differences. They also give peer support to their friends during group activities where they learn how to ask for help politely but also give a helping hand to a friend in need. This set their journey into becoming Reflective Learners and Gracious Citizens.
+PAL provides students the opportunity to experience the joy of learning through the acquisition of new skills and the discovery of new interests. They will also display traits of Entrepreneurial Dare and a Growth Mindset of ‘I Can learn’ by thinking of innovative ways of doing tasks. The students persevere to solve problems posed to them during the PAL activities. PAL is customised to encourage students to embrace the Singapore Spirit. This is achieved through character development embedded in the activities where students learn how to work as a team and accepting each other’s differences. They also give peer support to their friends during group activities where they learn how to ask for help politely but also give a helping hand to a friend in need. This set their journey into becoming Reflective Learners and Gracious Citizens. 
 
 The table below shows the exciting activities in PAL sports, outdoor education, performing and visual arts that the Primary 1 and Primary 2 students are experiencing in the various PAL modules:
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="110" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br class="Apple-interchange-newline">Module 1<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="162" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Module 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="148" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Module 3<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="140" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 1<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="110" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Dance<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="162" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Drama<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="148" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Sports and Games<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="140" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="110" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Art<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="162" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Outdoor Education<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="148" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PAL Music<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr></tbody></table>
 
-<img src="/images/active%20learning.gif" 
-     style="width:70%">
-		 
-##### Characteristics of PAL Modules
 
-All the modules engage students through their heads, hearts and hands. They are designed with the following five characteristics in mind:
+||Module 1|Module 2|Module 3|
+| -------- | -------- | -------- | -------- |
+|**Primary 1**|PAL Dance|PAL Drama|PAL Sports and Games|
+|**Primary 2**|PAL Art|PAL Music|PAL Outdoor Education|
 
-**1\. Experiential in nature** <br>
-They provide students with meaningful engagement through experiential learning in a safe environment. Reflection time is included to give students opportunities to express their thoughts and feelings, and build confidence in communication.
+##### Characteristics of PAL Modules 
+All the modules engage students through their heads, hearts and hands. They are designed with the following five characteristics in mind: 
+1. Experiential in nature They provide students with meaningful engagement through experiential learning in a safe environment. Reflection time is included to give students opportunities to express their thoughts and feelings, and build confidence in communication. <br>
+2. Encompasses learning in a creative way They provide students the space to explore ideas to a new situation, to deepen their learning, make new connections to the previous skills and knowledge, and make new self-discovery. <br>
+3. Provides opportunities for children to create They provide opportunity for creative expression which helps students learn at a deeper level, provides enjoyment and leads to problem-solving. <br>
+4. Incorporates values education and social-emotional learning Through individual and group activities, students are able to learn about themselves and understand how to better relate to and work with others in a team, which is an important competency to acquire to thrive in a globalised world. <br>
+5. Fun and enjoyable By focusing on the process of learning, the thinking and doing during the experience, and not just on the end product and skills acquisition, PAL allows students to expand into new areas that are both enjoyable and challenging so that they will be able to make connections and appreciate the finer things in life.<br>
 
-**2\. Encompasses learning in a creative way**<br>
-They provide students the space to explore ideas to a new situation, to deepen their learning, make new connections to the previous skills and knowledge, and make new self-discovery.
-
-**3\. Provides opportunities for children to create**<br>
-They provide opportunity for creative expression which helps students learn at a deeper level, provides enjoyment and leads to problem-solving.
-
-**4\. Incorporates values education and social-emotional learning**<br>
-Through individual and group activities, students are able to learn about themselves and understand how to better relate to and work with others in a team, which is an important competency to acquire to thrive in a globalised world.
-
-**5\. Fun and enjoyable**<br>
-By focusing on the process of learning, the thinking and doing during the experience, and not just on the end product and skills acquisition, PAL allows students to expand into new areas that are both enjoyable and challenging so that they will be able to make connections and appreciate the finer things in life.
+![](/images/2025/PAL1.jpg)
+![](/images/2025/PAL2.jpg)
