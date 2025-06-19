@@ -104,7 +104,7 @@ The 2023 Music Syllabus aims to enable students to:
 * Develop an understanding and appreciation of music in local and global cultures 
 * Cultivate a life-long enjoyment and involvement in music.
 
-<img src="/images/Music%20Concepts.png" style="width:70%">
+![](/images/2025/music1.jpg)
 
 **Learning Outcomes**<br>
 **LO1:** Listen and Respond to Music <br>
@@ -125,7 +125,8 @@ Source: MOE 2023 Music Syllabus, Primary and Lower Secondary
 |Primary 5|GarageBand|
 |Primary 6|Ukulele|
 
-
+![](/images/2025/music2.jpg)
+![](/images/2025/music3.jpg)
 		 
 ##### Co-curriculum – Programme for Active Learning
 
