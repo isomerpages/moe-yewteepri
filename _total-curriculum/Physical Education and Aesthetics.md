@@ -93,30 +93,39 @@ The aims of art education are to enable every child to:
 |Primary 5|Surrealism and Juxtaposition, Graphic Design|
 |Primary 6|Visual Communication, Rendering in 3D|
 
-
+![](/images/2025/Art_1.jpg)
+![](/images/2025/Art_2.jpg)
+![](/images/2025/Art1.jpg)
 
 ##### Music Education
-
-The aims for music education are to:
-
-*   develop awareness and appreciation of music in local and global cultures
-*   develop ability for creative expression and communication through music
-*   provide the basis to develop an informed and life-long involvement in music
+The 2023 Music Syllabus aims to enable students to: 
+* Acquire and apply musical skills, knowledge and understanding through Listening, Creating and Performing 
+* Develop abilities for creative expression and communication 
+* Develop an understanding and appreciation of music in local and global cultures 
+* Cultivate a life-long enjoyment and involvement in music.
 
 <img src="/images/Music%20Concepts.png" style="width:70%">
 
-Learning Outcomes:  
-LO1: Perform Music in both instrumental and vocal settings, individually and in groups <br>
-LO2: Create Music in both instrumental and vocal settings, individually and in groups <br>
-LO3: Listen and Respond to Music <br>
-LO4: Appreciate Music in local and global cultures <br>
-LO5: Understand musical elements and concepts
+**Learning Outcomes**<br>
+**LO1:** Listen and Respond to Music <br>
+**LO2:** Create Music in both vocal and instrumental settings, individually and collaboratively<br>
+**LO3:** Perform Music in both vocal and instrumental settings, individually and collaboratively where students respectively: <br>
+* Sing 
+* Play Instruments<br>
 
-Key developmental programmes are:
+Source: MOE 2023 Music Syllabus, Primary and Lower Secondary
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 1<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Singing Games<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 2<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Angklung Playing<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 3<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ethnic Percussion<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 4<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ensemble Playing<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 5<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Garageband<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td width="90" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Primary 6<br style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"></td><td width="450" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ukulele Playing</td></tr></tbody></table>
+##### Key developmental programmes are:
+|||
+| -------- | -------- |
+|Primary 1|Singing Games|
+|Primary 2|Angklung|
+|Primary 3|Ethnic Percussion|
+|Primary 4|Recorder|
+|Primary 5|GarageBand|
+|Primary 6|Ukulele|
 
-<img src="/images/music%20education.gif" style="width:70%">
+
 		 
 ##### Co-curriculum – Programme for Active Learning
 
