@@ -34,14 +34,13 @@ Key to this is an emphasis on the core skills of listening, speaking, reading an
 #### Programme Highlights
 ##### Reading Programmes
 A love for reading accelerates language development and to nurture this, students read extensively through a structured programme from Primary One to Six. At the same time, students also learn character development and sound moral values through the experience and power of stories.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJtYSmZn7G-N3_SwNWBh1VR8Nfl8LBUe-UUzMWNs-13cvBTQMbYYzgEC_fNETMdZx1O3zBIpCo-rxR/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="650" height="450" allowfullscreen="true"></iframe>
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvMj3NIvYV8dRDZVaw01NS4SdY-YdT5qmsrjzEgMYiumyBZlKbGFrdieDpFpU3Kgdk6gDmCcEO2on8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJtYSmZn7G-N3_SwNWBh1VR8Nfl8LBUe-UUzMWNs-13cvBTQMbYYzgEC_fNETMdZx1O3zBIpCo-rxR/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvMj3NIvYV8dRDZVaw01NS4SdY-YdT5qmsrjzEgMYiumyBZlKbGFrdieDpFpU3Kgdk6gDmCcEO2on8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 		 
-##### Mother Tongue (MTL) / e-MTL Fortnight		 
+##### Mother Tongue (MTL) / Fortnight		 
 A platform to enhance the authentic learning of language, the MTL Fortnight activities leverage cultural experiences that allow students to understand and learn MTL in context and as living languages.
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlU24CykRDQzXusfGeljaDtGRALi-KQsFHhWFe4cE9JuSlVH0xEZ8wOtIMtp8l_9UZ0lcmqdXeLWQ5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPcWSGPCvGBZSOmvgST8KIKkezmAmugV546bWcr9t3oda8-IHosZR2X2wlhAAnYqb1HRDV7_c1RM_I/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### Public Speaking 
 To develop confidence in communication, students are trained and given opportunities to experience public speaking at various platforms such as school concerts, celebrations and during recess throughout the year. The school acknowledges those who have put in effort and performed well as a confident speaker.
@@ -50,26 +49,21 @@ To develop confidence in communication, students are trained and given opportuni
 
 ##### Festive Celebrations
 The communal celebration of different festivals are leveraged to help students learn and appreciate Singapore’s diverse cultural heritage. By participating in one another’s cultural traditions, students gain insights about people who may be different from themselves, and this fosters acceptance and responsibility towards others. It also creates common experiences and shared memories to help strengthen a sense of belonging to the nation.
-<br>**Chinese New Year Concert**
-![](/images/a2023.jpg)
-![](/images/b2023.jpg)
-![](/images/c2023.jpg)
-![](/images/d2023.jpg)
-![](/images/IMG_5005(d).jpg)
+<br>**Lunar New Year**
+![](/images/2025/lunar_new_year_01.jpg)
+<br>**Hari Raya**
+![](/images/2025/hari_raya.jpg)
+<br>**Deepavali**
+![](/images/2025/deepavali_celebration.jpg)
+<br>**Dumpling and Mid-Autumn Festival**
+![](/images/2025/Dumpling___mid_autumn_festival.jpg)
+<br>**Tamil New Year**
+![](/images/2025/tamil_new_year_01.jpg)
 
-<br>**Sharing the festive joy with staff**
-![](/images/e2023.jpg)
-![](/images/f2023.jpg)
-
-<br>**Learning from each other about different cultures and festivals**
-![](/images/g2023.jpg)
-![](/images/IMG-20230117-WA0012%20(g).jpg)
-
-<br>**Staff, students and parent volunteers coming together to celebrate the joyous occasion! We are also happy to have the Seniors from Lions’ Befrienders joining us for the CNY concert this year!**
-![](/images/IMG-20230120-WA0086%20(h).jpg)
-![](/images/h2023.jpg)
+<br>**Staff, students and parent volunteers coming together to
+celebrate the joyous occasion!**
+![](/images/2025/joyous_occasion.jpg)
 		 
 ##### Little Ambassadors Programme
-MTL high progress learners are stretched through enrichment activities and/or external competitions to help them fulfil their potential in the language.
-
-<img src="/images/little%20ambassador.gif" style="width:60%">
+High-progress MTL learners are supported through enrichment activities and participation in external competitions to help them achieve their full potential in the language. From 2025, the school has introduced the Bicultural Programme as part of the Little Ambassadors (CL) Programme. This initiative aims to help students better understand cross-cultural topics through guided discussions and sharing of ideas from a Singaporean perspective.
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vToxelMi3w-DkTiKIcOuX1ZG48bsLjyREP6kEwx97dc_Pswc0Rap6HSuemqsSPBauGz0lwnSQfSvfV1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
