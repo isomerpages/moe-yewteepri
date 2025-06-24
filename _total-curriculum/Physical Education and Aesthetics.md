@@ -15,16 +15,16 @@ This is why the department is committed to providing a strong foundation for eve
 
 #### Department Members
 
-|Head of Department|| 
+|Subject Head|| 
 | -------- | -------- |
-|Mdm Chang Mei Cheng (Aesthetics)||
-|**Subject Head**||
 |Ms Pek Pei Yu (PE&amp;CCA)||
 |**Members**||
-|Mr Loh Shao Wei (ST/Music)|Mr Mohd Helmi B Abdul Jamil|
-|Ms Cheris Tan Xian Li|Mr Tok Wei Yuan|
-|Mr Lai Yong Hui|Mdm Chua Lee Lin|
-|Mr Muhammad Nazri Bin Saifee|
+|Mdm Chang Mei Cheng (HOD SSD)|Mr Mohd Helmi B Abdul Jamil (P1/P2 Yr Head)|
+|Mdm Chua Lee Lin (Aesthetics Coordinator)|Mdm Cheris Tan Xian Li|
+|Mr Loh Shao Wei (ST/Music)|Mr Lai Yong Hui|
+|Ms Elphia Tan Yee Whee (PAL Coordinator)|Mr Muhammad Nazri Bin Saifee|
+|Mr Tok Wei Yuan|Ms Janet Wong Sok Jing|
+|Mr Muhammad Nasrul Roslin||
 
 
 #### Key Programmes

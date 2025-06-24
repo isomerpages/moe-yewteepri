@@ -23,12 +23,14 @@ The school will be organising academic support programmes for selected Primary 6
 
 #### Higher Mother Tongue (HMT) Lesson
 If your child takes HMT, he/she would need to stay in school for HMT lessons.
+
 | Level | Day | 
 | -------- | -------- |
 |Primary 3 to 6 HMT| Wednesday, 12.30 p.m. to 1.30 p.m. |
 
 #### Foundation Mathematics Lesson
 If your child takes Foundation Math, he he/she would need to attend the following lessons.
+
 | Level | Day | 
 | -------- | -------- |
 |Primary 5|Wednesday, 1.00 p.m. to 2.30 p.m.|
@@ -36,10 +38,15 @@ If your child takes Foundation Math, he he/she would need to attend the followin
 
 #### Recess Time
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); text-align: justify; color: rgb(61, 51, 47); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 760px;"><tbody style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Recess Timings</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st Recess (P1 and P4) 9:00 - 9:30 a.m.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd Recess (P2 and P5) 9:30 - 10:00 a.m.</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd Recess (P3 and P6) 10:00 - 10:30 a.m.</td></tr></tbody></table>
+| **Recess Timings** | 
+| -------- | 
+|1st Recess (P1 and P4) 9:00 - 9:30 a.m.| 
+|2nd Recess (P2 and P5) 9:30 - 10:00 a.m.|
+|3rd Recess (P3 and P6) 10:00 - 10:30 a.m.|
+
+
 
 #### School Gates Timing
-
 **The following are the opening hours of the school gates:**
 
 
