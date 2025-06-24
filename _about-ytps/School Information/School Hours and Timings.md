@@ -23,12 +23,14 @@ The school will be organising academic support programmes for selected Primary 6
 
 #### Higher Mother Tongue (HMT) Lesson
 If your child takes HMT, he/she would need to stay in school for HMT lessons.
+
 | Level | Day | 
 | -------- | -------- |
 |Primary 3 to 6 HMT| Wednesday, 12.30 p.m. to 1.30 p.m. |
 
 #### Foundation Mathematics Lesson
 If your child takes Foundation Math, he he/she would need to attend the following lessons.
+
 | Level | Day | 
 | -------- | -------- |
 |Primary 5|Wednesday, 1.00 p.m. to 2.30 p.m.|
