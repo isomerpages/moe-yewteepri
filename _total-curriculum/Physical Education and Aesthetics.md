@@ -154,12 +154,12 @@ The table below shows the exciting activities in PAL sports, outdoor education, 
 |**Primary 2**|PAL Art|PAL Music|PAL Outdoor Education|
 
 ##### Characteristics of PAL Modules 
-All the modules engage students through their heads, hearts and hands. They are designed with the following five characteristics in mind: 
-1. Experiential in nature They provide students with meaningful engagement through experiential learning in a safe environment. Reflection time is included to give students opportunities to express their thoughts and feelings, and build confidence in communication. <br>
-2. Encompasses learning in a creative way They provide students the space to explore ideas to a new situation, to deepen their learning, make new connections to the previous skills and knowledge, and make new self-discovery. <br>
-3. Provides opportunities for children to create They provide opportunity for creative expression which helps students learn at a deeper level, provides enjoyment and leads to problem-solving. <br>
-4. Incorporates values education and social-emotional learning Through individual and group activities, students are able to learn about themselves and understand how to better relate to and work with others in a team, which is an important competency to acquire to thrive in a globalised world. <br>
-5. Fun and enjoyable By focusing on the process of learning, the thinking and doing during the experience, and not just on the end product and skills acquisition, PAL allows students to expand into new areas that are both enjoyable and challenging so that they will be able to make connections and appreciate the finer things in life.<br>
+All the modules engage students through their heads, hearts and hands. They are designed with the following five characteristics in mind: <br> <br>
+**1. Experiential in nature**<br> They provide students with meaningful engagement through experiential learning in a safe environment. Reflection time is included to give students opportunities to express their thoughts and feelings, and build confidence in communication. <br> <br>
+**2. Encompasses learning in a creative way** <br>They provide students the space to explore ideas to a new situation, to deepen their learning, make new connections to the previous skills and knowledge, and make new self-discovery. <br> <br>
+**3. Provides opportunities for children to create** <br>They provide opportunity for creative expression which helps students learn at a deeper level, provides enjoyment and leads to problem-solving. <br> <br>
+**4. Incorporates values education and social-emotional learning** <br>Through individual and group activities, students are able to learn about themselves and understand how to better relate to and work with others in a team, which is an important competency to acquire to thrive in a globalised world. <br> <br>
+**5. Fun and enjoyable**<br>By focusing on the process of learning, the thinking and doing during the experience, and not just on the end product and skills acquisition, PAL allows students to expand into new areas that are both enjoyable and challenging so that they will be able to make connections and appreciate the finer things in life.<br> <br>
 
 ![](/images/2025/PAL1.jpg)
 ![](/images/2025/PAL2.jpg)
