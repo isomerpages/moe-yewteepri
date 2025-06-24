@@ -125,6 +125,7 @@ The 2023 Music Syllabus aims to enable students to:
 Source: MOE 2023 Music Syllabus, Primary and Lower Secondary
 
 ##### Key developmental programmes are:
+
 |||
 | -------- | -------- |
 |Primary 1|Singing Games|
