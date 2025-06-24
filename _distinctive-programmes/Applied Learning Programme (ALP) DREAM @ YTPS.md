@@ -26,8 +26,9 @@ DREAM@YTPS adopts the Design Thinking process to nurture <font style="color: red
 
 ##### Design Thinking Process – Students-in-action
 ![](/images/2025/ALP_5.jpg)
+
 |||
-| -------- | -------- |
+|--------|--------|
 |![](/images/2025/ALP_6.jpg)|![](/images/2025/ALP_13.jpg)|
 
 To extend and deepen students’ learning, students are provided with opportunities to challenge themselves in the application of the Design Thinking or STEAM approaches in new and different scenarios through external competitions and workshops. Some examples are STEM Playground Challenge organized by Science Centre, 3D Design and Printing workshop @ School of Science and Technology (SST), National Thinkers Challenge and Sony Creative Science Award @ Science Centre.
