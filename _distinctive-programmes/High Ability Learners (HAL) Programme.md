@@ -21,6 +21,9 @@ skills, sparking innovation and developing the joy of learning through
 authentic contexts. Whatever the start points, we will help every student
 to learn, develop and grow, and realise their full potential.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HAL02.jpg">
+</div>
 <p><strong>Primary 4</strong>
 </p>
 <p>The programme in Primary 4 encompasses three enriching streams designed
@@ -47,7 +50,6 @@ and develop empathy by understanding different perspectives through text
 exploration.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSC06564.jpg">
 </div>
