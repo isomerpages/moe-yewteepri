@@ -4,7 +4,7 @@ permalink: /high-ability-learners-hal-programme/
 variant: tiptap
 description: ""
 ---
-<h1>SPARKLE </h1>
+<h1>SPARKLE</h1>
 <h4><strong>High Ability Learners (HAL) Programme</strong></h4>
 <p>As we prepare students for a fast-paced and rapidly evolving future, Yew
 Tee Primary School recognises that each child develops at different pace
