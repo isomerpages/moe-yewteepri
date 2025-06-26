@@ -48,6 +48,9 @@ exploration.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/DSC06564.jpg">
+</div>
 <p><strong>Primary 5</strong>
 </p>
 <p>At the Primary 5 level, students engage in two distinctive programmes
