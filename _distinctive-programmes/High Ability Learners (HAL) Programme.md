@@ -50,11 +50,9 @@ exploration.</p>
 <p></p>
 <p><strong>Primary 5</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>At the Primary 5 level, students engage in two distinctive programmes
 that foster innovation and analytical thinking skills.</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>The<em> Innovation Programme (IvP)</em> guides students through the complete
 process of creative problem-solving, from identifying real-world challenges
@@ -66,4 +64,7 @@ mentors.</p>
 thinking through challenging concepts and constructivist learning approaches.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/HAL01.jpg">
+</div>
 <p></p>
