@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>SPARKLE</h1>
-<h4><strong>High Ability Learners (HAL) Programme</strong></h4>
+<h4><strong>High Ability Learners (HAL) Programme 2025</strong></h4>
 <p>As we prepare students for a fast-paced and rapidly evolving future, Yew
 Tee Primary School recognises that each child develops at different pace
 and possesses unique strengths and interests that we are committed to develop.
