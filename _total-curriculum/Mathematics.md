@@ -55,7 +55,3 @@ As part of our Math recess activities, students celebrated World Math Day in Apr
 ##### Joyful Learning in Math - P1 Mental Math Relay 
 Our Primary 1 students had a fantastic time participating in a Mental Math Relay. In this exciting interclass challenge, they took turns working on math questions alongside their classmates, encouraging quick thinking and active application of their mathematical skills. This engaging activity not only strengthened their math abilities but also fostered a spirit of cooperation and perseverance among the students. They thoroughly enjoyed the experience, making learning Math both meaningful and fun!
 ![](/images/2025/PMMR01.jpg)
-
-##### Learning Support for Mathematics 
-The Learning Support for Mathematics (LSM) programme aims to build students’ confidence in Math through encouragement and successful learning experiences. Targeted at Primary 1 to 4 students, the programme focuses on hands-on activities and interactive lessons. Students engage in Math games and practical tasks that reinforce
-![](/images/2025/LSM01.jpg)
