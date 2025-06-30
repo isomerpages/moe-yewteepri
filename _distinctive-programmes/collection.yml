@@ -2,7 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - High Ability Learners (HAL) Programme.md
       - Applied Learning Programme (ALP) DREAM @ YTPS.md
       - Learning for Life Programme (LLP) HEROES @ YTPS.md
+      - High Ability Learners (HAL) Programme.md
       - Student Development Programme.md
