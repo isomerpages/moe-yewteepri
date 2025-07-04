@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Based Achievements
 ---
-<h2>STAR Awards 2024</h2>
+<h2>STAR Awards 2025</h2>
 <h5>Term 1</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/STAR awards 2025/2025T101.png">
