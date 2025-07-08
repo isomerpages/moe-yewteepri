@@ -7,7 +7,7 @@ variant: markdown
 ### Mathematics
 
 #### Department Overview
-The school believes that a solid grounding in Mathematics trains the mind and fosters essential emerging 21st-century skills like logical, critical, abstract, adaptive and creative thinking. These competencies are crucial for everyday life, support learning across various disciplines, and provide an edge in economic activities, innovation, and entrepreneurship. 
+The school believes that a solid grounding in Mathematics train the mind and fosters essential emerging 21st-century skills like logical, critical, abstract, adaptive and creative thinking. These competencies are crucial for everyday life, support learning across various disciplines, and provide an edge in economic activities, innovation, and entrepreneurship. 
 
 Our department’s overarching aim is to ensure every student achieves a competent level of mathematical mastery, while supporting those with the interest and ability to pursue higher levels. Teaching is designed to help students apply mathematical concepts, develop problem-solving skills, and cultivate positive attitudes towards Mathematics, preparing them for lifelong success.
 
