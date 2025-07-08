@@ -61,8 +61,7 @@ Combining elements of fun, collaboration and creativity, students apply their kn
 Students are equipped with the knowledge and awareness of topics related to Cyberwellness so that they know how to be safe and use technology responsibly. They learn to be responsible digital citizens through explicit teaching during Form Teacher Guidance Periods (FTGP) and Character and Citizenship Education (CCE) lessons, as well as from short bite-sized presentations during morning assembly.
 
 In addition, students engaged in experiential learning activities during Cyberwellness Awareness Week. Through these activities, students are more aware of issues such as cyberbullying, excessive screen time and navigating the internet safely and responsibly.
-
-
+![](/images/cyberwellness%20awareness.gif)
 
 #### Developing Teachers’ capacity in E-pedagogy
 
