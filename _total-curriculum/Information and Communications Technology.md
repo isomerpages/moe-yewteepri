@@ -29,7 +29,7 @@ Technology is harnessed in support of the school’s Total Curriculum Framework 
 |Mr Darren Wong Wei Xiang|Mr Wong Song Pei|
 |Mdm Hartini Sanin|Mdm Lekhaadevi|
 |Mr Tok Wei Yuan||
-|Mr Lew Jia Chien (ITC Manager)|Mr Rudy Fang (ICT Trainer)|
+|Mr Lew Jia Chien (ICT Manager)|Mr Rudy Fang (ICT Trainer)|
 |Mr Koh Geng Kai (Desktop Engineer)|Mr Mohamed Razi Bin Mohamed Sahar(Desktop Engineer)|
 
 
@@ -49,7 +49,7 @@ This form of learning helps students in developing 21st century competencies suc
 ![](/images/ICT/DSC01786.jpg)
 ![](/images/ICT/DSC01676.jpg)
 
-#### Enhancing Digital Literacies In Our Learners
+#### Enhancing Digital Literacy in our Learners
 The ICT department aims to provide learning opportunities to develop student’s future readiness. Through a structured digital literacy programme, students are exposed to coding, computational thinking and new technologies progressively. This is important as computing technology plays an increasingly important part in our society.
 
 Combining elements of fun, collaboration and creativity, students apply their knowledge in coding and computational skills to explore and solve problems in an authentic context.
@@ -61,8 +61,7 @@ Combining elements of fun, collaboration and creativity, students apply their kn
 Students are equipped with the knowledge and awareness of topics related to Cyberwellness so that they know how to be safe and use technology responsibly. They learn to be responsible digital citizens through explicit teaching during Form Teacher Guidance Periods (FTGP) and Character and Citizenship Education (CCE) lessons, as well as from short bite-sized presentations during morning assembly.
 
 In addition, students engaged in experiential learning activities during Cyberwellness Awareness Week. Through these activities, students are more aware of issues such as cyberbullying, excessive screen time and navigating the internet safely and responsibly.
-
-<img src="/images/cyberwellness%20awareness.gif" style="width:70%">
+![](/images/cyberwellness%20awareness.gif)
 
 #### Developing Teachers’ capacity in E-pedagogy
 
@@ -71,6 +70,5 @@ The school adopts a 3 prong approach (school wide, level base and just-in-time) 
 A key focus of the teacher’s professional development programme is to develop teachers' ability to analyse and interpret students’ learning and assessment data to develop interventions, and to continually improve the design of learning experiences.
 
 ![](/images/ICT/DSC06543.jpg)
-![](/images/ICT/DSC06521.jpg)
 ![](/images/ICT/DSC06509.jpg)
 ![](/images/ICT/DSC06497.jpg)
