@@ -8,7 +8,7 @@ variant: markdown
 
 #### Department Overview
 
-Guided by our school vision of nurturing Reflective Learner, Gracious Citizens, the school is committed to developing effective and purposeful English Language users. 
+Guided by our school vision of nurturing Reflective Learners, Gracious Citizens, the school is committed to developing effective and purposeful English Language users. 
 
 We believe that a strong foundation in the English Language is essential for students to make sense of rapid advancements, connect meaningfully with the wider community and eventually access opportunities in an innovative and empathy-driven world. 
 
