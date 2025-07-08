@@ -19,7 +19,6 @@ Technology is harnessed in support of the school’s Total Curriculum Framework 
 
 
 #### Department Members
-
 | **Subject Head**||
 | -------- | -------- | 
 |Mr Sim Bee Keat||
@@ -62,7 +61,6 @@ Students are equipped with the knowledge and awareness of topics related to Cybe
 
 In addition, students engaged in experiential learning activities during Cyberwellness Awareness Week. Through these activities, students are more aware of issues such as cyberbullying, excessive screen time and navigating the internet safely and responsibly.
 
-<img src="/images/cyberwellness%20awareness.gif" style="width:70%">
 
 #### Developing Teachers’ capacity in E-pedagogy
 
