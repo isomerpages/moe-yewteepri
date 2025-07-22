@@ -3,16 +3,15 @@ title: Rock Climbing
 permalink: /co-curricular-activities/Sports/rock-climbing/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Rock-Climbing
 
-#### CCA Overview
+At YTPS, our Rockclimbing programme combines physical challenge with mental growth. Students develop strength, flexibility, and coordination while mastering essential climbing techniques and safety protocols. The sport cultivates crucial mental skills including focus, strategic thinking, and risk assessment as climbers navigate challenging routes. 
 
-Rock Climbing in YTPS aims to develop the physical, mental and technical aspects of our climbers by enabling them to devise strategies and master techniques of this sport. It encourages students to improve their concentration, problem solving skills and decision making abilities when overcoming difficult climbing routes. Through participation in this sport, students will be able to develop greater confidence, sportsmanship and critical thinking essential in both personal and academic development.
+![](/images/2025/RC_1.jpg)
 
-#### CCA Photos
+Beyond physical prowess, students gain valuable life skills through climbing. They build confidence, resilience, and problem-solving abilities that enhance both their personal and academic development. Through activities like belaying and spotting, they also learn the importance of teamwork and trust.
 
-![](/images/rock%20climbing%201.jpg)
-<img style="width:85%" src="/images/rock%20climbing%202.jpg">
-<img style="width:45%" src="/images/rock%20climbing%203.jpg">
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeyd7SZF0bVGXz43CXl_HMBfoMvrwt4VMu8ztWNQ1jLMqH9xEdlYcpTLvZOjGv9V4XEwfnt85KAIcs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+![](/images/2025/RC_01.jpg)
+![](/images/2025/RC_5.jpg)
