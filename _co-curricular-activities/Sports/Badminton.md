@@ -3,17 +3,11 @@ title: Badminton
 permalink: /co-curricular-activities/Sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Badminton
 
-#### CCA Overview
+YTPS Badminton CCA develops students' sporting excellence through this dynamic racquet sport. Students master essential techniques including serving, smashing, and defensive play, while systematic footwork training enhances their court coverage and agility. Regular training sessions build physical fitness, stamina, and strength through structured drills and practice matches. 
 
-YTPS Badminton CCA provides students with the opportunity to participate in a sport which requires skills and also extensive body movement, which helps to keep them physically fit and strong. Students will learn the proper skills and techniques of the sport such as overhead strikes (smashes) and footwork. All aspects of school values will be inculcated through the sessions as well.
 
-#### CCA Photos
-
-![](/images/badminton%201.jpg)
-![](/images/badminton%202.jpg)
-![](/images/badminton%203.jpg)
-<img style="width:55%" src="/images/badminton%204.jpg">
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwzdcSWQL_sqSKGdJeBkCs2RxN2hdW71mrCJIdcuXz-agCiBwJxYYrCQ0LlzGhjyu-jcvXDDbYSWqA/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+Beyond technical skills, the CCA nurtures important school values as students develop resilience through challenging training, demonstrate sportsmanship in competitions, and build teamwork during doubles play. Through dedicated coaching, students progress from beginners to competent players while maintaining an active lifestyle and forming lasting friendships within our badminton community.
