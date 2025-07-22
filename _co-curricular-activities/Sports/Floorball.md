@@ -3,18 +3,18 @@ title: Floorball
 permalink: /co-curricular-activities/Sports/floorball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Floorball
 
-#### CCA Overview
+At YTPS Floorball, we develop both athletic excellence and strong character in our students. Through intensive training and competitive play, our members learn valuable life skills that extend beyond the court. 
 
-YTPS Floorball CCA aims to strengthen the students’ character as a whole and to bring out best in every member of the team. We hope to develop the students physically and also inculcate values such as resilience and respect in them. Floorball is a game of strategy and through the process, it helps our students to build mental endurance as well as mutual trust and friendship among themselves.
+![](/images/2025/floorball_01.jpg)
+Floorball is a dynamic team sport that demands strategic thinking and seamless teamwork. Our training programme enhances physical abilities through structured drills while building mental resilience and fostering lasting friendships among teammates. 
 
-Our team trains dedicatedly in every session and the school provides opportunities for the students to gain experience and encourage them to enjoy participating in the sport.
+![](/images/2025/Floorball_4.jpg)
 
-#### CCA Photos
+Our dedicated coaches create an encouraging environment where students discover their passion for the sport through regular competitions and friendly matches. We believe in every player's unique potential and are committed to helping them achieve their personal best.
 
-![](/images/floorball%201.jpg)
-![](/images/floorball%202.jpg)
-<img style="width:55%" src="/images/floorball%203.jpg">
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1-eiBBl6GZCiF-D9NDu84metvpTtjPPlDZ1CB1G_Z1BjNAX6WXjA4yL9vTe1jEgYojK5Z70BmsB6-/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+![](/images/2025/Floorball_6.jpg)
+![](/images/2025/Floorball_5.jpg)
