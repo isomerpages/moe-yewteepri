@@ -11,7 +11,7 @@ The Infocomm Club empowers students to become skilled digital content creators t
 
 ![](/images/2025/Infocomm_5.jpg)
 
-Members apply their skills to real-world projects, documenting school events and creating promotional materials for school initiatives. Through these experiences, they develop not only technical proficiency but also essential skills in creativity, teamwork, and project management. The club's emphasis on responsible digital
+Members apply their skills to real-world projects, documenting school events and creating promotional materials for school initiatives. Through these experiences, they develop not only technical proficiency but also essential skills in creativity, teamwork, and project management. The club's emphasis on responsible digital citizenship ensures students emerge as confident and ethical content creators, well-prepared to navigate today's digital landscape.
 
 ![](/images/2025/Infocomm01.jpg)
 ![](/images/2025/Infocomm_4.jpg)
