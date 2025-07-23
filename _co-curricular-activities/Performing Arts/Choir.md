@@ -3,35 +3,25 @@ title: Choir
 permalink: /co-curricular-activities/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Choir
 
-#### CCA Overview
+Music brings people together, and our school Choir provides a platform for students to express themselves through the joy of singing, while fostering teamwork and a love for music. 
 
-Music is the universal language of mankind and the passion for music is the force that draws our students to come together.
+In 2024, the Choir reached a significant milestone by attaining the Certificate of Distinction at the Singapore Youth Festival (SYF) Arts Presentation—a testament to the students’ dedication and musical growth. 
 
-In order to build up the members’ stage experience and confidence, our choir team has participated in a number of events such as ‘The Showcase’, Performing Arts Show and Singapore Rhapsodies at the National Gallery.
+![](/images/2025/Choir_1.jpg)
 
-In 2018, our Choir attained the Certificate of Distinction in the Singapore Youth Festival Arts Presentation (SYF AP). Our Choir has also performed in external events such as the American Polygraph Association (Asia Pacific) Conference at Fullerton Hotel in 2018. In 2019, our school performed with Ahmad Ibrahim Secondary School Choir for the SYF Celebrations Festival Concert at the Esplanade Theatre. Last year, a team of choir students also performed for an online SYF Re-imagined event.
+The Choir continues to contribute actively to the school community. Members performed at the school's 25th Anniversary Concert and showcased their festive spirit during the Lunar New Year celebration, adding joy and cultural vibrancy to the event. 
 
+![](/images/2025/Choir_3.jpg)
 
-Choir Performance at ‘Celebrating the Singapore Education Story’
+To enrich their learning, students also participate in exchange sessions with other school choirs, gaining exposure and building friendships through music. 
 
-  
+![](/images/2025/Choir_4.jpg)
 
-Our YTPS Choir was invited to perform at a special event ‘Celebrating the Singapore Education Story’ to celebrate Teachers’ Day and the MOE Heritage Centre’s Opening at its new site. This occasion was officiated by our Minister of Education, Mr Chan Chun Sing.
+Through regular practices and performances, the Choir nurtures confident, expressive performers and a strong sense of pride.
 
+![](/images/2025/Choir_2.jpg)
 
-
-#### CCA Photos
-
-<img src="/images/choir%201.jpg" 
-     style="width:85%">
-
-<img src="/images/choir%202.jpg" 
-     style="width:75%">
-
-<img src="/images/choir%203.jpg" 
-     style="width:100%">
-	![](/images/CCA%20Choir%20Heritage%20Centre.jpg)
-Choir Performance at ‘Celebrating the Singapore Education Story'
