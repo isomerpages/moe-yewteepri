@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs/Art Club.md
       - Clubs/Infocomm Club.md
       - Clubs/Robotics Club.md
       - Clubs/Library.md
