@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
-<h2>Stage Crafters </h2>
+<h2>Stage Crafters</h2>
 <p>Stage Crafters is where stories leap off the page and onto the stage!
 In this exciting CCA, young performers and behind-the-scenes magicians
 come together to bring the English Language to life in the most creative
