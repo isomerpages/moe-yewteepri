@@ -12,7 +12,11 @@ environmental projects, and educational visits, whilst also participating
 in nationwide sustainability competitions. These experiences help them
 develop a deeper appreciation of environmental challenges and empower them
 to take meaningful action.</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/EC1.jpg">
+</div>
+<p></p>
 <p>The club's activities align with the school's CCLAS framework, particularly
 emphasising the values of Care and Responsibility. Students demonstrate
 care by actively contributing to environmental causes, whilst taking responsibility
@@ -22,3 +26,9 @@ essential skills in leadership, collaboration, and problem-solving. The
 club also provides a platform for students to connect with peers who share
 their environmental passion, enabling them to work together to create lasting
 positive change.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/EC2.jpg">
+</div>
+<p></p>
