@@ -58,7 +58,7 @@ variant: markdown
 | Class|Teacher|
 |---|---|
 |5C|Loh Shao Wei (Mr) [loh\_shao\_wei@moe.edu.sg](mailto:loh_shao_wei@moe.edu.sg)<br>Pun Jin Mei Yvonne (Mdm) [pun_jin_mei_yvonne@moe.edu.sg](mailto:pun_jin_mei_yvonne@moe.edu.sg)|
-|5D|Nurhida Binte Sapiie (Mdm) [nurhida_sapiie@moe.edu.sg](mailto:nurhida_sapiie@moe.edu.sg)<br>Xiao Chuan (Mdm) [xiao_chuan@moe.edu.sg](mailto:xiao_chuan@moe.edu.sg)|
+|5D|Nurhida Binte Sapiie (Mdm) [nurhida_sapiie@moe.edu.sg](mailto:nurhida_sapiie@moe.edu.sg)<br>Xiao Chuan (Dr) [xiao_chuan@moe.edu.sg](mailto:xiao_chuan@moe.edu.sg)|
 |5E|Liu Beibei (Mdm) [liu\_beibei@moe.edu.sg](mailto:liu_beibei@moe.edu.sg)<br>Nor'ashikin Binte Othman (Mdm) [norashikin\_othman@moe.edu.sg](mailto:norashikin_othman@moe.edu.sg)|
 |5I|Gwei Hwee Theng (Mdm) [gwei\_hwee\_theng@moe.edu.sg](mailto:gwei_hwee_theng@moe.edu.sg)<br>Wong Song Pei (Mr) [wong\_song\_pei@moe.edu.sg](mailto:wong_song_pei@moe.edu.sg)|
 |5P|Hartini Bte Sanin (Mdm) [hartini\_sanin@moe.edu.sg](mailto:hartini_sanin@moe.edu.sg)<br>Yasmin Sultanah Bte Syed Ahmed (Mdm) [yasmin\_sultanah\_syed\_ahmed@moe.edu.sg](mailto:yasmin_sultanah_syed_ahmed@moe.edu.sg)<br>Lim Ming Chwee (Mdm) [lim\_ming\_chwee@moe.edu.sg](mailto:lim_ming_chwee@moe.edu.sg)|
