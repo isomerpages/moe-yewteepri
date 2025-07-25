@@ -3,18 +3,19 @@ title: Boys Brigade
 permalink: /co-curricular-activities/Uniformed-Group/boys-brigade/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 ### Boys Brigade
 
-#### CCA Overview
+The Boys Brigade 78 Junior Singapore Company (BB78J) develops boys into responsible and respectful individuals through physical, educational, social, and exemplary growth programmes. 
 
-78J engages our boys in meaningful and purposeful activities in moulding them to be responsible and respectful individuals. The Adventure Quest (AQ) and Character Quest (CQ) challenge our Boys to problem-solve in creative ways and learn about moral values to apply them in activities. The weekly parades and annual camp focus on character-building and developing a strong moral sense through games and story-telling and discussion sessions.
+![](/images/2025/BB01.jpg)
 
-#### CCA Photos
+Our Boys participate in two national competitions: The Adventure Quest (AQ) for creative problem-solving, and the Character Quest (CQ) for applying moral values through practical activities. 
 
-![](/images/boys%20brigade%201.jpg)
-![](/images/boys%20brigade%202.jpg)
-![](/images/boys%20brigade%203.jpg)
-![](/images/boys%20brigade%204.jpg)
-![](/images/boys%20brigade%205.jpg)
-<iframe allowfullscreen="true" height="450" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkgECYkjcSJOkH3_jzjGOmuxDaU6JMTo7NtfM_x4pNmPV8U7k9MdrVmciSOlmeCC5HP8EAMfEz6VcI/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+![](/images/2025/BB1.jpg)
+
+Weekly parades and annual camps engage our Boys in games, outdoor cooking, and leadership training, fostering essential life skills and strong friendships. Through community service projects like BB Cares and BB Share-A-Gift, they learn to understand and serve the less fortunate in society. The various activities and camps throughout the year provide platforms for interaction and personal development, contributing to their growth as well-rounded individuals.
+
+![](/images/2025/BB5.jpg)
+![](/images/2025/BB4.jpg)
