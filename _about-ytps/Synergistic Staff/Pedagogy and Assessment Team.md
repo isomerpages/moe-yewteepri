@@ -22,7 +22,8 @@ third_nav_title: Synergistic Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bong Mei Yun CynthiaSenior Teacher (Character and Citizenship Education)</p>
+<p>Mdm Bong Mei Yun CynthiaSenior Teacher</p>
+<p>(Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>bong_mei_yun_cynthia@moe.edu.sg</p>
