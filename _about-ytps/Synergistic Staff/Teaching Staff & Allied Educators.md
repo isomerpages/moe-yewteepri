@@ -23,7 +23,7 @@ variant: markdown
 
 | Class|Teacher|
 |---|---|
-|2C|Lee Wen Hui (Mr) [lee\_wen\_hui@moe.edu.sg](mailto:lee_wen_hui@moe.edu.sg)<br>Rashitha Bibi Binte Abdul Hameed (Mdm) [rashitha\_bibi\_abdul\_hameed@moe.edu.sg](mailto:rashitha_bibi_abdul_hameed@moe.edu.sg)<br>Lee Choon Muay (Mdm) [lee\_choon\_muay@moe.edu.sg](mailto:lee_choon_muay@moe.edu.sg)|
+|2C|Rashitha Bibi Binte Abdul Hameed (Mdm) [rashitha\_bibi\_abdul\_hameed@moe.edu.sg](mailto:rashitha_bibi_abdul_hameed@moe.edu.sg)<br>Lee Choon Muay (Mdm) [lee\_choon\_muay@moe.edu.sg](mailto:lee_choon_muay@moe.edu.sg)|
 |2D|Goh Leong Poon (Mr)[goh\_leong\_poon@moe.edu.sg](mailto:goh_leong_poon@moe.edu.sg)<br>Muhammad Nazri Bin Saifee (Mr) [muhammad\_nazri\_saifee@moe.edu.sg](mailto:muhammad_nazri_saifee@moe.edu.sg)<br>Ng Beng Kiaw (Mdm) [ng\_beng\_kiaw@moe.edu.sg](mailto:ng_beng_kiaw@moe.edu.sg)|
 |2E|Lai Yong Hui (Mr) [lai\_yong\_hui@moe.edu.sg](mailto:lai_yong_hui@moe.edu.sg)<br>Siti Nuraisah Bte Buang (Mdm) [siti\_nuraisah\_buang@moe.edu.sg](mailto:siti_nuraisah_buang@moe.edu.sg)<br>|
 |2I|Isdasusianty Bte Ismail (Ms) [isdasusianty\_ismail@moe.edu.sg](mailto:isdasusianty_ismail@moe.edu.sg)<br>Norhana Bte Juhari (Mdm)[norhana_juhari@moe.edu.sg](mailto:norhana_juhari@moe.edu.sg)|
