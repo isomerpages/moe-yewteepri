@@ -25,8 +25,7 @@ third_nav_title: Synergistic Staff
 <p>Mdm Bong Mei Yun CynthiaSenior Teacher (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">bong_mei_yun_cynthia@moe.edu.sg</a>
-</p>
+<p>bong_mei_yun_cynthia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -35,8 +34,7 @@ third_nav_title: Synergistic Staff
 <p>Senior Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_gek_tiang@moe.edu.sg</a>
-</p>
+<p>chua_gek_tiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -45,8 +43,7 @@ third_nav_title: Synergistic Staff
 <p>Senior Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gwei_hwee_theng@moe.edu.sg</a>
-</p>
+<p>gwei_hwee_theng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -55,8 +52,7 @@ third_nav_title: Synergistic Staff
 <p>Senior Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_wen_huey@moe.edu.sg</a>
-</p>
+<p>lim_wen_huey@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -65,8 +61,7 @@ third_nav_title: Synergistic Staff
 <p>Senior Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loh_shao_wei@moe.edu.sg</a>
-</p>
+<p>loh_shao_wei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -75,8 +70,7 @@ third_nav_title: Synergistic Staff
 <p>Senior Teacher (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurhida_sapiie@moe.edu.sg</a>
-</p>
+<p>nurhida_sapiie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -85,8 +79,7 @@ third_nav_title: Synergistic Staff
 <p>Senior Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_meow_huang@moe.edu.sg</a>
-</p>
+<p>tan_meow_huang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -95,8 +88,7 @@ third_nav_title: Synergistic Staff
 <p>Senior Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xiao_chuan@moe.edu.sg</a>
-</p>
+<p>xiao_chuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
