@@ -70,7 +70,7 @@ variant: markdown
 | Class|Teacher|
 |---|---|
 |6C|Khan Miriam Rehana (Mdm) [khan\_miriam\_rehana@moe.edu.sg](mailto:khan_miriam_rehana@moe.edu.sg)<br>Koh Chee How (Mr) [koh\_chee\_how@moe.edu.sg](mailto:koh_chee_how@moe.edu.sg)<br>Melissa Choy Min Er (Ms) [melissa\_choy\_min\_er@moe.edu.sg](mailto:melissa_choy_min_er@moe.edu.sg)|
-|6D|Lim Wen Huey (Mdm) [lim\_wen\_huey@moe.edu.sg](mailto:lim_wen_huey@moe.edu.sg)<br>Wiu Zhen An Caryn (Ms) [Wiu\_Zhen\_An@moe.edu.sg](mailto:Wiu_Zhen_An@moe.edu.sg)<br>Siti Sarah Binte Mohd Sidik (Mdm) [Siti_Sarah_Mohd_Sidik@moe.edu.sg](mailto:Siti_Sarah_Mohd_Sidik@moe.edu.sg)|
+|6D|Lim Wen Huey (Mdm) [lim\_wen\_huey@moe.edu.sg](mailto:lim_wen_huey@moe.edu.sg)<br>Wiu Zhen An Caryn (Ms) [Wiu\_Zhen\_An@moe.edu.sg](mailto:Wiu_Zhen_An@moe.edu.sg)|
 |6E|Thor Zhi Ling Emmaline (Mdm) [thor\_zhi\_ling\_emmaline@moe.edu.sg](mailto:thor_zhi_ling_emmaline@moe.edu.sg)<br>Loh Huey Luen (Mdm) [loh\_huey\_luen@moe.edu.sg](mailto:loh_huey_luen@moe.edu.sg)<br>Vijayalakshimi Balasubramaniam (Mdm) [vijayalakshimi\_bala\_s@moe.edu.sg](mailto:vijayalakshimi_bala_s@moe.edu.sg)|
 |6I|Lekha (Mdm) [lekha\_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)<br>Tan Hsuen Fang (Mdm) [tan\_hsuen\_fang@moe.edu.sg](mailto:tan_hsuen_fang@moe.edu.sg)<br>Teo Guo Shun Eugene (Mr) [teo\_guo\_shun\_eugene@moe.edu.sg](mailto:teo_guo_shun_eugene@moe.edu.sg)<br>|
 |6P|Danny Asmara Bin Rahman (Mr) [danny\_asmara\_b\_rahman@moe.edu.sg](mailto:danny_asmara_b_rahman@moe.edu.sg)<br>Shavitha Jamna Ramakrishnan(Mdm) [shavitha\_jamna\_ramakrishnan@moe.edu.sg](mailto:shavitha_jamna_ramakrishnan@moe.edu.sg)<br>Kannagi d/o Gnanasekaran (Mdm) [Kannagi\_Marcelino@moe.edu.sg](mailto:Kannagi_Marcelino@moe.edu.sg)|
