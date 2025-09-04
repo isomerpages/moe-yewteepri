@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - My Partner Teacher Award 2025.md
       - Tech Terra Art Exhibition.md
       - OPEN HOUSE 2025.md
       - Distinguished Chinese Language Teachers Awards 2025.md
