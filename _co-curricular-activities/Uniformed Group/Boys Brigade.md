@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Uniformed Group
 variant: markdown
 ---
-### Boys Brigade
+### Boys' Brigade
 
-The Boys Brigade 78 Junior Singapore Company (BB78J) develops boys into responsible and respectful individuals through physical, educational, social, and exemplary growth programmes. 
+The Boys' Brigade 78 Junior Singapore Company (BB78J) develops boys into responsible and respectful individuals through physical, educational, social, and exemplary growth programmes. 
 
 ![](/images/2025/BB01.jpg)
 
