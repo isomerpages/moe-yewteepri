@@ -39,8 +39,12 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p><a rel="noopener noreferrer nofollow" target="_blank">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Form for individual stallholder</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SAS1]</a>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder </a>
+</p>
+</li>
+</ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
@@ -84,8 +88,7 @@ School’s General Office by the closing date.</p>
 <p>Contact No: 67670027</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">ytps@moe.edu.sg</a>
-</p>
+<p>Email: ytps@moe.edu.sg</p>
 </li>
 <li>
 <p>Contact Person:&nbsp;Mdm Karen Khong</p>
@@ -99,11 +102,9 @@ School’s General Office by the closing date.</p>
 <p>Nearest MRT: &nbsp;Yew Tee MRT (NS5 line) – 5 minutes walking distance</p>
 </li>
 <li>
-<p>Bus number: 307, 307A (Blk 634)</p>
+<p>Bus number: 307, 307A (Blk 634) / 302, 979 (Opp Yew Tee Stn)</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-302, 979 (Opp Yew Tee Stn)</p>
 <h4><strong>Interested applicants must meet the following criteria:</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
