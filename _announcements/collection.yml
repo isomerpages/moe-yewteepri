@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - President's Award for Teachers 2026.md
       - NIE Caring Teacher Award 2026.md
       - School Canteen Advertisement.md
       - My Partner Teacher Award 2025.md
