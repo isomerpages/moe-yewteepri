@@ -45,8 +45,8 @@ third_nav_title: School Based Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/STAR awards 2025/2025T206.png">
 </div>
-<h5>Term 3</h5>
 <p></p>
+<h5>Term 3</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/STAR awards 2025/2025T3P1.jpg">
 </div>
@@ -65,4 +65,6 @@ third_nav_title: School Based Achievements
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/STAR awards 2025/2025T3P6.jpg">
 </div>
+<p></p>
+<h5>Term 4</h5>
 <p></p>
