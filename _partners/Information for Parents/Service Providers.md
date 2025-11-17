@@ -16,12 +16,20 @@ Parents are encouraged to come in after 11:00 a.m. for book purchases.
 
 
 **Booklist 2025:**
-<br>[P1 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025____FINAL___P1.pdf)
-<br>[P2 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025____FINAL___P2.pdf)
-<br>[P3 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025____FINAL___P3.pdf)
-<br>[P4 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025____FINAL___P4.pdf)
-<br>[P5 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025____FINAL___P5.pdf)
-<br>[P6 - Booklist](/files/Book%20List/Yew_Tee_Primary_School____Booklist_AY_2025____FINAL___P6.pdf)
+<br>[P1 - Booklist](/files/Book%20List/P1_BOOKLIST.pdf)
+<br>[P2 - Booklist](/files/Book%20List/P2_BOOKLIST.pdf)
+<br>[P3 - Booklist](/files/Book%20List/P3_BOOKLIST.pdf)
+<br>[P4 - Booklist](/files/Book%20List/P4_BOOKLIST.pdf)
+<br>[P5 - Booklist](/files/Book%20List/P5_BOOKLIST.pdf)
+<br>[P6 - Booklist](/files/Book%20List/P6_BOOKLIST.pdf)
+
+**Booklist for 2026 and End of Year Salesby School Suppliers**<br>
+The bookshop and the schoo uniform suppliers will be selling their items in school premises on the following dates: 
+| Month | Collection students on FAS  | For all levels |
+| -------- | -------- | -------- |
+| November 2025|-| 27th and 28th|
+|December 2025|16th, 17th|3rd,4th,5th,10th,11th,12th,15th,22nd and 23rd<br> 26th Avialable only for the sales of books. |
+
 
 
 #### Bus Operator
