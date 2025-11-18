@@ -15,7 +15,7 @@ Operating hours : Monday to Friday (8.30 a.m. to 2.30 p.m.) <br>
 Parents are encouraged to come in after 11:00 a.m. for book purchases.
 
 
-**Booklist 2025:**
+**Booklist 2026**
 <br>[P1 - Booklist](/files/Book%20List/P1_BOOKLIST.pdf)
 <br>[P2 - Booklist](/files/Book%20List/P2_BOOKLIST.pdf)
 <br>[P3 - Booklist](/files/Book%20List/P3_BOOKLIST.pdf)
@@ -23,8 +23,10 @@ Parents are encouraged to come in after 11:00 a.m. for book purchases.
 <br>[P5 - Booklist](/files/Book%20List/P5_BOOKLIST.pdf)
 <br>[P6 - Booklist](/files/Book%20List/P6_BOOKLIST.pdf)
 
-**Booklist for 2026 and End of Year Salesby School Suppliers**<br>
-The bookshop and the schoo uniform suppliers will be selling their items in school premises on the following dates: 
+**Booklist for 2026 and End of Year Salesby School Suppliers**
+<br>
+The bookshop and the schoo uniform suppliers will be selling their items in school premises on the following dates: <br>
+
 | Month | Collection students on FAS  | For all levels |
 | -------- | -------- | -------- |
 | November 2025|-| 27th and 28th|
