@@ -26,6 +26,7 @@ Parents are encouraged to come in after 11:00 a.m. for book purchases.
 **Booklist for 2026 and End of Year Salesby School Suppliers**
 <br>
 The bookshop and the schoo uniform suppliers will be selling their items in school premises on the following dates: <br>
+
 | Month | Collection students on FAS  | For all levels |
 | -------- | -------- | -------- |
 | November 2025|-| 27th and 28th|
