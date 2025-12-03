@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Yew Tee Primary School e Orientation on 21 November 2025.md
       - NIE Caring Teacher Award 2026.md
       - Outstanding Youth in Education Award 2026.md
       - President's Award for Teachers 2026.md
