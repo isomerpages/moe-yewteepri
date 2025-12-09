@@ -26,7 +26,7 @@ description: ""
 <p>Hot Drink and Snack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Oct 2025</p>
+<p>19 DEC 2025</p>
 </td>
 </tr>
 </tbody>
@@ -41,7 +41,7 @@ General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder </a>
+<p><a href="/files/2025/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
 </p>
 </li>
 </ul>
