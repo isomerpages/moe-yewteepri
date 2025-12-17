@@ -17,6 +17,6 @@ third_nav_title: Synergistic Staff
 |Mdm Lim Wen Huey<br>Senior Teacher (Chinese Language)|[lim_wen_huey@moe.edu.sg](mailto:lim_wen_huey@moe.edu.sg)|
 |Mdm Nurhida Binte Sapiie<br>Senior Teacher (Science)|[nurhida_sapiie@moe.edu.sg](mailto:nurhida_sapiie@moe.edu.sg)|
 |Mdm Tan Meow Huang&nbsp;<br>Senior Teacher (Chinese Language)|[tan_meow_huang@moe.edu.sg](mailto:tan_meow_huang@moe.edu.sg)|
-|Mr Tok Wei Yuan<br>Senior Teacher (Music)|[tok_wei_yuan@schools.gov.sg](mailto:tok_wei_yuan@schools.gov.sg)|
+|Mr Tok Wei Yuan<br>Senior Teacher (Art)|[tok_wei_yuan@schools.gov.sg](mailto:tok_wei_yuan@schools.gov.sg)|
 |Dr Xiao Chuan<br>Senior Teacher (Chinese Language)|[xiao_chuan@moe.edu.sg](mailto:xiao_chuan@moe.edu.sg)|
 |||
