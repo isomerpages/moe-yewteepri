@@ -41,7 +41,6 @@ variant: markdown
 |3I|Bong Mei Yun Cynthia (Mdm) [bong\_mei\_yun\_cynthia@moe.edu.sg](mailto:bong_mei_yun_cynthia@moe.edu.sg)<br>Lekhaadevi Balakrishnan (Ms) [Lekhaadevi\_balakrishnan@moe.edu.sg](mailto:Lekhaadevi_balakrishnan@moe.edu.sg)<br>Zhuo Miaolin (Mdm)[zhuo_miaolin@moe.edu.sg](mailto:zhuo_miaolin@moe.edu.sg)|
 |3P|Wee Shu Yun Athena (Ms) [athena_wee@moe.edu.sg](mailto:athena_wee@moe.edu.sg)<br>Lim Wen Huey (Mdm) [lim\_wen\_huey@moe.edu.sg](mailto:lim_wen_huey@moe.edu.sg)<br>Tan Xian Li Cheris (Mdm) [tan\_xian\_li\_cheris@moe.edu.sg](mailto:tan_xian_li_cheris@moe.edu.sg)|
 
-Lekha (Mdm) [lekha\_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)
 ##### Primary 4 
 
 | Class|Teacher|
@@ -71,7 +70,7 @@ Lekha (Mdm) [lekha\_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)
 |6C |Shaan Gan (Ms) [Shaan_gan@moe.edu.sg](mailto:Shaan_gan@moe.edu.sg)<br> Pun Jin Mei Yvonne (Mdm) [pun_jin_mei_yvonne@moe.edu.sg](mailto:pun_jin_mei_yvonne@moe.edu.sg)|
 |6D |Nurhida Binte Sapiie (Mdm) [nurhida_sapiie@moe.edu.sg](mailto:nurhida_sapiie@moe.edu.sg)<br>Xiao Chuan (Dr) [xiao_chuan@moe.edu.sg](mailto:xiao_chuan@moe.edu.sg)|
 |6E |Liu Beibei (Mdm) [liu\_beibei@moe.edu.sg](mailto:liu_beibei@moe.edu.sg)<br>Nor'ashikin Binte Othman (Mdm) [norashikin\_othman@moe.edu.sg](mailto:norashikin_othman@moe.edu.sg)|
-|6I |Gwei Hwee Theng (Mdm) [gwei\_hwee\_theng@moe.edu.sg](mailto:gwei_hwee_theng@moe.edu.sg)<br>Wong Song Pei (Mr) [wong\_song\_pei@moe.edu.sg](mailto:wong_song_pei@moe.edu.sg)|
+|6I |Gwei Hwee Theng (Mdm) [gwei\_hwee\_theng@moe.edu.sg](mailto:gwei_hwee_theng@moe.edu.sg)<br>Lekha (Mdm) [lekha\_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)<br>Wong Song Pei (Mr) [wong\_song\_pei@moe.edu.sg](mailto:wong_song_pei@moe.edu.sg)|
 |6P |S Srijith (Mr) [s\_srijith@moe.edu.sg](mailto:s_srijith@moe.edu.sg)<br>Yasmin Sultanah Bte Syed Ahmed (Mdm) [yasmin\_sultanah\_syed\_ahmed@moe.edu.sg](mailto:yasmin_sultanah_syed_ahmed@moe.edu.sg)<br>Lim Ming Chwee (Mdm) [lim\_ming\_chwee@moe.edu.sg](mailto:lim_ming_chwee@moe.edu.sg)|
 |6R |Hartini Bte Sanin (Mdm) [hartini\_sanin@moe.edu.sg](mailto:hartini_sanin@moe.edu.sg)<br>Sarifah Hasliza (Mdm) [sarifah\_hasliza\_syed@moe.edu.sg](mailto:sarifah_hasliza_syed@moe.edu.sg)<br>Kannagi d/o Gnanasekaran (Mdm) [Kannagi\_Marcelino@moe.edu.sg](mailto:Kannagi_Marcelino@moe.edu.sg)|
 
@@ -81,4 +80,4 @@ Lekha (Mdm) [lekha\_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)
 |---|---|---|
 |Mdm Sarasvathy<br>Senior School Counsellor <br>[sarasvathy_govindasamy_annamalai@moe.edu.sg](mailto:sarasvathy_govindasamy_annamalai@moe.edu.sg) |||
 | Ms Lim Miao Jing<br> Special Educational Needs Officer<br> [lim_miao_jing@moe.edu.sg](mailto:lim_miao_jing@moe.edu.sg) | Ms Siti Nur Afiqah Binte Abdol Manaf<br> Special Educational Needs Officer<br> [siti_nur_afiqah_abdol@moe.edu.sg](mailto:siti_nur_afiqah_abdol@moe.edu.sg) | Mdm Nurul Asyikin Azman<br> [nurul_asyikin_azman_a@moe.edu.sg](mailto:nurul_asyikin_azman_a@moe.edu.sg) |
-|Mdm Siti Nurliana Rosli <br>Allied Educator T&amp;L Mathematics <br>[siti_nurliana_rosli@moe.edu.sg](mailto:siti_nurliana_rosli@moe.edu.sg) |||
+|Mdm Siti Nurliana Rosli <br>Allied Educator T&amp;L <br>[siti_nurliana_rosli@moe.edu.sg](mailto:siti_nurliana_rosli@moe.edu.sg) |||
