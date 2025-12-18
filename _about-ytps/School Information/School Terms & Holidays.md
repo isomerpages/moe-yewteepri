@@ -7,26 +7,26 @@ variant: markdown
 ---
 ### School Terms & Holidays
 
-**The school terms and holidays for the year 2025 are as follows:**
+**The school terms and holidays for the year 2026 are as follows:**
 
 #### School Terms
 
 | **Semester 1**|
 | -------- | 
-| **Term 1 :** Thu 2 Jan to Fri 14 Mar|
-|**Term 2 :**  Mon 24 Mar to Fri 30 May|
+| **Term 1 :** Fri 2 Jan to Fri 13 Mar|
+|**Term 2 :**  Mon 23 Mar to Fri 29 May|
 
 | **Semester 2**|
 | -------- | 
-| **Term 1 :**  Mon 30 Jun to Fri 5 Sep| 
-|**Term 2 :**  Mon 15 Sep to Fri 21 Nov|
+| **Term 1 :**  Mon 29 Jun to Fri 4 Sep| 
+|**Term 2 :**  Mon 14 Sep to Fri 20 Nov|
 
 
 #### School Vacations
 
 |  | |
 | -------- | -------- |
-| **Between Terms I & II**   |Sat 15 Mar to Sun 23 Mar| 
-|**Between Semesters I & II**  |Sat 31 May to Sun 29 Jun| 
-|**Between Terms III & IV**  |Sat 6 Sep to Sun 14 Sep| 
-| **At End of School Year**  |Sat 22 Nov to Wed 31 Dec|
+| **Between Terms I & II**   |Sat 14 Mar to Sun 22 Mar| 
+|**Between Semesters I & II**  |Sat 30 May to Sun 28 Jun| 
+|**Between Terms III & IV**  |Sat 5 Sep to Sun 13 Sep| 
+| **At End of School Year**  |Sat 21 Nov to Thu 31 Dec|
