@@ -17,9 +17,9 @@ variant: markdown
 |Mdm Fadzilah M K<br>Year Head, P3/P4|[fadzilah_moideen_kutty@moe.edu.sg](mailto:fadzilah_moideen_kutty@moe.edu.sg)|
 |Mr Gwee Yee Tat <br>Year Head, P5/P6|[gwee_yee_tat@moe.edu.sg](mailto:gwee_yee_tat@moe.edu.sg) |
 |Mr Mohammad Najeeb<br> Assistant Year Head, P5|[mohamad_najeeb_abdul_majid@moe.edu.sg](mailto:mohamad_najeeb_abdul_majid@moe.edu.sg)|
-|Ms Athena Wee<br> HOD Character and Citizenship Education|[athena_wee@schools.gov.sg](mailto:ATHENA_WEE@SCHOOLS.GOV.SG)|
+|Ms Athena Wee<br> HOD Character and Citizenship Education|[athena_wee@moe.edu.sg](mailto:athena_wee@moe.edu.sg)|
 |Mdm Lekha<br> HOD English Language|[lekha_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)|
-|Mdm Quek Hui Hiang Pauline <br>HOD ICT|[quek_hui_hiang_pauline@schools.gov.sg](mailto:quek_hui_hiang_pauline@schools.gov.sg)|
+|Mdm Quek Hui Hiang Pauline <br>HOD ICT|[quek_hui_hiang_pauline@moe.edu.sg](mailto:quek_hui_hiang_pauline@moe.edu.sg)|
 |Mdm Miriam Khan<br> HOD Mathematics|[khan_miriam_rehana@moe.edu.sg](mailto:khan_miriam_rehana@moe.edu.sg)|
 |Mdm Tan Hsuen Fang<br>HOD Mother Tongue|[tan_hsuen_fang@moe.edu.sg](mailto:tan_hsuen_fang@moe.edu.sg) |
 |Mr Koh Chee How <br>HOD Science|[koh_chee_how@moe.edu.sg](mailto:koh_chee_how@moe.edu.sg)|
