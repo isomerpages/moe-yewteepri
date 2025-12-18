@@ -12,7 +12,7 @@ variant: markdown
 |Ms Nur Sabariah Mohd Ibrahim<br> Principal|[nur_sabariah_mohd_ibrahim@moe.edu.sg](mailto:Nur_Sabariah_Mohd_Ibrahim@moe.edu.sg)|
 |Mdm Pauline Toh<br>Vice-Principal|[toh_guat_hwa_pauline@moe.edu.sg](mailto:toh_guat_hwa_pauline@moe.edu.sg)|
 |Mr Andrew Ng<br>Vice-Principal|[andrew_ng@moe.edu.sg](mailto:andrew_ng@moe.edu.sg)|
-|Ms Phua Siew Khing <br>Vice-principal (Administration)|[phua_siew_khing@moe.edu.sg](mailto:phua_siew_khing@moe.edu.sg)|
+|Ms Phua Siew Khing <br>Vice-Principal (Administration)|[phua_siew_khing@moe.edu.sg](mailto:phua_siew_khing@moe.edu.sg)|
 |Mr Mohd Helmi<br>Year Head, P1/P2|[mohd_helmi@moe.edu.sg](mailto:mohd_helmi@moe.edu.sg) |
 |Mdm Fadzilah M K<br>Year Head, P3/P4|[fadzilah_moideen_kutty@moe.edu.sg](mailto:fadzilah_moideen_kutty@moe.edu.sg)|
 |Mr Gwee Yee Tat <br>Year Head, P5/P6|[gwee_yee_tat@moe.edu.sg](mailto:gwee_yee_tat@moe.edu.sg) |
