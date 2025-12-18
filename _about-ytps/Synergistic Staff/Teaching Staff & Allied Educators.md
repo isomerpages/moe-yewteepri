@@ -17,7 +17,7 @@ variant: markdown
 |1F|Chua Lee Lin (Mdm) [Chua\_Lee\_Lin@moe.edu.sg](mailto:Chua_Lee_Lin@moe.edu.sg)<br>Siti Nuraisah Bte Buang (Mdm) [siti\_nuraisah\_buang@moe.edu.sg](mailto:siti_nuraisah_buang@moe.edu.sg)|
 |1I|Kim Qingxian (Ms) [kim\_qing\_xian@moe.edu.sg](mailto:kim_qing_xian@moe.edu.sg)<br>Leong Ma Choo (Mdm) [leong\_ma\_choo@moe.edu.sg](mailto:leong_ma_choo@moe.edu.sg)|
 |1P|Isdasusianty Bte Ismail (Ms) [isdasusianty\_ismail@moe.edu.sg](mailto:isdasusianty_ismail@moe.edu.sg)<br>Lee Choon Muay (Mdm) [lee\_choon\_muay@moe.edu.sg](mailto:lee_choon_muay@moe.edu.sg)<br>Siti Sarah Binte Mohd Sidik (Mdm)[siti_sarah_mohd_sidik@moe.edu.sg](mailto:siti_sarah_mohd_sidik@moe.edu.sg)|
-|1R|Chua Gek Tiang (Mdm) [chua\_gek\_tiang@moe.edu.sg](mailto:chua_gek_tiang@moe.edu.sg)<br>Roslinda Bte Omar (Mdm) [roslinda\_omar@moe.edu.sg](mailto:roslinda_omar@moe.edu.sg)<br>Nasrina Binte Mohamed Nasir (Mdm)[nasrina_mohamed_nasir@moe.edu.sg](mailto:nasrina_mohamed_nasir@moe.edu.sg|
+|1R|Chua Gek Tiang (Mdm) [chua\_gek\_tiang@moe.edu.sg](mailto:chua_gek_tiang@moe.edu.sg)<br>Roslinda Bte Omar (Mdm) [roslinda\_omar@moe.edu.sg](mailto:roslinda_omar@moe.edu.sg)<br>Nasrina Binte Mohamed Nasir (Mdm)[nasrina_mohamed_nasir@moe.edu.sg](mailto:nasrina_mohamed_nasir@moe.edu.sg)|
 
 ##### Primary 2 
 
