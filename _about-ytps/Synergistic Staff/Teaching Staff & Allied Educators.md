@@ -61,7 +61,7 @@ variant: markdown
 |5E|Sim Bee Keat (Mr) [sim\_bee\_keat@moe.edu.sg](mailto:sim_bee_keat@moe.edu.sg)<br>Tan Su Ting (Ms) [tan\_su\_ting@moe.edu.sg](mailto:tan_su_ting@moe.edu.sg)|
 |5I|Cheah Cheng Seong (Mr) [cheah_cheng_seong@moe.edu.sg](mailto:cheah_cheng_seong@moe.edu.sg)<br>Tan Sin Yee (Ms) [tan\_sin\_yee@moe.edu.sg](mailto:tan_sin_yee@moe.edu.sg)|
 |5P|Norliza Bte Ali Khan (Ms) [norliza\_ali\_khan@moe.edu.sg](mailto:norliza_ali_khan@moe.edu.sg)<br>Tan Hsuen Fang (Mdm) [tan\_hsuen\_fang@moe.edu.sg](mailto:tan_hsuen_fang@moe.edu.sg)<br>Winaseh Sumarni Bte Ahmad (Mdm) [winaseh\_sumarni\_ahmad@moe.edu.sg](mailto:winaseh_sumarni_ahmad@moe.edu.sg)|
-|5R|Quek Hui Hiang Pauline (Mdm)[quek_hui_hiang_pauline@schools.gov.sg](mailto:quek_hui_hiang_pauline@schools.gov.sg)<br>Tan Puay Puay (Mdm) [tan\_puay\_puay@moe.edu.sg](mailto:tan_puay_puay@moe.edu.sg)|
+|5R|Quek Hui Hiang Pauline (Mdm)[quek_hui_hiang_pauline@moe.edu.sg](mailto:quek_hui_hiang_pauline@schools.gov.sg)<br>Tan Puay Puay (Mdm) [tan\_puay\_puay@moe.edu.sg](mailto:tan_puay_puay@moe.edu.sg)|
 
 ##### Primary 6 
 
