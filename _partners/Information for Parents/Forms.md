@@ -12,7 +12,8 @@ variant: markdown
 * [MOE FAS Application Form](/files/2025/MOE_FAS_Application_Form_2025.pdf)
 * [Edusave Form for 2nd-Tier Miscellaneous Fee Payment](/files/Edusave_SO_Form_SPMM.pdf)
 * [Name Tag Order Form](https://drive.google.com/file/d/1qozJLvWqaUqyjsAQ0QSyJE4IDlA6joWj/view)
-* [Mobile Device Request Form](https://go.gov.sg/ytpsmobiledeviceform2025)
+* [Mobile Device Request Form](https://go.gov.sg/ytpsmobiledeviceform)
+* [Cycling Request Form](https://go.gov.sg/ytpscyclingrequestform)
 
 
 #### Forms For Prospective Parents
