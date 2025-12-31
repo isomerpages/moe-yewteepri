@@ -46,7 +46,7 @@ To view details of bus operator, bus fares and application form: <br>
 
 
 #### School Canteen
-click [here](/files/Yew_Tee_Pri_School_Canteen_Menu_Year_2024.pdf) for canteen menu.
+click [here](/files/2025/Yew_Tee_Pri_School_Canteen_Menu.pdf) for canteen menu.
 
 
 
