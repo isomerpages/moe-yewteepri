@@ -17,7 +17,7 @@ variant: markdown
 |Mdm Fadzilah M K<br>Year Head, P3/P4|[fadzilah_moideen_kutty@moe.edu.sg](mailto:fadzilah_moideen_kutty@moe.edu.sg)|
 |Mr Gwee Yee Tat <br>Year Head, P5/P6|[gwee_yee_tat@moe.edu.sg](mailto:gwee_yee_tat@moe.edu.sg) |
 |Mr Mohammad Najeeb<br> Assistant Year Head, P5|[mohamad_najeeb_abdul_majid@moe.edu.sg](mailto:mohamad_najeeb_abdul_majid@moe.edu.sg)|
-|Ms Athena Wee<br> HOD Character and Citizenship Education|[athena_wee@moe.edu.sg](mailto:athena_wee@moe.edu.sg)|
+|Ms Athena Wee<br> HOD Character and Citizenship Education|[wee_shu_yun_athena@moe.edu.sg](mailto:wee_shu_yun_athena@moe.edu.sg)|
 |Mdm Lekha<br> HOD English Language|[lekha_f@moe.edu.sg](mailto:lekha_f@moe.edu.sg)|
 |Mdm Quek Hui Hiang Pauline <br>HOD ICT|[quek_hui_hiang_pauline@moe.edu.sg](mailto:quek_hui_hiang_pauline@moe.edu.sg)|
 |Mdm Miriam Khan<br> HOD Mathematics|[khan_miriam_rehana@moe.edu.sg](mailto:khan_miriam_rehana@moe.edu.sg)|
