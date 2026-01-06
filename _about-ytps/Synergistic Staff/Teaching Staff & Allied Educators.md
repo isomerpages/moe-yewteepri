@@ -27,7 +27,7 @@ variant: markdown
 |2D|Chang Mei Cheng (Mdm) [chang\_mei\_cheng@moe.edu.sg](mailto:chang_mei_cheng@moe.edu.sg)<br>Nurul Aini Binte Ajmain (Mdm)[nurul_aini_ajmain@moe.edu.sg](mailto:nurul_aini_ajmain@moe.edu.sg)<br>Ng Su Hoon Angeline (Mrs) [ng\_su\_hoon\_angeline@moe.edu.sg](mailto:ng_su_hoon_angeline@moe.edu.sg)|
 |2E|Irma Bte Hassan (Mdm) [irma\_hassan@moe.edu.sg](mailto:irma_hassan@moe.edu.sg)<br>Zhao Jun (Mdm) [zhao\_jun\_a@moe.edu.sg](mailto:zhao_jun_a@moe.edu.sg)|
 |2F|Sum Wai Fun (Mdm) [sum\_wai\_fun@moe.edu.sg](mailto:sum_wai_fun@moe.edu.sg)<br>Tan Chai Hia (Mdm) [tan\_chai\_hia@moe.edu.sg](mailto:tan_chai_hia@moe.edu.sg)|
-|2I|Khairunnisa Binte Sazali (Mdm) [khairunnisa_sazali@moe.edu.sg](mailto:khairunnisa_sazali@moe.edu.sg)<br>Muhammad Nasrul Bin Roslin (Mr)[muhammad_nasrul_roslin@moe.edusg](mailto:muhammad_nasrul_roslin@moe.edusg)|
+|2I|Khairunnisa Binte Sazali (Mdm) [khairunnisa_sazali@moe.edu.sg](mailto:khairunnisa_sazali@moe.edu.sg)<br>Muhammad Nasrul Bin Roslin (Mr)[muhammad_nasrul_roslin@moe.edu.sg](mailto:muhammad_nasrul_roslin@moe.edu.sg)|
 |2P|Lai Yong Hui (Mr) [lai\_yong\_hui@moe.edu.sg](mailto:lai_yong_hui@moe.edu.sg)<br>Fong Yin Kuan-Mrs Ying (Mdm) [fong\_yin\_kuan@moe.edu.sg](mailto:fong_yin_kuan@moe.edu.sg)|
 |2R|Tan Yee Wee Elphia (Ms) [tan_yee_whee_elphia@moe.edu.sg](mailto:tan_yee_whee_elphia@moe.edu.sg)<br>Pek Pei Yu (Mdm) [pek\_pei\_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)<br>Jasmin Rosleena Jalal (Ms)|
 
