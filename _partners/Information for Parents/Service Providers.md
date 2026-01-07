@@ -11,8 +11,7 @@ variant: markdown
 **Pacific Bookstores Pte Ltd** <br>
 Address : Yew Tee Primary School, Bookshop <br>
 Telephone : 8482 9446 <br>
-Operating hours : Monday to Friday (8.30 a.m. to 2.30 p.m.) <br>
-Parents are encouraged to come in after 11:00 a.m. for book purchases.
+Operating hours : Monday to Friday (8.30 a.m. to 2.30 p.m.) <br>Parents are encouraged to come in from 11.00 a.m. to 12.00 p.m. /1.00 p.m. to 2.30 p.m. <br>Lunch time: 12.00 p.m. to 1.00 p.m.
 
 
 **Booklist 2026**
