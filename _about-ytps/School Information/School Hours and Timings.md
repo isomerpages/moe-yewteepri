@@ -34,7 +34,7 @@ If your child takes Foundation Math, he he/she would need to attend the followin
 | Level | Day | 
 | -------- | -------- |
 |Primary 5|Wednesday, 1.00 p.m. to 2.30 p.m.|
-|Primary 6|Wednesday, 12.30 p.m. to 1.30 p.m. |
+|Primary 6|Wednesday, 1.00 p.m. to 2.30 p.m.|
 
 #### Recess Time
 
