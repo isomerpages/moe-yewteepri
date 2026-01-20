@@ -26,7 +26,7 @@ description: ""
 <p>Hot Drink and Snack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 DEC 2025</p>
+<p>5 FEB 2025</p>
 </td>
 </tr>
 </tbody>
