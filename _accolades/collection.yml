@@ -2,7 +2,6 @@ collections:
   accolades:
     output: true
     order:
-      - CCA Achievements/CCLAS Awards 2022 (CCA).md
       - CCA Achievements/CCLAS Awards 2021 (CCA).md
       - CCA Achievements/.keep
       - School Based Achievements/STAR Awards 2025.md
