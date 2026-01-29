@@ -20,7 +20,7 @@ variant: markdown
 |Treasurer|Dr Divya Panicker|
 |Secretary|Dr Ong Duen Yang|
 |Asst Secretary|Ms Feng Jiamin Pamela|
-|EXCO Member|Ms Irene Chin|
+|EXCO Member|Ms Irene Thng|
 |EXCO Member|Ms Kanmani Karthik|
 |EXCO Member|Ms Teo Jia Min|
 |EXCO Member|Ms Helen Chia|
