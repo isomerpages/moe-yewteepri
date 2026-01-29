@@ -2,5 +2,6 @@ collections:
   achieve-page-and-others:
     output: true
     order:
+      - KNL Awards 2020.md
       - KNL Awards 2022.md
       - KNL Awards 2019.md
