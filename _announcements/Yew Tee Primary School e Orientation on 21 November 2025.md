@@ -1,6 +1,6 @@
 ---
 title: Yew Tee Primary School e Orientation on 21 November 2025
-permalink: /announcements/
+permalink: /yew-tee-primary-school-e-orientation/
 variant: tiptap
 description: ""
 ---

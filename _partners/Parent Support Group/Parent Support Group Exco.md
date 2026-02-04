@@ -12,15 +12,17 @@ variant: markdown
 |||
 | -------- | -------- | 
 |Chairperson|Mr Nicholas Ng Chieh Meng|
-|Vice Chairperson & Head of Communications (Upper Primary)|Ms Yue Siew Leng|
-|Vice Chairperson & Head of Communications (Lower Primary)|Mr Teng Chee Seng|
-|Asst Comms Team (Upper Primary)|Ms Jennifer Phee|
-|Asst Comms Team (Lower Primary)|Mr Alif|
-|Communication Head|Mr Mohit Agarwal|
-|Treasurer|Dr Divya Panicker|
+|Vice Chairperson|Mr Teng Chee Seng|
+|Vice Chairperson|Mdm Yue Siew Leng|
 |Secretary|Dr Ong Duen Yang|
-|Asst Secretary|Ms Feng Jiamin Pamela|
-|EXCO Member|Ms Irene Thng|
-|EXCO Member|Ms Kanmani Karthik|
-|EXCO Member|Ms Teo Jia Min|
-|EXCO Member|Ms Helen Chia|
+|Asst Secretary|Ms Pamela Feng Jiamin|
+|Treasurer|Dr Divya Panicker|
+|Communication Head|Mr Mohit Agarwal|
+|Asst Comms Team|Mr Muhammad Alif Bin Haron (Lower Primary)|
+|Asst Comms Team|Mdm Jennifer Phee May San(Upper Primary)|
+|PSG EXCO Committee|Mdm Teo Jiamin|
+|PSG EXCO Committee|Mdm Kanmani Karthik|
+|PSG EXCO Committee|Mdm Irene Thng|
+|PSG EXCO Committee|Mdm Helen Chia Sheau Li|
+|PSG EXCO Committee|Mr Ko Zhan Hong|
+|PSG EXCO Committee|Mr Lawrence Ching You Yi|
