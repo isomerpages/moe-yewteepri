@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Distinguished Chinese Language Teachers Awards 2026.md
       - INSPIRING TEACHER OF ENGLISH AWARD.md
       - ARIF BUDIMAN MALAY LANGUAGE TEACHER AWARD.md
       - MOST INSPIRING TAMIL TEACHER AWARD.md
