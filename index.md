@@ -91,14 +91,14 @@ sections:
       infoboxes:
         - title: Infobox
           description: <iframe frameborder="0"
-            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="840"
-            width="720"></iframe>
+            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="300"
+            width="300"></iframe>
         - title: Infobox
           description: <iframe frameborder="0"
-            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="840"
-            width="720"></iframe>
+            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="300"
+            width="300"></iframe>
         - title: Infobox
           description: <iframe frameborder="0"
-            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="840"
-            width="720"></iframe>
+            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="300"
+            width="300"></iframe>
 ---
