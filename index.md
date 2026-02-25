@@ -83,4 +83,22 @@ sections:
       description: You can follow MOE on Facebook, Instagram, TikTok and Twitter
       button: Click here
       url: /quicklinks/moesocialmedia/
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: <iframe frameborder="0"
+            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="840"
+            width="720"></iframe>
+        - title: Infobox
+          description: <iframe frameborder="0"
+            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="840"
+            width="720"></iframe>
+        - title: Infobox
+          description: <iframe frameborder="0"
+            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="840"
+            width="720"></iframe>
 ---
