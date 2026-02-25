@@ -13,13 +13,12 @@ Our SAC comprises members who have come forward to voluntarily serve at YTPS. Th
 | |  |  |
 | -------- | -------- | -------- |
 |Ms Yeo Keng Lee (SAC Chairperson)|||
-|Mr Alex Loh  |    |   |
-|Dr Freda Lim  |    |   |
-|Mdm Jenny Chen  |    |   |
 |Mr Trevor Xie Sheng Jie  |    |   |
-|Mdm Usharani Navaratnam |    |   |
 |Dr Vincent Ng Yew Poh |    |   |
-||||
+|Mr Alex Loh  |    |   |
+|Mdm Jenny Chen  |    |   |
+|Mdm Usharani Navaratnam |    |   |
+| |  |  |
 
 The SAC contributes their professional expertise and time to support school programmes by:<br>
 * helping to establish links with the community<br>
