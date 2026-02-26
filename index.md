@@ -90,9 +90,7 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: Facebook
-          description: <iframe frameborder="0"
-            src="https://www.facebook.com/theyewteeprimaryschool/" height="600"
-            width="500"></iframe>
+          description: '<div id="fb-root"></div> '
         - title: Instagram
           description: <iframe frameborder="0"
             src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
