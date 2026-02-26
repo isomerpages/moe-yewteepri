@@ -93,6 +93,9 @@ sections:
           description: <iframe frameborder="0"
             src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
             width="500"></iframe>
+        - title: Facebook
+          description: <iframe title="Description" style="border:none;" height="300"
+            width="500" src="Without_white_backgrd_1.png"></iframe>
   - infobar:
       title: Infobar
       subtitle: Add informational text
