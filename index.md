@@ -99,7 +99,7 @@ sections:
             width="400"></iframe>
         - title: Infobox
           description: <iframe frameborder="0"
-            src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
+            src="https://www.instagram.com/p/DUsFCISj2vc/embed/" height="600"
             width="400"></iframe>
   - infobar:
       title: Infobar
