@@ -94,8 +94,8 @@ sections:
             src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
             width="500"></iframe>
         - title: Facebook
-          description: <iframe title="Description" style="border:none;" height="300"
-            width="500" src="Without_white_backgrd_1.png"></iframe>
+          description: <iframe height="300" width="500"
+            src="https://www.yewteepri.moe.edu.sg/images/DSC03040.jpg""></iframe>
   - infobar:
       title: Infobar
       subtitle: Add informational text
