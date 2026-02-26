@@ -92,9 +92,9 @@ sections:
         - title: Facebook
           description: <iframe frameborder="0"
             src="https://www.facebook.com/theyewteeprimaryschool/embed/"
-            height="500" width="450"></iframe>
+            height="600" width="500"></iframe>
         - title: Instagram
           description: <iframe frameborder="0"
-            src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="500"
-            width="450"></iframe>
+            src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
+            width="500"></iframe>
 ---
