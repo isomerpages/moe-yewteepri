@@ -91,10 +91,10 @@ sections:
       infoboxes:
         - title: Facebook
           description: <iframe frameborder="0"
-            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="500"
-            width="450"></iframe>
+            src="https://www.facebook.com/theyewteeprimaryschool/embed/"
+            height="500" width="450"></iframe>
         - title: Instagram
           description: <iframe frameborder="0"
-            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="500"
+            src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="500"
             width="450"></iframe>
 ---
