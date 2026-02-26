@@ -90,7 +90,7 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: Facebook
-          description: '<div id="fb-root"></div> '
+          description: '<div id="f"></div> '
         - title: Instagram
           description: <iframe frameborder="0"
             src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
