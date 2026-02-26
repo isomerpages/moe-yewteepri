@@ -83,4 +83,18 @@ sections:
       description: You can follow MOE on Facebook, Instagram, TikTok and Twitter
       button: Click here
       url: /quicklinks/moesocialmedia/
+  - infocols:
+      title: Follow us on our social channels
+      subtitle: Connect | Cherish | Celebrate
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Facebook
+          description: <iframe frameborder="0"
+            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="500"
+            width="450"></iframe>
+        - title: Instagram
+          description: <iframe frameborder="0"
+            src="https://www.instagram.com/p/DS_-Ak7kQHq/embed/" height="500"
+            width="450"></iframe>
 ---
