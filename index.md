@@ -92,15 +92,15 @@ sections:
         - title: tittle
           description: <iframe frameborder="0"
             src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
-            width="350"></iframe>
+            width="360"></iframe>
         - title: tittle
           description: <iframe frameborder="0"
             src="https://www.instagram.com/p/DUwfaXaj4JP/embed/" height="600"
-            width="350"></iframe>
+            width="360"></iframe>
         - title: tittle
           description: <iframe frameborder="0"
             src="https://www.instagram.com/p/DUsFCISj2vc/embed/" height="600"
-            width="350"></iframe>
+            width="360"></iframe>
   - infobar:
       title: Infobar
       subtitle: Add informational text
