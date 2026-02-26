@@ -89,10 +89,18 @@ sections:
       id: infocols
       linktext: Learn more
       infoboxes:
-        - title: Facebook
-          description: ""
         - title: Instagram
           description: <iframe frameborder="0"
             src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
             width="500"></iframe>
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <iframe allow="autoplay; clipboard-write; encrypted-media;
+        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
+        scrolling="no" style="border:none;overflow:hidden" height="500"
+        width="500"
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftheyewteeprimaryschool%2F&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=182527558455785"></iframe>
+      button: Button Text
 ---
