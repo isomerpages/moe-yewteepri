@@ -92,10 +92,15 @@ sections:
         - title: Instagram
           description: <iframe frameborder="0"
             src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
-            width="500"></iframe>
+            width="450"></iframe>
         - title: Facebook
-          description: <iframe height="300" width="500"
-            src="https://www.yewteepri.moe.edu.sg/images/DSC03040.jpg""></iframe>
+          description: <iframe frameborder="0"
+            src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
+            width="450"></iframe>
+        - title: Infobox
+          description: <iframe frameborder="0"
+            src="https://www.instagram.com/p/DVAdJxMj6Ro/embed/" height="600"
+            width="450"></iframe>
   - infobar:
       title: Infobar
       subtitle: Add informational text
