@@ -31,8 +31,8 @@ variant: markdown
 |Mdm Shavitha Jamna Ramakrishnan<br> SH Mother Tongue / TL|[shavitha_jamna_ramakrishnan@moe.edu.sg](mailto:shavitha_jamna_ramakrishnan@moe.edu.sg)|
 |Ms Katherine Chai Kui Yi<br>SH NESS|[katherine_chai_kui_yi@moe.edu.sg](mailto:katherine_chai_kui_yi@moe.edu.sg)|
 |Ms Pek Peiyu <br>SH PE &amp; CCA|[pek_pei_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)|
-|Mdm Chua Lee Lin <br>SH Aesthetics|[Chua\_Lee\_Lin@moe.edu.sg](mailto:Chua_Lee_Lin@moe.edu.sg)|
-|Ms Melissa Choy Min Er<br> SH Character and Citizenship Education|[melissa\_choy\_min\_er@moe.edu.sg](mailto:melissa_choy_min_er@moe.edu.sg)|
 |Mdm Thor Zhi Ling Emmaline<br> SH Student Management|[thor\_zhi\_ling\_emmaline@moe.edu.sg](mailto:thor_zhi_ling_emmaline@moe.edu.sg)|
+|Ms Melissa Choy Min Er<br> SH Character and Citizenship Education|[melissa\_choy\_min\_er@moe.edu.sg](mailto:melissa_choy_min_er@moe.edu.sg)|
+|Mdm Chua Lee Lin <br>SH Aesthetics|[Chua\_Lee\_Lin@moe.edu.sg](mailto:Chua_Lee_Lin@moe.edu.sg)|
 |Mdm Khong Suet Cheng <br>Administration Manager|[khong_suet_cheng@moe.edu.sg](mailto:khong_suet_cheng@moe.edu.sg)|
 |Mr Sim Chee Beng<br> Operations Manager|[sim_chee_beng@moe.edu.sg](mailto:sim_chee_beng@moe.edu.sg)|
