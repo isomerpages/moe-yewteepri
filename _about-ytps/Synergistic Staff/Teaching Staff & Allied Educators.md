@@ -29,7 +29,7 @@ variant: markdown
 |2F|Sum Wai Fun (Mdm) [sum\_wai\_fun@moe.edu.sg](mailto:sum_wai_fun@moe.edu.sg)<br>Tan Chai Hia (Mdm) [tan\_chai\_hia@moe.edu.sg](mailto:tan_chai_hia@moe.edu.sg)|
 |2I|Khairunnisa Binte Sazali (Mdm) [khairunnisa_sazali@moe.edu.sg](mailto:khairunnisa_sazali@moe.edu.sg)<br>Muhammad Nasrul Bin Roslin (Mr)[muhammad_nasrul_roslin@moe.edu.sg](mailto:muhammad_nasrul_roslin@moe.edu.sg)|
 |2P|Lai Yong Hui (Mr) [lai\_yong\_hui@moe.edu.sg](mailto:lai_yong_hui@moe.edu.sg)<br>Fong Yin Kuan-Mrs Ying (Mdm) [fong\_yin\_kuan@moe.edu.sg](mailto:fong_yin_kuan@moe.edu.sg)|
-|2R|Tan Yee Wee Elphia (Ms) [tan_yee_whee_elphia@moe.edu.sg](mailto:tan_yee_whee_elphia@moe.edu.sg)<br>Pek Pei Yu (Mdm) [pek\_pei\_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)<br>Jasmin Rosleena Jalal (Ms)|
+|2R|Tan Yee Wee Elphia (Ms) [tan_yee_whee_elphia@moe.edu.sg](mailto:tan_yee_whee_elphia@moe.edu.sg)<br>Pek Pei Yu (Mdm) [pek\_pei\_yu@moe.edu.sg](mailto:pek_pei_yu@moe.edu.sg)<br>Jasmin Rosleena Jalal (Ms) [jasmin_rosleena_jalal_a@moe.edu.sg](mailto:jasmin_rosleena_jalal_a@moe.edu.sg)|
 
 ##### Primary 3 
 
@@ -80,4 +80,3 @@ variant: markdown
 |---|---|---|
 |Mdm Sarasvathy<br>Senior School Counsellor <br>[sarasvathy_govindasamy_annamalai@moe.edu.sg](mailto:sarasvathy_govindasamy_annamalai@moe.edu.sg) |||
 | Ms Lim Miao Jing<br> Lead Special Educational Needs Officer<br> [lim_miao_jing@moe.edu.sg](mailto:lim_miao_jing@moe.edu.sg) | Ms Siti Nur Afiqah Binte Abdol Manaf<br> Special Educational Needs Officer<br> [siti_nur_afiqah_abdol@moe.edu.sg](mailto:siti_nur_afiqah_abdol@moe.edu.sg) | Mdm Nurul Asyikin Azman<br>Special Educational Needs Officer<br>[nurul_asyikin_azman_a@moe.edu.sg](mailto:nurul_asyikin_azman_a@moe.edu.sg) |
-|Mdm Siti Nurliana Rosli <br>[siti_nurliana_rosli@moe.edu.sg](mailto:siti_nurliana_rosli@moe.edu.sg) |||
