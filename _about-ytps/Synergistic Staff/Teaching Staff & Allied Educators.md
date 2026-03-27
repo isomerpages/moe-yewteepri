@@ -80,4 +80,3 @@ variant: markdown
 |---|---|---|
 |Mdm Sarasvathy<br>Senior School Counsellor <br>[sarasvathy_govindasamy_annamalai@moe.edu.sg](mailto:sarasvathy_govindasamy_annamalai@moe.edu.sg) |||
 | Ms Lim Miao Jing<br> Lead Special Educational Needs Officer<br> [lim_miao_jing@moe.edu.sg](mailto:lim_miao_jing@moe.edu.sg) | Ms Siti Nur Afiqah Binte Abdol Manaf<br> Special Educational Needs Officer<br> [siti_nur_afiqah_abdol@moe.edu.sg](mailto:siti_nur_afiqah_abdol@moe.edu.sg) | Mdm Nurul Asyikin Azman<br>Special Educational Needs Officer<br>[nurul_asyikin_azman_a@moe.edu.sg](mailto:nurul_asyikin_azman_a@moe.edu.sg) |
-|Mdm Siti Nurliana Rosli <br>[siti_nurliana_rosli@moe.edu.sg](mailto:siti_nurliana_rosli@moe.edu.sg) |||
