@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -20,13 +22,19 @@ description: ""
 <p><strong>Closing Date</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Requirements</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hot Drink and Snack</p>
+<p>Japanese Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 FEB 2025</p>
+<p>13 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
 </td>
 </tr>
 </tbody>
@@ -34,9 +42,8 @@ description: ""
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the Application Form (click on the link below).
-You may also request for a hardcopy of the Application Form from the School’s
-General Office.</p>
+<p>Download and complete the application form. You may also request for a
+hardcopy from the School’s General Office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -45,21 +52,7 @@ General Office.</p>
 </p>
 </li>
 </ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Attached the following documents together with the Application Form:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>For Individuals</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
@@ -68,104 +61,110 @@ General Office.</p>
 <p>List of proposed menu and pricing for all items</p>
 </li>
 <li>
-<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>Submit the completed Application Form and documents via email OR to the
-School’s General Office by the closing date.</p>
+<p>3. Submit the completed application form and documents by closing date
+via email OR to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: &nbsp;&nbsp;10 Choa Chu Kang Street 64 Singapore 689100</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Address: 10 Choa Chu Kang Street 64 Singapore 689100</a>
+</p>
 </li>
 <li>
 <p>Contact No: 67670027</p>
 </li>
 <li>
-<p>Email: ytps@moe.edu.sg</p>
+<p>Email: <a href="mailto:ytps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ytps@moe.edu.sg</a>
+</p>
 </li>
 <li>
-<p>Contact Person:&nbsp;Mdm Karen Khong</p>
+<p>Contact Person: Mdm Karen Khong</p>
 </li>
 </ul>
-</li>
-</ol>
 <h4><strong>How to get there?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: &nbsp;Yew Tee MRT (NS5 line) – 5 minutes walking distance</p>
+<p>Nearest MRT: Yew Tee MRT (NS5 line) – 5 minutes walking distance</p>
 </li>
 <li>
-<p>Bus number: 307, 307A (Blk 634) / 302, 979 (Opp Yew Tee Stn)</p>
+<p>Bus number: 307, 307A (Blk 634)- 3 minutes walking distance</p>
 </li>
 </ul>
-<h4><strong>Interested applicants must meet the following criteria:</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>For Individuals</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+302, 979 (Opp Yew Tee Stn)</p>
+<h4><strong>Interest applicants must meet the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</a>
+</p>
 </li>
 <li>
-<p>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or
-LTVP-Plus holder with Letter of Consent to work.</p>
+<p>Able to provide good service and quality food with prices determined in
+consultation with the school.</p>
 </li>
 <li>
-<p>Able to provide good service and quality food/drinks at reasonable prices.
-Prices will be determined in consultation with the school.</p>
+<p>Able to provide food that meets the health / nutritional standards set
+by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
+Programme (HMSP)" guidelines (see [link](<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>)).</p>
 </li>
 <li>
-<p>Able to provide cooked food/drinks&nbsp; that meets the health / nutritional
-standards set by the Health Promotion Board (HPB) under the “Healthy Meals
-in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
-</li>
-<li>
-<p>Able to maintain high standard of food safety and personal hygiene. This
-includes complying with relevant authorities’ requirements and guidelines.</p>
+<p>Able to maintain high standard of food safety and personal hygiene.</p>
 </li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
 </li>
 <li>
-<p>Must be in personal attendance at the stall.</p>
+<p>Ableto maintain a high standard of food safety, personal hygiene and cleanliness
+of the canteen area.</p>
 </li>
 <li>
-<p>Preferably possess catering experience or experience operating in a school
-environment.</p>
+<p>Applicant must be in personal attendance at the stall during operating
+hours.</p>
+</li>
+<li>
+<p>Provide own cutleries, crockery, utensils, pedal bins and items as needed
+in the running of a stall.</p>
+</li>
+<li>
+<p>Applicant(s) and assistant(s) must possess the WSQ Basic Food Hygiene
+Certificate.</p>
+</li>
+<li>
+<p>Successful applicant will need to apply for a food stall license from
+Singapore Food Agency.</p>
+</li>
+<li>
+<p>Applicants with catering experience or experience operating in a school
+environment are preferred.</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Note to successful applicants:</strong></h4>
+<p><strong>Application Procedure:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) operating the stall must attend
-and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore
-approved training providers.</p>
+<p>Submit the following documents to Corporate Office or email to <a href="mailto:ytps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ytps@moe.edu.sg</a> by
+13 April 2026</p>
 </li>
 <li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA) to operate the stall.</p>
+<p>Completed application form</p>
+</li>
+<li>
+<p>Proposed menu and price list of all items to be sold</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates of applicant and stall assistant(s)
+such as Basic Food Hygiene Course certificate etc</p>
+</li>
+<li>
+<p>Photocopy of the NRIC (front &amp; back)&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Records of past catering or canteen experiences, if any</p>
+<p></p>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
+</p>
 </li>
 </ul>
-<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
-</p>
 <p></p>
