@@ -48,7 +48,7 @@ hardcopy from the School’s General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026/School_Site_School_Canteen_Service_Yew_Tee_Primary_School_for_30March2026.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+<p><a href="/files/2026/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application for Canteen Stall</a>
 </p>
 </li>
 </ul>
@@ -88,11 +88,10 @@ via email OR to the School's General Office.</p>
 <p>Nearest MRT: Yew Tee MRT (NS5 line) – 5 minutes walking distance</p>
 </li>
 <li>
-<p>Bus number: 307, 307A (Blk 634)- 3 minutes walking distance</p>
+<p>Bus number: 307, 307A (Blk 634)- 3 minutes walking distance/ 302, 979
+(Opp Yew Tee Stn)</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-302, 979 (Opp Yew Tee Stn)</p>
 <h4><strong>Interest applicants must meet the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
