@@ -48,7 +48,7 @@ hardcopy from the School’s General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder</a>
+<p><a href="/files/2026/School_Site_School_Canteen_Service_Yew_Tee_Primary_School_for_30March2026.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
@@ -69,8 +69,7 @@ etc</p>
 via email OR to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Address: 10 Choa Chu Kang Street 64 Singapore 689100</a>
-</p>
+<p>Address: 10 Choa Chu Kang Street 64 Singapore 689100</p>
 </li>
 <li>
 <p>Contact No: 67670027</p>
@@ -97,8 +96,8 @@ via email OR to the School's General Office.</p>
 <h4><strong>Interest applicants must meet the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</a>
-</p>
+<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
+and stall assistant.</p>
 </li>
 <li>
 <p>Able to provide good service and quality food with prices determined in
