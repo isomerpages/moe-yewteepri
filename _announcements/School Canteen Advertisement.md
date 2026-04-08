@@ -31,7 +31,7 @@ description: ""
 <p>Japanese Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 April 2026</p>
+<p>20 April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -143,7 +143,7 @@ environment are preferred.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Submit the following documents to Corporate Office or email to <a href="mailto:ytps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ytps@moe.edu.sg</a> by
-13 April 2026</p>
+20 April 2026</p>
 </li>
 <li>
 <p>Completed application form</p>
