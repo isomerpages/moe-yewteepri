@@ -2,6 +2,7 @@ collections:
   achieve-page-and-others:
     output: true
     order:
+      - School Canteen Advertisement.md
       - CCLAS Awards 2021 (CCA).md
       - CCLAS Awards 2022 (CCA).md
       - CCLAS Awards 2020 (CCA).md
